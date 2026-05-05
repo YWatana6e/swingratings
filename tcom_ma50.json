@@ -3,134 +3,88 @@
     "ticker": "TCOM",
     "name": "Trip.com Group Limited",
     "market": "NMS",
-    "price": 52.95,
-    "change": -1.0,
-    "changePercent": -1.85
+    "price": 52.4,
+    "change": -0.41,
+    "changePercent": -0.78
   },
   "score": {
-    "total": 0,
-    "stars": 0.0,
-    "note": "/ 100 (Win Rate: 40%)"
+    "total": 9,
+    "stars": 0.5,
+    "note": "/ 100 (Win Rate: 38%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 52.57,
-    "maDistance_pct": 0.73,
-    "bb2Confluence_pct": 9.19,
-    "bb3Confluence_pct": 13.14,
-    "maKnock_count": 0,
-    "expectedRsi": 50.67
+    "targetMA_price": 52.22,
+    "maDistance_pct": 0.35,
+    "bb2Confluence_pct": 2.61,
+    "bb3Confluence_pct": 4.87,
+    "maKnock_count": 1,
+    "expectedRsi": 47.9
   },
   "metrics": {
-    "maDistance": "+0.73%",
-    "bbConfluence": "9.19%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "50.67"
+    "maDistance": "+0.35%",
+    "bbConfluence": "2.61%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "47.9"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 54.35,
+        "touches": 2,
+        "strength_score": 1.6
+      },
+      {
+        "price": 52.91,
+        "touches": 2,
+        "strength_score": 1.478
+      },
+      {
         "price": 55.7,
         "touches": 1,
-        "strength_score": 0.955
-      },
-      {
-        "price": 54.24,
-        "touches": 1,
-        "strength_score": 0.683
-      },
-      {
-        "price": 71.9,
-        "touches": 2,
-        "strength_score": 0.596
+        "strength_score": 0.871
       },
       {
         "price": 56.64,
         "touches": 1,
-        "strength_score": 0.595
+        "strength_score": 0.542
       },
       {
         "price": 64.24,
         "touches": 1,
-        "strength_score": 0.5
+        "strength_score": 0.456
       },
       {
         "price": 78.99,
         "touches": 1,
-        "strength_score": 0.445
+        "strength_score": 0.406
       },
       {
         "price": 74.3,
         "touches": 1,
-        "strength_score": 0.383
+        "strength_score": 0.349
+      },
+      {
+        "price": 72.08,
+        "touches": 1,
+        "strength_score": 0.308
       },
       {
         "price": 75.52,
         "touches": 1,
-        "strength_score": 0.284
+        "strength_score": 0.259
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 53.95,
+        "count": 3
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $52.57. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $55.70. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $52.22. Based on historical price action, bounces from this level have yielded a win rate of 37.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $54.35 and a significant trendline confluence around $53.95 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-09-18",
-        "open": 76.91000366210938,
-        "high": 78.6500015258789,
-        "low": 76.91000366210938,
-        "close": 78.1500015258789
-      },
-      {
-        "time": "2025-09-19",
-        "open": 78.20999908447266,
-        "high": 78.55000305175781,
-        "low": 77.25,
-        "close": 78.5199966430664
-      },
-      {
-        "time": "2025-09-22",
-        "open": 77.12000274658203,
-        "high": 78.23999786376953,
-        "low": 77.12000274658203,
-        "close": 77.81999969482422
-      },
-      {
-        "time": "2025-09-23",
-        "open": 77.08999633789062,
-        "high": 77.5999984741211,
-        "low": 76.5999984741211,
-        "close": 76.70999908447266
-      },
-      {
-        "time": "2025-09-24",
-        "open": 77.58999633789062,
-        "high": 78.08000183105469,
-        "low": 76.51000213623047,
-        "close": 76.55000305175781
-      },
-      {
-        "time": "2025-09-25",
-        "open": 76.55000305175781,
-        "high": 76.55000305175781,
-        "low": 75.37000274658203,
-        "close": 75.70999908447266
-      },
-      {
-        "time": "2025-09-26",
-        "open": 75.0,
-        "high": 76.06999969482422,
-        "low": 74.80999755859375,
-        "close": 75.91999816894531
-      },
-      {
-        "time": "2025-09-29",
-        "open": 77.05000305175781,
-        "high": 77.83000183105469,
-        "low": 76.05999755859375,
-        "close": 76.13999938964844
-      },
       {
         "time": "2025-09-30",
         "open": 76.91000366210938,
@@ -1124,41 +1078,65 @@
         "high": 53.15999984741211,
         "low": 52.310001373291016,
         "close": 52.95000076293945
+      },
+      {
+        "time": "2026-04-24",
+        "open": 53.13999938964844,
+        "high": 53.13999938964844,
+        "low": 52.689998626708984,
+        "close": 53.11000061035156
+      },
+      {
+        "time": "2026-04-27",
+        "open": 52.54999923706055,
+        "high": 53.27000045776367,
+        "low": 52.11000061035156,
+        "close": 53.20000076293945
+      },
+      {
+        "time": "2026-04-28",
+        "open": 52.7599983215332,
+        "high": 53.22999954223633,
+        "low": 52.33000183105469,
+        "close": 52.34000015258789
+      },
+      {
+        "time": "2026-04-29",
+        "open": 52.790000915527344,
+        "high": 53.08000183105469,
+        "low": 52.189998626708984,
+        "close": 52.779998779296875
+      },
+      {
+        "time": "2026-04-30",
+        "open": 53.869998931884766,
+        "high": 54.41999816894531,
+        "low": 53.33000183105469,
+        "close": 54.209999084472656
+      },
+      {
+        "time": "2026-05-01",
+        "open": 54.459999084472656,
+        "high": 54.459999084472656,
+        "low": 53.97999954223633,
+        "close": 54.220001220703125
+      },
+      {
+        "time": "2026-05-04",
+        "open": 53.349998474121094,
+        "high": 53.43000030517578,
+        "low": 52.709999084472656,
+        "close": 52.810001373291016
+      },
+      {
+        "time": "2026-05-05",
+        "open": 52.439998626708984,
+        "high": 52.84000015258789,
+        "low": 52.290000915527344,
+        "close": 52.400001525878906
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-09-18",
-        "value": 66.06800018310547
-      },
-      {
-        "time": "2025-09-19",
-        "value": 66.4010001373291
-      },
-      {
-        "time": "2025-09-22",
-        "value": 66.71900016784667
-      },
-      {
-        "time": "2025-09-23",
-        "value": 67.0200001525879
-      },
-      {
-        "time": "2025-09-24",
-        "value": 67.2892002105713
-      },
-      {
-        "time": "2025-09-25",
-        "value": 67.5428002166748
-      },
-      {
-        "time": "2025-09-26",
-        "value": 67.81480018615723
-      },
-      {
-        "time": "2025-09-29",
-        "value": 68.06540016174317
-      },
       {
         "time": "2025-09-30",
         "value": 68.30200012207031
@@ -1726,41 +1704,41 @@
       {
         "time": "2026-04-23",
         "value": 52.56680000305176
+      },
+      {
+        "time": "2026-04-24",
+        "value": 52.470200042724606
+      },
+      {
+        "time": "2026-04-27",
+        "value": 52.445000076293944
+      },
+      {
+        "time": "2026-04-28",
+        "value": 52.40320007324219
+      },
+      {
+        "time": "2026-04-29",
+        "value": 52.33640007019043
+      },
+      {
+        "time": "2026-04-30",
+        "value": 52.28800003051758
+      },
+      {
+        "time": "2026-05-01",
+        "value": 52.265600051879886
+      },
+      {
+        "time": "2026-05-04",
+        "value": 52.23040008544922
+      },
+      {
+        "time": "2026-05-05",
+        "value": 52.21980010986328
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-09-18",
-        "value": 63.17952727843759
-      },
-      {
-        "time": "2025-09-19",
-        "value": 64.28796638659009
-      },
-      {
-        "time": "2025-09-22",
-        "value": 65.39220137542267
-      },
-      {
-        "time": "2025-09-23",
-        "value": 66.52897478072342
-      },
-      {
-        "time": "2025-09-24",
-        "value": 68.2440318564302
-      },
-      {
-        "time": "2025-09-25",
-        "value": 70.36890288518859
-      },
-      {
-        "time": "2025-09-26",
-        "value": 70.38482617108158
-      },
-      {
-        "time": "2025-09-29",
-        "value": 70.49422392368986
-      },
       {
         "time": "2025-09-30",
         "value": 70.94565519184322
@@ -2328,8 +2306,40 @@
       {
         "time": "2026-04-23",
         "value": 47.73405436892041
+      },
+      {
+        "time": "2026-04-24",
+        "value": 47.91931940985548
+      },
+      {
+        "time": "2026-04-27",
+        "value": 48.46481412550121
+      },
+      {
+        "time": "2026-04-28",
+        "value": 48.89831083559589
+      },
+      {
+        "time": "2026-04-29",
+        "value": 49.25989193083331
+      },
+      {
+        "time": "2026-04-30",
+        "value": 49.66835584258886
+      },
+      {
+        "time": "2026-05-01",
+        "value": 49.98654097182613
+      },
+      {
+        "time": "2026-05-04",
+        "value": 50.428589968349996
+      },
+      {
+        "time": "2026-05-05",
+        "value": 50.8586066317599
       }
     ],
-    "supportLine": 68.98
+    "supportLine": 51.85
   }
 }
