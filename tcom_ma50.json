@@ -3,109 +3,78 @@
     "ticker": "TCOM",
     "name": "Trip.com Group Limited",
     "market": "NMS",
-    "price": 52.4,
-    "change": -0.41,
-    "changePercent": -0.78
+    "price": 52.68,
+    "change": -0.69,
+    "changePercent": -1.29
   },
   "score": {
-    "total": 9,
-    "stars": 0.5,
-    "note": "/ 100 (Win Rate: 38%)"
+    "total": 20,
+    "stars": 1.0,
+    "note": "/ 100 (Win Rate: 35%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 52.22,
-    "maDistance_pct": 0.35,
-    "bb2Confluence_pct": 2.61,
-    "bb3Confluence_pct": 4.87,
-    "maKnock_count": 1,
-    "expectedRsi": 47.9
+    "targetMA_price": 52.24,
+    "maDistance_pct": 0.85,
+    "bb2Confluence_pct": 1.27,
+    "bb3Confluence_pct": 3.14,
+    "maKnock_count": 2,
+    "expectedRsi": 47.88
   },
   "metrics": {
-    "maDistance": "+0.35%",
-    "bbConfluence": "2.61%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "47.9"
+    "maDistance": "+0.85%",
+    "bbConfluence": "1.27%",
+    "maKnock": "2 times recently",
+    "expectedRsi": "47.88"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 54.35,
+        "price": 54.37,
         "touches": 2,
-        "strength_score": 1.6
+        "strength_score": 1.579
       },
       {
         "price": 52.91,
         "touches": 2,
-        "strength_score": 1.478
+        "strength_score": 1.428
       },
       {
         "price": 55.7,
         "touches": 1,
-        "strength_score": 0.871
+        "strength_score": 0.841
       },
       {
         "price": 56.64,
         "touches": 1,
-        "strength_score": 0.542
+        "strength_score": 0.524
       },
       {
         "price": 64.24,
         "touches": 1,
-        "strength_score": 0.456
+        "strength_score": 0.44
       },
       {
         "price": 78.99,
         "touches": 1,
-        "strength_score": 0.406
+        "strength_score": 0.392
       },
       {
         "price": 74.3,
         "touches": 1,
-        "strength_score": 0.349
+        "strength_score": 0.338
       },
       {
         "price": 72.08,
         "touches": 1,
-        "strength_score": 0.308
-      },
-      {
-        "price": 75.52,
-        "touches": 1,
-        "strength_score": 0.259
+        "strength_score": 0.297
       }
     ],
-    "trendline_clusters": [
-      {
-        "price": 53.95,
-        "count": 3
-      }
-    ]
+    "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $52.22. Based on historical price action, bounces from this level have yielded a win rate of 37.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $54.35 and a significant trendline confluence around $53.95 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $52.24. Based on historical price action, bounces from this level have yielded a win rate of 35.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $54.37. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-09-30",
-        "open": 76.91000366210938,
-        "high": 77.0,
-        "low": 75.08999633789062,
-        "close": 75.19999694824219
-      },
-      {
-        "time": "2025-10-01",
-        "open": 75.11000061035156,
-        "high": 75.68000030517578,
-        "low": 74.52999877929688,
-        "close": 74.94000244140625
-      },
-      {
-        "time": "2025-10-02",
-        "open": 75.0,
-        "high": 75.2300033569336,
-        "low": 74.16999816894531,
-        "close": 75.18000030517578
-      },
       {
         "time": "2025-10-03",
         "open": 73.97000122070312,
@@ -1134,21 +1103,30 @@
         "high": 52.84000015258789,
         "low": 52.290000915527344,
         "close": 52.400001525878906
+      },
+      {
+        "time": "2026-05-06",
+        "open": 52.79999923706055,
+        "high": 54.5,
+        "low": 52.400001525878906,
+        "close": 54.45000076293945
+      },
+      {
+        "time": "2026-05-07",
+        "open": 54.36000061035156,
+        "high": 54.4900016784668,
+        "low": 53.04999923706055,
+        "close": 53.369998931884766
+      },
+      {
+        "time": "2026-05-08",
+        "open": 53.369998931884766,
+        "high": 53.720001220703125,
+        "low": 52.63999938964844,
+        "close": 52.68000030517578
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-09-30",
-        "value": 68.30200012207031
-      },
-      {
-        "time": "2025-10-01",
-        "value": 68.53480018615723
-      },
-      {
-        "time": "2025-10-02",
-        "value": 68.74740013122559
-      },
       {
         "time": "2025-10-03",
         "value": 68.92300010681153
@@ -1736,21 +1714,21 @@
       {
         "time": "2026-05-05",
         "value": 52.21980010986328
+      },
+      {
+        "time": "2026-05-06",
+        "value": 52.233400115966795
+      },
+      {
+        "time": "2026-05-07",
+        "value": 52.22760009765625
+      },
+      {
+        "time": "2026-05-08",
+        "value": 52.23580009460449
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-09-30",
-        "value": 70.94565519184322
-      },
-      {
-        "time": "2025-10-01",
-        "value": 71.5256802310013
-      },
-      {
-        "time": "2025-10-02",
-        "value": 71.7837296052719
-      },
       {
         "time": "2025-10-03",
         "value": 71.87989473551141
@@ -2338,8 +2316,20 @@
       {
         "time": "2026-05-05",
         "value": 50.8586066317599
+      },
+      {
+        "time": "2026-05-06",
+        "value": 51.01601521698874
+      },
+      {
+        "time": "2026-05-07",
+        "value": 51.30752974091885
+      },
+      {
+        "time": "2026-05-08",
+        "value": 51.573246750193455
       }
     ],
-    "supportLine": 51.85
+    "supportLine": 51.99
   }
 }
