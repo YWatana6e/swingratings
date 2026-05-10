@@ -208,6 +208,19 @@
     "expected_rsi": 44.47
   },
   {
+    "ticker": "XEL",
+    "name": "Xcel Energy Inc.",
+    "price": 79.39,
+    "changePercent": -1.29,
+    "score": 48,
+    "stars": 2.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.73,
+    "bb_confluence": 0.46,
+    "expected_rsi": 43.38
+  },
+  {
     "ticker": "CHD",
     "name": "Church & Dwight Company, Inc.",
     "price": 93.44,
@@ -232,19 +245,6 @@
     "ma_distance": 3.18,
     "bb_confluence": 0.17,
     "expected_rsi": 43.15
-  },
-  {
-    "ticker": "XEL",
-    "name": "Xcel Energy Inc.",
-    "price": 79.39,
-    "changePercent": -1.29,
-    "score": 47,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.73,
-    "bb_confluence": 0.46,
-    "expected_rsi": 43.38
   },
   {
     "ticker": "DTE",
@@ -1170,6 +1170,19 @@
     "expected_rsi": 45.17
   },
   {
+    "ticker": "MO",
+    "name": "Altria Group, Inc.",
+    "price": 68.12,
+    "changePercent": -1.33,
+    "score": 7,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.19,
+    "bb_confluence": 7.76,
+    "expected_rsi": 47.04
+  },
+  {
     "ticker": "KEY",
     "name": "KeyCorp",
     "price": 21.6,
@@ -1233,19 +1246,6 @@
     "ma_distance": 4.71,
     "bb_confluence": 4.46,
     "expected_rsi": 48.52
-  },
-  {
-    "ticker": "MO",
-    "name": "Altria Group, Inc.",
-    "price": 68.12,
-    "changePercent": -1.33,
-    "score": 4,
-    "stars": 0.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.19,
-    "bb_confluence": 7.76,
-    "expected_rsi": 47.04
   },
   {
     "ticker": "MET",
