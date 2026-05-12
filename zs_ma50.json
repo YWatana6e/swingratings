@@ -3,104 +3,102 @@
     "ticker": "ZS",
     "name": "Zscaler, Inc.",
     "market": "NMS",
-    "price": 148.87,
-    "change": -3.26,
-    "changePercent": -2.14
+    "price": 146.17,
+    "change": -2.7,
+    "changePercent": -1.81
   },
   "score": {
-    "total": 24,
-    "stars": 1.0,
+    "total": 25,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 60%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 142.73,
-    "maDistance_pct": 4.3,
-    "bb2Confluence_pct": 13.36,
-    "bb3Confluence_pct": 18.38,
+    "targetMA_price": 142.69,
+    "maDistance_pct": 2.44,
+    "bb2Confluence_pct": 11.51,
+    "bb3Confluence_pct": 16.03,
     "maKnock_count": 0,
-    "expectedRsi": 52.4
+    "expectedRsi": 52.19
   },
   "metrics": {
-    "maDistance": "+4.30%",
-    "bbConfluence": "13.36%",
+    "maDistance": "+2.44%",
+    "bbConfluence": "11.51%",
     "maKnock": "0 times recently",
-    "expectedRsi": "52.4"
+    "expectedRsi": "52.19"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 166.94,
         "touches": 2,
-        "strength_score": 1.156
+        "strength_score": 1.143
       },
       {
         "price": 153.46,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 150.5,
         "touches": 1,
-        "strength_score": 0.767
+        "strength_score": 0.758
       },
       {
         "price": 161.9,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.652
       },
       {
         "price": 179.9,
         "touches": 1,
-        "strength_score": 0.506
+        "strength_score": 0.5
       },
       {
         "price": 229.0,
         "touches": 1,
-        "strength_score": 0.435
+        "strength_score": 0.43
       },
       {
         "price": 221.79,
         "touches": 1,
-        "strength_score": 0.397
+        "strength_score": 0.392
       },
       {
         "price": 231.48,
         "touches": 1,
-        "strength_score": 0.375
+        "strength_score": 0.37
       },
       {
         "price": 234.93,
         "touches": 1,
-        "strength_score": 0.334
+        "strength_score": 0.33
       },
       {
         "price": 249.64,
         "touches": 1,
-        "strength_score": 0.297
+        "strength_score": 0.294
+      },
+      {
+        "price": 298.48,
+        "touches": 1,
+        "strength_score": 0.259
       }
     ],
     "trendline_clusters": [
       {
-        "price": 150.74,
+        "price": 149.84,
         "count": 2
       },
       {
-        "price": 152.59,
+        "price": 152.31,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ZS is currently testing its Daily 50MA support zone near $142.73. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $166.94 and a significant trendline confluence around $150.74 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ZS is currently testing its Daily 50MA support zone near $142.69. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $166.94 and a significant trendline confluence around $149.84 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-06",
-        "open": 307.3999938964844,
-        "high": 311.0,
-        "low": 303.7699890136719,
-        "close": 305.239990234375
-      },
       {
         "time": "2025-10-07",
         "open": 305.489990234375,
@@ -1139,17 +1137,20 @@
       },
       {
         "time": "2026-05-11",
-        "open": 150.74070739746094,
+        "open": 150.72999572753906,
         "high": 153.4499969482422,
         "low": 147.66000366210938,
         "close": 148.8699951171875
+      },
+      {
+        "time": "2026-05-12",
+        "open": 149.35000610351562,
+        "high": 150.5850067138672,
+        "low": 145.67999267578125,
+        "close": 146.1699981689453
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-06",
-        "value": 282.74690002441406
-      },
       {
         "time": "2025-10-07",
         "value": 282.82109985351565
@@ -1745,13 +1746,13 @@
       {
         "time": "2026-05-11",
         "value": 142.73419998168944
+      },
+      {
+        "time": "2026-05-12",
+        "value": 142.68599990844726
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-06",
-        "value": 273.5125054791132
-      },
       {
         "time": "2025-10-07",
         "value": 274.53256779302245
@@ -2347,6 +2348,10 @@
       {
         "time": "2026-05-11",
         "value": 123.66106136639853
+      },
+      {
+        "time": "2026-05-12",
+        "value": 126.26886443249224
       }
     ],
     "supportLine": 127.9

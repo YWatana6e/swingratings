@@ -3,85 +3,78 @@
     "ticker": "BABA",
     "name": "Alibaba Group Holding Limited",
     "market": "NYQ",
-    "price": 137.3,
-    "change": -2.76,
-    "changePercent": -1.97
+    "price": 134.78,
+    "change": -2.52,
+    "changePercent": -1.84
   },
   "score": {
-    "total": 30,
+    "total": 31,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 56%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 131.64,
-    "maDistance_pct": 4.3,
-    "bb2Confluence_pct": 2.99,
-    "bb3Confluence_pct": 5.87,
+    "targetMA_price": 131.49,
+    "maDistance_pct": 2.5,
+    "bb2Confluence_pct": 2.58,
+    "bb3Confluence_pct": 5.39,
     "maKnock_count": 1,
-    "expectedRsi": 47.59
+    "expectedRsi": 47.17
   },
   "metrics": {
-    "maDistance": "+4.30%",
-    "bbConfluence": "2.99%",
+    "maDistance": "+2.50%",
+    "bbConfluence": "2.58%",
     "maKnock": "1 time recently",
-    "expectedRsi": "47.59"
+    "expectedRsi": "47.17"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 143.86,
         "touches": 2,
-        "strength_score": 1.808
+        "strength_score": 1.788
       },
       {
         "price": 139.19,
         "touches": 2,
-        "strength_score": 1.261
+        "strength_score": 1.246
       },
       {
         "price": 180.93,
         "touches": 2,
-        "strength_score": 0.866
+        "strength_score": 0.856
       },
       {
         "price": 167.31,
         "touches": 2,
-        "strength_score": 0.76
+        "strength_score": 0.751
       },
       {
         "price": 173.3,
         "touches": 1,
-        "strength_score": 0.401
+        "strength_score": 0.397
       },
       {
         "price": 156.65,
         "touches": 1,
-        "strength_score": 0.362
+        "strength_score": 0.358
       },
       {
         "price": 152.98,
         "touches": 1,
-        "strength_score": 0.345
+        "strength_score": 0.342
       },
       {
         "price": 160.74,
         "touches": 1,
-        "strength_score": 0.304
+        "strength_score": 0.301
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that BABA is currently testing its Daily 50MA support zone near $131.64. Based on historical price action, bounces from this level have yielded a win rate of 55.6%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $143.86. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BABA is currently testing its Daily 50MA support zone near $131.49. Based on historical price action, bounces from this level have yielded a win rate of 55.6%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $143.86. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-06",
-        "open": 186.5,
-        "high": 189.61000061035156,
-        "low": 186.30999755859375,
-        "close": 187.22000122070312
-      },
       {
         "time": "2025-10-07",
         "open": 187.40499877929688,
@@ -1124,13 +1117,16 @@
         "high": 138.85000610351562,
         "low": 136.22000122070312,
         "close": 137.3000030517578
+      },
+      {
+        "time": "2026-05-12",
+        "open": 136.49000549316406,
+        "high": 136.97000122070312,
+        "low": 133.82000732421875,
+        "close": 134.77999877929688
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-06",
-        "value": 141.70219955444335
-      },
       {
         "time": "2025-10-07",
         "value": 142.88579956054687
@@ -1726,13 +1722,13 @@
       {
         "time": "2026-05-11",
         "value": 131.642000579834
+      },
+      {
+        "time": "2026-05-12",
+        "value": 131.48640060424805
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-06",
-        "value": 142.39960952543166
-      },
       {
         "time": "2025-10-07",
         "value": 145.500560876729
@@ -2328,6 +2324,10 @@
       {
         "time": "2026-05-11",
         "value": 127.71004900465773
+      },
+      {
+        "time": "2026-05-12",
+        "value": 128.09502155118463
       }
     ],
     "supportLine": 147.35
