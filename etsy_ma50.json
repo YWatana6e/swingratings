@@ -3,65 +3,58 @@
     "ticker": "ETSY",
     "name": "Etsy, Inc.",
     "market": "NYQ",
-    "price": 57.51,
-    "change": -2.35,
-    "changePercent": -3.93
+    "price": 57.4,
+    "change": -0.11,
+    "changePercent": -0.19
   },
   "score": {
-    "total": 54,
-    "stars": 2.5,
+    "total": 57,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 56.96,
-    "maDistance_pct": 0.97,
-    "bb2Confluence_pct": 1.33,
-    "bb3Confluence_pct": 3.5,
+    "targetMA_price": 57.02,
+    "maDistance_pct": 0.67,
+    "bb2Confluence_pct": 1.0,
+    "bb3Confluence_pct": 3.92,
     "maKnock_count": 1,
-    "expectedRsi": 43.47
+    "expectedRsi": 43.63
   },
   "metrics": {
-    "maDistance": "+0.97%",
-    "bbConfluence": "1.33%",
+    "maDistance": "+0.67%",
+    "bbConfluence": "1.00%",
     "maKnock": "1 time recently",
-    "expectedRsi": "43.47"
+    "expectedRsi": "43.63"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 64.14,
         "touches": 3,
-        "strength_score": 1.183
+        "strength_score": 1.169
       },
       {
         "price": 58.37,
         "touches": 2,
-        "strength_score": 1.053
+        "strength_score": 1.041
       },
       {
         "price": 70.88,
         "touches": 1,
-        "strength_score": 0.901
+        "strength_score": 0.891
       },
       {
         "price": 66.68,
         "touches": 1,
-        "strength_score": 0.861
+        "strength_score": 0.851
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ETSY is currently testing its Daily 50MA support zone near $56.96. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $64.14. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ETSY is currently testing its Daily 50MA support zone near $57.02. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $64.14. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-07",
-        "open": 70.58000183105469,
-        "high": 71.51499938964844,
-        "low": 69.05000305175781,
-        "close": 71.44000244140625
-      },
       {
         "time": "2025-10-08",
         "open": 71.75,
@@ -1102,15 +1095,18 @@
         "time": "2026-05-12",
         "open": 59.630001068115234,
         "high": 59.8650016784668,
-        "low": 57.064998626708984,
+        "low": 57.060001373291016,
         "close": 57.5099983215332
+      },
+      {
+        "time": "2026-05-13",
+        "open": 57.0,
+        "high": 58.439998626708984,
+        "low": 56.290000915527344,
+        "close": 57.400001525878906
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-07",
-        "value": 61.58009963989258
-      },
       {
         "time": "2025-10-08",
         "value": 61.776899642944336
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-05-12",
         "value": 56.95819976806641
+      },
+      {
+        "time": "2026-05-13",
+        "value": 57.01699981689453
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-07",
-        "value": 54.52434528379255
-      },
       {
         "time": "2025-10-08",
         "value": 55.433333685238274
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-05-12",
         "value": 57.71531617618536
+      },
+      {
+        "time": "2026-05-13",
+        "value": 57.58549674681164
       }
     ],
     "supportLine": 51.66
