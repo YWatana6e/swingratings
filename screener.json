@@ -133,27 +133,14 @@
     "ticker": "CHD",
     "name": "Church & Dwight Company, Inc.",
     "price": 94.05,
-    "changePercent": -0.63,
+    "changePercent": -0.31,
     "score": 51,
     "stars": 2.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 3.08,
-    "bb_confluence": 0.19,
-    "expected_rsi": 42.58
-  },
-  {
-    "ticker": "FTV",
-    "name": "Fortive Corporation",
-    "price": 58.72,
-    "changePercent": -0.34,
-    "score": 51,
-    "stars": 2.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.07,
-    "bb_confluence": 0.95,
-    "expected_rsi": 42.94
+    "ma_distance": 3.42,
+    "bb_confluence": 0.21,
+    "expected_rsi": 42.53
   },
   {
     "ticker": "FTV",
@@ -208,17 +195,17 @@
     "expected_rsi": 49.9
   },
   {
-    "ticker": "IVZ",
-    "name": "Invesco Ltd",
-    "price": 27.12,
-    "changePercent": -2.2,
-    "score": 46,
+    "ticker": "FTV",
+    "name": "Fortive Corporation",
+    "price": 58.72,
+    "changePercent": -0.34,
+    "score": 47,
     "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.57,
-    "bb_confluence": 6.21,
-    "expected_rsi": 48.99
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.07,
+    "bb_confluence": 0.95,
+    "expected_rsi": 42.94
   },
   {
     "ticker": "TER",
@@ -286,6 +273,19 @@
     "expected_rsi": 39.8
   },
   {
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "price": 326.31,
+    "changePercent": -2.22,
+    "score": 42,
+    "stars": 2.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 1.53,
+    "bb_confluence": 0.58,
+    "expected_rsi": 38.15
+  },
+  {
     "ticker": "FRT",
     "name": "Federal Realty Investment Trust",
     "price": 113.16,
@@ -325,19 +325,6 @@
     "expected_rsi": 36.08
   },
   {
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "price": 326.31,
-    "changePercent": -2.95,
-    "score": 40,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 0.77,
-    "bb_confluence": 0.71,
-    "expected_rsi": 38.68
-  },
-  {
     "ticker": "BA",
     "name": "Boeing Company (The)",
     "price": 220.49,
@@ -367,14 +354,14 @@
     "ticker": "HON",
     "name": "Honeywell International Inc.",
     "price": 213.24,
-    "changePercent": -2.06,
-    "score": 38,
+    "changePercent": -1.52,
+    "score": 39,
     "stars": 2.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 1.47,
-    "bb_confluence": 1.91,
-    "expected_rsi": 40.1
+    "ma_distance": 2.03,
+    "bb_confluence": 1.86,
+    "expected_rsi": 40.0
   },
   {
     "ticker": "EQR",
@@ -533,6 +520,19 @@
     "expected_rsi": 43.98
   },
   {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "price": 561.72,
+    "changePercent": -1.04,
+    "score": 28,
+    "stars": 1.5,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 0.28,
+    "bb_confluence": 0.21,
+    "expected_rsi": 44.06
+  },
+  {
     "ticker": "APD",
     "name": "Air Products and Chemicals, Inc",
     "price": 295.38,
@@ -585,6 +585,19 @@
     "expected_rsi": 45.57
   },
   {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "price": 561.72,
+    "changePercent": -1.04,
+    "score": 26,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.08,
+    "bb_confluence": 0.01,
+    "expected_rsi": 44.74
+  },
+  {
     "ticker": "NWSA",
     "name": "News Corporation",
     "price": 25.92,
@@ -628,7 +641,7 @@
     "name": "Autoliv, Inc.",
     "price": 114.85,
     "changePercent": -4.8,
-    "score": 24,
+    "score": 23,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
@@ -780,6 +793,19 @@
     "expected_rsi": 44.32
   },
   {
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "price": 60.44,
+    "changePercent": -0.87,
+    "score": 16,
+    "stars": 1.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.91,
+    "bb_confluence": 3.97,
+    "expected_rsi": 42.69
+  },
+  {
     "ticker": "FOXA",
     "name": "Fox Corporation",
     "price": 64.85,
@@ -791,19 +817,6 @@
     "ma_distance": 3.16,
     "bb_confluence": 2.88,
     "expected_rsi": 49.35
-  },
-  {
-    "ticker": "MDLZ",
-    "name": "Mondelez International, Inc.",
-    "price": 60.44,
-    "changePercent": -0.87,
-    "score": 14,
-    "stars": 0.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.91,
-    "bb_confluence": 3.97,
-    "expected_rsi": 42.69
   },
   {
     "ticker": "UDR",
@@ -1030,14 +1043,14 @@
     "ticker": "LLY",
     "name": "Eli Lilly and Company",
     "price": 1004.92,
-    "changePercent": -0.18,
+    "changePercent": -0.0,
     "score": 0,
     "stars": 0.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 1.11,
-    "bb_confluence": 14.79,
-    "expected_rsi": 59.75
+    "ma_distance": 1.28,
+    "bb_confluence": 14.81,
+    "expected_rsi": 59.81
   },
   {
     "ticker": "KDP",
