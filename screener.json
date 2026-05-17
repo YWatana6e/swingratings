@@ -147,6 +147,19 @@
     "name": "Fortive Corporation",
     "price": 58.72,
     "changePercent": -0.34,
+    "score": 51,
+    "stars": 2.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.07,
+    "bb_confluence": 0.95,
+    "expected_rsi": 42.94
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive Corporation",
+    "price": 58.72,
+    "changePercent": -0.34,
     "score": 50,
     "stars": 2.5,
     "ma_label": "Daily 100MA",
@@ -193,19 +206,6 @@
     "ma_distance": 2.22,
     "bb_confluence": 3.16,
     "expected_rsi": 49.9
-  },
-  {
-    "ticker": "FTV",
-    "name": "Fortive Corporation",
-    "price": 58.72,
-    "changePercent": -0.34,
-    "score": 47,
-    "stars": 2.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.07,
-    "bb_confluence": 0.95,
-    "expected_rsi": 42.94
   },
   {
     "ticker": "TER",
@@ -530,7 +530,7 @@
     "ma_col": "ma200",
     "ma_distance": 0.28,
     "bb_confluence": 0.21,
-    "expected_rsi": 44.06
+    "expected_rsi": 44.07
   },
   {
     "ticker": "APD",
@@ -641,7 +641,7 @@
     "name": "Autoliv, Inc.",
     "price": 114.85,
     "changePercent": -4.8,
-    "score": 23,
+    "score": 24,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
