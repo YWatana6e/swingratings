@@ -3,9 +3,9 @@
     "ticker": "BIIB",
     "name": "Biogen Inc.",
     "market": "NMS",
-    "price": 190.56,
-    "change": -1.35,
-    "changePercent": -0.7
+    "price": 187.8,
+    "change": -2.76,
+    "changePercent": -1.45
   },
   "score": {
     "total": 39,
@@ -14,49 +14,47 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 184.38,
-    "maDistance_pct": 3.35,
-    "bb2Confluence_pct": 2.31,
-    "bb3Confluence_pct": 5.23,
+    "targetMA_price": 184.49,
+    "maDistance_pct": 1.79,
+    "bb2Confluence_pct": 2.48,
+    "bb3Confluence_pct": 5.41,
     "maKnock_count": 2,
-    "expectedRsi": 46.02
+    "expectedRsi": 46.0
   },
   "metrics": {
-    "maDistance": "+3.35%",
-    "bbConfluence": "2.31%",
+    "maDistance": "+1.79%",
+    "bbConfluence": "2.48%",
     "maKnock": "2 times recently",
-    "expectedRsi": "46.02"
+    "expectedRsi": "46.0"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 191.84,
         "touches": 5,
-        "strength_score": 2.936
+        "strength_score": 2.902
       },
       {
         "price": 199.35,
         "touches": 4,
-        "strength_score": 2.289
+        "strength_score": 2.263
       },
       {
         "price": 205.97,
         "touches": 1,
-        "strength_score": 0.955
+        "strength_score": 0.944
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 188.92,
+        "count": 3
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 100MA support zone near $184.38. Based on historical price action, bounces from this level have yielded a win rate of 83.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $191.84. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 100MA support zone near $184.49. Based on historical price action, bounces from this level have yielded a win rate of 83.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $191.84 and a significant trendline confluence around $188.92 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-14",
-        "open": 144.08999633789062,
-        "high": 146.8800048828125,
-        "low": 142.1999969482422,
-        "close": 145.30999755859375
-      },
       {
         "time": "2025-10-15",
         "open": 144.74000549316406,
@@ -1095,17 +1093,20 @@
       },
       {
         "time": "2026-05-19",
-        "open": 191.64500427246094,
+        "open": 191.72000122070312,
         "high": 193.02999877929688,
         "low": 188.63999938964844,
         "close": 190.55999755859375
+      },
+      {
+        "time": "2026-05-20",
+        "open": 191.41000366210938,
+        "high": 193.3800048828125,
+        "low": 186.3699951171875,
+        "close": 187.8000030517578
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-14",
-        "value": 135.26480018615723
-      },
       {
         "time": "2025-10-15",
         "value": 135.43840019226073
@@ -1701,13 +1702,13 @@
       {
         "time": "2026-05-19",
         "value": 184.37730010986328
+      },
+      {
+        "time": "2026-05-20",
+        "value": 184.49200012207032
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-14",
-        "value": 132.0943491849629
-      },
       {
         "time": "2025-10-15",
         "value": 132.0095095352417
@@ -2303,6 +2304,10 @@
       {
         "time": "2026-05-19",
         "value": 180.11670790548655
+      },
+      {
+        "time": "2026-05-20",
+        "value": 179.92388767444712
       }
     ],
     "supportLine": 169.85
