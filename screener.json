@@ -16,12 +16,12 @@
     "ticker": "HLT",
     "name": "Hilton Worldwide Holdings Inc.",
     "price": 321.08,
-    "changePercent": -0.52,
-    "score": 67,
+    "changePercent": -0.47,
+    "score": 66,
     "stars": 3.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 3.69,
+    "ma_distance": 3.74,
     "bb_confluence": 0.44,
     "expected_rsi": 43.94
   },
@@ -237,14 +237,14 @@
     "ticker": "HLT",
     "name": "Hilton Worldwide Holdings Inc.",
     "price": 321.08,
-    "changePercent": -0.52,
+    "changePercent": -0.47,
     "score": 9,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 1.77,
+    "ma_distance": 1.82,
     "bb_confluence": 2.28,
-    "expected_rsi": 48.97
+    "expected_rsi": 48.96
   },
   {
     "ticker": "CINF",
