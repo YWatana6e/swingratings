@@ -3,102 +3,75 @@
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "market": "NMS",
-    "price": 95.19,
-    "change": -0.12,
-    "changePercent": -0.13
+    "price": 97.1,
+    "change": -0.06,
+    "changePercent": -0.06
   },
   "score": {
-    "total": 68,
-    "stars": 3.5,
+    "total": 63,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 75%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 94.96,
-    "maDistance_pct": 0.25,
-    "bb2Confluence_pct": 1.03,
-    "bb3Confluence_pct": 2.76,
+    "targetMA_price": 95.44,
+    "maDistance_pct": 1.74,
+    "bb2Confluence_pct": 0.83,
+    "bb3Confluence_pct": 2.33,
     "maKnock_count": 0,
-    "expectedRsi": 46.13
+    "expectedRsi": 47.29
   },
   "metrics": {
-    "maDistance": "+0.25%",
-    "bbConfluence": "1.03%",
+    "maDistance": "+1.74%",
+    "bbConfluence": "0.83%",
     "maKnock": "0 times recently",
-    "expectedRsi": "46.13"
+    "expectedRsi": "47.29"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 103.38,
         "touches": 5,
-        "strength_score": 2.876
+        "strength_score": 2.715
       },
       {
-        "price": 108.56,
+        "price": 99.25,
         "touches": 3,
-        "strength_score": 1.095
+        "strength_score": 1.97
       },
       {
-        "price": 99.68,
+        "price": 109.03,
         "touches": 2,
-        "strength_score": 1.064
+        "strength_score": 0.792
       },
       {
         "price": 112.29,
         "touches": 1,
-        "strength_score": 0.354
+        "strength_score": 0.334
       }
     ],
     "trendline_clusters": [
       {
-        "price": 102.88,
-        "count": 10
+        "price": 102.86,
+        "count": 9
       },
       {
-        "price": 102.42,
-        "count": 4
+        "price": 98.21,
+        "count": 3
+      },
+      {
+        "price": 101.83,
+        "count": 3
+      },
+      {
+        "price": 97.93,
+        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 200MA support zone near $94.96. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $103.38 and a significant trendline confluence around $102.88 (formed by 10 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 200MA support zone near $95.44. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $103.38 and a significant trendline confluence around $102.86 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-13",
-        "open": 84.38999938964844,
-        "high": 85.1500015258789,
-        "low": 82.81999969482422,
-        "close": 84.7300033569336
-      },
-      {
-        "time": "2025-10-14",
-        "open": 84.37999725341797,
-        "high": 86.16000366210938,
-        "low": 83.45999908447266,
-        "close": 85.95999908447266
-      },
-      {
-        "time": "2025-10-15",
-        "open": 85.12999725341797,
-        "high": 88.48999786376953,
-        "low": 85.12999725341797,
-        "close": 88.1500015258789
-      },
-      {
-        "time": "2025-10-16",
-        "open": 88.87999725341797,
-        "high": 92.86000061035156,
-        "low": 87.12000274658203,
-        "close": 87.30999755859375
-      },
-      {
-        "time": "2025-10-17",
-        "open": 87.04000091552734,
-        "high": 88.54000091552734,
-        "low": 86.36000061035156,
-        "close": 87.56999969482422
-      },
       {
         "time": "2025-10-20",
         "open": 87.94999694824219,
@@ -1109,33 +1082,48 @@
       },
       {
         "time": "2026-05-18",
-        "open": 95.47000122070312,
+        "open": 95.4800033569336,
         "high": 96.5999984741211,
         "low": 94.62999725341797,
         "close": 95.19000244140625
+      },
+      {
+        "time": "2026-05-19",
+        "open": 95.19000244140625,
+        "high": 96.36000061035156,
+        "low": 94.0999984741211,
+        "close": 95.5999984741211
+      },
+      {
+        "time": "2026-05-20",
+        "open": 98.4000015258789,
+        "high": 98.4000015258789,
+        "low": 96.04000091552734,
+        "close": 97.08000183105469
+      },
+      {
+        "time": "2026-05-21",
+        "open": 95.9000015258789,
+        "high": 97.94000244140625,
+        "low": 95.1500015258789,
+        "close": 97.41000366210938
+      },
+      {
+        "time": "2026-05-22",
+        "open": 97.30000305175781,
+        "high": 98.20999908447266,
+        "low": 96.04000091552734,
+        "close": 97.16000366210938
+      },
+      {
+        "time": "2026-05-26",
+        "open": 97.3499984741211,
+        "high": 98.06999969482422,
+        "low": 96.64219665527344,
+        "close": 97.0999984741211
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-13",
-        "value": 71.44934997558593
-      },
-      {
-        "time": "2025-10-14",
-        "value": 71.52959995269775
-      },
-      {
-        "time": "2025-10-15",
-        "value": 71.62254997253417
-      },
-      {
-        "time": "2025-10-16",
-        "value": 71.71294994354248
-      },
-      {
-        "time": "2025-10-17",
-        "value": 71.80869995117187
-      },
       {
         "time": "2025-10-20",
         "value": 71.89419994354247
@@ -1715,29 +1703,29 @@
       {
         "time": "2026-05-18",
         "value": 94.95575000762939
+      },
+      {
+        "time": "2026-05-19",
+        "value": 95.05580001831055
+      },
+      {
+        "time": "2026-05-20",
+        "value": 95.15100002288818
+      },
+      {
+        "time": "2026-05-21",
+        "value": 95.24945003509521
+      },
+      {
+        "time": "2026-05-22",
+        "value": 95.34700004577637
+      },
+      {
+        "time": "2026-05-26",
+        "value": 95.44150005340576
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-13",
-        "value": 82.11061528106046
-      },
-      {
-        "time": "2025-10-14",
-        "value": 82.23514191170952
-      },
-      {
-        "time": "2025-10-15",
-        "value": 82.12517461222436
-      },
-      {
-        "time": "2025-10-16",
-        "value": 82.08348299738266
-      },
-      {
-        "time": "2025-10-17",
-        "value": 82.03209769777514
-      },
       {
         "time": "2025-10-20",
         "value": 82.10448010140558
@@ -2317,8 +2305,28 @@
       {
         "time": "2026-05-18",
         "value": 93.97417064417148
+      },
+      {
+        "time": "2026-05-19",
+        "value": 93.89340073201416
+      },
+      {
+        "time": "2026-05-20",
+        "value": 93.91690867240803
+      },
+      {
+        "time": "2026-05-21",
+        "value": 94.11418840267437
+      },
+      {
+        "time": "2026-05-22",
+        "value": 94.48129063751887
+      },
+      {
+        "time": "2026-05-26",
+        "value": 94.65247168183888
       }
     ],
-    "supportLine": 93.55
+    "supportLine": 93.48
   }
 }
