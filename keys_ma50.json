@@ -3,76 +3,53 @@
     "ticker": "KEYS",
     "name": "Keysight Technologies Inc.",
     "market": "NYQ",
-    "price": 337.55,
-    "change": -4.53,
-    "changePercent": -1.32
+    "price": 339.13,
+    "change": -8.52,
+    "changePercent": -2.45
   },
   "score": {
-    "total": 34,
+    "total": 28,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 36%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 322.85,
-    "maDistance_pct": 4.55,
-    "bb2Confluence_pct": 2.27,
-    "bb3Confluence_pct": 0.88,
+    "targetMA_price": 327.91,
+    "maDistance_pct": 3.42,
+    "bb2Confluence_pct": 2.09,
+    "bb3Confluence_pct": 0.58,
     "maKnock_count": 0,
-    "expectedRsi": 40.07
+    "expectedRsi": 42.98
   },
   "metrics": {
-    "maDistance": "+4.55%",
-    "bbConfluence": "2.27%",
+    "maDistance": "+3.42%",
+    "bbConfluence": "2.09%",
     "maKnock": "0 times recently",
-    "expectedRsi": "40.07"
+    "expectedRsi": "42.98"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 359.05,
+        "touches": 1,
+        "strength_score": 0.989
+      },
+      {
         "price": 370.17,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.871
       },
       {
         "price": 352.78,
         "touches": 1,
-        "strength_score": 0.803
+        "strength_score": 0.767
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that KEYS is currently testing its Daily 50MA support zone near $322.85. Based on historical price action, bounces from this level have yielded a win rate of 36.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $370.17. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that KEYS is currently testing its Daily 50MA support zone near $327.91. Based on historical price action, bounces from this level have yielded a win rate of 36.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $359.05. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-16",
-        "open": 165.97999572753906,
-        "high": 166.14999389648438,
-        "low": 161.5399932861328,
-        "close": 162.41000366210938
-      },
-      {
-        "time": "2025-10-17",
-        "open": 161.41000366210938,
-        "high": 163.0,
-        "low": 161.1649932861328,
-        "close": 162.19000244140625
-      },
-      {
-        "time": "2025-10-20",
-        "open": 163.77999877929688,
-        "high": 165.67999267578125,
-        "low": 163.27999877929688,
-        "close": 164.75
-      },
-      {
-        "time": "2025-10-21",
-        "open": 164.39999389648438,
-        "high": 168.60000610351562,
-        "low": 164.39999389648438,
-        "close": 167.33999633789062
-      },
       {
         "time": "2025-10-22",
         "open": 166.42999267578125,
@@ -1092,27 +1069,39 @@
         "time": "2026-05-21",
         "open": 344.44000244140625,
         "high": 344.9200134277344,
-        "low": 331.7538146972656,
+        "low": 331.7539978027344,
         "close": 337.54998779296875
+      },
+      {
+        "time": "2026-05-22",
+        "open": 342.8699951171875,
+        "high": 346.8500061035156,
+        "low": 334.5,
+        "close": 346.55999755859375
+      },
+      {
+        "time": "2026-05-26",
+        "open": 350.20001220703125,
+        "high": 355.739990234375,
+        "low": 344.82000732421875,
+        "close": 355.739990234375
+      },
+      {
+        "time": "2026-05-27",
+        "open": 357.9200134277344,
+        "high": 359.04998779296875,
+        "low": 342.8399963378906,
+        "close": 347.6499938964844
+      },
+      {
+        "time": "2026-05-28",
+        "open": 348.94000244140625,
+        "high": 348.94000244140625,
+        "low": 336.0,
+        "close": 339.1300048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-16",
-        "value": 168.52519989013672
-      },
-      {
-        "time": "2025-10-17",
-        "value": 168.54399993896484
-      },
-      {
-        "time": "2025-10-20",
-        "value": 168.5397998046875
-      },
-      {
-        "time": "2025-10-21",
-        "value": 168.65679962158202
-      },
       {
         "time": "2025-10-22",
         "value": 168.60879974365236
@@ -1696,25 +1685,25 @@
       {
         "time": "2026-05-21",
         "value": 322.8481964111328
+      },
+      {
+        "time": "2026-05-22",
+        "value": 324.12379638671877
+      },
+      {
+        "time": "2026-05-26",
+        "value": 325.6429962158203
+      },
+      {
+        "time": "2026-05-27",
+        "value": 326.8771960449219
+      },
+      {
+        "time": "2026-05-28",
+        "value": 327.91219604492187
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-16",
-        "value": 160.69641631089607
-      },
-      {
-        "time": "2025-10-17",
-        "value": 159.68914796436016
-      },
-      {
-        "time": "2025-10-20",
-        "value": 159.31585799183213
-      },
-      {
-        "time": "2025-10-21",
-        "value": 159.4238213002439
-      },
       {
         "time": "2025-10-22",
         "value": 159.03753860165196
@@ -1745,7 +1734,7 @@
       },
       {
         "time": "2025-10-31",
-        "value": 157.7613707395454
+        "value": 157.76137073954538
       },
       {
         "time": "2025-11-03",
@@ -1773,7 +1762,7 @@
       },
       {
         "time": "2025-11-11",
-        "value": 156.83486882556835
+        "value": 156.83486882556832
       },
       {
         "time": "2025-11-12",
@@ -1785,7 +1774,7 @@
       },
       {
         "time": "2025-11-14",
-        "value": 161.42089747380263
+        "value": 161.4208974738026
       },
       {
         "time": "2025-11-17",
@@ -1809,7 +1798,7 @@
       },
       {
         "time": "2025-11-24",
-        "value": 167.92531888727626
+        "value": 167.92531888727623
       },
       {
         "time": "2025-11-25",
@@ -1821,11 +1810,11 @@
       },
       {
         "time": "2025-11-28",
-        "value": 167.10382828893847
+        "value": 167.10382828893844
       },
       {
         "time": "2025-12-01",
-        "value": 166.38796521759133
+        "value": 166.3879652175913
       },
       {
         "time": "2025-12-02",
@@ -2298,6 +2287,22 @@
       {
         "time": "2026-05-21",
         "value": 330.18104975832097
+      },
+      {
+        "time": "2026-05-22",
+        "value": 330.14621275784157
+      },
+      {
+        "time": "2026-05-26",
+        "value": 331.3077523806228
+      },
+      {
+        "time": "2026-05-27",
+        "value": 333.96125680320404
+      },
+      {
+        "time": "2026-05-28",
+        "value": 334.75759851571325
       }
     ],
     "supportLine": 325.38
