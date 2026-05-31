@@ -95,7 +95,7 @@
     "name": "SLB Limited",
     "price": 54.55,
     "changePercent": -1.03,
-    "score": 60,
+    "score": 62,
     "stars": 3.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
@@ -1183,6 +1183,19 @@
     "expected_rsi": 47.04
   },
   {
+    "ticker": "ES",
+    "name": "Eversource Energy (D/B/A)",
+    "price": 68.27,
+    "changePercent": -1.19,
+    "score": 4,
+    "stars": 0.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 1.0,
+    "bb_confluence": 2.82,
+    "expected_rsi": 48.02
+  },
+  {
     "ticker": "DRI",
     "name": "Darden Restaurants, Inc.",
     "price": 203.91,
@@ -1233,19 +1246,6 @@
     "ma_distance": 0.25,
     "bb_confluence": 1.94,
     "expected_rsi": 50.66
-  },
-  {
-    "ticker": "ES",
-    "name": "Eversource Energy (D/B/A)",
-    "price": 68.27,
-    "changePercent": -1.19,
-    "score": 2,
-    "stars": 0.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 1.0,
-    "bb_confluence": 2.82,
-    "expected_rsi": 48.02
   },
   {
     "ticker": "CHD",
