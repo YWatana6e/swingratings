@@ -3,60 +3,53 @@
     "ticker": "KEYS",
     "name": "Keysight Technologies Inc.",
     "market": "NYQ",
-    "price": 338.33,
-    "change": -0.8,
-    "changePercent": -0.24
+    "price": 330.0,
+    "change": -8.33,
+    "changePercent": -2.46
   },
   "score": {
-    "total": 31,
-    "stars": 1.5,
+    "total": 37,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 36%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 329.0,
-    "maDistance_pct": 2.84,
-    "bb2Confluence_pct": 1.27,
-    "bb3Confluence_pct": 1.54,
+    "targetMA_price": 329.79,
+    "maDistance_pct": 0.06,
+    "bb2Confluence_pct": 0.0,
+    "bb3Confluence_pct": 3.15,
     "maKnock_count": 0,
-    "expectedRsi": 43.26
+    "expectedRsi": 44.05
   },
   "metrics": {
-    "maDistance": "+2.84%",
-    "bbConfluence": "1.27%",
+    "maDistance": "+0.06%",
+    "bbConfluence": "0.00%",
     "maKnock": "0 times recently",
-    "expectedRsi": "43.26"
+    "expectedRsi": "44.05"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 359.05,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 370.17,
         "touches": 1,
-        "strength_score": 0.861
+        "strength_score": 0.851
       },
       {
         "price": 352.78,
         "touches": 1,
-        "strength_score": 0.758
+        "strength_score": 0.749
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that KEYS is currently testing its Daily 50MA support zone near $329.0. Based on historical price action, bounces from this level have yielded a win rate of 36.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $359.05. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that KEYS is currently testing its Daily 50MA support zone near $329.79. Based on historical price action, bounces from this level have yielded a win rate of 36.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $359.05. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-23",
-        "open": 164.52999877929688,
-        "high": 168.7899932861328,
-        "low": 164.52999877929688,
-        "close": 168.3800048828125
-      },
       {
         "time": "2025-10-24",
         "open": 170.6699981689453,
@@ -1099,13 +1092,16 @@
         "high": 341.0,
         "low": 329.17999267578125,
         "close": 338.3299865722656
+      },
+      {
+        "time": "2026-06-01",
+        "open": 332.7300109863281,
+        "high": 334.94000244140625,
+        "low": 326.1099853515625,
+        "close": 330.0
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-23",
-        "value": 168.57199981689453
-      },
       {
         "time": "2025-10-24",
         "value": 168.6717999267578
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-05-29",
         "value": 328.99639587402345
+      },
+      {
+        "time": "2026-06-01",
+        "value": 329.79219604492187
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-23",
-        "value": 158.9744579109374
-      },
       {
         "time": "2025-10-24",
         "value": 159.01654407481945
@@ -1730,7 +1726,7 @@
       },
       {
         "time": "2025-10-31",
-        "value": 157.76137073954538
+        "value": 157.7613707395454
       },
       {
         "time": "2025-11-03",
@@ -1758,7 +1754,7 @@
       },
       {
         "time": "2025-11-11",
-        "value": 156.83486882556832
+        "value": 156.83486882556835
       },
       {
         "time": "2025-11-12",
@@ -1770,7 +1766,7 @@
       },
       {
         "time": "2025-11-14",
-        "value": 161.4208974738026
+        "value": 161.42089747380263
       },
       {
         "time": "2025-11-17",
@@ -1794,7 +1790,7 @@
       },
       {
         "time": "2025-11-24",
-        "value": 167.92531888727623
+        "value": 167.92531888727626
       },
       {
         "time": "2025-11-25",
@@ -1806,11 +1802,11 @@
       },
       {
         "time": "2025-11-28",
-        "value": 167.10382828893844
+        "value": 167.10382828893847
       },
       {
         "time": "2025-12-01",
-        "value": 166.3879652175913
+        "value": 166.38796521759133
       },
       {
         "time": "2025-12-02",
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-05-29",
         "value": 333.1706713854501
+      },
+      {
+        "time": "2026-06-01",
+        "value": 329.79018630241814
       }
     ],
     "supportLine": 325.38
