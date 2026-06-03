@@ -3,50 +3,53 @@
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
     "market": "NMS",
-    "price": 256.52,
-    "change": -4.74,
-    "changePercent": -1.81
+    "price": 250.02,
+    "change": -6.5,
+    "changePercent": -2.53
   },
   "score": {
-    "total": 34,
-    "stars": 1.5,
+    "total": 37,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 248.74,
-    "maDistance_pct": 3.13,
-    "bb2Confluence_pct": 3.67,
-    "bb3Confluence_pct": 1.72,
+    "targetMA_price": 249.54,
+    "maDistance_pct": 0.19,
+    "bb2Confluence_pct": 1.96,
+    "bb3Confluence_pct": 0.44,
     "maKnock_count": 0,
-    "expectedRsi": 39.85
+    "expectedRsi": 41.0
   },
   "metrics": {
-    "maDistance": "+3.13%",
-    "bbConfluence": "3.67%",
+    "maDistance": "+0.19%",
+    "bbConfluence": "1.96%",
     "maKnock": "0 times recently",
-    "expectedRsi": "39.85"
+    "expectedRsi": "41.0"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 276.65,
-        "touches": 2,
-        "strength_score": 1.78
+        "price": 274.75,
+        "touches": 1,
+        "strength_score": 0.966
+      },
+      {
+        "price": 278.56,
+        "touches": 1,
+        "strength_score": 0.794
+      },
+      {
+        "price": 256.18,
+        "touches": 1,
+        "strength_score": 0.691
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 50MA support zone near $248.74. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $276.65. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 50MA support zone near $249.54. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $274.75. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-27",
-        "open": 227.66000366210938,
-        "high": 228.39999389648438,
-        "low": 225.5399932861328,
-        "close": 226.97000122070312
-      },
       {
         "time": "2025-10-28",
         "open": 228.22000122070312,
@@ -1086,16 +1089,19 @@
       {
         "time": "2026-06-02",
         "open": 257.1600036621094,
-        "high": 261.2025146484375,
+        "high": 261.20001220703125,
         "low": 254.3699951171875,
         "close": 256.5199890136719
+      },
+      {
+        "time": "2026-06-03",
+        "open": 254.6999969482422,
+        "high": 257.0899963378906,
+        "low": 247.7100067138672,
+        "close": 250.02000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-27",
-        "value": 225.06359985351563
-      },
       {
         "time": "2025-10-28",
         "value": 225.01879974365235
@@ -1691,13 +1697,13 @@
       {
         "time": "2026-06-02",
         "value": 248.7426007080078
+      },
+      {
+        "time": "2026-06-03",
+        "value": 249.54020080566406
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-27",
-        "value": 212.23907586377757
-      },
       {
         "time": "2025-10-28",
         "value": 211.78454264152097
@@ -2293,6 +2299,10 @@
       {
         "time": "2026-06-02",
         "value": 257.87995296552583
+      },
+      {
+        "time": "2026-06-03",
+        "value": 254.4346730931961
       }
     ],
     "supportLine": 202.23
