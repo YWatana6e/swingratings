@@ -3,68 +3,69 @@
     "ticker": "LYV",
     "name": "Live Nation Entertainment, Inc.",
     "market": "NYQ",
-    "price": 164.25,
-    "change": -3.39,
-    "changePercent": -2.02
+    "price": 161.01,
+    "change": -3.24,
+    "changePercent": -1.97
   },
   "score": {
-    "total": 44,
-    "stars": 2.0,
+    "total": 48,
+    "stars": 2.5,
     "note": "/ 100 (Win Rate: 62%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 160.47,
-    "maDistance_pct": 2.35,
-    "bb2Confluence_pct": 1.09,
-    "bb3Confluence_pct": 0.24,
+    "targetMA_price": 160.64,
+    "maDistance_pct": 0.23,
+    "bb2Confluence_pct": 0.42,
+    "bb3Confluence_pct": 1.09,
     "maKnock_count": 1,
-    "expectedRsi": 45.41
+    "expectedRsi": 45.93
   },
   "metrics": {
-    "maDistance": "+2.35%",
-    "bbConfluence": "1.09%",
+    "maDistance": "+0.23%",
+    "bbConfluence": "0.42%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.41"
+    "expectedRsi": "45.93"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 169.83,
         "touches": 6,
-        "strength_score": 4.248
+        "strength_score": 4.2
       },
       {
         "price": 164.33,
         "touches": 1,
-        "strength_score": 0.467
+        "strength_score": 0.461
       }
     ],
     "trendline_clusters": [
       {
-        "price": 164.32,
+        "price": 163.82,
+        "count": 5
+      },
+      {
+        "price": 164.49,
         "count": 3
       },
       {
-        "price": 167.3,
+        "price": 167.49,
         "count": 3
       },
       {
-        "price": 165.59,
+        "price": 162.98,
+        "count": 2
+      },
+      {
+        "price": 165.76,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 50MA support zone near $160.47. Based on historical price action, bounces from this level have yielded a win rate of 61.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $169.83 and a significant trendline confluence around $164.32 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 50MA support zone near $160.64. Based on historical price action, bounces from this level have yielded a win rate of 61.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $169.83 and a significant trendline confluence around $163.82 (formed by 5 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-28",
-        "open": 153.25,
-        "high": 153.25999450683594,
-        "low": 150.5800018310547,
-        "close": 151.07000732421875
-      },
       {
         "time": "2025-10-29",
         "open": 150.25999450683594,
@@ -1104,16 +1105,19 @@
       {
         "time": "2026-06-03",
         "open": 166.7899932861328,
-        "high": 167.7698974609375,
-        "low": 163.31500244140625,
+        "high": 167.77000427246094,
+        "low": 163.30999755859375,
         "close": 164.25
+      },
+      {
+        "time": "2026-06-04",
+        "open": 165.75,
+        "high": 165.75,
+        "low": 159.80499267578125,
+        "close": 161.00999450683594
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-28",
-        "value": 161.36079986572267
-      },
       {
         "time": "2025-10-29",
         "value": 161.0866000366211
@@ -1709,13 +1713,13 @@
       {
         "time": "2026-06-03",
         "value": 160.47320037841797
+      },
+      {
+        "time": "2026-06-04",
+        "value": 160.63940032958985
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-28",
-        "value": 149.91803014138725
-      },
       {
         "time": "2025-10-29",
         "value": 149.3764114204366
@@ -2311,6 +2315,10 @@
       {
         "time": "2026-06-03",
         "value": 162.22542347379468
+      },
+      {
+        "time": "2026-06-04",
+        "value": 161.311695715193
       }
     ],
     "supportLine": 153.36

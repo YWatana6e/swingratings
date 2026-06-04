@@ -3,9 +3,9 @@
     "ticker": "PLTR",
     "name": "Palantir Technologies Inc.",
     "market": "NMS",
-    "price": 142.2,
-    "change": -9.97,
-    "changePercent": -6.55
+    "price": 141.7,
+    "change": -0.5,
+    "changePercent": -0.35
   },
   "score": {
     "total": 41,
@@ -14,91 +14,84 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 141.55,
-    "maDistance_pct": 0.46,
-    "bb2Confluence_pct": 12.76,
-    "bb3Confluence_pct": 18.33,
+    "targetMA_price": 141.29,
+    "maDistance_pct": 0.29,
+    "bb2Confluence_pct": 12.2,
+    "bb3Confluence_pct": 17.72,
     "maKnock_count": 1,
-    "expectedRsi": 50.57
+    "expectedRsi": 50.38
   },
   "metrics": {
-    "maDistance": "+0.46%",
-    "bbConfluence": "12.76%",
+    "maDistance": "+0.29%",
+    "bbConfluence": "12.20%",
     "maKnock": "1 time recently",
-    "expectedRsi": "50.57"
+    "expectedRsi": "50.38"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 163.16,
         "touches": 4,
-        "strength_score": 2.423
+        "strength_score": 2.395
       },
       {
         "price": 156.51,
         "touches": 2,
-        "strength_score": 1.173
+        "strength_score": 1.16
       },
       {
         "price": 149.64,
         "touches": 1,
-        "strength_score": 0.785
+        "strength_score": 0.776
       },
       {
         "price": 152.68,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.707
       },
       {
         "price": 172.0,
         "touches": 1,
-        "strength_score": 0.354
+        "strength_score": 0.349
       },
       {
         "price": 182.43,
         "touches": 1,
-        "strength_score": 0.338
+        "strength_score": 0.334
       },
       {
         "price": 187.28,
         "touches": 1,
-        "strength_score": 0.311
+        "strength_score": 0.308
       },
       {
         "price": 198.88,
         "touches": 1,
-        "strength_score": 0.277
+        "strength_score": 0.274
       }
     ],
     "trendline_clusters": [
       {
-        "price": 143.16,
+        "price": 142.86,
         "count": 4
       },
       {
-        "price": 142.51,
+        "price": 142.19,
         "count": 3
       },
       {
-        "price": 144.09,
+        "price": 143.82,
         "count": 3
       },
       {
-        "price": 145.79,
+        "price": 145.56,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that PLTR is currently testing its Daily 50MA support zone near $141.55. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $163.16 and a significant trendline confluence around $143.16 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that PLTR is currently testing its Daily 50MA support zone near $141.29. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $163.16 and a significant trendline confluence around $142.86 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-28",
-        "open": 189.47999572753906,
-        "high": 191.77999877929688,
-        "low": 186.77999877929688,
-        "close": 189.60000610351562
-      },
       {
         "time": "2025-10-29",
         "open": 191.0800018310547,
@@ -1141,13 +1134,16 @@
         "high": 151.67999267578125,
         "low": 141.25,
         "close": 142.1999969482422
+      },
+      {
+        "time": "2026-06-04",
+        "open": 145.6300048828125,
+        "high": 146.3699951171875,
+        "low": 140.27200317382812,
+        "close": 141.6999969482422
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-28",
-        "value": 172.31259979248046
-      },
       {
         "time": "2025-10-29",
         "value": 173.13379974365233
@@ -1743,13 +1739,13 @@
       {
         "time": "2026-06-03",
         "value": 141.54969940185546
+      },
+      {
+        "time": "2026-06-04",
+        "value": 141.2880993652344
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-28",
-        "value": 172.4569576046242
-      },
       {
         "time": "2025-10-29",
         "value": 170.39023592358956
@@ -2345,6 +2341,10 @@
       {
         "time": "2026-06-03",
         "value": 123.48701577063429
+      },
+      {
+        "time": "2026-06-04",
+        "value": 124.05504444134799
       }
     ],
     "supportLine": 127.42
