@@ -250,14 +250,14 @@
     "ticker": "TT",
     "name": "Trane Technologies plc",
     "price": 456.84,
-    "changePercent": -1.49,
+    "changePercent": -1.27,
     "score": 36,
     "stars": 2.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 2.52,
-    "bb_confluence": 0.95,
-    "expected_rsi": 43.35
+    "ma_distance": 2.75,
+    "bb_confluence": 0.94,
+    "expected_rsi": 43.31
   },
   {
     "ticker": "DD",
@@ -329,7 +329,7 @@
     "name": "Amphenol Corporation",
     "price": 138.81,
     "changePercent": -5.42,
-    "score": 21,
+    "score": 19,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
