@@ -3,9 +3,9 @@
     "ticker": "IT",
     "name": "Gartner, Inc.",
     "market": "NYQ",
-    "price": 157.4,
-    "change": -2.95,
-    "changePercent": -1.84
+    "price": 154.91,
+    "change": -2.49,
+    "changePercent": -1.58
   },
   "score": {
     "total": 14,
@@ -14,78 +14,71 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 154.96,
-    "maDistance_pct": 1.58,
-    "bb2Confluence_pct": 8.66,
-    "bb3Confluence_pct": 14.17,
+    "targetMA_price": 154.87,
+    "maDistance_pct": 0.02,
+    "bb2Confluence_pct": 8.48,
+    "bb3Confluence_pct": 13.96,
     "maKnock_count": 1,
-    "expectedRsi": 47.09
+    "expectedRsi": 47.17
   },
   "metrics": {
-    "maDistance": "+1.58%",
-    "bbConfluence": "8.66%",
+    "maDistance": "+0.02%",
+    "bbConfluence": "8.48%",
     "maKnock": "1 time recently",
-    "expectedRsi": "47.09"
+    "expectedRsi": "47.17"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 162.73,
         "touches": 6,
-        "strength_score": 3.697
+        "strength_score": 3.655
       },
       {
         "price": 180.45,
         "touches": 1,
-        "strength_score": 0.933
-      },
-      {
-        "price": 256.27,
-        "touches": 2,
-        "strength_score": 0.54
+        "strength_score": 0.922
       },
       {
         "price": 167.77,
         "touches": 1,
-        "strength_score": 0.5
+        "strength_score": 0.494
       },
       {
         "price": 172.23,
         "touches": 1,
-        "strength_score": 0.467
+        "strength_score": 0.461
       },
       {
         "price": 239.25,
         "touches": 1,
-        "strength_score": 0.338
+        "strength_score": 0.334
       },
       {
         "price": 252.63,
         "touches": 1,
-        "strength_score": 0.304
+        "strength_score": 0.301
+      },
+      {
+        "price": 255.64,
+        "touches": 1,
+        "strength_score": 0.281
       }
     ],
     "trendline_clusters": [
       {
-        "price": 159.57,
+        "price": 159.51,
         "count": 4
       },
       {
-        "price": 160.26,
+        "price": 160.23,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that IT is currently testing its Daily 50MA support zone near $154.96. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $162.73 and a significant trendline confluence around $159.57 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IT is currently testing its Daily 50MA support zone near $154.87. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $162.73 and a significant trendline confluence around $159.51 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-03",
-        "open": 248.69000244140625,
-        "high": 248.69000244140625,
-        "low": 241.8000030517578,
-        "close": 245.9199981689453
-      },
       {
         "time": "2025-11-04",
         "open": 252.3699951171875,
@@ -1126,15 +1119,18 @@
         "time": "2026-06-09",
         "open": 157.6300048828125,
         "high": 160.94000244140625,
-        "low": 155.60499572753906,
+        "low": 155.61000061035156,
         "close": 157.39999389648438
+      },
+      {
+        "time": "2026-06-10",
+        "open": 154.99000549316406,
+        "high": 159.02000427246094,
+        "low": 152.8699951171875,
+        "close": 154.91000366210938
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-03",
-        "value": 249.2704006958008
-      },
       {
         "time": "2025-11-04",
         "value": 248.98440063476562
@@ -1730,13 +1726,13 @@
       {
         "time": "2026-06-09",
         "value": 154.95879943847658
+      },
+      {
+        "time": "2026-06-10",
+        "value": 154.87419952392577
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-03",
-        "value": 233.92704565154182
-      },
       {
         "time": "2025-11-04",
         "value": 230.47416791061997
@@ -2332,6 +2328,10 @@
       {
         "time": "2026-06-09",
         "value": 141.53851664467854
+      },
+      {
+        "time": "2026-06-10",
+        "value": 141.74444004358557
       }
     ],
     "supportLine": 142.37

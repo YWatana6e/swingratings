@@ -3,79 +3,58 @@
     "ticker": "SNPS",
     "name": "Synopsys, Inc.",
     "market": "NMS",
-    "price": 464.85,
-    "change": -29.63,
-    "changePercent": -5.99
+    "price": 460.54,
+    "change": -4.73,
+    "changePercent": -1.02
   },
   "score": {
-    "total": 66,
-    "stars": 3.5,
-    "note": "/ 100 (Win Rate: 86%)"
+    "total": 76,
+    "stars": 4.0,
+    "note": "/ 100 (Win Rate: 88%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 458.31,
-    "maDistance_pct": 1.43,
-    "bb2Confluence_pct": 2.47,
-    "bb3Confluence_pct": 1.19,
-    "maKnock_count": 0,
-    "expectedRsi": 40.4
+    "targetMA_price": 457.05,
+    "maDistance_pct": 0.76,
+    "bb2Confluence_pct": 0.39,
+    "bb3Confluence_pct": 4.82,
+    "maKnock_count": 1,
+    "expectedRsi": 40.92
   },
   "metrics": {
-    "maDistance": "+1.43%",
-    "bbConfluence": "2.47%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "40.4"
+    "maDistance": "+0.76%",
+    "bbConfluence": "0.39%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "40.92"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 520.33,
         "touches": 3,
-        "strength_score": 1.508
+        "strength_score": 1.456
       },
       {
         "price": 537.34,
         "touches": 2,
-        "strength_score": 1.227
+        "strength_score": 1.185
       },
       {
         "price": 502.28,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.691
       },
       {
         "price": 483.91,
         "touches": 1,
-        "strength_score": 0.271
+        "strength_score": 0.262
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $458.31. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $520.33. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $457.05. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $520.33. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-30",
-        "open": 450.0,
-        "high": 452.7699890136719,
-        "low": 438.54998779296875,
-        "close": 442.92999267578125
-      },
-      {
-        "time": "2025-10-31",
-        "open": 445.29998779296875,
-        "high": 456.239990234375,
-        "low": 442.69000244140625,
-        "close": 453.82000732421875
-      },
-      {
-        "time": "2025-11-03",
-        "open": 451.8399963378906,
-        "high": 452.510009765625,
-        "low": 437.57000732421875,
-        "close": 445.7200012207031
-      },
       {
         "time": "2025-11-04",
         "open": 435.0,
@@ -1104,21 +1083,30 @@
         "high": 488.95001220703125,
         "low": 458.5299987792969,
         "close": 464.8500061035156
+      },
+      {
+        "time": "2026-06-08",
+        "open": 467.2799987792969,
+        "high": 478.510009765625,
+        "low": 463.3800048828125,
+        "close": 473.4800109863281
+      },
+      {
+        "time": "2026-06-09",
+        "open": 475.80999755859375,
+        "high": 487.54998779296875,
+        "low": 451.0,
+        "close": 465.2699890136719
+      },
+      {
+        "time": "2026-06-10",
+        "open": 455.0,
+        "high": 472.4375,
+        "low": 453.2799987792969,
+        "close": 460.5400085449219
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-30",
-        "value": 531.2588009643555
-      },
-      {
-        "time": "2025-10-31",
-        "value": 530.7530010986328
-      },
-      {
-        "time": "2025-11-03",
-        "value": 530.2029010009766
-      },
       {
         "time": "2025-11-04",
         "value": 529.416501159668
@@ -1706,21 +1694,21 @@
       {
         "time": "2026-06-05",
         "value": 458.3119027709961
+      },
+      {
+        "time": "2026-06-08",
+        "value": 457.9287030029297
+      },
+      {
+        "time": "2026-06-09",
+        "value": 457.5280029296875
+      },
+      {
+        "time": "2026-06-10",
+        "value": 457.05150299072267
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-30",
-        "value": 427.85844405265806
-      },
-      {
-        "time": "2025-10-31",
-        "value": 427.483508060327
-      },
-      {
-        "time": "2025-11-03",
-        "value": 427.08500998275946
-      },
       {
         "time": "2025-11-04",
         "value": 421.13245523096094
@@ -2308,6 +2296,18 @@
       {
         "time": "2026-06-05",
         "value": 469.616978853822
+      },
+      {
+        "time": "2026-06-08",
+        "value": 465.7011992368856
+      },
+      {
+        "time": "2026-06-09",
+        "value": 460.65581034959496
+      },
+      {
+        "time": "2026-06-10",
+        "value": 455.26994218030603
       }
     ],
     "supportLine": 470.96
