@@ -3,69 +3,53 @@
     "ticker": "EW",
     "name": "Edwards Lifesciences Corporatio",
     "market": "NYQ",
-    "price": 85.85,
-    "change": -0.11,
-    "changePercent": -0.13
+    "price": 85.76,
+    "change": -0.22,
+    "changePercent": -0.26
   },
   "score": {
-    "total": 5,
+    "total": 6,
     "stars": 0.5,
     "note": "/ 100 (Win Rate: 31%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 82.3,
-    "maDistance_pct": 4.32,
-    "bb2Confluence_pct": 4.87,
-    "bb3Confluence_pct": 8.49,
+    "targetMA_price": 82.7,
+    "maDistance_pct": 3.7,
+    "bb2Confluence_pct": 2.07,
+    "bb3Confluence_pct": 4.68,
     "maKnock_count": 2,
-    "expectedRsi": 45.61
+    "expectedRsi": 45.57
   },
   "metrics": {
-    "maDistance": "+4.32%",
-    "bbConfluence": "4.87%",
+    "maDistance": "+3.70%",
+    "bbConfluence": "2.07%",
     "maKnock": "2 times recently",
-    "expectedRsi": "45.61"
+    "expectedRsi": "45.57"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 86.57,
         "touches": 7,
-        "strength_score": 2.88
+        "strength_score": 2.782
       },
       {
         "price": 89.31,
         "touches": 2,
-        "strength_score": 1.932
+        "strength_score": 1.867
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 85.94,
+        "count": 2
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $82.3. Based on historical price action, bounces from this level have yielded a win rate of 30.8%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $86.57. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $82.7. Based on historical price action, bounces from this level have yielded a win rate of 30.8%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $86.57 and a significant trendline confluence around $85.94 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-10-31",
-        "open": 84.4800033569336,
-        "high": 87.08999633789062,
-        "low": 81.48999786376953,
-        "close": 82.44999694824219
-      },
-      {
-        "time": "2025-11-03",
-        "open": 83.41000366210938,
-        "high": 83.76000213623047,
-        "low": 80.23999786376953,
-        "close": 83.06999969482422
-      },
-      {
-        "time": "2025-11-04",
-        "open": 83.05000305175781,
-        "high": 84.83000183105469,
-        "low": 82.88999938964844,
-        "close": 84.1500015258789
-      },
       {
         "time": "2025-11-05",
         "open": 84.05000305175781,
@@ -1094,21 +1078,30 @@
         "high": 86.7300033569336,
         "low": 84.69999694824219,
         "close": 85.8499984741211
+      },
+      {
+        "time": "2026-06-09",
+        "open": 86.2699966430664,
+        "high": 87.93000030517578,
+        "low": 85.97000122070312,
+        "close": 87.54000091552734
+      },
+      {
+        "time": "2026-06-10",
+        "open": 86.58999633789062,
+        "high": 87.22000122070312,
+        "low": 85.0999984741211,
+        "close": 85.9800033569336
+      },
+      {
+        "time": "2026-06-11",
+        "open": 86.05000305175781,
+        "high": 87.08000183105469,
+        "low": 85.55999755859375,
+        "close": 85.76000213623047
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-10-31",
-        "value": 77.56139999389649
-      },
-      {
-        "time": "2025-11-03",
-        "value": 77.58619995117188
-      },
-      {
-        "time": "2025-11-04",
-        "value": 77.65199996948242
-      },
       {
         "time": "2025-11-05",
         "value": 77.6833999633789
@@ -1696,21 +1689,21 @@
       {
         "time": "2026-06-08",
         "value": 82.2954002380371
+      },
+      {
+        "time": "2026-06-09",
+        "value": 82.45940032958984
+      },
+      {
+        "time": "2026-06-10",
+        "value": 82.58900039672852
+      },
+      {
+        "time": "2026-06-11",
+        "value": 82.70260040283203
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-10-31",
-        "value": 69.99412732044372
-      },
-      {
-        "time": "2025-11-03",
-        "value": 69.80775122046758
-      },
-      {
-        "time": "2025-11-04",
-        "value": 69.58457665562908
-      },
       {
         "time": "2025-11-05",
         "value": 69.66604491783716
@@ -2298,6 +2291,18 @@
       {
         "time": "2026-06-08",
         "value": 78.28964683930828
+      },
+      {
+        "time": "2026-06-09",
+        "value": 79.61281483276503
+      },
+      {
+        "time": "2026-06-10",
+        "value": 80.45480510657067
+      },
+      {
+        "time": "2026-06-11",
+        "value": 80.98970683576769
       }
     ],
     "supportLine": 80.57
