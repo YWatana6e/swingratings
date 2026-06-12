@@ -3,70 +3,63 @@
     "ticker": "TEAM",
     "name": "Atlassian Corporation",
     "market": "NMS",
-    "price": 89.2,
-    "change": -2.34,
-    "changePercent": -2.56
+    "price": 88.52,
+    "change": -0.68,
+    "changePercent": -0.76
   },
   "score": {
-    "total": 27,
-    "stars": 1.5,
+    "total": 19,
+    "stars": 1.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 85.06,
-    "maDistance_pct": 4.86,
-    "bb2Confluence_pct": 11.82,
-    "bb3Confluence_pct": 22.83,
+    "targetMA_price": 84.77,
+    "maDistance_pct": 4.43,
+    "bb2Confluence_pct": 10.15,
+    "bb3Confluence_pct": 20.75,
     "maKnock_count": 1,
-    "expectedRsi": 44.38
+    "expectedRsi": 43.93
   },
   "metrics": {
-    "maDistance": "+4.86%",
-    "bbConfluence": "11.82%",
+    "maDistance": "+4.43%",
+    "bbConfluence": "10.15%",
     "maKnock": "1 time recently",
-    "expectedRsi": "44.38"
+    "expectedRsi": "43.93"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 119.38,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.901
       },
       {
         "price": 94.5,
         "touches": 1,
-        "strength_score": 0.831
+        "strength_score": 0.822
+      },
+      {
+        "price": 164.87,
+        "touches": 3,
+        "strength_score": 0.811
       },
       {
         "price": 96.32,
         "touches": 1,
-        "strength_score": 0.732
-      },
-      {
-        "price": 164.3,
-        "touches": 2,
-        "strength_score": 0.562
+        "strength_score": 0.724
       },
       {
         "price": 140.68,
         "touches": 1,
-        "strength_score": 0.338
+        "strength_score": 0.334
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that TEAM is currently testing its Daily 100MA support zone near $85.06. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $119.38. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TEAM is currently testing its Daily 100MA support zone near $84.77. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $119.38. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-05",
-        "open": 167.60000610351562,
-        "high": 168.97999572753906,
-        "low": 160.00999450683594,
-        "close": 161.4600067138672
-      },
       {
         "time": "2025-11-06",
         "open": 159.5500030517578,
@@ -1106,16 +1099,19 @@
       {
         "time": "2026-06-11",
         "open": 88.9520034790039,
-        "high": 91.61000061035156,
+        "high": 91.62000274658203,
         "low": 86.51000213623047,
         "close": 89.19999694824219
+      },
+      {
+        "time": "2026-06-12",
+        "open": 89.55000305175781,
+        "high": 90.0,
+        "low": 84.76000213623047,
+        "close": 88.5199966430664
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-05",
-        "value": 176.53510009765625
-      },
       {
         "time": "2025-11-06",
         "value": 176.0932000732422
@@ -1711,13 +1707,13 @@
       {
         "time": "2026-06-11",
         "value": 85.06195022583007
+      },
+      {
+        "time": "2026-06-12",
+        "value": 84.7665502166748
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-05",
-        "value": 143.17459884541483
-      },
       {
         "time": "2025-11-06",
         "value": 144.42243452073555
@@ -2313,6 +2309,10 @@
       {
         "time": "2026-06-11",
         "value": 75.0086376501168
+      },
+      {
+        "time": "2026-06-12",
+        "value": 76.16355855203555
       }
     ],
     "supportLine": 64.75
