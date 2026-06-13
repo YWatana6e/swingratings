@@ -29,14 +29,14 @@
     "ticker": "AMT",
     "name": "American Tower Corporation (REI",
     "price": 187.18,
-    "changePercent": -1.13,
+    "changePercent": -0.18,
     "score": 45,
     "stars": 2.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 3.78,
-    "bb_confluence": 2.85,
-    "expected_rsi": 45.53
+    "ma_distance": 4.76,
+    "bb_confluence": 2.84,
+    "expected_rsi": 45.39
   },
   {
     "ticker": "EW",
@@ -55,14 +55,14 @@
     "ticker": "AMT",
     "name": "American Tower Corporation (REI",
     "price": 187.18,
-    "changePercent": -1.13,
+    "changePercent": -0.18,
     "score": 36,
     "stars": 2.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 3.99,
-    "bb_confluence": 2.65,
-    "expected_rsi": 45.08
+    "ma_distance": 4.97,
+    "bb_confluence": 2.64,
+    "expected_rsi": 44.95
   },
   {
     "ticker": "EW",
@@ -146,14 +146,14 @@
     "ticker": "AMT",
     "name": "American Tower Corporation (REI",
     "price": 187.18,
-    "changePercent": -1.13,
+    "changePercent": -0.18,
     "score": 18,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 3.49,
-    "bb_confluence": 3.11,
-    "expected_rsi": 46.13
+    "ma_distance": 4.46,
+    "bb_confluence": 3.12,
+    "expected_rsi": 46.02
   },
   {
     "ticker": "EW",
