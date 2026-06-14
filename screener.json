@@ -13,19 +13,6 @@
     "expected_rsi": 42.67
   },
   {
-    "ticker": "MDLZ",
-    "name": "Mondelez International, Inc.",
-    "price": 62.99,
-    "changePercent": -0.58,
-    "score": 45,
-    "stars": 2.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.58,
-    "bb_confluence": 0.31,
-    "expected_rsi": 45.68
-  },
-  {
     "ticker": "AMT",
     "name": "American Tower Corporation (REI",
     "price": 187.18,
@@ -37,6 +24,19 @@
     "ma_distance": 4.76,
     "bb_confluence": 2.84,
     "expected_rsi": 45.39
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "price": 62.99,
+    "changePercent": -0.58,
+    "score": 39,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 4.58,
+    "bb_confluence": 0.31,
+    "expected_rsi": 45.68
   },
   {
     "ticker": "EW",
