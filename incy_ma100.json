@@ -3,9 +3,9 @@
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "market": "NMS",
-    "price": 99.75,
-    "change": -2.23,
-    "changePercent": -2.19
+    "price": 98.99,
+    "change": -0.76,
+    "changePercent": -0.76
   },
   "score": {
     "total": 13,
@@ -14,49 +14,47 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 98.0,
-    "maDistance_pct": 1.79,
-    "bb2Confluence_pct": 6.76,
-    "bb3Confluence_pct": 10.97,
+    "targetMA_price": 97.97,
+    "maDistance_pct": 1.04,
+    "bb2Confluence_pct": 6.35,
+    "bb3Confluence_pct": 10.47,
     "maKnock_count": 2,
-    "expectedRsi": 47.69
+    "expectedRsi": 47.62
   },
   "metrics": {
-    "maDistance": "+1.79%",
-    "bbConfluence": "6.76%",
+    "maDistance": "+1.04%",
+    "bbConfluence": "6.35%",
     "maKnock": "2 times recently",
-    "expectedRsi": "47.69"
+    "expectedRsi": "47.62"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 99.06,
+        "touches": 3,
+        "strength_score": 2.245
+      },
+      {
         "price": 103.26,
         "touches": 3,
-        "strength_score": 1.816
+        "strength_score": 1.795
       },
       {
         "price": 109.47,
         "touches": 3,
-        "strength_score": 1.621
+        "strength_score": 1.602
       },
       {
         "price": 112.29,
         "touches": 1,
-        "strength_score": 0.281
+        "strength_score": 0.277
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 100MA support zone near $98.0. Based on historical price action, bounces from this level have yielded a win rate of 44.4%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $103.26. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 100MA support zone near $97.97. Based on historical price action, bounces from this level have yielded a win rate of 44.4%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.06. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-10",
-        "open": 107.37999725341797,
-        "high": 108.80999755859375,
-        "low": 104.05999755859375,
-        "close": 105.9800033569336
-      },
       {
         "time": "2025-11-11",
         "open": 106.0,
@@ -1095,17 +1093,20 @@
       },
       {
         "time": "2026-06-16",
-        "open": 102.7699966430664,
-        "high": 103.32499694824219,
-        "low": 99.53500366210938,
+        "open": 102.75,
+        "high": 103.33000183105469,
+        "low": 99.54000091552734,
         "close": 99.75
+      },
+      {
+        "time": "2026-06-17",
+        "open": 99.81999969482422,
+        "high": 101.01499938964844,
+        "low": 98.26000213623047,
+        "close": 98.98999786376953
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-10",
-        "value": 81.90669990539551
-      },
       {
         "time": "2025-11-11",
         "value": 82.30369995117188
@@ -1701,13 +1702,13 @@
       {
         "time": "2026-06-16",
         "value": 97.99830001831054
+      },
+      {
+        "time": "2026-06-17",
+        "value": 97.96830001831054
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-10",
-        "value": 79.37550442654884
-      },
       {
         "time": "2025-11-11",
         "value": 79.73433781613625
@@ -2303,6 +2304,10 @@
       {
         "time": "2026-06-16",
         "value": 91.3740041024386
+      },
+      {
+        "time": "2026-06-17",
+        "value": 91.74499540131171
       }
     ],
     "supportLine": 91.59

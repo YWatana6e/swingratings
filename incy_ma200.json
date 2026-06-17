@@ -3,9 +3,9 @@
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "market": "NMS",
-    "price": 99.75,
-    "change": -2.23,
-    "changePercent": -2.19
+    "price": 98.99,
+    "change": -0.76,
+    "changePercent": -0.76
   },
   "score": {
     "total": 52,
@@ -14,49 +14,47 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 96.67,
-    "maDistance_pct": 3.19,
-    "bb2Confluence_pct": 5.47,
-    "bb3Confluence_pct": 9.75,
+    "targetMA_price": 96.74,
+    "maDistance_pct": 2.33,
+    "bb2Confluence_pct": 5.16,
+    "bb3Confluence_pct": 9.33,
     "maKnock_count": 0,
-    "expectedRsi": 45.44
+    "expectedRsi": 45.37
   },
   "metrics": {
-    "maDistance": "+3.19%",
-    "bbConfluence": "5.47%",
+    "maDistance": "+2.33%",
+    "bbConfluence": "5.16%",
     "maKnock": "0 times recently",
-    "expectedRsi": "45.44"
+    "expectedRsi": "45.37"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 99.06,
+        "touches": 3,
+        "strength_score": 2.245
+      },
+      {
         "price": 103.26,
         "touches": 3,
-        "strength_score": 1.816
+        "strength_score": 1.795
       },
       {
         "price": 109.47,
         "touches": 3,
-        "strength_score": 1.621
+        "strength_score": 1.602
       },
       {
         "price": 112.29,
         "touches": 1,
-        "strength_score": 0.281
+        "strength_score": 0.277
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 200MA support zone near $96.67. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $103.26. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 200MA support zone near $96.74. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.06. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-10",
-        "open": 107.37999725341797,
-        "high": 108.80999755859375,
-        "low": 104.05999755859375,
-        "close": 105.9800033569336
-      },
       {
         "time": "2025-11-11",
         "open": 106.0,
@@ -1095,17 +1093,20 @@
       },
       {
         "time": "2026-06-16",
-        "open": 102.7699966430664,
-        "high": 103.32499694824219,
-        "low": 99.53500366210938,
+        "open": 102.75,
+        "high": 103.33000183105469,
+        "low": 99.54000091552734,
         "close": 99.75
+      },
+      {
+        "time": "2026-06-17",
+        "open": 99.81999969482422,
+        "high": 101.01499938964844,
+        "low": 98.26000213623047,
+        "close": 98.98999786376953
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-10",
-        "value": 73.71514991760255
-      },
       {
         "time": "2025-11-11",
         "value": 73.89274993896484
@@ -1701,13 +1702,13 @@
       {
         "time": "2026-06-16",
         "value": 96.66545005798339
+      },
+      {
+        "time": "2026-06-17",
+        "value": 96.73735004425049
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-10",
-        "value": 79.37550442654884
-      },
       {
         "time": "2025-11-11",
         "value": 79.73433781613625
@@ -2303,6 +2304,10 @@
       {
         "time": "2026-06-16",
         "value": 91.3740041024386
+      },
+      {
+        "time": "2026-06-17",
+        "value": 91.74499540131171
       }
     ],
     "supportLine": 91.59
