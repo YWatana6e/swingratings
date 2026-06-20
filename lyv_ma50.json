@@ -3,50 +3,43 @@
     "ticker": "LYV",
     "name": "Live Nation Entertainment, Inc.",
     "market": "NYQ",
-    "price": 171.52,
-    "change": -2.58,
-    "changePercent": -1.48
+    "price": 171.24,
+    "change": -0.28,
+    "changePercent": -0.16
   },
   "score": {
-    "total": 19,
-    "stars": 1.0,
+    "total": 28,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 64%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 163.39,
-    "maDistance_pct": 4.98,
-    "bb2Confluence_pct": 3.13,
-    "bb3Confluence_pct": 5.86,
-    "maKnock_count": 2,
-    "expectedRsi": 47.21
+    "targetMA_price": 163.54,
+    "maDistance_pct": 4.71,
+    "bb2Confluence_pct": 3.06,
+    "bb3Confluence_pct": 5.81,
+    "maKnock_count": 1,
+    "expectedRsi": 46.78
   },
   "metrics": {
-    "maDistance": "+4.98%",
-    "bbConfluence": "3.13%",
-    "maKnock": "2 times recently",
-    "expectedRsi": "47.21"
+    "maDistance": "+4.71%",
+    "bbConfluence": "3.06%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "46.78"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 176.0,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 50MA support zone near $163.39. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $176.00. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 50MA support zone near $163.54. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $176.00. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-11",
-        "open": 143.27000427246094,
-        "high": 143.75,
-        "low": 141.72000122070312,
-        "close": 141.85000610351562
-      },
       {
         "time": "2025-11-12",
         "open": 142.3699951171875,
@@ -1089,13 +1082,16 @@
         "high": 174.69000244140625,
         "low": 171.0399932861328,
         "close": 171.52000427246094
+      },
+      {
+        "time": "2026-06-18",
+        "open": 173.22000122070312,
+        "high": 174.10000610351562,
+        "low": 169.63999938964844,
+        "close": 171.24000549316406
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-11",
-        "value": 157.28080017089843
-      },
       {
         "time": "2025-11-12",
         "value": 156.85120025634765
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-06-17",
         "value": 163.38700073242188
+      },
+      {
+        "time": "2026-06-18",
+        "value": 163.5406008911133
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-11",
-        "value": 136.73581976742375
-      },
       {
         "time": "2025-11-12",
         "value": 135.72568160957667
@@ -2293,6 +2289,10 @@
       {
         "time": "2026-06-17",
         "value": 158.26981283609197
+      },
+      {
+        "time": "2026-06-18",
+        "value": 158.53764458857748
       }
     ],
     "supportLine": 153.36
