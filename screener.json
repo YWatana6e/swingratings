@@ -962,6 +962,19 @@
     "expected_rsi": 48.29
   },
   {
+    "ticker": "CCK",
+    "name": "Crown Holdings, Inc.",
+    "price": 101.54,
+    "changePercent": -0.41,
+    "score": 20,
+    "stars": 1.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 1.33,
+    "bb_confluence": 8.98,
+    "expected_rsi": 58.52
+  },
+  {
     "ticker": "RF",
     "name": "Regions Financial Corporation",
     "price": 28.62,
@@ -1051,19 +1064,6 @@
     "ma_distance": 0.28,
     "bb_confluence": 2.19,
     "expected_rsi": 51.21
-  },
-  {
-    "ticker": "CCK",
-    "name": "Crown Holdings, Inc.",
-    "price": 101.54,
-    "changePercent": -0.41,
-    "score": 17,
-    "stars": 1.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 1.33,
-    "bb_confluence": 8.98,
-    "expected_rsi": 58.52
   },
   {
     "ticker": "COP",
@@ -1352,19 +1352,6 @@
     "expected_rsi": 45.92
   },
   {
-    "ticker": "ALL",
-    "name": "Allstate Corporation (The)",
-    "price": 221.17,
-    "changePercent": -0.22,
-    "score": 6,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.83,
-    "bb_confluence": 5.64,
-    "expected_rsi": 50.11
-  },
-  {
     "ticker": "KHC",
     "name": "The Kraft Heinz Company",
     "price": 22.82,
@@ -1402,6 +1389,19 @@
     "ma_distance": 4.81,
     "bb_confluence": 4.89,
     "expected_rsi": 49.09
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate Corporation (The)",
+    "price": 221.17,
+    "changePercent": -0.22,
+    "score": 5,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.83,
+    "bb_confluence": 5.64,
+    "expected_rsi": 50.11
   },
   {
     "ticker": "V",
