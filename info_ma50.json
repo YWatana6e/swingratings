@@ -3,55 +3,48 @@
     "ticker": "INFO",
     "name": "Harbor PanAgora Dynamic Large C",
     "market": "NYQ",
-    "price": 26.75,
-    "change": -0.32,
-    "changePercent": -1.2
+    "price": 26.69,
+    "change": -0.06,
+    "changePercent": -0.23
   },
   "score": {
-    "total": 27,
+    "total": 29,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 8%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 26.46,
-    "maDistance_pct": 1.09,
-    "bb2Confluence_pct": 0.29,
-    "bb3Confluence_pct": 1.51,
+    "targetMA_price": 26.5,
+    "maDistance_pct": 0.71,
+    "bb2Confluence_pct": 0.57,
+    "bb3Confluence_pct": 1.81,
     "maKnock_count": 1,
-    "expectedRsi": 47.95
+    "expectedRsi": 48.51
   },
   "metrics": {
-    "maDistance": "+1.09%",
-    "bbConfluence": "0.29%",
+    "maDistance": "+0.71%",
+    "bbConfluence": "0.57%",
     "maKnock": "1 time recently",
-    "expectedRsi": "47.95"
+    "expectedRsi": "48.51"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 27.33,
         "touches": 3,
-        "strength_score": 2.535
+        "strength_score": 2.506
       }
     ],
     "trendline_clusters": [
       {
-        "price": 26.85,
+        "price": 26.87,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $26.46. Based on historical price action, bounces from this level have yielded a win rate of 8.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $27.33 and a significant trendline confluence around $26.85 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $26.5. Based on historical price action, bounces from this level have yielded a win rate of 8.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $27.33 and a significant trendline confluence around $26.87 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-14",
-        "open": 23.91511077977836,
-        "high": 24.20408594732309,
-        "low": 23.91511077977836,
-        "close": 24.06159019470215
-      },
       {
         "time": "2025-11-17",
         "open": 24.07454508030363,
@@ -1093,14 +1086,17 @@
         "open": 26.719999313354492,
         "high": 26.8700008392334,
         "low": 26.610000610351562,
-        "close": 26.752300262451172
+        "close": 26.75200080871582
+      },
+      {
+        "time": "2026-06-24",
+        "open": 26.940000534057617,
+        "high": 26.940000534057617,
+        "low": 26.6299991607666,
+        "close": 26.690000534057617
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-14",
-        "value": 23.853489379882813
-      },
       {
         "time": "2025-11-17",
         "value": 23.86712100982666
@@ -1695,14 +1691,14 @@
       },
       {
         "time": "2026-06-23",
-        "value": 26.464165954589845
+        "value": 26.464159965515137
+      },
+      {
+        "time": "2026-06-24",
+        "value": 26.501719970703125
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-14",
-        "value": 23.756250360957804
-      },
       {
         "time": "2025-11-17",
         "value": 23.725313699830217
@@ -2297,9 +2293,13 @@
       },
       {
         "time": "2026-06-23",
-        "value": 26.386854870548618
+        "value": 26.386813992774492
+      },
+      {
+        "time": "2026-06-24",
+        "value": 26.350541253310197
       }
     ],
-    "supportLine": 24.08
+    "supportLine": 26.43
   }
 }

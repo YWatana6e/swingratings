@@ -3,65 +3,58 @@
     "ticker": "AKAM",
     "name": "Akamai Technologies, Inc.",
     "market": "NMS",
-    "price": 119.87,
-    "change": -0.87,
-    "changePercent": -0.72
+    "price": 119.48,
+    "change": -0.39,
+    "changePercent": -0.33
   },
   "score": {
-    "total": 42,
-    "stars": 2.0,
+    "total": 30,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 44%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 115.99,
-    "maDistance_pct": 3.34,
-    "bb2Confluence_pct": 0.64,
-    "bb3Confluence_pct": 11.39,
+    "targetMA_price": 116.19,
+    "maDistance_pct": 2.83,
+    "bb2Confluence_pct": 3.14,
+    "bb3Confluence_pct": 14.41,
     "maKnock_count": 0,
-    "expectedRsi": 33.08
+    "expectedRsi": 33.09
   },
   "metrics": {
-    "maDistance": "+3.34%",
-    "bbConfluence": "0.64%",
+    "maDistance": "+2.83%",
+    "bbConfluence": "3.14%",
     "maKnock": "0 times recently",
-    "expectedRsi": "33.08"
+    "expectedRsi": "33.09"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 165.12,
         "touches": 2,
-        "strength_score": 1.593
+        "strength_score": 1.574
       },
       {
         "price": 137.93,
         "touches": 1,
-        "strength_score": 0.955
+        "strength_score": 0.944
       },
       {
         "price": 150.14,
         "touches": 1,
-        "strength_score": 0.803
+        "strength_score": 0.794
       },
       {
         "price": 121.12,
         "touches": 1,
-        "strength_score": 0.5
+        "strength_score": 0.494
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AKAM is currently testing its Daily 100MA support zone near $115.99. Based on historical price action, bounces from this level have yielded a win rate of 44.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $165.12. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AKAM is currently testing its Daily 100MA support zone near $116.19. Based on historical price action, bounces from this level have yielded a win rate of 44.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $165.12. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-14",
-        "open": 87.41999816894531,
-        "high": 88.75,
-        "low": 87.01000213623047,
-        "close": 87.16999816894531
-      },
       {
         "time": "2025-11-17",
         "open": 87.75,
@@ -1100,17 +1093,20 @@
       },
       {
         "time": "2026-06-23",
-        "open": 119.19999694824219,
-        "high": 123.2750015258789,
+        "open": 119.69999694824219,
+        "high": 123.29000091552734,
         "low": 119.19999694824219,
         "close": 119.87000274658203
+      },
+      {
+        "time": "2026-06-24",
+        "open": 119.20999908447266,
+        "high": 121.99500274658203,
+        "low": 118.12000274658203,
+        "close": 119.4800033569336
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-14",
-        "value": 77.1937996673584
-      },
       {
         "time": "2025-11-17",
         "value": 77.273999710083
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-06-23",
         "value": 115.99350021362305
+      },
+      {
+        "time": "2026-06-24",
+        "value": 116.19480026245117
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-14",
-        "value": 65.55260967997557
-      },
       {
         "time": "2025-11-17",
         "value": 65.77000173069202
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-06-23",
         "value": 115.25025646663634
+      },
+      {
+        "time": "2026-06-24",
+        "value": 112.54942822864432
       }
     ],
     "supportLine": 93.1
