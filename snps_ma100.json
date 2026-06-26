@@ -3,135 +3,58 @@
     "ticker": "SNPS",
     "name": "Synopsys, Inc.",
     "market": "NMS",
-    "price": 460.54,
-    "change": -4.73,
-    "changePercent": -1.02
+    "price": 454.34,
+    "change": -0.68,
+    "changePercent": -0.15
   },
   "score": {
-    "total": 76,
-    "stars": 4.0,
-    "note": "/ 100 (Win Rate: 88%)"
+    "total": 45,
+    "stars": 2.5,
+    "note": "/ 100 (Win Rate: 89%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 457.05,
-    "maDistance_pct": 0.76,
-    "bb2Confluence_pct": 0.39,
-    "bb3Confluence_pct": 4.82,
-    "maKnock_count": 1,
-    "expectedRsi": 40.92
+    "targetMA_price": 452.55,
+    "maDistance_pct": 0.4,
+    "bb2Confluence_pct": 3.89,
+    "bb3Confluence_pct": 7.56,
+    "maKnock_count": 2,
+    "expectedRsi": 42.95
   },
   "metrics": {
-    "maDistance": "+0.76%",
-    "bbConfluence": "0.39%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "40.92"
+    "maDistance": "+0.40%",
+    "bbConfluence": "3.89%",
+    "maKnock": "2 times recently",
+    "expectedRsi": "42.95"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 520.33,
         "touches": 3,
-        "strength_score": 1.456
+        "strength_score": 1.282
       },
       {
         "price": 537.34,
         "touches": 2,
-        "strength_score": 1.185
+        "strength_score": 1.044
+      },
+      {
+        "price": 479.8,
+        "touches": 1,
+        "strength_score": 0.966
       },
       {
         "price": 502.28,
         "touches": 1,
-        "strength_score": 0.691
-      },
-      {
-        "price": 483.91,
-        "touches": 1,
-        "strength_score": 0.262
+        "strength_score": 0.609
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $457.05. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $520.33. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $452.55. Based on historical price action, bounces from this level have yielded a win rate of 88.9%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $520.33. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-04",
-        "open": 435.0,
-        "high": 437.1099853515625,
-        "low": 415.2099914550781,
-        "close": 416.3500061035156
-      },
-      {
-        "time": "2025-11-05",
-        "open": 416.5,
-        "high": 416.9200134277344,
-        "low": 402.70001220703125,
-        "close": 409.1099853515625
-      },
-      {
-        "time": "2025-11-06",
-        "open": 411.0,
-        "high": 411.55999755859375,
-        "low": 391.5400085449219,
-        "close": 396.1400146484375
-      },
-      {
-        "time": "2025-11-07",
-        "open": 394.32000732421875,
-        "high": 400.30999755859375,
-        "low": 386.9100036621094,
-        "close": 393.42999267578125
-      },
-      {
-        "time": "2025-11-10",
-        "open": 398.8699951171875,
-        "high": 401.2799987792969,
-        "low": 388.44000244140625,
-        "close": 400.7699890136719
-      },
-      {
-        "time": "2025-11-11",
-        "open": 398.1199951171875,
-        "high": 399.69000244140625,
-        "low": 390.0199890136719,
-        "close": 395.6000061035156
-      },
-      {
-        "time": "2025-11-12",
-        "open": 400.6199951171875,
-        "high": 403.75,
-        "low": 394.44000244140625,
-        "close": 398.80999755859375
-      },
-      {
-        "time": "2025-11-13",
-        "open": 396.25,
-        "high": 403.6400146484375,
-        "low": 392.4100036621094,
-        "close": 393.92999267578125
-      },
-      {
-        "time": "2025-11-14",
-        "open": 388.05999755859375,
-        "high": 397.8500061035156,
-        "low": 386.2200012207031,
-        "close": 389.8299865722656
-      },
-      {
-        "time": "2025-11-17",
-        "open": 389.5,
-        "high": 399.1099853515625,
-        "low": 388.010009765625,
-        "close": 390.239990234375
-      },
-      {
-        "time": "2025-11-18",
-        "open": 388.0,
-        "high": 389.6000061035156,
-        "low": 376.17999267578125,
-        "close": 383.82000732421875
-      },
       {
         "time": "2025-11-19",
         "open": 385.5,
@@ -1100,57 +1023,90 @@
       },
       {
         "time": "2026-06-10",
-        "open": 455.0,
-        "high": 472.4375,
+        "open": 454.8800048828125,
+        "high": 472.44000244140625,
         "low": 453.2799987792969,
         "close": 460.5400085449219
+      },
+      {
+        "time": "2026-06-11",
+        "open": 457.760009765625,
+        "high": 464.3800048828125,
+        "low": 445.0,
+        "close": 456.2900085449219
+      },
+      {
+        "time": "2026-06-12",
+        "open": 457.0899963378906,
+        "high": 461.0899963378906,
+        "low": 445.010009765625,
+        "close": 453.8900146484375
+      },
+      {
+        "time": "2026-06-15",
+        "open": 462.29998779296875,
+        "high": 463.5,
+        "low": 453.0199890136719,
+        "close": 454.3800048828125
+      },
+      {
+        "time": "2026-06-16",
+        "open": 452.0,
+        "high": 455.5,
+        "low": 444.82000732421875,
+        "close": 448.3800048828125
+      },
+      {
+        "time": "2026-06-17",
+        "open": 448.3500061035156,
+        "high": 478.5199890136719,
+        "low": 446.17999267578125,
+        "close": 461.739990234375
+      },
+      {
+        "time": "2026-06-18",
+        "open": 461.989990234375,
+        "high": 466.05999755859375,
+        "low": 452.3299865722656,
+        "close": 455.510009765625
+      },
+      {
+        "time": "2026-06-22",
+        "open": 455.5299987792969,
+        "high": 469.3999938964844,
+        "low": 452.79998779296875,
+        "close": 464.5799865722656
+      },
+      {
+        "time": "2026-06-23",
+        "open": 465.0,
+        "high": 479.79998779296875,
+        "low": 461.4800109863281,
+        "close": 461.5
+      },
+      {
+        "time": "2026-06-24",
+        "open": 460.1600036621094,
+        "high": 473.1700134277344,
+        "low": 458.1300048828125,
+        "close": 463.92999267578125
+      },
+      {
+        "time": "2026-06-25",
+        "open": 463.1400146484375,
+        "high": 465.54998779296875,
+        "low": 449.3299865722656,
+        "close": 455.0199890136719
+      },
+      {
+        "time": "2026-06-26",
+        "open": 446.69000244140625,
+        "high": 458.0299987792969,
+        "low": 438.54998779296875,
+        "close": 454.3399963378906
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-04",
-        "value": 529.416501159668
-      },
-      {
-        "time": "2025-11-05",
-        "value": 528.719001159668
-      },
-      {
-        "time": "2025-11-06",
-        "value": 527.8863012695313
-      },
-      {
-        "time": "2025-11-07",
-        "value": 527.0666012573242
-      },
-      {
-        "time": "2025-11-10",
-        "value": 526.338101196289
-      },
-      {
-        "time": "2025-11-11",
-        "value": 525.5888012695312
-      },
-      {
-        "time": "2025-11-12",
-        "value": 524.867101135254
-      },
-      {
-        "time": "2025-11-13",
-        "value": 524.0166009521485
-      },
-      {
-        "time": "2025-11-14",
-        "value": 523.0422009277344
-      },
-      {
-        "time": "2025-11-17",
-        "value": 521.9876007080078
-      },
-      {
-        "time": "2025-11-18",
-        "value": 520.7995007324218
-      },
       {
         "time": "2025-11-19",
         "value": 519.5357006835937
@@ -1706,53 +1662,53 @@
       {
         "time": "2026-06-10",
         "value": 457.05150299072267
+      },
+      {
+        "time": "2026-06-11",
+        "value": 456.45130310058596
+      },
+      {
+        "time": "2026-06-12",
+        "value": 455.8805032348633
+      },
+      {
+        "time": "2026-06-15",
+        "value": 455.2048031616211
+      },
+      {
+        "time": "2026-06-16",
+        "value": 454.5939031982422
+      },
+      {
+        "time": "2026-06-17",
+        "value": 454.19740295410156
+      },
+      {
+        "time": "2026-06-18",
+        "value": 453.72240295410154
+      },
+      {
+        "time": "2026-06-22",
+        "value": 453.3412026977539
+      },
+      {
+        "time": "2026-06-23",
+        "value": 452.84270263671874
+      },
+      {
+        "time": "2026-06-24",
+        "value": 452.68200256347654
+      },
+      {
+        "time": "2026-06-25",
+        "value": 452.5810025024414
+      },
+      {
+        "time": "2026-06-26",
+        "value": 452.5455023193359
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-04",
-        "value": 421.13245523096094
-      },
-      {
-        "time": "2025-11-05",
-        "value": 416.44514688865263
-      },
-      {
-        "time": "2025-11-06",
-        "value": 408.84608961703475
-      },
-      {
-        "time": "2025-11-07",
-        "value": 400.2255984914819
-      },
-      {
-        "time": "2025-11-10",
-        "value": 394.3160353174457
-      },
-      {
-        "time": "2025-11-11",
-        "value": 388.0982282976705
-      },
-      {
-        "time": "2025-11-12",
-        "value": 383.47269353931546
-      },
-      {
-        "time": "2025-11-13",
-        "value": 378.1999832285426
-      },
-      {
-        "time": "2025-11-14",
-        "value": 372.67775417271554
-      },
-      {
-        "time": "2025-11-17",
-        "value": 368.07177596207146
-      },
-      {
-        "time": "2025-11-18",
-        "value": 363.40143438914095
-      },
       {
         "time": "2025-11-19",
         "value": 359.74413078180146
@@ -2308,8 +2264,52 @@
       {
         "time": "2026-06-10",
         "value": 455.26994218030603
+      },
+      {
+        "time": "2026-06-11",
+        "value": 449.67366962806074
+      },
+      {
+        "time": "2026-06-12",
+        "value": 444.41124186403584
+      },
+      {
+        "time": "2026-06-15",
+        "value": 439.8168943008287
+      },
+      {
+        "time": "2026-06-16",
+        "value": 434.62828668940756
+      },
+      {
+        "time": "2026-06-17",
+        "value": 432.1667433361555
+      },
+      {
+        "time": "2026-06-18",
+        "value": 429.07718416761566
+      },
+      {
+        "time": "2026-06-22",
+        "value": 427.65241371651143
+      },
+      {
+        "time": "2026-06-23",
+        "value": 428.28125429674486
+      },
+      {
+        "time": "2026-06-24",
+        "value": 432.5555572396929
+      },
+      {
+        "time": "2026-06-25",
+        "value": 436.45043853559787
+      },
+      {
+        "time": "2026-06-26",
+        "value": 434.93030051116546
       }
     ],
-    "supportLine": 470.96
+    "supportLine": 471.59
   }
 }
