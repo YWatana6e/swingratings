@@ -3,80 +3,78 @@
     "ticker": "NVR",
     "name": "NVR, Inc.",
     "market": "NYQ",
-    "price": 6813.4,
-    "change": -7.63,
-    "changePercent": -0.11
+    "price": 6643.73,
+    "change": -169.67,
+    "changePercent": -2.49
   },
   "score": {
-    "total": 4,
-    "stars": 0.0,
+    "total": 5,
+    "stars": 0.5,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 6641.66,
-    "maDistance_pct": 2.59,
-    "bb2Confluence_pct": 10.22,
-    "bb3Confluence_pct": 13.79,
+    "targetMA_price": 6627.65,
+    "maDistance_pct": 0.24,
+    "bb2Confluence_pct": 9.57,
+    "bb3Confluence_pct": 13.1,
     "maKnock_count": 0,
-    "expectedRsi": 59.8
+    "expectedRsi": 58.57
   },
   "metrics": {
-    "maDistance": "+2.59%",
-    "bbConfluence": "10.22%",
+    "maDistance": "+0.24%",
+    "bbConfluence": "9.57%",
     "maKnock": "0 times recently",
-    "expectedRsi": "59.8"
+    "expectedRsi": "58.57"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 6924.19,
         "touches": 2,
-        "strength_score": 1.49
+        "strength_score": 1.472
       },
       {
         "price": 8172.1,
         "touches": 2,
-        "strength_score": 0.656
+        "strength_score": 0.649
       },
       {
         "price": 7708.47,
         "touches": 2,
-        "strength_score": 0.619
+        "strength_score": 0.612
       },
       {
         "price": 7294.5,
         "touches": 1,
-        "strength_score": 0.574
+        "strength_score": 0.568
+      },
+      {
+        "price": 6659.36,
+        "touches": 1,
+        "strength_score": 0.43
       },
       {
         "price": 7568.26,
         "touches": 1,
-        "strength_score": 0.379
+        "strength_score": 0.375
       },
       {
         "price": 7948.78,
         "touches": 1,
-        "strength_score": 0.287
+        "strength_score": 0.284
       }
     ],
     "trendline_clusters": [
       {
-        "price": 6920.2,
-        "count": 2
+        "price": 6917.39,
+        "count": 5
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that NVR is currently testing its Daily 100MA support zone near $6641.66. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6924.19 and a significant trendline confluence around $6920.20 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that NVR is currently testing its Daily 100MA support zone near $6627.65. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6924.19 and a significant trendline confluence around $6917.39 (formed by 5 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-21",
-        "open": 7230.759765625,
-        "high": 7461.22021484375,
-        "low": 7230.759765625,
-        "close": 7388.81982421875
-      },
       {
         "time": "2025-11-24",
         "open": 7224.2998046875,
@@ -1116,16 +1114,19 @@
       {
         "time": "2026-06-30",
         "open": 6825.0,
-        "high": 6847.43505859375,
-        "low": 6741.02490234375,
+        "high": 6855.22998046875,
+        "low": 6741.02978515625,
         "close": 6813.39990234375
+      },
+      {
+        "time": "2026-07-01",
+        "open": 6783.89990234375,
+        "high": 6879.1201171875,
+        "low": 6640.7001953125,
+        "close": 6643.72998046875
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-21",
-        "value": 7778.510703125
-      },
       {
         "time": "2025-11-24",
         "value": 7774.913500976562
@@ -1721,13 +1722,13 @@
       {
         "time": "2026-06-30",
         "value": 6641.662109375
+      },
+      {
+        "time": "2026-07-01",
+        "value": 6627.651508789062
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-21",
-        "value": 7041.509529320299
-      },
       {
         "time": "2025-11-24",
         "value": 7051.74659058016
@@ -2323,6 +2324,10 @@
       {
         "time": "2026-06-30",
         "value": 5962.900254369642
+      },
+      {
+        "time": "2026-07-01",
+        "value": 5993.177097035251
       }
     ],
     "supportLine": 6360.24
