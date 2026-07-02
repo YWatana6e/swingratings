@@ -3,9 +3,9 @@
     "ticker": "NCLH",
     "name": "Norwegian Cruise Line Holdings ",
     "market": "NYQ",
-    "price": 20.67,
-    "change": -0.44,
-    "changePercent": -2.08
+    "price": 19.78,
+    "change": -0.89,
+    "changePercent": -4.31
   },
   "score": {
     "total": 40,
@@ -14,59 +14,52 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 19.71,
-    "maDistance_pct": 4.86,
-    "bb2Confluence_pct": 10.02,
-    "bb3Confluence_pct": 15.52,
+    "targetMA_price": 19.68,
+    "maDistance_pct": 0.53,
+    "bb2Confluence_pct": 8.67,
+    "bb3Confluence_pct": 13.79,
     "maKnock_count": 1,
-    "expectedRsi": 51.33
+    "expectedRsi": 51.04
   },
   "metrics": {
-    "maDistance": "+4.86%",
-    "bbConfluence": "10.02%",
+    "maDistance": "+0.53%",
+    "bbConfluence": "8.67%",
     "maKnock": "1 time recently",
-    "expectedRsi": "51.33"
+    "expectedRsi": "51.04"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 22.09,
         "touches": 2,
-        "strength_score": 1.532
+        "strength_score": 1.514
       },
       {
         "price": 20.78,
         "touches": 2,
-        "strength_score": 0.881
+        "strength_score": 0.871
       },
       {
         "price": 24.07,
         "touches": 2,
-        "strength_score": 0.634
+        "strength_score": 0.627
       },
       {
         "price": 21.22,
         "touches": 1,
-        "strength_score": 0.512
+        "strength_score": 0.506
       },
       {
         "price": 25.1,
         "touches": 1,
-        "strength_score": 0.375
+        "strength_score": 0.37
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that NCLH is currently testing its Daily 100MA support zone near $19.71. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $22.09. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that NCLH is currently testing its Daily 100MA support zone near $19.68. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $22.09. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-24",
-        "open": 18.309999465942383,
-        "high": 18.399999618530273,
-        "low": 17.350000381469727,
-        "close": 17.75
-      },
       {
         "time": "2025-11-25",
         "open": 17.84000015258789,
@@ -1109,13 +1102,16 @@
         "high": 21.399999618530273,
         "low": 20.56999969482422,
         "close": 20.670000076293945
+      },
+      {
+        "time": "2026-07-02",
+        "open": 20.8700008392334,
+        "high": 21.030000686645508,
+        "low": 19.625,
+        "close": 19.780000686645508
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-24",
-        "value": 23.24760000228882
-      },
       {
         "time": "2025-11-25",
         "value": 23.21659999847412
@@ -1711,13 +1707,13 @@
       {
         "time": "2026-07-01",
         "value": 19.711300020217895
+      },
+      {
+        "time": "2026-07-02",
+        "value": 19.67590003013611
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-24",
-        "value": 15.775936657513224
-      },
       {
         "time": "2025-11-25",
         "value": 15.84172974772053
@@ -2313,8 +2309,12 @@
       {
         "time": "2026-07-01",
         "value": 17.736498413541455
+      },
+      {
+        "time": "2026-07-02",
+        "value": 17.970909907946783
       }
     ],
-    "supportLine": 18.87
+    "supportLine": 18.96
   }
 }

@@ -3,71 +3,43 @@
     "ticker": "INFO",
     "name": "Harbor PanAgora Dynamic Large C",
     "market": "NYQ",
-    "price": 26.65,
-    "change": -0.0,
-    "changePercent": -0.0
+    "price": 27.04,
+    "change": -0.07,
+    "changePercent": -0.26
   },
   "score": {
-    "total": 17,
+    "total": 15,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 8%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 26.56,
-    "maDistance_pct": 0.34,
-    "bb2Confluence_pct": 1.07,
-    "bb3Confluence_pct": 2.36,
-    "maKnock_count": 1,
-    "expectedRsi": 49.68
+    "targetMA_price": 26.69,
+    "maDistance_pct": 1.33,
+    "bb2Confluence_pct": 1.3,
+    "bb3Confluence_pct": 2.34,
+    "maKnock_count": 2,
+    "expectedRsi": 51.03
   },
   "metrics": {
-    "maDistance": "+0.34%",
-    "bbConfluence": "1.07%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "49.68"
+    "maDistance": "+1.33%",
+    "bbConfluence": "1.30%",
+    "maKnock": "2 times recently",
+    "expectedRsi": "51.03"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 27.33,
         "touches": 3,
-        "strength_score": 2.449
+        "strength_score": 2.338
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $26.56. Based on historical price action, bounces from this level have yielded a win rate of 8.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $27.33. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $26.69. Based on historical price action, bounces from this level have yielded a win rate of 7.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $27.33. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-19",
-        "open": 23.88521655979735,
-        "high": 23.88521655979735,
-        "low": 23.636100818829327,
-        "close": 23.731761932373047
-      },
-      {
-        "time": "2025-11-20",
-        "open": 24.134331353953968,
-        "high": 24.134331353953968,
-        "low": 23.327196917050813,
-        "close": 23.3311824798584
-      },
-      {
-        "time": "2025-11-21",
-        "open": 23.297302865060896,
-        "high": 23.695889564350658,
-        "low": 23.287339908120668,
-        "close": 23.493606567382812
-      },
-      {
-        "time": "2025-11-24",
-        "open": 23.925075865352763,
-        "high": 23.964933395385742,
-        "low": 23.925075865352763,
-        "close": 23.964933395385742
-      },
       {
         "time": "2025-11-25",
         "open": 23.934043132499315,
@@ -1089,25 +1061,37 @@
         "high": 26.724000930786133,
         "low": 26.399999618530273,
         "close": 26.652000427246094
+      },
+      {
+        "time": "2026-06-29",
+        "open": 26.81999969482422,
+        "high": 26.979999542236328,
+        "low": 26.739999771118164,
+        "close": 26.95800018310547
+      },
+      {
+        "time": "2026-06-30",
+        "open": 27.09000015258789,
+        "high": 27.204999923706055,
+        "low": 27.09000015258789,
+        "close": 27.194000244140625
+      },
+      {
+        "time": "2026-07-01",
+        "open": 27.110000610351562,
+        "high": 27.18000030517578,
+        "low": 27.110000610351562,
+        "close": 27.11400032043457
+      },
+      {
+        "time": "2026-07-02",
+        "open": 27.260000228881836,
+        "high": 27.260000228881836,
+        "low": 26.920000076293945,
+        "close": 27.043699264526367
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-19",
-        "value": 23.88728946685791
-      },
-      {
-        "time": "2025-11-20",
-        "value": 23.885396156311035
-      },
-      {
-        "time": "2025-11-21",
-        "value": 23.887289428710936
-      },
-      {
-        "time": "2025-11-24",
-        "value": 23.89701488494873
-      },
       {
         "time": "2025-11-25",
         "value": 23.911941871643066
@@ -1691,25 +1675,25 @@
       {
         "time": "2026-06-26",
         "value": 26.56161994934082
+      },
+      {
+        "time": "2026-06-29",
+        "value": 26.594379959106444
+      },
+      {
+        "time": "2026-06-30",
+        "value": 26.625059967041015
+      },
+      {
+        "time": "2026-07-01",
+        "value": 26.655759963989258
+      },
+      {
+        "time": "2026-07-02",
+        "value": 26.68803394317627
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-19",
-        "value": 23.65934861229356
-      },
-      {
-        "time": "2025-11-20",
-        "value": 23.516690845505554
-      },
-      {
-        "time": "2025-11-21",
-        "value": 23.419654886949733
-      },
-      {
-        "time": "2025-11-24",
-        "value": 23.404532540334607
-      },
       {
         "time": "2025-11-25",
         "value": 23.410217519400373
@@ -2293,8 +2277,24 @@
       {
         "time": "2026-06-26",
         "value": 26.277436202087983
+      },
+      {
+        "time": "2026-06-29",
+        "value": 26.279814063965024
+      },
+      {
+        "time": "2026-06-30",
+        "value": 26.294641219877093
+      },
+      {
+        "time": "2026-07-01",
+        "value": 26.325631085275443
+      },
+      {
+        "time": "2026-07-02",
+        "value": 26.340820246539256
       }
     ],
-    "supportLine": 24.02
+    "supportLine": 26.36
   }
 }
