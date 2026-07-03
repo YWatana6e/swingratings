@@ -52,6 +52,19 @@
     "expected_rsi": 35.87
   },
   {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "price": 13.36,
+    "changePercent": -2.05,
+    "score": 69,
+    "stars": 3.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.84,
+    "bb_confluence": 1.39,
+    "expected_rsi": 37.35
+  },
+  {
     "ticker": "AVGO",
     "name": "Broadcom Inc.",
     "price": 360.45,
@@ -63,19 +76,6 @@
     "ma_distance": 0.07,
     "bb_confluence": 1.13,
     "expected_rsi": 40.71
-  },
-  {
-    "ticker": "F",
-    "name": "Ford Motor Company",
-    "price": 13.36,
-    "changePercent": -2.05,
-    "score": 67,
-    "stars": 3.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.84,
-    "bb_confluence": 1.39,
-    "expected_rsi": 37.35
   },
   {
     "ticker": "HPE",
