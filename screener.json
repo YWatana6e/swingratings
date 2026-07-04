@@ -34,9 +34,9 @@
     "stars": 3.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 4.97,
-    "bb_confluence": 4.87,
-    "expected_rsi": 33.99
+    "ma_distance": 4.79,
+    "bb_confluence": 4.69,
+    "expected_rsi": 34.11
   },
   {
     "ticker": "QCOM",
@@ -273,19 +273,6 @@
     "expected_rsi": 51.04
   },
   {
-    "ticker": "NOV",
-    "name": "NOV Inc.",
-    "price": 18.02,
-    "changePercent": -0.44,
-    "score": 40,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.86,
-    "bb_confluence": 0.53,
-    "expected_rsi": 31.42
-  },
-  {
     "ticker": "CSCO",
     "name": "Cisco Systems, Inc.",
     "price": 112.69,
@@ -349,6 +336,19 @@
     "ma_distance": 4.76,
     "bb_confluence": 3.93,
     "expected_rsi": 42.4
+  },
+  {
+    "ticker": "NOV",
+    "name": "NOV Inc.",
+    "price": 18.02,
+    "changePercent": -0.44,
+    "score": 35,
+    "stars": 2.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.45,
+    "bb_confluence": 0.92,
+    "expected_rsi": 31.65
   },
   {
     "ticker": "RCL",
