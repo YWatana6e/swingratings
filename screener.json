@@ -290,13 +290,13 @@
     "name": "Analog Devices, Inc.",
     "price": 377.16,
     "changePercent": -3.04,
-    "score": 38,
+    "score": 39,
     "stars": 2.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 1.84,
-    "bb_confluence": 1.32,
-    "expected_rsi": 39.55
+    "ma_distance": 1.63,
+    "bb_confluence": 1.12,
+    "expected_rsi": 39.67
   },
   {
     "ticker": "JCI",
@@ -323,6 +323,19 @@
     "ma_distance": 4.25,
     "bb_confluence": 5.29,
     "expected_rsi": 44.34
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "price": 13.36,
+    "changePercent": -2.05,
+    "score": 36,
+    "stars": 2.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.74,
+    "bb_confluence": 3.28,
+    "expected_rsi": 35.03
   },
   {
     "ticker": "TER",
@@ -427,19 +440,6 @@
     "ma_distance": 4.02,
     "bb_confluence": 0.52,
     "expected_rsi": 45.3
-  },
-  {
-    "ticker": "F",
-    "name": "Ford Motor Company",
-    "price": 13.36,
-    "changePercent": -2.05,
-    "score": 23,
-    "stars": 1.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.74,
-    "bb_confluence": 3.28,
-    "expected_rsi": 35.03
   },
   {
     "ticker": "PH",
