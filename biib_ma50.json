@@ -3,50 +3,43 @@
     "ticker": "BIIB",
     "name": "Biogen Inc.",
     "market": "NMS",
-    "price": 205.7,
-    "change": -2.76,
-    "changePercent": -1.32
+    "price": 200.36,
+    "change": -5.34,
+    "changePercent": -2.6
   },
   "score": {
-    "total": 24,
-    "stars": 1.0,
+    "total": 26,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 56%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 196.49,
-    "maDistance_pct": 4.69,
-    "bb2Confluence_pct": 4.47,
-    "bb3Confluence_pct": 8.39,
-    "maKnock_count": 1,
-    "expectedRsi": 46.1
+    "targetMA_price": 196.81,
+    "maDistance_pct": 1.8,
+    "bb2Confluence_pct": 4.07,
+    "bb3Confluence_pct": 7.81,
+    "maKnock_count": 0,
+    "expectedRsi": 46.24
   },
   "metrics": {
-    "maDistance": "+4.69%",
-    "bbConfluence": "4.47%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "46.1"
+    "maDistance": "+1.80%",
+    "bbConfluence": "4.07%",
+    "maKnock": "0 times recently",
+    "expectedRsi": "46.24"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 219.72,
         "touches": 1,
-        "strength_score": 0.944
+        "strength_score": 0.933
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 50MA support zone near $196.49. Based on historical price action, bounces from this level have yielded a win rate of 56.2%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $219.72. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 50MA support zone near $196.81. Based on historical price action, bounces from this level have yielded a win rate of 56.2%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $219.72. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-28",
-        "open": 182.07000732421875,
-        "high": 182.74000549316406,
-        "low": 180.69000244140625,
-        "close": 182.08999633789062
-      },
       {
         "time": "2025-12-01",
         "open": 180.14999389648438,
@@ -1089,13 +1082,16 @@
         "high": 212.0,
         "low": 205.64999389648438,
         "close": 205.6999969482422
+      },
+      {
+        "time": "2026-07-08",
+        "open": 204.86000061035156,
+        "high": 206.75,
+        "low": 198.92999267578125,
+        "close": 200.36000061035156
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-28",
-        "value": 153.78120025634766
-      },
       {
         "time": "2025-12-01",
         "value": 154.4868002319336
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-07-07",
         "value": 196.49140075683593
+      },
+      {
+        "time": "2026-07-08",
+        "value": 196.81100067138672
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-28",
-        "value": 144.3714931336494
-      },
       {
         "time": "2025-12-01",
         "value": 145.4246536758905
@@ -2293,6 +2289,10 @@
       {
         "time": "2026-07-07",
         "value": 187.71259913967359
+      },
+      {
+        "time": "2026-07-08",
+        "value": 188.80188443933565
       }
     ],
     "supportLine": 185.38

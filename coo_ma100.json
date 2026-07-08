@@ -3,60 +3,53 @@
     "ticker": "COO",
     "name": "The Cooper Companies, Inc.",
     "market": "NMS",
-    "price": 71.89,
-    "change": -0.72,
-    "changePercent": -0.99
+    "price": 69.61,
+    "change": -2.28,
+    "changePercent": -3.17
   },
   "score": {
-    "total": 21,
+    "total": 22,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 69.63,
-    "maDistance_pct": 3.25,
-    "bb2Confluence_pct": 8.41,
-    "bb3Confluence_pct": 12.18,
+    "targetMA_price": 69.5,
+    "maDistance_pct": 0.16,
+    "bb2Confluence_pct": 7.89,
+    "bb3Confluence_pct": 11.6,
     "maKnock_count": 0,
-    "expectedRsi": 56.37
+    "expectedRsi": 55.51
   },
   "metrics": {
-    "maDistance": "+3.25%",
-    "bbConfluence": "8.41%",
+    "maDistance": "+0.16%",
+    "bbConfluence": "7.89%",
     "maKnock": "0 times recently",
-    "expectedRsi": "56.37"
+    "expectedRsi": "55.51"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 72.45,
         "touches": 4,
-        "strength_score": 1.934
+        "strength_score": 1.912
       },
       {
         "price": 74.45,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 84.21,
         "touches": 3,
-        "strength_score": 0.939
+        "strength_score": 0.928
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that COO is currently testing its Daily 100MA support zone near $69.63. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $72.45. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that COO is currently testing its Daily 100MA support zone near $69.5. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $72.45. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-28",
-        "open": 77.83999633789062,
-        "high": 78.48999786376953,
-        "low": 77.48999786376953,
-        "close": 77.93000030517578
-      },
       {
         "time": "2025-12-01",
         "open": 77.58000183105469,
@@ -1099,13 +1092,16 @@
         "high": 74.33000183105469,
         "low": 71.83999633789062,
         "close": 71.88999938964844
+      },
+      {
+        "time": "2026-07-08",
+        "open": 71.0,
+        "high": 71.26499938964844,
+        "low": 69.23999786376953,
+        "close": 69.61000061035156
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-28",
-        "value": 71.04119995117188
-      },
       {
         "time": "2025-12-01",
         "value": 71.04830001831054
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-07-07",
         "value": 69.62979984283447
+      },
+      {
+        "time": "2026-07-08",
+        "value": 69.49539981842041
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-28",
-        "value": 66.4457525498335
-      },
       {
         "time": "2025-12-01",
         "value": 66.55629124959427
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-07-07",
         "value": 63.77362594183293
+      },
+      {
+        "time": "2026-07-08",
+        "value": 64.0111106506534
       }
     ],
     "supportLine": 69.19

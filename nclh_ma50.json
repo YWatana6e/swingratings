@@ -3,66 +3,66 @@
     "ticker": "NCLH",
     "name": "Norwegian Cruise Line Holdings ",
     "market": "NYQ",
-    "price": 18.83,
-    "change": -0.43,
-    "changePercent": -2.23
+    "price": 18.47,
+    "change": -0.36,
+    "changePercent": -1.91
   },
   "score": {
-    "total": 58,
+    "total": 57,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 80%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
     "targetMA_price": 18.37,
-    "maDistance_pct": 2.51,
-    "bb2Confluence_pct": 2.0,
-    "bb3Confluence_pct": 7.43,
+    "maDistance_pct": 0.56,
+    "bb2Confluence_pct": 2.08,
+    "bb3Confluence_pct": 7.55,
     "maKnock_count": 1,
-    "expectedRsi": 42.28
+    "expectedRsi": 42.47
   },
   "metrics": {
-    "maDistance": "+2.51%",
-    "bbConfluence": "2.00%",
+    "maDistance": "+0.56%",
+    "bbConfluence": "2.08%",
     "maKnock": "1 time recently",
-    "expectedRsi": "42.28"
+    "expectedRsi": "42.47"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 22.09,
         "touches": 2,
-        "strength_score": 1.48
+        "strength_score": 1.463
+      },
+      {
+        "price": 23.97,
+        "touches": 3,
+        "strength_score": 0.861
       },
       {
         "price": 20.78,
         "touches": 2,
-        "strength_score": 0.851
+        "strength_score": 0.841
       },
       {
         "price": 19.56,
         "touches": 1,
-        "strength_score": 0.794
-      },
-      {
-        "price": 24.07,
-        "touches": 2,
-        "strength_score": 0.612
+        "strength_score": 0.785
       },
       {
         "price": 19.12,
         "touches": 1,
-        "strength_score": 0.602
+        "strength_score": 0.595
       },
       {
         "price": 21.22,
         "touches": 1,
-        "strength_score": 0.494
+        "strength_score": 0.489
       },
       {
         "price": 25.1,
         "touches": 1,
-        "strength_score": 0.362
+        "strength_score": 0.358
       }
     ],
     "trendline_clusters": []
@@ -70,13 +70,6 @@
   "summary": "The SwingRatings algorithm indicates that NCLH is currently testing its Daily 50MA support zone near $18.37. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $22.09. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-11-28",
-        "open": 18.420000076293945,
-        "high": 18.719999313354492,
-        "low": 18.420000076293945,
-        "close": 18.459999084472656
-      },
       {
         "time": "2025-12-01",
         "open": 18.219999313354492,
@@ -1117,15 +1110,18 @@
         "time": "2026-07-07",
         "open": 19.200000762939453,
         "high": 19.3700008392334,
-        "low": 18.594999313354492,
+        "low": 18.600000381469727,
         "close": 18.829999923706055
+      },
+      {
+        "time": "2026-07-08",
+        "open": 18.350000381469727,
+        "high": 18.59000015258789,
+        "low": 18.0,
+        "close": 18.469999313354492
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-11-28",
-        "value": 21.805000076293947
-      },
       {
         "time": "2025-12-01",
         "value": 21.671800079345704
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-07-07",
         "value": 18.368600025177003
+      },
+      {
+        "time": "2026-07-08",
+        "value": 18.367800006866457
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-11-28",
-        "value": 16.18436505509947
-      },
       {
         "time": "2025-12-01",
         "value": 16.63275807524541
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-07-07",
         "value": 18.001336763990835
+      },
+      {
+        "time": "2026-07-08",
+        "value": 17.985464204695052
       }
     ],
     "supportLine": 18.96
