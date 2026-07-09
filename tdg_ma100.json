@@ -3,65 +3,58 @@
     "ticker": "TDG",
     "name": "Transdigm Group Incorporated",
     "market": "NYQ",
-    "price": 1296.43,
-    "change": -33.2,
-    "changePercent": -2.5
+    "price": 1295.71,
+    "change": -0.72,
+    "changePercent": -0.06
   },
   "score": {
-    "total": 30,
+    "total": 28,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 33%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
     "targetMA_price": 1240.3,
-    "maDistance_pct": 4.53,
-    "bb2Confluence_pct": 0.49,
-    "bb3Confluence_pct": 3.28,
+    "maDistance_pct": 4.47,
+    "bb2Confluence_pct": 0.08,
+    "bb3Confluence_pct": 2.74,
     "maKnock_count": 1,
-    "expectedRsi": 43.04
+    "expectedRsi": 42.54
   },
   "metrics": {
-    "maDistance": "+4.53%",
-    "bbConfluence": "0.49%",
+    "maDistance": "+4.47%",
+    "bbConfluence": "0.08%",
     "maKnock": "1 time recently",
-    "expectedRsi": "43.04"
+    "expectedRsi": "42.54"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 1347.2,
         "touches": 6,
-        "strength_score": 3.782
+        "strength_score": 3.738
       },
       {
         "price": 1440.87,
         "touches": 1,
-        "strength_score": 0.291
+        "strength_score": 0.287
       },
       {
         "price": 1463.03,
         "touches": 1,
-        "strength_score": 0.259
+        "strength_score": 0.256
       }
     ],
     "trendline_clusters": [
       {
-        "price": 1336.97,
+        "price": 1336.94,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that TDG is currently testing its Daily 100MA support zone near $1240.3. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1347.20 and a significant trendline confluence around $1336.97 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TDG is currently testing its Daily 100MA support zone near $1240.3. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1347.20 and a significant trendline confluence around $1336.94 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-01",
-        "open": 1351.06005859375,
-        "high": 1359.1700439453125,
-        "low": 1340.0400390625,
-        "close": 1354.8599853515625
-      },
       {
         "time": "2025-12-02",
         "open": 1360.0,
@@ -1101,16 +1094,19 @@
       {
         "time": "2026-07-08",
         "open": 1310.8699951171875,
-        "high": 1318.85498046875,
-        "low": 1288.0001220703125,
+        "high": 1318.8599853515625,
+        "low": 1288.0,
         "close": 1296.4300537109375
+      },
+      {
+        "time": "2026-07-09",
+        "open": 1297.760009765625,
+        "high": 1304.33984375,
+        "low": 1289.4150390625,
+        "close": 1295.7099609375
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-01",
-        "value": 1337.205145263672
-      },
       {
         "time": "2025-12-02",
         "value": 1336.203994140625
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-07-08",
         "value": 1240.3033972167968
+      },
+      {
+        "time": "2026-07-09",
+        "value": 1240.3007971191407
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-01",
-        "value": 1262.1936631236817
-      },
       {
         "time": "2025-12-02",
         "value": 1264.508023147864
@@ -2308,8 +2304,12 @@
       {
         "time": "2026-07-08",
         "value": 1234.2126132028848
+      },
+      {
+        "time": "2026-07-09",
+        "value": 1239.3016651729843
       }
     ],
-    "supportLine": 1133.07
+    "supportLine": 1276.88
   }
 }
