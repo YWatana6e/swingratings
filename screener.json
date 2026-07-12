@@ -195,6 +195,19 @@
     "expected_rsi": 49.25
   },
   {
+    "ticker": "J",
+    "name": "Jacobs Solutions Inc.",
+    "price": 125.83,
+    "changePercent": -0.01,
+    "score": 21,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.23,
+    "bb_confluence": 2.2,
+    "expected_rsi": 46.85
+  },
+  {
     "ticker": "MRK",
     "name": "Merck & Company, Inc.",
     "price": 123.54,
@@ -219,19 +232,6 @@
     "ma_distance": 0.41,
     "bb_confluence": 7.28,
     "expected_rsi": 51.83
-  },
-  {
-    "ticker": "J",
-    "name": "Jacobs Solutions Inc.",
-    "price": 125.83,
-    "changePercent": -0.01,
-    "score": 19,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.23,
-    "bb_confluence": 2.2,
-    "expected_rsi": 46.85
   },
   {
     "ticker": "MAA",
@@ -260,19 +260,6 @@
     "expected_rsi": 51.32
   },
   {
-    "ticker": "AGO",
-    "name": "Assured Guaranty Ltd.",
-    "price": 82.1,
-    "changePercent": -0.48,
-    "score": 14,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.87,
-    "bb_confluence": 8.35,
-    "expected_rsi": 56.89
-  },
-  {
     "ticker": "EFX",
     "name": "Equifax, Inc.",
     "price": 166.44,
@@ -284,6 +271,19 @@
     "ma_distance": 0.71,
     "bb_confluence": 10.21,
     "expected_rsi": 52.12
+  },
+  {
+    "ticker": "AGO",
+    "name": "Assured Guaranty Ltd.",
+    "price": 82.1,
+    "changePercent": -0.48,
+    "score": 14,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.87,
+    "bb_confluence": 8.35,
+    "expected_rsi": 56.89
   },
   {
     "ticker": "BA",
