@@ -3,89 +3,63 @@
     "ticker": "ALK",
     "name": "Alaska Air Group, Inc.",
     "market": "NYQ",
-    "price": 47.53,
-    "change": -1.56,
-    "changePercent": -3.18
+    "price": 46.8,
+    "change": -2.62,
+    "changePercent": -5.3
   },
   "score": {
-    "total": 50,
-    "stars": 2.5,
+    "total": 65,
+    "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 46.09,
-    "maDistance_pct": 3.12,
-    "bb2Confluence_pct": 5.09,
-    "bb3Confluence_pct": 11.15,
-    "maKnock_count": 0,
-    "expectedRsi": 45.11
+    "targetMA_price": 45.99,
+    "maDistance_pct": 1.76,
+    "bb2Confluence_pct": 0.45,
+    "bb3Confluence_pct": 3.67,
+    "maKnock_count": 1,
+    "expectedRsi": 44.86
   },
   "metrics": {
-    "maDistance": "+3.12%",
-    "bbConfluence": "5.09%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "45.11"
+    "maDistance": "+1.76%",
+    "bbConfluence": "0.45%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "44.86"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 53.86,
         "touches": 3,
-        "strength_score": 2.158
+        "strength_score": 2.085
       },
       {
         "price": 47.6,
         "touches": 2,
-        "strength_score": 1.27
+        "strength_score": 1.227
       },
       {
         "price": 51.5,
         "touches": 1,
-        "strength_score": 0.841
+        "strength_score": 0.812
       },
       {
         "price": 56.43,
         "touches": 1,
-        "strength_score": 0.354
+        "strength_score": 0.342
       },
       {
         "price": 60.63,
         "touches": 1,
-        "strength_score": 0.308
-      },
-      {
-        "price": 50.33,
-        "touches": 1,
-        "strength_score": 0.259
+        "strength_score": 0.297
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ALK is currently testing its Daily 200MA support zone near $46.09. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $53.86. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ALK is currently testing its Daily 200MA support zone near $45.99. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $53.86. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-01",
-        "open": 42.119998931884766,
-        "high": 42.88999938964844,
-        "low": 41.720001220703125,
-        "close": 42.52000045776367
-      },
-      {
-        "time": "2025-12-02",
-        "open": 42.61000061035156,
-        "high": 43.810001373291016,
-        "low": 42.349998474121094,
-        "close": 42.65999984741211
-      },
-      {
-        "time": "2025-12-03",
-        "open": 42.880001068115234,
-        "high": 45.599998474121094,
-        "low": 42.849998474121094,
-        "close": 45.369998931884766
-      },
       {
         "time": "2025-12-04",
         "open": 46.0099983215332,
@@ -1114,21 +1088,30 @@
         "high": 48.130001068115234,
         "low": 46.099998474121094,
         "close": 47.529998779296875
+      },
+      {
+        "time": "2026-07-09",
+        "open": 48.0,
+        "high": 50.560001373291016,
+        "low": 47.91999816894531,
+        "close": 50.13999938964844
+      },
+      {
+        "time": "2026-07-10",
+        "open": 50.83000183105469,
+        "high": 50.849998474121094,
+        "low": 48.61000061035156,
+        "close": 49.41999816894531
+      },
+      {
+        "time": "2026-07-13",
+        "open": 49.13999938964844,
+        "high": 49.5,
+        "low": 46.58000183105469,
+        "close": 46.79999923706055
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-01",
-        "value": 51.89885005950928
-      },
-      {
-        "time": "2025-12-02",
-        "value": 51.73345006942749
-      },
-      {
-        "time": "2025-12-03",
-        "value": 51.58360008239746
-      },
       {
         "time": "2025-12-04",
         "value": 51.43720008850098
@@ -1716,21 +1699,21 @@
       {
         "time": "2026-07-08",
         "value": 46.09089996337891
+      },
+      {
+        "time": "2026-07-09",
+        "value": 46.05534996032715
+      },
+      {
+        "time": "2026-07-10",
+        "value": 46.02854995727539
+      },
+      {
+        "time": "2026-07-13",
+        "value": 45.99184995651245
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-01",
-        "value": 37.99534628217794
-      },
-      {
-        "time": "2025-12-02",
-        "value": 38.00623799423377
-      },
-      {
-        "time": "2025-12-03",
-        "value": 37.806541948981916
-      },
       {
         "time": "2025-12-04",
         "value": 37.27644031722301
@@ -2318,6 +2301,18 @@
       {
         "time": "2026-07-08",
         "value": 43.74569214277297
+      },
+      {
+        "time": "2026-07-09",
+        "value": 44.333779280826434
+      },
+      {
+        "time": "2026-07-10",
+        "value": 46.166283868408684
+      },
+      {
+        "time": "2026-07-13",
+        "value": 46.19723955066196
       }
     ],
     "supportLine": 36.3
