@@ -3,50 +3,48 @@
     "ticker": "EW",
     "name": "Edwards Lifesciences Corporatio",
     "market": "NYQ",
-    "price": 90.09,
-    "change": -1.7,
-    "changePercent": -1.85
+    "price": 87.27,
+    "change": -2.82,
+    "changePercent": -3.13
   },
   "score": {
-    "total": 18,
-    "stars": 1.0,
+    "total": 12,
+    "stars": 0.5,
     "note": "/ 100 (Win Rate: 36%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 86.69,
-    "maDistance_pct": 3.92,
-    "bb2Confluence_pct": 2.08,
-    "bb3Confluence_pct": 5.29,
+    "targetMA_price": 86.76,
+    "maDistance_pct": 0.59,
+    "bb2Confluence_pct": 1.95,
+    "bb3Confluence_pct": 5.08,
     "maKnock_count": 1,
-    "expectedRsi": 43.36
+    "expectedRsi": 43.77
   },
   "metrics": {
-    "maDistance": "+3.92%",
-    "bbConfluence": "2.08%",
+    "maDistance": "+0.59%",
+    "bbConfluence": "1.95%",
     "maKnock": "1 time recently",
-    "expectedRsi": "43.36"
+    "expectedRsi": "43.77"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 89.41,
+        "touches": 3,
+        "strength_score": 2.251
+      },
+      {
         "price": 96.29,
         "touches": 1,
-        "strength_score": 0.944
+        "strength_score": 0.933
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $86.69. Based on historical price action, bounces from this level have yielded a win rate of 35.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $96.29. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $86.76. Based on historical price action, bounces from this level have yielded a win rate of 35.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $89.41. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-05",
-        "open": 86.30999755859375,
-        "high": 87.88999938964844,
-        "low": 85.94999694824219,
-        "close": 86.19000244140625
-      },
       {
         "time": "2025-12-08",
         "open": 86.01000213623047,
@@ -1086,16 +1084,19 @@
       {
         "time": "2026-07-14",
         "open": 90.4800033569336,
-        "high": 90.4000015258789,
+        "high": 90.62999725341797,
         "low": 88.19999694824219,
         "close": 90.08999633789062
+      },
+      {
+        "time": "2026-07-15",
+        "open": 89.22000122070312,
+        "high": 89.76000213623047,
+        "low": 86.88500213623047,
+        "close": 87.2699966430664
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-05",
-        "value": 80.72699981689453
-      },
       {
         "time": "2025-12-08",
         "value": 80.88839981079101
@@ -1691,13 +1692,13 @@
       {
         "time": "2026-07-14",
         "value": 86.69100021362304
+      },
+      {
+        "time": "2026-07-15",
+        "value": 86.75680007934571
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-05",
-        "value": 83.2490079440906
-      },
       {
         "time": "2025-12-08",
         "value": 83.43267582722274
@@ -2293,6 +2294,10 @@
       {
         "time": "2026-07-14",
         "value": 84.88401843496501
+      },
+      {
+        "time": "2026-07-15",
+        "value": 85.06669433840463
       }
     ],
     "supportLine": 80.43
