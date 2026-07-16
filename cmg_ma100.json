@@ -3,75 +3,63 @@
     "ticker": "CMG",
     "name": "Chipotle Mexican Grill, Inc.",
     "market": "NYQ",
-    "price": 34.63,
-    "change": -1.8,
-    "changePercent": -4.94
+    "price": 34.2,
+    "change": -0.43,
+    "changePercent": -1.24
   },
   "score": {
-    "total": 4,
-    "stars": 0.0,
+    "total": 5,
+    "stars": 0.5,
     "note": "/ 100 (Win Rate: 43%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 33.42,
-    "maDistance_pct": 3.61,
-    "bb2Confluence_pct": 9.38,
-    "bb3Confluence_pct": 14.36,
+    "targetMA_price": 33.39,
+    "maDistance_pct": 2.43,
+    "bb2Confluence_pct": 8.97,
+    "bb3Confluence_pct": 13.93,
     "maKnock_count": 1,
-    "expectedRsi": 50.37
+    "expectedRsi": 50.05
   },
   "metrics": {
-    "maDistance": "+3.61%",
-    "bbConfluence": "9.38%",
+    "maDistance": "+2.43%",
+    "bbConfluence": "8.97%",
     "maKnock": "1 time recently",
-    "expectedRsi": "50.37"
+    "expectedRsi": "50.05"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 35.23,
         "touches": 4,
-        "strength_score": 2.315
+        "strength_score": 2.289
       },
       {
         "price": 37.21,
         "touches": 3,
-        "strength_score": 1.854
+        "strength_score": 1.832
       },
       {
         "price": 38.34,
         "touches": 1,
-        "strength_score": 0.334
+        "strength_score": 0.33
       },
       {
         "price": 39.2,
         "touches": 1,
-        "strength_score": 0.311
+        "strength_score": 0.308
       },
       {
         "price": 40.41,
         "touches": 1,
-        "strength_score": 0.284
-      },
-      {
-        "price": 41.33,
-        "touches": 1,
-        "strength_score": 0.256
+        "strength_score": 0.281
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CMG is currently testing its Daily 100MA support zone near $33.42. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $35.23. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CMG is currently testing its Daily 100MA support zone near $33.39. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $35.23. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-08",
-        "open": 34.650001525878906,
-        "high": 34.65999984741211,
-        "low": 33.529998779296875,
-        "close": 33.61000061035156
-      },
       {
         "time": "2025-12-09",
         "open": 33.5,
@@ -1111,16 +1099,19 @@
       {
         "time": "2026-07-15",
         "open": 36.77000045776367,
-        "high": 36.66999816894531,
+        "high": 36.77000045776367,
         "low": 34.54999923706055,
         "close": 34.630001068115234
+      },
+      {
+        "time": "2026-07-16",
+        "open": 34.60499954223633,
+        "high": 34.91999816894531,
+        "low": 33.904998779296875,
+        "close": 34.20000076293945
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-08",
-        "value": 39.44500003814697
-      },
       {
         "time": "2025-12-09",
         "value": 39.24300003051758
@@ -1716,13 +1707,13 @@
       {
         "time": "2026-07-15",
         "value": 33.42300014495849
+      },
+      {
+        "time": "2026-07-16",
+        "value": 33.38960014343262
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-08",
-        "value": 29.096007990077027
-      },
       {
         "time": "2025-12-09",
         "value": 29.31486177254461
@@ -2318,6 +2309,10 @@
       {
         "time": "2026-07-15",
         "value": 30.28917891724642
+      },
+      {
+        "time": "2026-07-16",
+        "value": 30.393178579048378
       }
     ],
     "supportLine": 31.98

@@ -3,89 +3,82 @@
     "ticker": "NOW",
     "name": "ServiceNow, Inc.",
     "market": "NYQ",
-    "price": 104.73,
-    "change": -0.12,
-    "changePercent": -0.11
+    "price": 104.01,
+    "change": -0.72,
+    "changePercent": -0.69
   },
   "score": {
-    "total": 17,
+    "total": 16,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 102.88,
-    "maDistance_pct": 1.8,
-    "bb2Confluence_pct": 13.38,
-    "bb3Confluence_pct": 19.58,
+    "targetMA_price": 103.12,
+    "maDistance_pct": 0.86,
+    "bb2Confluence_pct": 13.48,
+    "bb3Confluence_pct": 19.69,
     "maKnock_count": 1,
-    "expectedRsi": 49.09
+    "expectedRsi": 49.36
   },
   "metrics": {
-    "maDistance": "+1.80%",
-    "bbConfluence": "13.38%",
+    "maDistance": "+0.86%",
+    "bbConfluence": "13.48%",
     "maKnock": "1 time recently",
-    "expectedRsi": "49.09"
+    "expectedRsi": "49.36"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 113.41,
         "touches": 2,
-        "strength_score": 1.91
+        "strength_score": 1.888
       },
       {
         "price": 105.55,
         "touches": 3,
-        "strength_score": 1.408
+        "strength_score": 1.392
       },
       {
         "price": 110.84,
         "touches": 2,
-        "strength_score": 0.952
+        "strength_score": 0.942
       },
       {
         "price": 139.2,
         "touches": 1,
-        "strength_score": 0.707
+        "strength_score": 0.699
       },
       {
         "price": 118.99,
         "touches": 1,
-        "strength_score": 0.388
+        "strength_score": 0.383
       },
       {
         "price": 126.67,
         "touches": 1,
-        "strength_score": 0.362
+        "strength_score": 0.358
       },
       {
         "price": 136.63,
         "touches": 1,
-        "strength_score": 0.259
+        "strength_score": 0.256
       }
     ],
     "trendline_clusters": [
       {
-        "price": 112.48,
+        "price": 112.3,
         "count": 2
       },
       {
-        "price": 112.96,
+        "price": 113.2,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that NOW is currently testing its Daily 50MA support zone near $102.88. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $113.41 and a significant trendline confluence around $112.48 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that NOW is currently testing its Daily 50MA support zone near $103.12. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $113.41 and a significant trendline confluence around $112.30 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-08",
-        "open": 170.84800720214844,
-        "high": 174.39599609375,
-        "low": 170.08599853515625,
-        "close": 170.70399475097656
-      },
       {
         "time": "2025-12-09",
         "open": 170.52200317382812,
@@ -1128,13 +1121,16 @@
         "high": 108.75,
         "low": 104.33000183105469,
         "close": 104.7300033569336
+      },
+      {
+        "time": "2026-07-16",
+        "open": 104.94000244140625,
+        "high": 105.8550033569336,
+        "low": 99.30999755859375,
+        "close": 104.01000213623047
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-08",
-        "value": 176.17347961425781
-      },
       {
         "time": "2025-12-09",
         "value": 175.82971954345703
@@ -1730,13 +1726,13 @@
       {
         "time": "2026-07-15",
         "value": 102.87800064086915
+      },
+      {
+        "time": "2026-07-16",
+        "value": 103.11880065917968
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-08",
-        "value": 158.49180229298102
-      },
       {
         "time": "2025-12-09",
         "value": 158.70001809752196
@@ -2332,6 +2328,10 @@
       {
         "time": "2026-07-15",
         "value": 89.11446568212926
+      },
+      {
+        "time": "2026-07-16",
+        "value": 89.21827702452617
       }
     ],
     "supportLine": 85.66
