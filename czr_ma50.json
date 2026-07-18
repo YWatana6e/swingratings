@@ -1,7 +1,7 @@
 {
   "meta": {
     "ticker": "CZR",
-    "name": "Caesars Entertainment, Inc.",
+    "name": "CZR",
     "market": "NMS",
     "price": 29.86,
     "change": -0.05,
@@ -1094,7 +1094,7 @@
       },
       {
         "time": "2026-07-17",
-        "open": 29.834999084472656,
+        "open": 29.93000030517578,
         "high": 30.0049991607666,
         "low": 29.75,
         "close": 29.860000610351562
