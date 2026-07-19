@@ -1,7 +1,7 @@
 [
   {
     "ticker": "FCX",
-    "name": "FCX",
+    "name": "Freeport-McMoRan, Inc.",
     "price": 58.38,
     "changePercent": -0.31,
     "score": 86,
@@ -40,7 +40,7 @@
   },
   {
     "ticker": "BWA",
-    "name": "BWA",
+    "name": "BorgWarner Inc.",
     "price": 62.44,
     "changePercent": -0.53,
     "score": 79,
@@ -66,7 +66,7 @@
   },
   {
     "ticker": "CZR",
-    "name": "CZR",
+    "name": "Caesars Entertainment, Inc.",
     "price": 29.86,
     "changePercent": -0.17,
     "score": 73,
@@ -92,7 +92,7 @@
   },
   {
     "ticker": "APH",
-    "name": "APH",
+    "name": "Amphenol Corporation",
     "price": 151.2,
     "changePercent": -1.27,
     "score": 65,
@@ -235,7 +235,7 @@
   },
   {
     "ticker": "JCI",
-    "name": "JCI",
+    "name": "Johnson Controls International ",
     "price": 140.46,
     "changePercent": -0.57,
     "score": 47,
@@ -313,7 +313,7 @@
   },
   {
     "ticker": "AER",
-    "name": "AER",
+    "name": "AerCap Holdings N.V.",
     "price": 146.97,
     "changePercent": -0.13,
     "score": 38,
@@ -404,7 +404,7 @@
   },
   {
     "ticker": "ADI",
-    "name": "ADI",
+    "name": "Analog Devices, Inc.",
     "price": 375.36,
     "changePercent": -1.36,
     "score": 34,
@@ -430,7 +430,7 @@
   },
   {
     "ticker": "GS",
-    "name": "GS",
+    "name": "Goldman Sachs Group, Inc. (The)",
     "price": 1065.22,
     "changePercent": -2.76,
     "score": 29,
@@ -456,7 +456,7 @@
   },
   {
     "ticker": "AER",
-    "name": "AER",
+    "name": "AerCap Holdings N.V.",
     "price": 146.97,
     "changePercent": -0.13,
     "score": 28,
@@ -469,7 +469,7 @@
   },
   {
     "ticker": "BLK",
-    "name": "BLK",
+    "name": "BlackRock, Inc.",
     "price": 1072.2,
     "changePercent": -1.37,
     "score": 27,
@@ -625,7 +625,7 @@
   },
   {
     "ticker": "BLK",
-    "name": "BLK",
+    "name": "BlackRock, Inc.",
     "price": 1072.2,
     "changePercent": -1.37,
     "score": 0,
