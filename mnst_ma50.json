@@ -3,50 +3,43 @@
     "ticker": "MNST",
     "name": "Monster Beverage Corporation",
     "market": "NMS",
-    "price": 95.45,
-    "change": -2.05,
-    "changePercent": -2.1
+    "price": 94.46,
+    "change": -0.99,
+    "changePercent": -1.04
   },
   "score": {
-    "total": 33,
+    "total": 30,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 91.61,
-    "maDistance_pct": 4.19,
-    "bb2Confluence_pct": 2.01,
-    "bb3Confluence_pct": 0.32,
+    "targetMA_price": 91.98,
+    "maDistance_pct": 2.69,
+    "bb2Confluence_pct": 1.98,
+    "bb3Confluence_pct": 0.45,
     "maKnock_count": 0,
-    "expectedRsi": 42.74
+    "expectedRsi": 43.31
   },
   "metrics": {
-    "maDistance": "+4.19%",
-    "bbConfluence": "2.01%",
+    "maDistance": "+2.69%",
+    "bbConfluence": "1.98%",
     "maKnock": "0 times recently",
-    "expectedRsi": "42.74"
+    "expectedRsi": "43.31"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 99.74,
         "touches": 2,
-        "strength_score": 1.89
+        "strength_score": 1.868
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 50MA support zone near $91.61. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.74. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 50MA support zone near $91.98. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.74. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-11",
-        "open": 74.0,
-        "high": 74.22000122070312,
-        "low": 72.25,
-        "close": 72.48999786376953
-      },
       {
         "time": "2025-12-12",
         "open": 72.94000244140625,
@@ -1085,17 +1078,20 @@
       },
       {
         "time": "2026-07-20",
-        "open": 97.33000183105469,
+        "open": 97.25,
         "high": 97.97000122070312,
         "low": 95.36000061035156,
         "close": 95.44999694824219
+      },
+      {
+        "time": "2026-07-21",
+        "open": 95.69000244140625,
+        "high": 95.7699966430664,
+        "low": 93.77999877929688,
+        "close": 94.45999908447266
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-11",
-        "value": 70.52160049438477
-      },
       {
         "time": "2025-12-12",
         "value": 70.64940048217774
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-07-20",
         "value": 91.6116000366211
+      },
+      {
+        "time": "2026-07-21",
+        "value": 91.98139999389649
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-11",
-        "value": 70.74982283830447
-      },
       {
         "time": "2025-12-12",
         "value": 71.10430541276132
@@ -1720,7 +1716,7 @@
       },
       {
         "time": "2025-12-19",
-        "value": 72.16132347295752
+        "value": 72.1613234729575
       },
       {
         "time": "2025-12-22",
@@ -1792,7 +1788,7 @@
       },
       {
         "time": "2026-01-16",
-        "value": 75.32024424322996
+        "value": 75.32024424322995
       },
       {
         "time": "2026-01-20",
@@ -1800,7 +1796,7 @@
       },
       {
         "time": "2026-01-21",
-        "value": 74.58970314259811
+        "value": 74.5897031425981
       },
       {
         "time": "2026-01-22",
@@ -1832,7 +1828,7 @@
       },
       {
         "time": "2026-02-02",
-        "value": 74.82961028816848
+        "value": 74.82961028816847
       },
       {
         "time": "2026-02-03",
@@ -1856,7 +1852,7 @@
       },
       {
         "time": "2026-02-10",
-        "value": 77.80780125484958
+        "value": 77.80780125484956
       },
       {
         "time": "2026-02-11",
@@ -1900,7 +1896,7 @@
       },
       {
         "time": "2026-02-26",
-        "value": 78.70102312413218
+        "value": 78.70102312413216
       },
       {
         "time": "2026-02-27",
@@ -1952,7 +1948,7 @@
       },
       {
         "time": "2026-03-17",
-        "value": 72.79777746856611
+        "value": 72.7977774685661
       },
       {
         "time": "2026-03-18",
@@ -2293,6 +2289,10 @@
       {
         "time": "2026-07-20",
         "value": 93.45622855656771
+      },
+      {
+        "time": "2026-07-21",
+        "value": 93.80564483712698
       }
     ],
     "supportLine": 87.57

@@ -3,50 +3,43 @@
     "ticker": "IQV",
     "name": "IQVIA Holdings, Inc.",
     "market": "NYQ",
-    "price": 203.9,
-    "change": -2.36,
-    "changePercent": -1.14
+    "price": 201.62,
+    "change": -2.28,
+    "changePercent": -1.12
   },
   "score": {
-    "total": 39,
+    "total": 40,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 80%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 196.63,
-    "maDistance_pct": 3.7,
-    "bb2Confluence_pct": 11.42,
-    "bb3Confluence_pct": 17.7,
+    "targetMA_price": 196.62,
+    "maDistance_pct": 2.55,
+    "bb2Confluence_pct": 8.26,
+    "bb3Confluence_pct": 13.39,
     "maKnock_count": 1,
-    "expectedRsi": 51.66
+    "expectedRsi": 51.35
   },
   "metrics": {
-    "maDistance": "+3.70%",
-    "bbConfluence": "11.42%",
+    "maDistance": "+2.55%",
+    "bbConfluence": "8.26%",
     "maKnock": "1 time recently",
-    "expectedRsi": "51.66"
+    "expectedRsi": "51.35"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 211.73,
         "touches": 2,
-        "strength_score": 1.845
+        "strength_score": 1.824
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 200MA support zone near $196.63. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.73. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 200MA support zone near $196.62. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.73. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-11",
-        "open": 223.0399932861328,
-        "high": 226.0800018310547,
-        "low": 221.66000366210938,
-        "close": 225.97999572753906
-      },
       {
         "time": "2025-12-12",
         "open": 226.0500030517578,
@@ -1089,13 +1082,16 @@
         "high": 205.5399932861328,
         "low": 201.3300018310547,
         "close": 203.89999389648438
+      },
+      {
+        "time": "2026-07-21",
+        "open": 198.88499450683594,
+        "high": 203.96499633789062,
+        "low": 198.88499450683594,
+        "close": 201.6199951171875
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-11",
-        "value": 181.11820007324218
-      },
       {
         "time": "2025-12-12",
         "value": 181.29700004577637
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-07-20",
         "value": 196.62619972229004
+      },
+      {
+        "time": "2026-07-21",
+        "value": 196.61534973144532
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-11",
-        "value": 214.43914369866795
-      },
       {
         "time": "2025-12-12",
         "value": 214.3441101461916
@@ -1708,7 +1704,7 @@
       },
       {
         "time": "2025-12-16",
-        "value": 215.54882841627472
+        "value": 215.5488284162747
       },
       {
         "time": "2025-12-17",
@@ -1716,59 +1712,59 @@
       },
       {
         "time": "2025-12-18",
-        "value": 217.10145433233492
+        "value": 217.1014543323349
       },
       {
         "time": "2025-12-19",
-        "value": 217.86123959053518
+        "value": 217.86123959053515
       },
       {
         "time": "2025-12-22",
-        "value": 217.82836120964862
+        "value": 217.8283612096486
       },
       {
         "time": "2025-12-23",
-        "value": 217.8194734332958
+        "value": 217.81947343329577
       },
       {
         "time": "2025-12-24",
-        "value": 218.26467188710677
+        "value": 218.26467188710674
       },
       {
         "time": "2025-12-26",
-        "value": 218.82045799936412
+        "value": 218.82045799936407
       },
       {
         "time": "2025-12-29",
-        "value": 219.14124552011796
+        "value": 219.14124552011793
       },
       {
         "time": "2025-12-30",
-        "value": 219.22278491574474
+        "value": 219.2227849157447
       },
       {
         "time": "2025-12-31",
-        "value": 219.22371935122567
+        "value": 219.2237193512256
       },
       {
         "time": "2026-01-02",
-        "value": 219.29792049919035
+        "value": 219.2979204991903
       },
       {
         "time": "2026-01-05",
-        "value": 217.93756791376225
+        "value": 217.93756791376222
       },
       {
         "time": "2026-01-06",
-        "value": 215.68332360285928
+        "value": 215.68332360285925
       },
       {
         "time": "2026-01-07",
-        "value": 213.69541485040304
+        "value": 213.695414850403
       },
       {
         "time": "2026-01-08",
-        "value": 213.56943476806293
+        "value": 213.5694347680629
       },
       {
         "time": "2026-01-09",
@@ -1784,7 +1780,7 @@
       },
       {
         "time": "2026-01-14",
-        "value": 214.18692609939362
+        "value": 214.1869260993936
       },
       {
         "time": "2026-01-15",
@@ -1804,7 +1800,7 @@
       },
       {
         "time": "2026-01-22",
-        "value": 221.1050637074042
+        "value": 221.10506370740418
       },
       {
         "time": "2026-01-23",
@@ -1820,7 +1816,7 @@
       },
       {
         "time": "2026-01-28",
-        "value": 226.62965582692138
+        "value": 226.62965582692135
       },
       {
         "time": "2026-01-29",
@@ -1832,7 +1828,7 @@
       },
       {
         "time": "2026-02-02",
-        "value": 230.9426466791661
+        "value": 230.94264667916607
       },
       {
         "time": "2026-02-03",
@@ -1864,7 +1860,7 @@
       },
       {
         "time": "2026-02-12",
-        "value": 165.54663439080025
+        "value": 165.54663439080022
       },
       {
         "time": "2026-02-13",
@@ -2293,6 +2289,10 @@
       {
         "time": "2026-07-20",
         "value": 174.163174938828
+      },
+      {
+        "time": "2026-07-21",
+        "value": 180.3682275829721
       }
     ],
     "supportLine": 161.34

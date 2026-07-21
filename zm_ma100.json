@@ -3,9 +3,9 @@
     "ticker": "ZM",
     "name": "Zoom Communications, Inc.",
     "market": "NMS",
-    "price": 90.91,
-    "change": -0.22,
-    "changePercent": -0.24
+    "price": 89.77,
+    "change": -1.14,
+    "changePercent": -1.25
   },
   "score": {
     "total": 22,
@@ -14,64 +14,57 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 89.48,
-    "maDistance_pct": 1.6,
-    "bb2Confluence_pct": 8.01,
-    "bb3Confluence_pct": 11.28,
+    "targetMA_price": 89.52,
+    "maDistance_pct": 0.28,
+    "bb2Confluence_pct": 7.48,
+    "bb3Confluence_pct": 10.62,
     "maKnock_count": 2,
-    "expectedRsi": 48.3
+    "expectedRsi": 48.47
   },
   "metrics": {
-    "maDistance": "+1.60%",
-    "bbConfluence": "8.01%",
+    "maDistance": "+0.28%",
+    "bbConfluence": "7.48%",
     "maKnock": "2 times recently",
-    "expectedRsi": "48.3"
+    "expectedRsi": "48.47"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 94.48,
         "touches": 2,
-        "strength_score": 1.471
+        "strength_score": 1.455
       },
       {
         "price": 114.24,
         "touches": 2,
-        "strength_score": 1.328
+        "strength_score": 1.312
       },
       {
         "price": 91.09,
         "touches": 1,
-        "strength_score": 0.871
+        "strength_score": 0.861
       },
       {
         "price": 111.56,
         "touches": 1,
-        "strength_score": 0.581
+        "strength_score": 0.574
       },
       {
         "price": 109.5,
         "touches": 1,
-        "strength_score": 0.555
+        "strength_score": 0.548
       },
       {
-        "price": 97.05,
-        "touches": 2,
-        "strength_score": 0.54
+        "price": 96.52,
+        "touches": 1,
+        "strength_score": 0.281
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ZM is currently testing its Daily 100MA support zone near $89.48. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $94.48. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ZM is currently testing its Daily 100MA support zone near $89.52. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $94.48. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-11",
-        "open": 88.04000091552734,
-        "high": 90.62000274658203,
-        "low": 87.91999816894531,
-        "close": 90.23999786376953
-      },
       {
         "time": "2025-12-12",
         "open": 90.36000061035156,
@@ -1114,13 +1107,16 @@
         "high": 91.86000061035156,
         "low": 89.30000305175781,
         "close": 90.91000366210938
+      },
+      {
+        "time": "2026-07-21",
+        "open": 89.55000305175781,
+        "high": 90.99500274658203,
+        "low": 89.0999984741211,
+        "close": 89.7699966430664
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-11",
-        "value": 80.98974975585938
-      },
       {
         "time": "2025-12-12",
         "value": 81.12444969177245
@@ -1716,16 +1712,16 @@
       {
         "time": "2026-07-20",
         "value": 89.48019973754883
+      },
+      {
+        "time": "2026-07-21",
+        "value": 89.52359970092773
       }
     ],
     "bbLower": [
       {
-        "time": "2025-12-11",
-        "value": 77.56015422273857
-      },
-      {
         "time": "2025-12-12",
-        "value": 77.48271225363378
+        "value": 77.48271225363376
       },
       {
         "time": "2025-12-15",
@@ -1733,11 +1729,11 @@
       },
       {
         "time": "2025-12-16",
-        "value": 77.86775640739624
+        "value": 77.86775640739623
       },
       {
         "time": "2025-12-17",
-        "value": 78.29011802286831
+        "value": 78.2901180228683
       },
       {
         "time": "2025-12-18",
@@ -1753,43 +1749,43 @@
       },
       {
         "time": "2025-12-23",
-        "value": 83.7432403846112
+        "value": 83.74324038461118
       },
       {
         "time": "2025-12-24",
-        "value": 83.84947319797179
+        "value": 83.84947319797178
       },
       {
         "time": "2025-12-26",
-        "value": 84.31275673056972
+        "value": 84.3127567305697
       },
       {
         "time": "2025-12-29",
-        "value": 84.55507493576376
+        "value": 84.55507493576374
       },
       {
         "time": "2025-12-30",
-        "value": 84.81377437732998
+        "value": 84.81377437732996
       },
       {
         "time": "2025-12-31",
-        "value": 85.1959191722523
+        "value": 85.19591917225229
       },
       {
         "time": "2026-01-02",
-        "value": 84.55480336521296
+        "value": 84.55480336521295
       },
       {
         "time": "2026-01-05",
-        "value": 84.54843678079861
+        "value": 84.5484367807986
       },
       {
         "time": "2026-01-06",
-        "value": 84.33307562604752
+        "value": 84.3330756260475
       },
       {
         "time": "2026-01-07",
-        "value": 84.23916317648583
+        "value": 84.23916317648582
       },
       {
         "time": "2026-01-08",
@@ -1797,15 +1793,15 @@
       },
       {
         "time": "2026-01-09",
-        "value": 83.75894022646139
+        "value": 83.75894022646138
       },
       {
         "time": "2026-01-12",
-        "value": 83.8306880654943
+        "value": 83.83068806549429
       },
       {
         "time": "2026-01-13",
-        "value": 83.27042485608985
+        "value": 83.27042485608983
       },
       {
         "time": "2026-01-14",
@@ -1817,19 +1813,19 @@
       },
       {
         "time": "2026-01-16",
-        "value": 80.98651721825397
+        "value": 80.98651721825395
       },
       {
         "time": "2026-01-20",
-        "value": 80.4506582116466
+        "value": 80.45065821164658
       },
       {
         "time": "2026-01-21",
-        "value": 80.07010974068817
+        "value": 80.07010974068815
       },
       {
         "time": "2026-01-22",
-        "value": 80.31905708602004
+        "value": 80.31905708602002
       },
       {
         "time": "2026-01-23",
@@ -1845,7 +1841,7 @@
       },
       {
         "time": "2026-01-28",
-        "value": 77.21391097845996
+        "value": 77.21391097845995
       },
       {
         "time": "2026-01-29",
@@ -1857,7 +1853,7 @@
       },
       {
         "time": "2026-02-02",
-        "value": 77.25172804025927
+        "value": 77.25172804025925
       },
       {
         "time": "2026-02-03",
@@ -1869,11 +1865,11 @@
       },
       {
         "time": "2026-02-05",
-        "value": 77.59738453752705
+        "value": 77.59738453752703
       },
       {
         "time": "2026-02-06",
-        "value": 77.7684890655954
+        "value": 77.76848906559539
       },
       {
         "time": "2026-02-09",
@@ -1909,15 +1905,15 @@
       },
       {
         "time": "2026-02-20",
-        "value": 86.77755194857038
+        "value": 86.77755194857036
       },
       {
         "time": "2026-02-23",
-        "value": 86.85736124194766
+        "value": 86.85736124194764
       },
       {
         "time": "2026-02-24",
-        "value": 86.37805758427638
+        "value": 86.37805758427636
       },
       {
         "time": "2026-02-25",
@@ -1933,7 +1929,7 @@
       },
       {
         "time": "2026-03-02",
-        "value": 75.26908837438013
+        "value": 75.26908837438012
       },
       {
         "time": "2026-03-03",
@@ -1981,7 +1977,7 @@
       },
       {
         "time": "2026-03-18",
-        "value": 67.44135392305755
+        "value": 67.44135392305753
       },
       {
         "time": "2026-03-19",
@@ -2001,43 +1997,43 @@
       },
       {
         "time": "2026-03-25",
-        "value": 72.95911464077109
+        "value": 72.95911464077108
       },
       {
         "time": "2026-03-26",
-        "value": 72.83007595007956
+        "value": 72.83007595007955
       },
       {
         "time": "2026-03-27",
-        "value": 73.12156725266014
+        "value": 73.12156725266013
       },
       {
         "time": "2026-03-30",
-        "value": 73.73545463964354
+        "value": 73.73545463964352
       },
       {
         "time": "2026-03-31",
-        "value": 74.03113896023665
+        "value": 74.03113896023663
       },
       {
         "time": "2026-04-01",
-        "value": 73.78001710466462
+        "value": 73.78001710466461
       },
       {
         "time": "2026-04-02",
-        "value": 73.33480137220475
+        "value": 73.33480137220474
       },
       {
         "time": "2026-04-06",
-        "value": 72.98590966002386
+        "value": 72.98590966002385
       },
       {
         "time": "2026-04-07",
-        "value": 72.58642691997703
+        "value": 72.58642691997701
       },
       {
         "time": "2026-04-08",
-        "value": 72.53168434900581
+        "value": 72.5316843490058
       },
       {
         "time": "2026-04-09",
@@ -2049,7 +2045,7 @@
       },
       {
         "time": "2026-04-13",
-        "value": 73.65033792162284
+        "value": 73.65033792162282
       },
       {
         "time": "2026-04-14",
@@ -2093,11 +2089,11 @@
       },
       {
         "time": "2026-04-28",
-        "value": 77.61801693278473
+        "value": 77.61801693278471
       },
       {
         "time": "2026-04-29",
-        "value": 77.8489664909258
+        "value": 77.84896649092579
       },
       {
         "time": "2026-04-30",
@@ -2105,7 +2101,7 @@
       },
       {
         "time": "2026-05-01",
-        "value": 77.31543255380826
+        "value": 77.31543255380825
       },
       {
         "time": "2026-05-04",
@@ -2121,7 +2117,7 @@
       },
       {
         "time": "2026-05-07",
-        "value": 76.40608252228648
+        "value": 76.40608252228647
       },
       {
         "time": "2026-05-08",
@@ -2149,11 +2145,11 @@
       },
       {
         "time": "2026-05-18",
-        "value": 86.26951022552561
+        "value": 86.2695102255256
       },
       {
         "time": "2026-05-19",
-        "value": 87.13961049883928
+        "value": 87.13961049883926
       },
       {
         "time": "2026-05-20",
@@ -2169,15 +2165,15 @@
       },
       {
         "time": "2026-05-26",
-        "value": 91.92682437987442
+        "value": 91.9268243798744
       },
       {
         "time": "2026-05-27",
-        "value": 93.59772811682448
+        "value": 93.59772811682447
       },
       {
         "time": "2026-05-28",
-        "value": 94.30491103099907
+        "value": 94.30491103099905
       },
       {
         "time": "2026-05-29",
@@ -2189,7 +2185,7 @@
       },
       {
         "time": "2026-06-02",
-        "value": 93.918320747178
+        "value": 93.91832074717799
       },
       {
         "time": "2026-06-03",
@@ -2201,11 +2197,11 @@
       },
       {
         "time": "2026-06-05",
-        "value": 94.00999756263792
+        "value": 94.0099975626379
       },
       {
         "time": "2026-06-08",
-        "value": 94.0837231032212
+        "value": 94.08372310322119
       },
       {
         "time": "2026-06-09",
@@ -2249,7 +2245,7 @@
       },
       {
         "time": "2026-06-24",
-        "value": 80.21324980375672
+        "value": 80.21324980375671
       },
       {
         "time": "2026-06-25",
@@ -2285,7 +2281,7 @@
       },
       {
         "time": "2026-07-08",
-        "value": 80.82865980957688
+        "value": 80.82865980957686
       },
       {
         "time": "2026-07-09",
@@ -2293,11 +2289,11 @@
       },
       {
         "time": "2026-07-10",
-        "value": 81.7333824194208
+        "value": 81.73338241942079
       },
       {
         "time": "2026-07-13",
-        "value": 81.77045833441086
+        "value": 81.77045833441085
       },
       {
         "time": "2026-07-14",
@@ -2305,19 +2301,23 @@
       },
       {
         "time": "2026-07-15",
-        "value": 82.2797246640767
+        "value": 82.27972466407668
       },
       {
         "time": "2026-07-16",
-        "value": 82.17585036375472
+        "value": 82.1758503637547
       },
       {
         "time": "2026-07-17",
-        "value": 82.17849395943774
+        "value": 82.17849395943773
       },
       {
         "time": "2026-07-20",
-        "value": 82.31712729873865
+        "value": 82.31712729873864
+      },
+      {
+        "time": "2026-07-21",
+        "value": 82.8270824263332
       }
     ],
     "supportLine": 84.65
