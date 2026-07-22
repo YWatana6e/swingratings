@@ -3,50 +3,48 @@
     "ticker": "BHF",
     "name": "Brighthouse Financial, Inc.",
     "market": "NMS",
-    "price": 63.63,
-    "change": -1.28,
-    "changePercent": -1.97
+    "price": 63.08,
+    "change": -0.55,
+    "changePercent": -0.86
   },
   "score": {
-    "total": 59,
-    "stars": 3.0,
-    "note": "/ 100 (Win Rate: 50%)"
+    "total": 54,
+    "stars": 2.5,
+    "note": "/ 100 (Win Rate: 40%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 62.1,
-    "maDistance_pct": 2.47,
-    "bb2Confluence_pct": 0.35,
-    "bb3Confluence_pct": 1.47,
+    "targetMA_price": 62.13,
+    "maDistance_pct": 1.54,
+    "bb2Confluence_pct": 0.19,
+    "bb3Confluence_pct": 1.67,
     "maKnock_count": 2,
-    "expectedRsi": 37.5
+    "expectedRsi": 37.48
   },
   "metrics": {
-    "maDistance": "+2.47%",
-    "bbConfluence": "0.35%",
+    "maDistance": "+1.54%",
+    "bbConfluence": "0.19%",
     "maKnock": "2 times recently",
-    "expectedRsi": "37.5"
+    "expectedRsi": "37.48"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 63.43,
+        "touches": 5,
+        "strength_score": 2.946
+      },
+      {
         "price": 66.4,
         "touches": 2,
-        "strength_score": 1.922
+        "strength_score": 1.899
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that BHF is currently testing its Daily 100MA support zone near $62.1. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $66.40. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BHF is currently testing its Daily 100MA support zone near $62.13. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $63.43. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-12",
-        "open": 65.41999816894531,
-        "high": 65.5,
-        "low": 65.37000274658203,
-        "close": 65.4000015258789
-      },
       {
         "time": "2025-12-15",
         "open": 65.43000030517578,
@@ -1089,13 +1087,16 @@
         "high": 64.94999694824219,
         "low": 63.4900016784668,
         "close": 63.630001068115234
+      },
+      {
+        "time": "2026-07-22",
+        "open": 63.810001373291016,
+        "high": 64.04000091552734,
+        "low": 63.029998779296875,
+        "close": 63.08000183105469
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-12",
-        "value": 52.89514999389648
-      },
       {
         "time": "2025-12-15",
         "value": 53.05294998168945
@@ -1691,13 +1692,13 @@
       {
         "time": "2026-07-21",
         "value": 62.096300201416014
+      },
+      {
+        "time": "2026-07-22",
+        "value": 62.12500022888184
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-12",
-        "value": 65.28146516814074
-      },
       {
         "time": "2025-12-15",
         "value": 65.27611464152662
@@ -2293,6 +2294,10 @@
       {
         "time": "2026-07-21",
         "value": 62.31506226926431
+      },
+      {
+        "time": "2026-07-22",
+        "value": 62.24566892918015
       }
     ],
     "supportLine": 61.67

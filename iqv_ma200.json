@@ -3,9 +3,9 @@
     "ticker": "IQV",
     "name": "IQVIA Holdings, Inc.",
     "market": "NYQ",
-    "price": 201.62,
-    "change": -2.28,
-    "changePercent": -1.12
+    "price": 198.52,
+    "change": -3.1,
+    "changePercent": -1.54
   },
   "score": {
     "total": 40,
@@ -14,39 +14,32 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 196.62,
-    "maDistance_pct": 2.55,
-    "bb2Confluence_pct": 8.26,
-    "bb3Confluence_pct": 13.39,
+    "targetMA_price": 196.59,
+    "maDistance_pct": 0.98,
+    "bb2Confluence_pct": 5.0,
+    "bb3Confluence_pct": 8.84,
     "maKnock_count": 1,
-    "expectedRsi": 51.35
+    "expectedRsi": 51.2
   },
   "metrics": {
-    "maDistance": "+2.55%",
-    "bbConfluence": "8.26%",
+    "maDistance": "+0.98%",
+    "bbConfluence": "5.00%",
     "maKnock": "1 time recently",
-    "expectedRsi": "51.35"
+    "expectedRsi": "51.2"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 211.73,
         "touches": 2,
-        "strength_score": 1.824
+        "strength_score": 1.803
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 200MA support zone near $196.62. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.73. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 200MA support zone near $196.59. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.73. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-12",
-        "open": 226.0500030517578,
-        "high": 226.77000427246094,
-        "low": 220.64999389648438,
-        "close": 222.25999450683594
-      },
       {
         "time": "2025-12-15",
         "open": 224.0500030517578,
@@ -1085,17 +1078,20 @@
       },
       {
         "time": "2026-07-21",
-        "open": 198.88499450683594,
-        "high": 203.96499633789062,
-        "low": 198.88499450683594,
+        "open": 198.88999938964844,
+        "high": 203.97000122070312,
+        "low": 198.72999572753906,
         "close": 201.6199951171875
+      },
+      {
+        "time": "2026-07-22",
+        "open": 202.4600067138672,
+        "high": 202.63499450683594,
+        "low": 197.60000610351562,
+        "close": 198.52000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-12",
-        "value": 181.29700004577637
-      },
       {
         "time": "2025-12-15",
         "value": 181.47115005493163
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-07-21",
         "value": 196.61534973144532
+      },
+      {
+        "time": "2026-07-22",
+        "value": 196.58624977111816
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-12",
-        "value": 214.3441101461916
-      },
       {
         "time": "2025-12-15",
         "value": 214.61899716965402
@@ -2293,8 +2289,12 @@
       {
         "time": "2026-07-21",
         "value": 180.3682275829721
+      },
+      {
+        "time": "2026-07-22",
+        "value": 186.76661330089982
       }
     ],
-    "supportLine": 161.34
+    "supportLine": 163.17
   }
 }

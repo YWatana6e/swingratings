@@ -3,73 +3,66 @@
     "ticker": "COO",
     "name": "The Cooper Companies, Inc.",
     "market": "NMS",
-    "price": 71.01,
-    "change": -0.58,
-    "changePercent": -0.81
+    "price": 70.5,
+    "change": -0.51,
+    "changePercent": -0.72
   },
   "score": {
-    "total": 28,
-    "stars": 1.5,
+    "total": 35,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 68.41,
-    "maDistance_pct": 3.8,
-    "bb2Confluence_pct": 1.2,
-    "bb3Confluence_pct": 3.67,
+    "targetMA_price": 68.28,
+    "maDistance_pct": 3.25,
+    "bb2Confluence_pct": 0.5,
+    "bb3Confluence_pct": 1.39,
     "maKnock_count": 2,
-    "expectedRsi": 47.85
+    "expectedRsi": 47.14
   },
   "metrics": {
-    "maDistance": "+3.80%",
-    "bbConfluence": "1.20%",
+    "maDistance": "+3.25%",
+    "bbConfluence": "0.50%",
     "maKnock": "2 times recently",
-    "expectedRsi": "47.85"
+    "expectedRsi": "47.14"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 74.2,
         "touches": 2,
-        "strength_score": 1.848
+        "strength_score": 1.826
       },
       {
         "price": 72.45,
         "touches": 4,
-        "strength_score": 1.723
+        "strength_score": 1.704
       },
       {
         "price": 84.43,
         "touches": 2,
-        "strength_score": 0.595
+        "strength_score": 0.588
       }
     ],
     "trendline_clusters": [
       {
-        "price": 74.01,
+        "price": 74.03,
         "count": 9
       },
       {
-        "price": 73.09,
+        "price": 73.06,
         "count": 3
       },
       {
-        "price": 73.65,
+        "price": 73.55,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that COO is currently testing its Daily 100MA support zone near $68.41. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $74.20 and a significant trendline confluence around $74.01 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that COO is currently testing its Daily 100MA support zone near $68.28. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $74.20 and a significant trendline confluence around $74.03 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-12",
-        "open": 82.27999877929688,
-        "high": 82.91999816894531,
-        "low": 81.54000091552734,
-        "close": 82.08000183105469
-      },
       {
         "time": "2025-12-15",
         "open": 82.16000366210938,
@@ -1112,13 +1105,16 @@
         "high": 71.61000061035156,
         "low": 70.19999694824219,
         "close": 71.01000213623047
+      },
+      {
+        "time": "2026-07-22",
+        "open": 71.94000244140625,
+        "high": 71.94000244140625,
+        "low": 70.15499877929688,
+        "close": 70.5
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-12",
-        "value": 71.59660018920898
-      },
       {
         "time": "2025-12-15",
         "value": 71.67390014648437
@@ -1714,13 +1710,13 @@
       {
         "time": "2026-07-21",
         "value": 68.4134997177124
+      },
+      {
+        "time": "2026-07-22",
+        "value": 68.27839969635009
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-12",
-        "value": 69.86161904248691
-      },
       {
         "time": "2025-12-15",
         "value": 70.3556431515982
@@ -2316,6 +2312,10 @@
       {
         "time": "2026-07-21",
         "value": 67.59327316001763
+      },
+      {
+        "time": "2026-07-22",
+        "value": 68.61655944853324
       }
     ],
     "supportLine": 69.06
