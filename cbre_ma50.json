@@ -3,80 +3,73 @@
     "ticker": "CBRE",
     "name": "CBRE Group Inc",
     "market": "NYQ",
-    "price": 137.09,
-    "change": -1.18,
-    "changePercent": -0.85
+    "price": 135.55,
+    "change": -1.54,
+    "changePercent": -1.12
   },
   "score": {
-    "total": 37,
+    "total": 41,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 64%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 134.63,
-    "maDistance_pct": 1.82,
-    "bb2Confluence_pct": 1.5,
-    "bb3Confluence_pct": 3.73,
+    "targetMA_price": 134.42,
+    "maDistance_pct": 0.84,
+    "bb2Confluence_pct": 1.12,
+    "bb3Confluence_pct": 3.28,
     "maKnock_count": 1,
-    "expectedRsi": 46.98
+    "expectedRsi": 46.72
   },
   "metrics": {
-    "maDistance": "+1.82%",
-    "bbConfluence": "1.50%",
+    "maDistance": "+0.84%",
+    "bbConfluence": "1.12%",
     "maKnock": "1 time recently",
-    "expectedRsi": "46.98"
+    "expectedRsi": "46.72"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 138.08,
         "touches": 4,
-        "strength_score": 2.231
+        "strength_score": 2.206
       },
       {
         "price": 145.18,
         "touches": 2,
-        "strength_score": 1.847
+        "strength_score": 1.825
       },
       {
         "price": 149.93,
         "touches": 2,
-        "strength_score": 0.876
+        "strength_score": 0.866
       },
       {
         "price": 173.65,
         "touches": 2,
-        "strength_score": 0.536
+        "strength_score": 0.53
       },
       {
         "price": 157.6,
         "touches": 1,
-        "strength_score": 0.494
+        "strength_score": 0.489
       },
       {
         "price": 153.13,
         "touches": 1,
-        "strength_score": 0.294
+        "strength_score": 0.291
       }
     ],
     "trendline_clusters": [
       {
-        "price": 137.88,
+        "price": 137.87,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 50MA support zone near $134.63. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $138.08 and a significant trendline confluence around $137.88 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 50MA support zone near $134.42. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $138.08 and a significant trendline confluence around $137.87 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-15",
-        "open": 161.60000610351562,
-        "high": 161.77999877929688,
-        "low": 158.1999969482422,
-        "close": 158.8699951171875
-      },
       {
         "time": "2025-12-16",
         "open": 159.58999633789062,
@@ -1116,16 +1109,19 @@
       {
         "time": "2026-07-22",
         "open": 139.39999389648438,
-        "high": 139.60000610351562,
-        "low": 135.64500427246094,
+        "high": 139.9499969482422,
+        "low": 135.64999389648438,
         "close": 137.08999633789062
+      },
+      {
+        "time": "2026-07-23",
+        "open": 135.10000610351562,
+        "high": 136.52999877929688,
+        "low": 134.1999969482422,
+        "close": 135.5500030517578
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-15",
-        "value": 156.11220092773436
-      },
       {
         "time": "2025-12-16",
         "value": 156.25580078125
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-07-22",
         "value": 134.6345997619629
+      },
+      {
+        "time": "2026-07-23",
+        "value": 134.423399810791
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-15",
-        "value": 149.58399115532634
-      },
       {
         "time": "2025-12-16",
         "value": 151.01038188829475
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-07-22",
         "value": 132.6178839364958
+      },
+      {
+        "time": "2026-07-23",
+        "value": 132.91241524281884
       }
     ],
     "supportLine": 130.95

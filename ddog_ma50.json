@@ -3,9 +3,9 @@
     "ticker": "DDOG",
     "name": "Datadog, Inc.",
     "market": "NMS",
-    "price": 245.77,
-    "change": -9.02,
-    "changePercent": -3.54
+    "price": 244.39,
+    "change": -1.38,
+    "changePercent": -0.56
   },
   "score": {
     "total": 35,
@@ -14,44 +14,37 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 237.83,
-    "maDistance_pct": 3.34,
-    "bb2Confluence_pct": 3.89,
-    "bb3Confluence_pct": 9.42,
+    "targetMA_price": 238.67,
+    "maDistance_pct": 2.4,
+    "bb2Confluence_pct": 2.14,
+    "bb3Confluence_pct": 6.82,
     "maKnock_count": 0,
-    "expectedRsi": 44.84
+    "expectedRsi": 45.13
   },
   "metrics": {
-    "maDistance": "+3.34%",
-    "bbConfluence": "3.89%",
+    "maDistance": "+2.40%",
+    "bbConfluence": "2.14%",
     "maKnock": "0 times recently",
-    "expectedRsi": "44.84"
+    "expectedRsi": "45.13"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 277.7,
         "touches": 2,
-        "strength_score": 1.611
+        "strength_score": 1.593
       },
       {
         "price": 271.26,
         "touches": 1,
-        "strength_score": 0.851
+        "strength_score": 0.841
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that DDOG is currently testing its Daily 50MA support zone near $237.83. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $277.70. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DDOG is currently testing its Daily 50MA support zone near $238.67. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $277.70. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-15",
-        "open": 146.39500427246094,
-        "high": 147.43800354003906,
-        "low": 141.75999450683594,
-        "close": 142.0500030517578
-      },
       {
         "time": "2025-12-16",
         "open": 140.72000122070312,
@@ -1094,13 +1087,16 @@
         "high": 252.25999450683594,
         "low": 243.6199951171875,
         "close": 245.77000427246094
+      },
+      {
+        "time": "2026-07-23",
+        "open": 246.57000732421875,
+        "high": 248.97000122070312,
+        "low": 241.9600067138672,
+        "close": 244.38999938964844
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-15",
-        "value": 162.6245004272461
-      },
       {
         "time": "2025-12-16",
         "value": 162.2783004760742
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-07-22",
         "value": 237.82740020751953
+      },
+      {
+        "time": "2026-07-23",
+        "value": 238.66880004882813
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-15",
-        "value": 138.81453333933737
-      },
       {
         "time": "2025-12-16",
         "value": 138.26860948321115
@@ -2298,6 +2294,10 @@
       {
         "time": "2026-07-22",
         "value": 228.57455322005706
+      },
+      {
+        "time": "2026-07-23",
+        "value": 233.57227476445595
       }
     ],
     "supportLine": 214.01

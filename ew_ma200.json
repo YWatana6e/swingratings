@@ -3,70 +3,63 @@
     "ticker": "EW",
     "name": "Edwards Lifesciences Corporatio",
     "market": "NYQ",
-    "price": 84.37,
-    "change": -0.18,
-    "changePercent": -0.21
+    "price": 83.82,
+    "change": -0.55,
+    "changePercent": -0.65
   },
   "score": {
-    "total": 47,
-    "stars": 2.5,
+    "total": 38,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 38%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 83.36,
-    "maDistance_pct": 1.21,
-    "bb2Confluence_pct": 0.21,
-    "bb3Confluence_pct": 3.72,
+    "targetMA_price": 83.4,
+    "maDistance_pct": 0.51,
+    "bb2Confluence_pct": 0.84,
+    "bb3Confluence_pct": 5.1,
     "maKnock_count": 0,
-    "expectedRsi": 36.09
+    "expectedRsi": 36.69
   },
   "metrics": {
-    "maDistance": "+1.21%",
-    "bbConfluence": "0.21%",
+    "maDistance": "+0.51%",
+    "bbConfluence": "0.84%",
     "maKnock": "0 times recently",
-    "expectedRsi": "36.09"
+    "expectedRsi": "36.69"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 89.41,
         "touches": 3,
-        "strength_score": 2.124
+        "strength_score": 2.1
       },
       {
         "price": 96.29,
         "touches": 1,
-        "strength_score": 0.881
+        "strength_score": 0.871
       },
       {
         "price": 86.85,
         "touches": 2,
-        "strength_score": 0.668
+        "strength_score": 0.66
       },
       {
         "price": 85.06,
         "touches": 1,
-        "strength_score": 0.53
+        "strength_score": 0.524
       }
     ],
     "trendline_clusters": [
       {
-        "price": 85.62,
+        "price": 85.67,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 200MA support zone near $83.36. Based on historical price action, bounces from this level have yielded a win rate of 37.5%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $89.41 and a significant trendline confluence around $85.62 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 200MA support zone near $83.4. Based on historical price action, bounces from this level have yielded a win rate of 37.5%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $89.41 and a significant trendline confluence around $85.67 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-15",
-        "open": 83.56999969482422,
-        "high": 84.08999633789062,
-        "low": 81.8499984741211,
-        "close": 83.37999725341797
-      },
       {
         "time": "2025-12-16",
         "open": 83.16000366210938,
@@ -1106,16 +1099,19 @@
       {
         "time": "2026-07-22",
         "open": 85.22000122070312,
-        "high": 85.52989959716797,
+        "high": 85.52999877929688,
         "low": 84.0199966430664,
         "close": 84.37000274658203
+      },
+      {
+        "time": "2026-07-23",
+        "open": 83.5199966430664,
+        "high": 84.44999694824219,
+        "low": 82.98999786376953,
+        "close": 83.81999969482422
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-15",
-        "value": 77.06885005950927
-      },
       {
         "time": "2025-12-16",
         "value": 77.13850006103516
@@ -1711,13 +1707,13 @@
       {
         "time": "2026-07-22",
         "value": 83.36169998168945
+      },
+      {
+        "time": "2026-07-23",
+        "value": 83.39544998168945
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-15",
-        "value": 82.55794436258687
-      },
       {
         "time": "2025-12-16",
         "value": 82.57890733854501
@@ -2313,8 +2309,12 @@
       {
         "time": "2026-07-22",
         "value": 83.5385469800375
+      },
+      {
+        "time": "2026-07-23",
+        "value": 82.69749117015668
       }
     ],
-    "supportLine": 83.17
+    "supportLine": 77.06
   }
 }

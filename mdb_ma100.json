@@ -3,80 +3,73 @@
     "ticker": "MDB",
     "name": "MongoDB, Inc.",
     "market": "NGM",
-    "price": 304.97,
-    "change": -2.68,
-    "changePercent": -0.87
+    "price": 299.14,
+    "change": -5.83,
+    "changePercent": -1.91
   },
   "score": {
-    "total": 69,
+    "total": 68,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 75%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 297.77,
-    "maDistance_pct": 2.42,
-    "bb2Confluence_pct": 2.34,
-    "bb3Confluence_pct": 9.56,
+    "targetMA_price": 297.47,
+    "maDistance_pct": 0.56,
+    "bb2Confluence_pct": 2.47,
+    "bb3Confluence_pct": 9.78,
     "maKnock_count": 0,
-    "expectedRsi": 38.47
+    "expectedRsi": 38.63
   },
   "metrics": {
-    "maDistance": "+2.42%",
-    "bbConfluence": "2.34%",
+    "maDistance": "+0.56%",
+    "bbConfluence": "2.47%",
     "maKnock": "0 times recently",
-    "expectedRsi": "38.47"
+    "expectedRsi": "38.63"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 373.33,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.901
       },
       {
         "price": 364.26,
         "touches": 1,
-        "strength_score": 0.749
+        "strength_score": 0.741
       },
       {
         "price": 412.0,
         "touches": 1,
-        "strength_score": 0.675
+        "strength_score": 0.667
       },
       {
         "price": 349.21,
         "touches": 1,
-        "strength_score": 0.609
+        "strength_score": 0.602
       },
       {
         "price": 317.21,
         "touches": 1,
-        "strength_score": 0.574
+        "strength_score": 0.568
       },
       {
         "price": 338.52,
         "touches": 1,
-        "strength_score": 0.315
+        "strength_score": 0.311
       },
       {
         "price": 388.0,
         "touches": 1,
-        "strength_score": 0.277
+        "strength_score": 0.274
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that MDB is currently testing its Daily 100MA support zone near $297.77. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $373.33. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MDB is currently testing its Daily 100MA support zone near $297.47. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $373.33. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-15",
-        "open": 420.7900085449219,
-        "high": 420.8599853515625,
-        "low": 411.0,
-        "close": 416.0
-      },
       {
         "time": "2025-12-16",
         "open": 410.0299987792969,
@@ -1119,13 +1112,16 @@
         "high": 307.3699951171875,
         "low": 297.3699951171875,
         "close": 304.9700012207031
+      },
+      {
+        "time": "2026-07-23",
+        "open": 307.0400085449219,
+        "high": 310.8500061035156,
+        "low": 296.29998779296875,
+        "close": 299.1400146484375
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-15",
-        "value": 313.9618998718262
-      },
       {
         "time": "2025-12-16",
         "value": 315.7631999206543
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-07-22",
         "value": 297.767999420166
+      },
+      {
+        "time": "2026-07-23",
+        "value": 297.47469955444336
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-15",
-        "value": 289.42081487873844
-      },
       {
         "time": "2025-12-16",
         "value": 292.284874089448
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-07-22",
         "value": 290.78982429873196
+      },
+      {
+        "time": "2026-07-23",
+        "value": 290.12265171178916
       }
     ],
     "supportLine": 291.94

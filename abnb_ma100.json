@@ -3,60 +3,58 @@
     "ticker": "ABNB",
     "name": "Airbnb, Inc.",
     "market": "NMS",
-    "price": 140.05,
-    "change": -4.05,
-    "changePercent": -2.81
+    "price": 137.57,
+    "change": -2.48,
+    "changePercent": -1.77
   },
   "score": {
-    "total": 22,
+    "total": 23,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 36%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 136.61,
-    "maDistance_pct": 2.52,
-    "bb2Confluence_pct": 3.25,
-    "bb3Confluence_pct": 1.48,
+    "targetMA_price": 136.63,
+    "maDistance_pct": 0.69,
+    "bb2Confluence_pct": 2.11,
+    "bb3Confluence_pct": 0.09,
     "maKnock_count": 1,
-    "expectedRsi": 40.46
+    "expectedRsi": 40.81
   },
   "metrics": {
-    "maDistance": "+2.52%",
-    "bbConfluence": "3.25%",
+    "maDistance": "+0.69%",
+    "bbConfluence": "2.11%",
     "maKnock": "1 time recently",
-    "expectedRsi": "40.46"
+    "expectedRsi": "40.81"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 137.94,
+        "touches": 4,
+        "strength_score": 1.896
+      },
+      {
         "price": 150.54,
         "touches": 2,
-        "strength_score": 1.786
+        "strength_score": 1.766
       },
       {
         "price": 147.11,
         "touches": 2,
-        "strength_score": 1.05
+        "strength_score": 1.038
       },
       {
         "price": 143.8,
         "touches": 1,
-        "strength_score": 0.767
+        "strength_score": 0.758
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ABNB is currently testing its Daily 100MA support zone near $136.61. Based on historical price action, bounces from this level have yielded a win rate of 35.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $150.54. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ABNB is currently testing its Daily 100MA support zone near $136.63. Based on historical price action, bounces from this level have yielded a win rate of 35.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $137.94. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-15",
-        "open": 129.2899932861328,
-        "high": 132.25,
-        "low": 128.3000030517578,
-        "close": 131.80999755859375
-      },
       {
         "time": "2025-12-16",
         "open": 132.02999877929688,
@@ -1095,17 +1093,20 @@
       },
       {
         "time": "2026-07-22",
-        "open": 144.11000061035156,
-        "high": 144.11000061035156,
+        "open": 144.10000610351562,
+        "high": 144.47000122070312,
         "low": 139.69000244140625,
         "close": 140.0500030517578
+      },
+      {
+        "time": "2026-07-23",
+        "open": 137.83999633789062,
+        "high": 138.24960327148438,
+        "low": 135.72000122070312,
+        "close": 137.57000732421875
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-15",
-        "value": 124.18310020446778
-      },
       {
         "time": "2025-12-16",
         "value": 124.09010017395019
@@ -1701,13 +1702,13 @@
       {
         "time": "2026-07-22",
         "value": 136.6056999206543
+      },
+      {
+        "time": "2026-07-23",
+        "value": 136.63029998779297
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-15",
-        "value": 109.32269197128758
-      },
       {
         "time": "2025-12-16",
         "value": 108.9992942704904
@@ -2303,6 +2304,10 @@
       {
         "time": "2026-07-22",
         "value": 141.0434959367173
+      },
+      {
+        "time": "2026-07-23",
+        "value": 139.51401065190709
       }
     ],
     "supportLine": 127.69
