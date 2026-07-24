@@ -3,105 +3,63 @@
     "ticker": "AMD",
     "name": "Advanced Micro Devices, Inc.",
     "market": "NMS",
-    "price": 500.94,
-    "change": -28.2,
-    "changePercent": -5.33
+    "price": 521.95,
+    "change": -17.74,
+    "changePercent": -3.29
   },
   "score": {
-    "total": 74,
-    "stars": 3.5,
+    "total": 45,
+    "stars": 2.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 496.27,
-    "maDistance_pct": 0.94,
-    "bb2Confluence_pct": 0.11,
-    "bb3Confluence_pct": 3.62,
-    "maKnock_count": 0,
-    "expectedRsi": 46.79
+    "targetMA_price": 508.48,
+    "maDistance_pct": 2.65,
+    "bb2Confluence_pct": 3.35,
+    "bb3Confluence_pct": 7.44,
+    "maKnock_count": 1,
+    "expectedRsi": 48.22
   },
   "metrics": {
-    "maDistance": "+0.94%",
-    "bbConfluence": "0.11%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "46.79"
+    "maDistance": "+2.65%",
+    "bbConfluence": "3.35%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "48.22"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 560.68,
-        "touches": 2,
-        "strength_score": 1.606
+        "price": 560.94,
+        "touches": 3,
+        "strength_score": 2.476
       },
       {
         "price": 574.2,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.912
       },
       {
         "price": 584.73,
         "touches": 1,
-        "strength_score": 0.881
+        "strength_score": 0.822
       },
       {
         "price": 546.44,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.667
       },
       {
         "price": 527.2,
         "touches": 1,
-        "strength_score": 0.683
+        "strength_score": 0.637
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AMD is currently testing its Daily 50MA support zone near $496.27. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $560.68. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMD is currently testing its Daily 50MA support zone near $508.48. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $560.94. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-09",
-        "open": 221.0399932861328,
-        "high": 224.83999633789062,
-        "low": 217.91000366210938,
-        "close": 221.6199951171875
-      },
-      {
-        "time": "2025-12-10",
-        "open": 222.0,
-        "high": 222.61000061035156,
-        "low": 218.6699981689453,
-        "close": 221.4199981689453
-      },
-      {
-        "time": "2025-12-11",
-        "open": 217.80999755859375,
-        "high": 221.5,
-        "low": 210.19000244140625,
-        "close": 221.42999267578125
-      },
-      {
-        "time": "2025-12-12",
-        "open": 218.3699951171875,
-        "high": 222.49000549316406,
-        "low": 209.05999755859375,
-        "close": 210.77999877929688
-      },
-      {
-        "time": "2025-12-15",
-        "open": 212.27999877929688,
-        "high": 215.36000061035156,
-        "low": 206.5800018310547,
-        "close": 207.5800018310547
-      },
-      {
-        "time": "2025-12-16",
-        "open": 206.9199981689453,
-        "high": 210.22000122070312,
-        "low": 205.11000061035156,
-        "close": 209.1699981689453
-      },
       {
         "time": "2025-12-17",
         "open": 210.0399932861328,
@@ -1109,33 +1067,51 @@
         "high": 518.739990234375,
         "low": 491.79998779296875,
         "close": 500.94000244140625
+      },
+      {
+        "time": "2026-07-17",
+        "open": 476.8800048828125,
+        "high": 505.8800048828125,
+        "low": 460.2099914550781,
+        "close": 495.760009765625
+      },
+      {
+        "time": "2026-07-20",
+        "open": 517.0,
+        "high": 522.4400024414062,
+        "low": 502.3599853515625,
+        "close": 503.57000732421875
+      },
+      {
+        "time": "2026-07-21",
+        "open": 526.0,
+        "high": 548.1400146484375,
+        "low": 522.5999755859375,
+        "close": 544.4299926757812
+      },
+      {
+        "time": "2026-07-22",
+        "open": 526.8800048828125,
+        "high": 561.469970703125,
+        "low": 526.5999755859375,
+        "close": 552.3300170898438
+      },
+      {
+        "time": "2026-07-23",
+        "open": 544.739990234375,
+        "high": 556.489990234375,
+        "low": 525.0,
+        "close": 539.6900024414062
+      },
+      {
+        "time": "2026-07-24",
+        "open": 546.905029296875,
+        "high": 549.0,
+        "low": 518.010009765625,
+        "close": 521.9500122070312
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-09",
-        "value": 226.9607995605469
-      },
-      {
-        "time": "2025-12-10",
-        "value": 228.1533996582031
-      },
-      {
-        "time": "2025-12-11",
-        "value": 229.30179962158203
-      },
-      {
-        "time": "2025-12-12",
-        "value": 230.1227996826172
-      },
-      {
-        "time": "2025-12-15",
-        "value": 230.9809997558594
-      },
-      {
-        "time": "2025-12-16",
-        "value": 231.09019958496094
-      },
       {
         "time": "2025-12-17",
         "value": 230.82219970703125
@@ -1711,33 +1687,33 @@
       {
         "time": "2026-07-16",
         "value": 496.2740002441406
+      },
+      {
+        "time": "2026-07-17",
+        "value": 499.0840002441406
+      },
+      {
+        "time": "2026-07-20",
+        "value": 500.72760009765625
+      },
+      {
+        "time": "2026-07-21",
+        "value": 503.44700012207034
+      },
+      {
+        "time": "2026-07-22",
+        "value": 505.3898004150391
+      },
+      {
+        "time": "2026-07-23",
+        "value": 507.00780029296874
+      },
+      {
+        "time": "2026-07-24",
+        "value": 508.48100036621094
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-09",
-        "value": 194.46448282941319
-      },
-      {
-        "time": "2025-12-10",
-        "value": 194.32314252608182
-      },
-      {
-        "time": "2025-12-11",
-        "value": 197.60969048955945
-      },
-      {
-        "time": "2025-12-12",
-        "value": 198.81819814031712
-      },
-      {
-        "time": "2025-12-15",
-        "value": 200.56991717091586
-      },
-      {
-        "time": "2025-12-16",
-        "value": 202.42819813370883
-      },
       {
         "time": "2025-12-17",
         "value": 200.43614216937584
@@ -2313,6 +2289,30 @@
       {
         "time": "2026-07-16",
         "value": 496.82918052472263
+      },
+      {
+        "time": "2026-07-17",
+        "value": 493.4338642147741
+      },
+      {
+        "time": "2026-07-20",
+        "value": 489.79322135194894
+      },
+      {
+        "time": "2026-07-21",
+        "value": 490.02264986748156
+      },
+      {
+        "time": "2026-07-22",
+        "value": 490.9686562192424
+      },
+      {
+        "time": "2026-07-23",
+        "value": 492.2911121475616
+      },
+      {
+        "time": "2026-07-24",
+        "value": 491.44936321322064
       }
     ],
     "supportLine": 191.86
