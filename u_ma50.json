@@ -3,63 +3,70 @@
     "ticker": "U",
     "name": "Unity Software Inc.",
     "market": "NYQ",
-    "price": 28.62,
-    "change": -0.32,
-    "changePercent": -1.11
+    "price": 28.94,
+    "change": -0.33,
+    "changePercent": -1.13
   },
   "score": {
-    "total": 29,
+    "total": 30,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 57%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 28.59,
-    "maDistance_pct": 0.12,
-    "bb2Confluence_pct": 2.78,
-    "bb3Confluence_pct": 6.16,
+    "targetMA_price": 28.55,
+    "maDistance_pct": 1.36,
+    "bb2Confluence_pct": 4.27,
+    "bb3Confluence_pct": 8.28,
     "maKnock_count": 0,
-    "expectedRsi": 47.42
+    "expectedRsi": 47.09
   },
   "metrics": {
-    "maDistance": "+0.12%",
-    "bbConfluence": "2.78%",
+    "maDistance": "+1.36%",
+    "bbConfluence": "4.27%",
     "maKnock": "0 times recently",
-    "expectedRsi": "47.42"
+    "expectedRsi": "47.09"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 33.05,
         "touches": 1,
-        "strength_score": 0.891
+        "strength_score": 0.901
       },
       {
         "price": 31.21,
         "touches": 1,
-        "strength_score": 0.831
+        "strength_score": 0.841
       },
       {
         "price": 32.58,
         "touches": 1,
-        "strength_score": 0.652
+        "strength_score": 0.66
       },
       {
         "price": 30.65,
         "touches": 1,
-        "strength_score": 0.542
+        "strength_score": 0.548
       },
       {
         "price": 29.27,
         "touches": 1,
-        "strength_score": 0.271
+        "strength_score": 0.274
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that U is currently testing its Daily 50MA support zone near $28.59. Based on historical price action, bounces from this level have yielded a win rate of 57.1%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $33.05. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that U is currently testing its Daily 50MA support zone near $28.55. Based on historical price action, bounces from this level have yielded a win rate of 57.1%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $33.05. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2025-12-16",
+        "open": 44.279998779296875,
+        "high": 45.16999816894531,
+        "low": 43.650001525878906,
+        "close": 44.56999969482422
+      },
       {
         "time": "2025-12-17",
         "open": 45.064998626708984,
@@ -1102,16 +1109,13 @@
         "high": 29.190000534057617,
         "low": 27.829999923706055,
         "close": 28.940000534057617
-      },
-      {
-        "time": "2026-07-24",
-        "open": 29.459999084472656,
-        "high": 29.524999618530273,
-        "low": 28.139999389648438,
-        "close": 28.6200008392334
       }
     ],
     "ma_target": [
+      {
+        "time": "2025-12-16",
+        "value": 40.08560028076172
+      },
       {
         "time": "2025-12-17",
         "value": 40.233200225830075
@@ -1707,13 +1711,13 @@
       {
         "time": "2026-07-23",
         "value": 28.55119987487793
-      },
-      {
-        "time": "2026-07-24",
-        "value": 28.58679988861084
       }
     ],
     "bbLower": [
+      {
+        "time": "2025-12-16",
+        "value": 36.497114822107164
+      },
       {
         "time": "2025-12-17",
         "value": 37.53728660826078
@@ -2309,12 +2313,8 @@
       {
         "time": "2026-07-23",
         "value": 27.33267755007712
-      },
-      {
-        "time": "2026-07-24",
-        "value": 27.791557437977975
       }
     ],
-    "supportLine": 25.75
+    "supportLine": 25.52
   }
 }

@@ -3,48 +3,55 @@
     "ticker": "CNC",
     "name": "Centene Corporation",
     "market": "NYQ",
-    "price": 63.41,
-    "change": -0.33,
-    "changePercent": -0.52
+    "price": 63.74,
+    "change": -2.15,
+    "changePercent": -3.26
   },
   "score": {
-    "total": 74,
+    "total": 70,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 75%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 63.22,
-    "maDistance_pct": 0.3,
-    "bb2Confluence_pct": 0.22,
-    "bb3Confluence_pct": 2.74,
+    "targetMA_price": 63.14,
+    "maDistance_pct": 0.95,
+    "bb2Confluence_pct": 0.32,
+    "bb3Confluence_pct": 2.04,
     "maKnock_count": 0,
-    "expectedRsi": 46.78
+    "expectedRsi": 46.47
   },
   "metrics": {
-    "maDistance": "+0.30%",
-    "bbConfluence": "0.22%",
+    "maDistance": "+0.95%",
+    "bbConfluence": "0.32%",
     "maKnock": "0 times recently",
-    "expectedRsi": "46.78"
+    "expectedRsi": "46.47"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 69.33,
         "touches": 2,
-        "strength_score": 1.753
+        "strength_score": 1.773
       },
       {
         "price": 66.55,
         "touches": 1,
-        "strength_score": 0.699
+        "strength_score": 0.707
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CNC is currently testing its Daily 50MA support zone near $63.22. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $69.33. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CNC is currently testing its Daily 50MA support zone near $63.14. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $69.33. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2025-12-16",
+        "open": 40.290000915527344,
+        "high": 40.470001220703125,
+        "low": 38.36000061035156,
+        "close": 38.970001220703125
+      },
       {
         "time": "2025-12-17",
         "open": 39.06999969482422,
@@ -1087,16 +1094,13 @@
         "high": 64.9000015258789,
         "low": 62.86000061035156,
         "close": 63.7400016784668
-      },
-      {
-        "time": "2026-07-24",
-        "open": 64.19000244140625,
-        "high": 64.5999984741211,
-        "low": 62.974998474121094,
-        "close": 63.40999984741211
       }
     ],
     "ma_target": [
+      {
+        "time": "2025-12-16",
+        "value": 36.931200103759764
+      },
       {
         "time": "2025-12-17",
         "value": 36.940200119018556
@@ -1692,13 +1696,13 @@
       {
         "time": "2026-07-23",
         "value": 63.13960006713867
-      },
-      {
-        "time": "2026-07-24",
-        "value": 63.22160003662109
       }
     ],
     "bbLower": [
+      {
+        "time": "2025-12-16",
+        "value": 35.47356700655093
+      },
       {
         "time": "2025-12-17",
         "value": 35.64910206864174
@@ -2294,12 +2298,8 @@
       {
         "time": "2026-07-23",
         "value": 63.343719393648016
-      },
-      {
-        "time": "2026-07-24",
-        "value": 63.081057210172666
       }
     ],
-    "supportLine": 63.03
+    "supportLine": 56.98
   }
 }
