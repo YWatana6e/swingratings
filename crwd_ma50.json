@@ -3,60 +3,53 @@
     "ticker": "CRWD",
     "name": "CrowdStrike Holdings, Inc.",
     "market": "NMS",
-    "price": 183.42,
-    "change": -5.0,
-    "changePercent": -2.65
+    "price": 183.28,
+    "change": -0.14,
+    "changePercent": -0.08
   },
   "score": {
-    "total": 33,
-    "stars": 1.5,
+    "total": 43,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 176.98,
-    "maDistance_pct": 3.64,
-    "bb2Confluence_pct": 2.21,
-    "bb3Confluence_pct": 7.75,
+    "targetMA_price": 177.91,
+    "maDistance_pct": 3.02,
+    "bb2Confluence_pct": 0.97,
+    "bb3Confluence_pct": 5.78,
     "maKnock_count": 0,
-    "expectedRsi": 43.91
+    "expectedRsi": 44.31
   },
   "metrics": {
-    "maDistance": "+3.64%",
-    "bbConfluence": "2.21%",
+    "maDistance": "+3.02%",
+    "bbConfluence": "0.97%",
     "maKnock": "0 times recently",
-    "expectedRsi": "43.91"
+    "expectedRsi": "44.31"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 217.5,
         "touches": 1,
-        "strength_score": 0.933
+        "strength_score": 0.922
       },
       {
         "price": 209.5,
         "touches": 1,
-        "strength_score": 0.861
+        "strength_score": 0.851
       },
       {
         "price": 196.41,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.652
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CRWD is currently testing its Daily 50MA support zone near $176.98. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $217.50. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CRWD is currently testing its Daily 50MA support zone near $177.91. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $217.50. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-16",
-        "open": 121.62100219726562,
-        "high": 122.86000061035156,
-        "low": 120.5,
-        "close": 122.13249969482422
-      },
       {
         "time": "2025-12-17",
         "open": 122.35250091552734,
@@ -1099,13 +1092,16 @@
         "high": 190.20799255371094,
         "low": 181.77699279785156,
         "close": 183.4199981689453
+      },
+      {
+        "time": "2026-07-24",
+        "open": 185.0,
+        "high": 185.8350067138672,
+        "low": 181.8300018310547,
+        "close": 183.27999877929688
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-16",
-        "value": 129.19195037841797
-      },
       {
         "time": "2025-12-17",
         "value": 129.11895034790038
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-07-23",
         "value": 176.9779995727539
+      },
+      {
+        "time": "2026-07-24",
+        "value": 177.91269958496093
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-16",
-        "value": 122.01368629786295
-      },
       {
         "time": "2025-12-17",
         "value": 120.00370267714285
@@ -2303,8 +2299,12 @@
       {
         "time": "2026-07-23",
         "value": 173.06262974412556
+      },
+      {
+        "time": "2026-07-24",
+        "value": 176.19366480351397
       }
     ],
-    "supportLine": 91.73
+    "supportLine": 181.39
   }
 }

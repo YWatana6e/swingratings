@@ -3,74 +3,67 @@
     "ticker": "ALGN",
     "name": "Align Technology, Inc.",
     "market": "NMS",
-    "price": 168.24,
-    "change": -4.22,
-    "changePercent": -2.45
+    "price": 167.02,
+    "change": -1.22,
+    "changePercent": -0.73
   },
   "score": {
-    "total": 54,
-    "stars": 2.5,
+    "total": 62,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 165.45,
-    "maDistance_pct": 1.69,
-    "bb2Confluence_pct": 1.48,
-    "bb3Confluence_pct": 1.53,
+    "targetMA_price": 165.63,
+    "maDistance_pct": 0.84,
+    "bb2Confluence_pct": 0.48,
+    "bb3Confluence_pct": 2.84,
     "maKnock_count": 0,
-    "expectedRsi": 40.89
+    "expectedRsi": 41.21
   },
   "metrics": {
-    "maDistance": "+1.69%",
-    "bbConfluence": "1.48%",
+    "maDistance": "+0.84%",
+    "bbConfluence": "0.48%",
     "maKnock": "0 times recently",
-    "expectedRsi": "40.89"
+    "expectedRsi": "41.21"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 178.28,
         "touches": 4,
-        "strength_score": 2.116
+        "strength_score": 2.091
       },
       {
         "price": 184.45,
         "touches": 3,
-        "strength_score": 1.576
+        "strength_score": 1.558
       },
       {
         "price": 191.53,
         "touches": 3,
-        "strength_score": 1.483
+        "strength_score": 1.466
       },
       {
         "price": 199.75,
         "touches": 2,
-        "strength_score": 0.758
+        "strength_score": 0.749
       }
     ],
     "trendline_clusters": [
       {
-        "price": 169.39,
+        "price": 169.18,
         "count": 3
       },
       {
-        "price": 174.74,
+        "price": 174.58,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ALGN is currently testing its Daily 200MA support zone near $165.45. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $178.28 and a significant trendline confluence around $169.39 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ALGN is currently testing its Daily 200MA support zone near $165.63. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $178.28 and a significant trendline confluence around $169.18 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-16",
-        "open": 162.49000549316406,
-        "high": 164.11000061035156,
-        "low": 161.19000244140625,
-        "close": 162.88999938964844
-      },
       {
         "time": "2025-12-17",
         "open": 163.0,
@@ -1113,13 +1106,16 @@
         "high": 171.30999755859375,
         "low": 165.6699981689453,
         "close": 168.24000549316406
+      },
+      {
+        "time": "2026-07-24",
+        "open": 168.5,
+        "high": 170.50999450683594,
+        "low": 165.97000122070312,
+        "close": 167.02000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-16",
-        "value": 159.5061499786377
-      },
       {
         "time": "2025-12-17",
         "value": 159.4596499633789
@@ -1715,13 +1711,13 @@
       {
         "time": "2026-07-23",
         "value": 165.4507995223999
+      },
+      {
+        "time": "2026-07-24",
+        "value": 165.6283995437622
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-16",
-        "value": 130.53127108147143
-      },
       {
         "time": "2025-12-17",
         "value": 133.56601390687368
@@ -2317,8 +2313,12 @@
       {
         "time": "2026-07-23",
         "value": 167.89269731874103
+      },
+      {
+        "time": "2026-07-24",
+        "value": 166.41885589298676
       }
     ],
-    "supportLine": 163.87
+    "supportLine": 164.05
   }
 }
