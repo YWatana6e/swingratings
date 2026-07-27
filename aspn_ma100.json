@@ -3,29 +3,29 @@
     "ticker": "ASPN",
     "name": "Aspen Aerogels, Inc.",
     "market": "NYQ",
-    "price": 4.67,
-    "change": -0.49,
-    "changePercent": -9.5
+    "price": 4.65,
+    "change": -0.51,
+    "changePercent": -9.88
   },
   "score": {
-    "total": 84,
+    "total": 83,
     "stars": 4.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
     "targetMA_price": 4.63,
-    "maDistance_pct": 0.88,
-    "bb2Confluence_pct": 0.28,
-    "bb3Confluence_pct": 8.3,
+    "maDistance_pct": 0.45,
+    "bb2Confluence_pct": 0.38,
+    "bb3Confluence_pct": 8.44,
     "maKnock_count": 0,
-    "expectedRsi": 36.75
+    "expectedRsi": 36.86
   },
   "metrics": {
-    "maDistance": "+0.88%",
-    "bbConfluence": "0.28%",
+    "maDistance": "+0.45%",
+    "bbConfluence": "0.38%",
     "maKnock": "0 times recently",
-    "expectedRsi": "36.75"
+    "expectedRsi": "36.86"
   },
   "resistances": {
     "horizontal": [
@@ -1109,11 +1109,11 @@
         "close": 5.159999847412109
       },
       {
-        "time": "2026-07-24",
-        "open": 5.150000095367432,
-        "high": 5.150000095367432,
-        "low": 4.60099983215332,
-        "close": 4.670000076293945
+        "time": "2026-07-27",
+        "open": 4.739999771118164,
+        "high": 4.860000133514404,
+        "low": 4.579999923706055,
+        "close": 4.650000095367432
       }
     ],
     "ma_target": [
@@ -1714,8 +1714,8 @@
         "value": 4.615499980449677
       },
       {
-        "time": "2026-07-24",
-        "value": 4.629399981498718
+        "time": "2026-07-27",
+        "value": 4.629199981689453
       }
     ],
     "bbLower": [
@@ -2316,8 +2316,8 @@
         "value": 4.726391892221762
       },
       {
-        "time": "2026-07-24",
-        "value": 4.616493258413939
+        "time": "2026-07-27",
+        "value": 4.611739656521661
       }
     ],
     "supportLine": 3.09
