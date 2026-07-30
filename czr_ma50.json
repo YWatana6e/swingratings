@@ -3,71 +3,64 @@
     "ticker": "CZR",
     "name": "Caesars Entertainment, Inc.",
     "market": "NMS",
-    "price": 29.77,
-    "change": -0.18,
-    "changePercent": -0.6
+    "price": 29.61,
+    "change": -0.16,
+    "changePercent": -0.54
   },
   "score": {
-    "total": 74,
+    "total": 73,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 78%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 29.46,
-    "maDistance_pct": 1.04,
-    "bb2Confluence_pct": 0.32,
-    "bb3Confluence_pct": 0.38,
+    "targetMA_price": 29.5,
+    "maDistance_pct": 0.36,
+    "bb2Confluence_pct": 0.13,
+    "bb3Confluence_pct": 0.53,
     "maKnock_count": 0,
-    "expectedRsi": 48.11
+    "expectedRsi": 48.84
   },
   "metrics": {
-    "maDistance": "+1.04%",
-    "bbConfluence": "0.32%",
+    "maDistance": "+0.36%",
+    "bbConfluence": "0.13%",
     "maKnock": "0 times recently",
-    "expectedRsi": "48.11"
+    "expectedRsi": "48.84"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 30.52,
         "touches": 6,
-        "strength_score": 4.723
+        "strength_score": 4.669
       }
     ],
     "trendline_clusters": [
       {
         "price": 30.13,
-        "count": 12
+        "count": 9
       },
       {
-        "price": 30.03,
+        "price": 29.99,
         "count": 7
       },
       {
-        "price": 30.29,
+        "price": 30.19,
         "count": 6
       },
       {
-        "price": 29.91,
-        "count": 3
+        "price": 30.32,
+        "count": 6
       },
       {
-        "price": 30.17,
+        "price": 29.87,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that CZR is currently testing its Daily 50MA support zone near $29.46. Based on historical price action, bounces from this level have yielded a win rate of 77.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $30.52 and a significant trendline confluence around $30.13 (formed by 12 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CZR is currently testing its Daily 50MA support zone near $29.5. Based on historical price action, bounces from this level have yielded a win rate of 77.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $30.52 and a significant trendline confluence around $30.13 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-22",
-        "open": 24.3799991607666,
-        "high": 25.110000610351562,
-        "low": 24.250999450683594,
-        "close": 25.020000457763672
-      },
       {
         "time": "2025-12-23",
         "open": 25.0,
@@ -1106,17 +1099,20 @@
       },
       {
         "time": "2026-07-29",
-        "open": 29.829999923706055,
+        "open": 29.81999969482422,
         "high": 29.8799991607666,
-        "low": 29.625,
+        "low": 29.6200008392334,
         "close": 29.770000457763672
+      },
+      {
+        "time": "2026-07-30",
+        "open": 29.739999771118164,
+        "high": 29.799999237060547,
+        "low": 29.600000381469727,
+        "close": 29.610000610351562
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-22",
-        "value": 21.89380016326904
-      },
       {
         "time": "2025-12-23",
         "value": 21.942000160217287
@@ -1712,13 +1708,13 @@
       {
         "time": "2026-07-29",
         "value": 29.463399963378905
+      },
+      {
+        "time": "2026-07-30",
+        "value": 29.503199958801268
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-22",
-        "value": 21.716901678875377
-      },
       {
         "time": "2025-12-23",
         "value": 22.30361282516315
@@ -2314,6 +2310,10 @@
       {
         "time": "2026-07-29",
         "value": 29.558207373341286
+      },
+      {
+        "time": "2026-07-30",
+        "value": 29.541511895303323
       }
     ],
     "supportLine": 29.36
