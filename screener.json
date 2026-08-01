@@ -195,19 +195,6 @@
     "expected_rsi": 44.45
   },
   {
-    "ticker": "LNT",
-    "name": "Alliant Energy Corporation",
-    "price": 70.78,
-    "changePercent": -0.16,
-    "score": 42,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 1.56,
-    "bb_confluence": 1.77,
-    "expected_rsi": 33.18
-  },
-  {
     "ticker": "XEL",
     "name": "Xcel Energy Inc.",
     "price": 78.2,
@@ -325,6 +312,19 @@
     "expected_rsi": 42.07
   },
   {
+    "ticker": "KVUE",
+    "name": "Kenvue Inc.",
+    "price": 19.24,
+    "changePercent": -0.36,
+    "score": 38,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.84,
+    "bb_confluence": 0.49,
+    "expected_rsi": 44.24
+  },
+  {
     "ticker": "AGO",
     "name": "Assured Guaranty Ltd.",
     "price": 82.72,
@@ -367,14 +367,14 @@
     "ticker": "O",
     "name": "Realty Income Corporation",
     "price": 63.87,
-    "changePercent": -0.87,
+    "changePercent": -0.45,
     "score": 37,
     "stars": 2.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 2.51,
-    "bb_confluence": 0.47,
-    "expected_rsi": 42.59
+    "ma_distance": 2.94,
+    "bb_confluence": 0.51,
+    "expected_rsi": 42.5
   },
   {
     "ticker": "ED",
@@ -406,14 +406,14 @@
     "ticker": "O",
     "name": "Realty Income Corporation",
     "price": 63.87,
-    "changePercent": -0.87,
+    "changePercent": -0.45,
     "score": 36,
     "stars": 2.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 2.08,
-    "bb_confluence": 0.05,
-    "expected_rsi": 43.98
+    "ma_distance": 2.51,
+    "bb_confluence": 0.09,
+    "expected_rsi": 43.91
   },
   {
     "ticker": "AIG",
@@ -442,45 +442,6 @@
     "expected_rsi": 46.35
   },
   {
-    "ticker": "CPB",
-    "name": "The Campbell's Company",
-    "price": 21.98,
-    "changePercent": -0.45,
-    "score": 36,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.1,
-    "bb_confluence": 1.08,
-    "expected_rsi": 43.6
-  },
-  {
-    "ticker": "CVS",
-    "name": "CVS Health Corporation",
-    "price": 104.43,
-    "changePercent": -0.75,
-    "score": 35,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.83,
-    "bb_confluence": 0.9,
-    "expected_rsi": 42.42
-  },
-  {
-    "ticker": "HRL",
-    "name": "Hormel Foods Corporation",
-    "price": 25.01,
-    "changePercent": -1.42,
-    "score": 35,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.59,
-    "bb_confluence": 1.13,
-    "expected_rsi": 44.53
-  },
-  {
     "ticker": "AVB",
     "name": "AvalonBay Communities, Inc.",
     "price": 185.61,
@@ -505,6 +466,19 @@
     "ma_distance": 1.7,
     "bb_confluence": 0.09,
     "expected_rsi": 45.57
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods Corporation",
+    "price": 25.01,
+    "changePercent": -1.42,
+    "score": 35,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.59,
+    "bb_confluence": 1.13,
+    "expected_rsi": 44.53
   },
   {
     "ticker": "MAS",
@@ -559,19 +533,6 @@
     "expected_rsi": 46.21
   },
   {
-    "ticker": "KVUE",
-    "name": "Kenvue Inc.",
-    "price": 19.24,
-    "changePercent": -0.36,
-    "score": 34,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.84,
-    "bb_confluence": 0.49,
-    "expected_rsi": 44.24
-  },
-  {
     "ticker": "DRI",
     "name": "Darden Restaurants, Inc.",
     "price": 203.58,
@@ -611,6 +572,32 @@
     "expected_rsi": 44.03
   },
   {
+    "ticker": "CPB",
+    "name": "The Campbell's Company",
+    "price": 21.98,
+    "changePercent": -0.45,
+    "score": 33,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.1,
+    "bb_confluence": 1.08,
+    "expected_rsi": 43.6
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy (D/B/A)",
+    "price": 71.59,
+    "changePercent": -3.05,
+    "score": 33,
+    "stars": 1.5,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.36,
+    "bb_confluence": 4.73,
+    "expected_rsi": 35.81
+  },
+  {
     "ticker": "SPGI",
     "name": "S&P Global Inc.",
     "price": 411.93,
@@ -648,6 +635,19 @@
     "ma_distance": 2.58,
     "bb_confluence": 7.55,
     "expected_rsi": 54.65
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health Corporation",
+    "price": 104.43,
+    "changePercent": -0.75,
+    "score": 31,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.83,
+    "bb_confluence": 0.9,
+    "expected_rsi": 42.42
   },
   {
     "ticker": "AIG",
@@ -858,19 +858,6 @@
     "expected_rsi": 53.63
   },
   {
-    "ticker": "ES",
-    "name": "Eversource Energy (D/B/A)",
-    "price": 71.59,
-    "changePercent": -3.05,
-    "score": 27,
-    "stars": 1.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.36,
-    "bb_confluence": 4.73,
-    "expected_rsi": 35.81
-  },
-  {
     "ticker": "L",
     "name": "Loews Corporation",
     "price": 116.01,
@@ -1001,6 +988,19 @@
     "expected_rsi": 38.38
   },
   {
+    "ticker": "HD",
+    "name": "Home Depot, Inc. (The)",
+    "price": 331.96,
+    "changePercent": -0.42,
+    "score": 19,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.44,
+    "bb_confluence": 1.56,
+    "expected_rsi": 47.91
+  },
+  {
     "ticker": "JKHY",
     "name": "Jack Henry & Associates, Inc.",
     "price": 154.04,
@@ -1038,19 +1038,6 @@
     "ma_distance": 1.21,
     "bb_confluence": 3.52,
     "expected_rsi": 49.32
-  },
-  {
-    "ticker": "HD",
-    "name": "Home Depot, Inc. (The)",
-    "price": 331.96,
-    "changePercent": -0.42,
-    "score": 19,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.44,
-    "bb_confluence": 1.56,
-    "expected_rsi": 47.91
   },
   {
     "ticker": "CPB",
@@ -1222,6 +1209,19 @@
     "expected_rsi": 45.58
   },
   {
+    "ticker": "DPZ",
+    "name": "Domino's Pizza Inc",
+    "price": 347.44,
+    "changePercent": -1.37,
+    "score": 13,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.11,
+    "bb_confluence": 13.59,
+    "expected_rsi": 55.34
+  },
+  {
     "ticker": "ECL",
     "name": "Ecolab Inc.",
     "price": 277.63,
@@ -1363,19 +1363,6 @@
     "ma_distance": 4.83,
     "bb_confluence": 5.53,
     "expected_rsi": 49.84
-  },
-  {
-    "ticker": "DPZ",
-    "name": "Domino's Pizza Inc",
-    "price": 347.44,
-    "changePercent": -1.37,
-    "score": 7,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.11,
-    "bb_confluence": 13.59,
-    "expected_rsi": 55.34
   },
   {
     "ticker": "SYK",
