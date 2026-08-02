@@ -130,19 +130,6 @@
     "expected_rsi": 41.02
   },
   {
-    "ticker": "OMC",
-    "name": "Omnicom Group Inc.",
-    "price": 78.7,
-    "changePercent": -1.14,
-    "score": 45,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.32,
-    "bb_confluence": 1.14,
-    "expected_rsi": 44.68
-  },
-  {
     "ticker": "CTVA",
     "name": "Corteva, Inc.",
     "price": 78.71,
@@ -273,19 +260,6 @@
     "expected_rsi": 42.06
   },
   {
-    "ticker": "OMC",
-    "name": "Omnicom Group Inc.",
-    "price": 78.7,
-    "changePercent": -1.14,
-    "score": 40,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.28,
-    "bb_confluence": 0.12,
-    "expected_rsi": 46.06
-  },
-  {
     "ticker": "LLY",
     "name": "Eli Lilly and Company",
     "price": 1148.84,
@@ -310,19 +284,6 @@
     "ma_distance": 3.03,
     "bb_confluence": 0.56,
     "expected_rsi": 42.07
-  },
-  {
-    "ticker": "KVUE",
-    "name": "Kenvue Inc.",
-    "price": 19.24,
-    "changePercent": -0.36,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.84,
-    "bb_confluence": 0.49,
-    "expected_rsi": 44.24
   },
   {
     "ticker": "AGO",
@@ -442,6 +403,32 @@
     "expected_rsi": 46.35
   },
   {
+    "ticker": "CPB",
+    "name": "The Campbell's Company",
+    "price": 21.98,
+    "changePercent": -0.45,
+    "score": 36,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.1,
+    "bb_confluence": 1.08,
+    "expected_rsi": 43.6
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health Corporation",
+    "price": 104.43,
+    "changePercent": -0.75,
+    "score": 35,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.83,
+    "bb_confluence": 0.9,
+    "expected_rsi": 42.42
+  },
+  {
     "ticker": "AVB",
     "name": "AvalonBay Communities, Inc.",
     "price": 185.61,
@@ -468,19 +455,6 @@
     "expected_rsi": 45.57
   },
   {
-    "ticker": "HRL",
-    "name": "Hormel Foods Corporation",
-    "price": 25.01,
-    "changePercent": -1.42,
-    "score": 35,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.59,
-    "bb_confluence": 1.13,
-    "expected_rsi": 44.53
-  },
-  {
     "ticker": "MAS",
     "name": "Masco Corporation",
     "price": 71.48,
@@ -492,19 +466,6 @@
     "ma_distance": 4.95,
     "bb_confluence": 5.58,
     "expected_rsi": 33.86
-  },
-  {
-    "ticker": "MKC",
-    "name": "McCormick & Company, Incorporat",
-    "price": 50.9,
-    "changePercent": -0.12,
-    "score": 35,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.47,
-    "bb_confluence": 0.57,
-    "expected_rsi": 48.53
   },
   {
     "ticker": "NEE",
@@ -531,6 +492,19 @@
     "ma_distance": 2.31,
     "bb_confluence": 0.55,
     "expected_rsi": 46.21
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue Inc.",
+    "price": 19.24,
+    "changePercent": -0.36,
+    "score": 34,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.84,
+    "bb_confluence": 0.49,
+    "expected_rsi": 44.24
   },
   {
     "ticker": "DRI",
@@ -572,32 +546,6 @@
     "expected_rsi": 44.03
   },
   {
-    "ticker": "CPB",
-    "name": "The Campbell's Company",
-    "price": 21.98,
-    "changePercent": -0.45,
-    "score": 33,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.1,
-    "bb_confluence": 1.08,
-    "expected_rsi": 43.6
-  },
-  {
-    "ticker": "ES",
-    "name": "Eversource Energy (D/B/A)",
-    "price": 71.59,
-    "changePercent": -3.05,
-    "score": 33,
-    "stars": 1.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.36,
-    "bb_confluence": 4.73,
-    "expected_rsi": 35.81
-  },
-  {
     "ticker": "SPGI",
     "name": "S&P Global Inc.",
     "price": 411.93,
@@ -635,19 +583,6 @@
     "ma_distance": 2.58,
     "bb_confluence": 7.55,
     "expected_rsi": 54.65
-  },
-  {
-    "ticker": "CVS",
-    "name": "CVS Health Corporation",
-    "price": 104.43,
-    "changePercent": -0.75,
-    "score": 31,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.83,
-    "bb_confluence": 0.9,
-    "expected_rsi": 42.42
   },
   {
     "ticker": "AIG",
@@ -713,6 +648,19 @@
     "ma_distance": 2.69,
     "bb_confluence": 0.08,
     "expected_rsi": 44.6
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods Corporation",
+    "price": 25.01,
+    "changePercent": -1.42,
+    "score": 30,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.59,
+    "bb_confluence": 1.13,
+    "expected_rsi": 44.53
   },
   {
     "ticker": "FE",
@@ -858,6 +806,19 @@
     "expected_rsi": 53.63
   },
   {
+    "ticker": "ES",
+    "name": "Eversource Energy (D/B/A)",
+    "price": 71.59,
+    "changePercent": -3.05,
+    "score": 27,
+    "stars": 1.5,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.36,
+    "bb_confluence": 4.73,
+    "expected_rsi": 35.81
+  },
+  {
     "ticker": "L",
     "name": "Loews Corporation",
     "price": 116.01,
@@ -923,19 +884,6 @@
     "expected_rsi": 27.9
   },
   {
-    "ticker": "MKC",
-    "name": "McCormick & Company, Incorporat",
-    "price": 50.9,
-    "changePercent": -0.12,
-    "score": 23,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.22,
-    "bb_confluence": 1.14,
-    "expected_rsi": 45.04
-  },
-  {
     "ticker": "GILD",
     "name": "Gilead Sciences, Inc.",
     "price": 130.21,
@@ -947,19 +895,6 @@
     "ma_distance": 0.59,
     "bb_confluence": 1.48,
     "expected_rsi": 49.1
-  },
-  {
-    "ticker": "OMC",
-    "name": "Omnicom Group Inc.",
-    "price": 78.7,
-    "changePercent": -1.14,
-    "score": 22,
-    "stars": 1.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.1,
-    "bb_confluence": 1.9,
-    "expected_rsi": 43.72
   },
   {
     "ticker": "BKNG",
@@ -986,19 +921,6 @@
     "ma_distance": 2.13,
     "bb_confluence": 3.48,
     "expected_rsi": 38.38
-  },
-  {
-    "ticker": "HD",
-    "name": "Home Depot, Inc. (The)",
-    "price": 331.96,
-    "changePercent": -0.42,
-    "score": 19,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.44,
-    "bb_confluence": 1.56,
-    "expected_rsi": 47.91
   },
   {
     "ticker": "JKHY",
@@ -1090,6 +1012,19 @@
     "ma_distance": 2.26,
     "bb_confluence": 3.77,
     "expected_rsi": 47.54
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot, Inc. (The)",
+    "price": 331.96,
+    "changePercent": -0.42,
+    "score": 16,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.44,
+    "bb_confluence": 1.56,
+    "expected_rsi": 47.91
   },
   {
     "ticker": "DE",
@@ -1274,19 +1209,6 @@
     "expected_rsi": 49.26
   },
   {
-    "ticker": "NWSA",
-    "name": "News Corporation",
-    "price": 27.56,
-    "changePercent": -1.89,
-    "score": 9,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.43,
-    "bb_confluence": 1.58,
-    "expected_rsi": 47.23
-  },
-  {
     "ticker": "PGR",
     "name": "Progressive Corporation (The)",
     "price": 211.42,
@@ -1337,19 +1259,6 @@
     "ma_distance": 4.86,
     "bb_confluence": 3.92,
     "expected_rsi": 48.53
-  },
-  {
-    "ticker": "MSCI",
-    "name": "MSCI Inc.",
-    "price": 572.24,
-    "changePercent": -0.61,
-    "score": 8,
-    "stars": 0.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 0.4,
-    "bb_confluence": 4.77,
-    "expected_rsi": 45.51
   },
   {
     "ticker": "MCK",
@@ -1519,19 +1428,6 @@
     "ma_distance": 3.58,
     "bb_confluence": 4.78,
     "expected_rsi": 50.61
-  },
-  {
-    "ticker": "NWS",
-    "name": "News Corporation",
-    "price": 31.27,
-    "changePercent": -1.67,
-    "score": 2,
-    "stars": 0.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.22,
-    "bb_confluence": 2.4,
-    "expected_rsi": 47.86
   },
   {
     "ticker": "DRI",
