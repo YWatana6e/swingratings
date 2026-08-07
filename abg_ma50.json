@@ -3,9 +3,9 @@
     "ticker": "ABG",
     "name": "Asbury Automotive Group Inc",
     "market": "NYQ",
-    "price": 215.99,
-    "change": -3.48,
-    "changePercent": -1.59
+    "price": 214.32,
+    "change": -1.67,
+    "changePercent": -0.77
   },
   "score": {
     "total": 33,
@@ -14,44 +14,42 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 208.27,
-    "maDistance_pct": 3.71,
-    "bb2Confluence_pct": 2.11,
-    "bb3Confluence_pct": 6.76,
+    "targetMA_price": 208.68,
+    "maDistance_pct": 2.7,
+    "bb2Confluence_pct": 2.12,
+    "bb3Confluence_pct": 6.71,
     "maKnock_count": 0,
-    "expectedRsi": 43.36
+    "expectedRsi": 43.42
   },
   "metrics": {
-    "maDistance": "+3.71%",
-    "bbConfluence": "2.11%",
+    "maDistance": "+2.70%",
+    "bbConfluence": "2.12%",
     "maKnock": "0 times recently",
-    "expectedRsi": "43.36"
+    "expectedRsi": "43.42"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 257.21,
-        "touches": 1,
-        "strength_score": 0.933
+        "price": 230.97,
+        "touches": 2,
+        "strength_score": 1.097
       },
       {
-        "price": 230.22,
+        "price": 257.21,
         "touches": 1,
-        "strength_score": 0.851
+        "strength_score": 0.922
+      },
+      {
+        "price": 215.61,
+        "touches": 1,
+        "strength_score": 0.411
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ABG is currently testing its Daily 50MA support zone near $208.27. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $257.21. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ABG is currently testing its Daily 50MA support zone near $208.68. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $230.97. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2025-12-31",
-        "open": 236.6199951171875,
-        "high": 237.38999938964844,
-        "low": 231.69000244140625,
-        "close": 232.52999877929688
-      },
       {
         "time": "2026-01-02",
         "open": 232.6300048828125,
@@ -1091,16 +1089,19 @@
       {
         "time": "2026-08-06",
         "open": 221.5399932861328,
-        "high": 221.0800018310547,
+        "high": 221.5399932861328,
         "low": 215.94000244140625,
         "close": 215.99000549316406
+      },
+      {
+        "time": "2026-08-07",
+        "open": 215.6199951171875,
+        "high": 217.38999938964844,
+        "low": 212.0,
+        "close": 214.32000732421875
       }
     ],
     "ma_target": [
-      {
-        "time": "2025-12-31",
-        "value": 233.7825991821289
-      },
       {
         "time": "2026-01-02",
         "value": 233.45039916992187
@@ -1696,13 +1697,13 @@
       {
         "time": "2026-08-06",
         "value": 208.27020050048827
+      },
+      {
+        "time": "2026-08-07",
+        "value": 208.6774005126953
       }
     ],
     "bbLower": [
-      {
-        "time": "2025-12-31",
-        "value": 231.82178533033365
-      },
       {
         "time": "2026-01-02",
         "value": 231.60012481028727
@@ -2298,6 +2299,10 @@
       {
         "time": "2026-08-06",
         "value": 203.87828189733182
+      },
+      {
+        "time": "2026-08-07",
+        "value": 204.24392084814644
       }
     ],
     "supportLine": 188.78
