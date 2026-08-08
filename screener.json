@@ -117,19 +117,6 @@
     "expected_rsi": 45.58
   },
   {
-    "ticker": "LNT",
-    "name": "Alliant Energy Corporation",
-    "price": 69.37,
-    "changePercent": -0.22,
-    "score": 57,
-    "stars": 3.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 0.15,
-    "bb_confluence": 0.92,
-    "expected_rsi": 36.45
-  },
-  {
     "ticker": "IRM",
     "name": "Iron Mountain Incorporated (Del",
     "price": 121.15,
@@ -146,14 +133,14 @@
     "ticker": "HWM",
     "name": "Howmet Aerospace Inc.",
     "price": 281.88,
-    "changePercent": -2.71,
+    "changePercent": -2.66,
     "score": 53,
     "stars": 2.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 3.58,
+    "ma_distance": 3.63,
     "bb_confluence": 1.61,
-    "expected_rsi": 45.57
+    "expected_rsi": 45.56
   },
   {
     "ticker": "SO",
@@ -169,17 +156,17 @@
     "expected_rsi": 40.1
   },
   {
-    "ticker": "WFC",
-    "name": "Wells Fargo & Company",
-    "price": 87.25,
-    "changePercent": -0.39,
+    "ticker": "LNT",
+    "name": "Alliant Energy Corporation",
+    "price": 69.37,
+    "changePercent": -0.22,
     "score": 51,
     "stars": 2.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.13,
-    "bb_confluence": 0.01,
-    "expected_rsi": 46.69
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 0.15,
+    "bb_confluence": 0.92,
+    "expected_rsi": 36.45
   },
   {
     "ticker": "NCLH",
@@ -206,19 +193,6 @@
     "ma_distance": 3.61,
     "bb_confluence": 0.99,
     "expected_rsi": 33.11
-  },
-  {
-    "ticker": "WFC",
-    "name": "Wells Fargo & Company",
-    "price": 87.25,
-    "changePercent": -0.39,
-    "score": 45,
-    "stars": 2.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.41,
-    "bb_confluence": 0.27,
-    "expected_rsi": 45.99
   },
   {
     "ticker": "CSX",
@@ -286,6 +260,19 @@
     "expected_rsi": 53.84
   },
   {
+    "ticker": "HRL",
+    "name": "Hormel Foods Corporation",
+    "price": 25.02,
+    "changePercent": -0.28,
+    "score": 37,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.76,
+    "bb_confluence": 0.05,
+    "expected_rsi": 47.4
+  },
+  {
     "ticker": "AIG",
     "name": "American International Group, I",
     "price": 78.78,
@@ -349,19 +336,6 @@
     "ma_distance": 2.7,
     "bb_confluence": 2.12,
     "expected_rsi": 43.42
-  },
-  {
-    "ticker": "HRL",
-    "name": "Hormel Foods Corporation",
-    "price": 25.02,
-    "changePercent": -0.28,
-    "score": 31,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.76,
-    "bb_confluence": 0.05,
-    "expected_rsi": 47.4
   },
   {
     "ticker": "GOOGL",
