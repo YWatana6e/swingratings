@@ -3,80 +3,68 @@
     "ticker": "ARW",
     "name": "Arrow Electronics, Inc.",
     "market": "NYQ",
-    "price": 203.51,
-    "change": -18.78,
-    "changePercent": -8.45
+    "price": 202.57,
+    "change": -0.94,
+    "changePercent": -0.46
   },
   "score": {
-    "total": 67,
+    "total": 69,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 195.85,
-    "maDistance_pct": 3.91,
-    "bb2Confluence_pct": 0.87,
-    "bb3Confluence_pct": 2.94,
+    "targetMA_price": 196.47,
+    "maDistance_pct": 3.11,
+    "bb2Confluence_pct": 0.63,
+    "bb3Confluence_pct": 3.14,
     "maKnock_count": 0,
-    "expectedRsi": 38.8
+    "expectedRsi": 38.94
   },
   "metrics": {
-    "maDistance": "+3.91%",
-    "bbConfluence": "0.87%",
+    "maDistance": "+3.11%",
+    "bbConfluence": "0.63%",
     "maKnock": "0 times recently",
-    "expectedRsi": "38.8"
+    "expectedRsi": "38.94"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 231.88,
         "touches": 2,
-        "strength_score": 1.572
+        "strength_score": 1.554
       },
       {
         "price": 220.96,
         "touches": 1,
-        "strength_score": 0.881
+        "strength_score": 0.871
       },
       {
         "price": 211.26,
         "touches": 1,
-        "strength_score": 0.785
+        "strength_score": 0.776
       },
       {
         "price": 237.33,
         "touches": 1,
-        "strength_score": 0.683
+        "strength_score": 0.675
       },
       {
         "price": 224.83,
         "touches": 1,
-        "strength_score": 0.555
+        "strength_score": 0.548
       },
       {
         "price": 215.68,
         "touches": 1,
-        "strength_score": 0.512
+        "strength_score": 0.506
       }
     ],
-    "trendline_clusters": [
-      {
-        "price": 231.59,
-        "count": 2
-      }
-    ]
+    "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ARW is currently testing its Daily 100MA support zone near $195.85. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $231.88 and a significant trendline confluence around $231.59 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ARW is currently testing its Daily 100MA support zone near $196.47. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $231.88. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-02",
-        "open": 111.19000244140625,
-        "high": 113.52999877929688,
-        "low": 110.61000061035156,
-        "close": 113.04000091552734
-      },
       {
         "time": "2026-01-05",
         "open": 113.31999969482422,
@@ -1119,13 +1107,16 @@
         "high": 209.60000610351562,
         "low": 194.4499969482422,
         "close": 203.50999450683594
+      },
+      {
+        "time": "2026-08-10",
+        "open": 204.32000732421875,
+        "high": 208.3699951171875,
+        "low": 201.4499969482422,
+        "close": 202.57000732421875
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-02",
-        "value": 117.50219993591308
-      },
       {
         "time": "2026-01-05",
         "value": 117.39799995422364
@@ -1721,52 +1712,52 @@
       {
         "time": "2026-08-07",
         "value": 195.84900009155274
+      },
+      {
+        "time": "2026-08-10",
+        "value": 196.46580017089843
       }
     ],
     "bbLower": [
       {
-        "time": "2026-01-02",
-        "value": 110.36063552866446
-      },
-      {
         "time": "2026-01-05",
-        "value": 110.55531426509896
+        "value": 110.55531426509897
       },
       {
         "time": "2026-01-06",
-        "value": 110.61159860026159
+        "value": 110.6115986002616
       },
       {
         "time": "2026-01-07",
-        "value": 110.45085614591295
+        "value": 110.45085614591297
       },
       {
         "time": "2026-01-08",
-        "value": 110.44806696060574
+        "value": 110.44806696060577
       },
       {
         "time": "2026-01-09",
-        "value": 110.68315519265529
+        "value": 110.68315519265532
       },
       {
         "time": "2026-01-12",
-        "value": 110.6675654516462
+        "value": 110.66756545164623
       },
       {
         "time": "2026-01-13",
-        "value": 110.4409701102991
+        "value": 110.44097011029913
       },
       {
         "time": "2026-01-14",
-        "value": 110.27021469611769
+        "value": 110.2702146961177
       },
       {
         "time": "2026-01-15",
-        "value": 109.72203982346879
+        "value": 109.7220398234688
       },
       {
         "time": "2026-01-16",
-        "value": 109.60373049489762
+        "value": 109.60373049489763
       },
       {
         "time": "2026-01-20",
@@ -1778,23 +1769,23 @@
       },
       {
         "time": "2026-01-22",
-        "value": 109.61342121109006
+        "value": 109.61342121109007
       },
       {
         "time": "2026-01-23",
-        "value": 109.81932154198292
+        "value": 109.81932154198293
       },
       {
         "time": "2026-01-26",
-        "value": 109.99825956418294
+        "value": 109.99825956418296
       },
       {
         "time": "2026-01-27",
-        "value": 109.74004959591848
+        "value": 109.74004959591849
       },
       {
         "time": "2026-01-28",
-        "value": 108.17694907062834
+        "value": 108.17694907062835
       },
       {
         "time": "2026-01-29",
@@ -1806,7 +1797,7 @@
       },
       {
         "time": "2026-02-02",
-        "value": 105.57919367845352
+        "value": 105.57919367845354
       },
       {
         "time": "2026-02-03",
@@ -1814,7 +1805,7 @@
       },
       {
         "time": "2026-02-04",
-        "value": 105.02638740821398
+        "value": 105.02638740821399
       },
       {
         "time": "2026-02-05",
@@ -2323,6 +2314,10 @@
       {
         "time": "2026-08-07",
         "value": 197.5501941414143
+      },
+      {
+        "time": "2026-08-10",
+        "value": 197.69930182650248
       }
     ],
     "supportLine": 202.21
