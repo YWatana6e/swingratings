@@ -3,84 +3,63 @@
     "ticker": "DXC",
     "name": "DXC Technology Company",
     "market": "NYQ",
-    "price": 10.84,
-    "change": -0.25,
-    "changePercent": -2.25
+    "price": 10.68,
+    "change": -0.13,
+    "changePercent": -1.2
   },
   "score": {
-    "total": 38,
+    "total": 39,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 10.47,
-    "maDistance_pct": 3.56,
-    "bb2Confluence_pct": 18.53,
-    "bb3Confluence_pct": 26.73,
+    "targetMA_price": 10.44,
+    "maDistance_pct": 2.33,
+    "bb2Confluence_pct": 14.92,
+    "bb3Confluence_pct": 22.48,
     "maKnock_count": 0,
-    "expectedRsi": 53.84
+    "expectedRsi": 52.34
   },
   "metrics": {
-    "maDistance": "+3.56%",
-    "bbConfluence": "18.53%",
+    "maDistance": "+2.33%",
+    "bbConfluence": "14.92%",
     "maKnock": "0 times recently",
-    "expectedRsi": "53.84"
+    "expectedRsi": "52.34"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 11.94,
         "touches": 1,
-        "strength_score": 0.955
+        "strength_score": 0.922
+      },
+      {
+        "price": 10.75,
+        "touches": 1,
+        "strength_score": 0.741
       },
       {
         "price": 13.47,
         "touches": 2,
-        "strength_score": 0.706
+        "strength_score": 0.682
       },
       {
         "price": 12.14,
         "touches": 1,
-        "strength_score": 0.483
+        "strength_score": 0.467
       },
       {
         "price": 13.2,
         "touches": 1,
-        "strength_score": 0.379
-      },
-      {
-        "price": 13.85,
-        "touches": 1,
-        "strength_score": 0.256
+        "strength_score": 0.366
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that DXC is currently testing its Daily 100MA support zone near $10.47. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $11.94. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DXC is currently testing its Daily 100MA support zone near $10.44. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $11.94. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-02",
-        "open": 14.770000457763672,
-        "high": 14.949999809265137,
-        "low": 14.050000190734863,
-        "close": 14.079999923706055
-      },
-      {
-        "time": "2026-01-05",
-        "open": 13.989999771118164,
-        "high": 14.460000038146973,
-        "low": 13.949999809265137,
-        "close": 14.029999732971191
-      },
-      {
-        "time": "2026-01-06",
-        "open": 13.979999542236328,
-        "high": 14.649999618530273,
-        "low": 13.890000343322754,
-        "close": 14.649999618530273
-      },
       {
         "time": "2026-01-07",
         "open": 14.710000038146973,
@@ -1109,21 +1088,30 @@
         "high": 11.220000267028809,
         "low": 10.819999694824219,
         "close": 10.84000015258789
+      },
+      {
+        "time": "2026-08-10",
+        "open": 10.6899995803833,
+        "high": 11.029999732971191,
+        "low": 10.649999618530273,
+        "close": 10.90999984741211
+      },
+      {
+        "time": "2026-08-11",
+        "open": 10.8100004196167,
+        "high": 11.050000190734863,
+        "low": 10.680000305175781,
+        "close": 10.8100004196167
+      },
+      {
+        "time": "2026-08-12",
+        "open": 10.630000114440918,
+        "high": 10.763999938964844,
+        "low": 10.359999656677246,
+        "close": 10.680000305175781
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-02",
-        "value": 13.86010004043579
-      },
-      {
-        "time": "2026-01-05",
-        "value": 13.867800035476684
-      },
-      {
-        "time": "2026-01-06",
-        "value": 13.87540002822876
-      },
       {
         "time": "2026-01-07",
         "value": 13.886700029373168
@@ -1711,21 +1699,21 @@
       {
         "time": "2026-08-07",
         "value": 10.467499980926513
+      },
+      {
+        "time": "2026-08-10",
+        "value": 10.458399982452393
+      },
+      {
+        "time": "2026-08-11",
+        "value": 10.449899988174439
+      },
+      {
+        "time": "2026-08-12",
+        "value": 10.436899995803833
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-02",
-        "value": 14.049615178678755
-      },
-      {
-        "time": "2026-01-05",
-        "value": 14.062697152005418
-      },
-      {
-        "time": "2026-01-06",
-        "value": 14.160625742348206
-      },
       {
         "time": "2026-01-07",
         "value": 14.23643146348728
@@ -2313,6 +2301,18 @@
       {
         "time": "2026-08-07",
         "value": 8.528159642871229
+      },
+      {
+        "time": "2026-08-10",
+        "value": 8.583416054551579
+      },
+      {
+        "time": "2026-08-11",
+        "value": 8.736770511279996
+      },
+      {
+        "time": "2026-08-12",
+        "value": 8.879781915692778
       }
     ],
     "supportLine": 9.05
