@@ -3,71 +3,89 @@
     "ticker": "IDXX",
     "name": "IDEXX Laboratories, Inc.",
     "market": "NMS",
-    "price": 570.58,
-    "change": -16.06,
-    "changePercent": -2.74
+    "price": 566.93,
+    "change": -3.65,
+    "changePercent": -0.64
   },
   "score": {
     "total": 4,
     "stars": 0.0,
-    "note": "/ 100 (Win Rate: 14%)"
+    "note": "/ 100 (Win Rate: 21%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 561.06,
-    "maDistance_pct": 1.7,
-    "bb2Confluence_pct": 4.39,
-    "bb3Confluence_pct": 7.26,
+    "targetMA_price": 561.87,
+    "maDistance_pct": 0.9,
+    "bb2Confluence_pct": 4.46,
+    "bb3Confluence_pct": 7.32,
     "maKnock_count": 4,
-    "expectedRsi": 48.49
+    "expectedRsi": 48.75
   },
   "metrics": {
-    "maDistance": "+1.70%",
-    "bbConfluence": "4.39%",
+    "maDistance": "+0.90%",
+    "bbConfluence": "4.46%",
     "maKnock": "4 times recently",
-    "expectedRsi": "48.49"
+    "expectedRsi": "48.75"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 577.76,
-        "touches": 8,
-        "strength_score": 5.367
+        "price": 577.65,
+        "touches": 7,
+        "strength_score": 4.591
       },
       {
         "price": 598.77,
         "touches": 4,
-        "strength_score": 1.393
+        "strength_score": 1.426
       },
       {
         "price": 624.15,
         "touches": 1,
-        "strength_score": 0.933
+        "strength_score": 0.922
       },
       {
         "price": 666.14,
         "touches": 1,
-        "strength_score": 0.265
+        "strength_score": 0.271
       }
     ],
     "trendline_clusters": [
       {
-        "price": 576.85,
-        "count": 16
+        "price": 570.38,
+        "count": 9
       },
       {
-        "price": 575.47,
-        "count": 10
+        "price": 577.39,
+        "count": 6
       },
       {
-        "price": 571.77,
+        "price": 568.29,
+        "count": 5
+      },
+      {
+        "price": 572.17,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that IDXX is currently testing its Daily 50MA support zone near $561.06. Based on historical price action, bounces from this level have yielded a win rate of 14.3%. The asset has recently tested this support 4 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $577.76 and a significant trendline confluence around $576.85 (formed by 16 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IDXX is currently testing its Daily 50MA support zone near $561.87. Based on historical price action, bounces from this level have yielded a win rate of 21.4%. The asset has recently tested this support 4 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $577.65 and a significant trendline confluence around $570.38 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2026-01-05",
+        "open": 670.2100219726562,
+        "high": 684.9600219726562,
+        "low": 667.6599731445312,
+        "close": 682.22998046875
+      },
+      {
+        "time": "2026-01-06",
+        "open": 677.8599853515625,
+        "high": 707.530029296875,
+        "low": 675.9000244140625,
+        "close": 706.8300170898438
+      },
       {
         "time": "2026-01-07",
         "open": 706.0800170898438,
@@ -1000,20 +1018,6 @@
         "close": 563.8099975585938
       },
       {
-        "time": "2026-07-21",
-        "open": 553.010009765625,
-        "high": 562.02001953125,
-        "low": 545.5700073242188,
-        "close": 552.4600219726562
-      },
-      {
-        "time": "2026-07-22",
-        "open": 554.6199951171875,
-        "high": 556.969970703125,
-        "low": 543.010009765625,
-        "close": 545.0
-      },
-      {
         "time": "2026-07-23",
         "open": 542.1699829101562,
         "high": 547.6099853515625,
@@ -1054,13 +1058,6 @@
         "high": 564.5900268554688,
         "low": 554.2100219726562,
         "close": 558.7999877929688
-      },
-      {
-        "time": "2026-07-31",
-        "open": 553.0800170898438,
-        "high": 563.0499877929688,
-        "low": 549.3300170898438,
-        "close": 559.0700073242188
       },
       {
         "time": "2026-08-03",
@@ -1114,12 +1111,27 @@
       {
         "time": "2026-08-12",
         "open": 580.0,
-        "high": 584.1536254882812,
-        "low": 568.2150268554688,
+        "high": 584.1500244140625,
+        "low": 568.219970703125,
         "close": 570.5800170898438
+      },
+      {
+        "time": "2026-08-13",
+        "open": 576.3300170898438,
+        "high": 577.0900268554688,
+        "low": 557.4099731445312,
+        "close": 566.9299926757812
       }
     ],
     "ma_target": [
+      {
+        "time": "2026-01-05",
+        "value": 696.5179956054687
+      },
+      {
+        "time": "2026-01-06",
+        "value": 697.8825964355469
+      },
       {
         "time": "2026-01-07",
         "value": 699.3565966796875
@@ -1653,75 +1665,75 @@
         "value": 554.8303979492188
       },
       {
-        "time": "2026-07-21",
-        "value": 554.4355981445312
-      },
-      {
-        "time": "2026-07-22",
-        "value": 554.1333984375
-      },
-      {
         "time": "2026-07-23",
-        "value": 554.2807983398437
+        "value": 554.1737976074219
       },
       {
         "time": "2026-07-24",
-        "value": 554.488798828125
+        "value": 553.857998046875
       },
       {
         "time": "2026-07-27",
-        "value": 555.03919921875
+        "value": 554.3419982910157
       },
       {
         "time": "2026-07-28",
-        "value": 555.7727990722656
+        "value": 555.0543981933594
       },
       {
         "time": "2026-07-29",
-        "value": 556.5923999023438
+        "value": 555.8761987304688
       },
       {
         "time": "2026-07-30",
-        "value": 556.8526000976562
-      },
-      {
-        "time": "2026-07-31",
-        "value": 557.1042004394532
+        "value": 556.3949987792969
       },
       {
         "time": "2026-08-03",
-        "value": 557.3894006347656
+        "value": 557.1759997558594
       },
       {
         "time": "2026-08-04",
-        "value": 558.0898010253907
+        "value": 558.0220007324219
       },
       {
         "time": "2026-08-05",
-        "value": 558.5980017089844
+        "value": 558.7878015136719
       },
       {
         "time": "2026-08-06",
-        "value": 559.2538012695312
+        "value": 559.516201171875
       },
       {
         "time": "2026-08-07",
-        "value": 559.9674011230469
+        "value": 560.1882006835938
       },
       {
         "time": "2026-08-10",
-        "value": 560.5220007324219
+        "value": 560.9160009765625
       },
       {
         "time": "2026-08-11",
-        "value": 560.9842004394532
+        "value": 561.5046008300782
       },
       {
         "time": "2026-08-12",
-        "value": 561.0600012207032
+        "value": 561.8964013671875
+      },
+      {
+        "time": "2026-08-13",
+        "value": 561.8744006347656
       }
     ],
     "bbLower": [
+      {
+        "time": "2026-01-05",
+        "value": 671.673828220941
+      },
+      {
+        "time": "2026-01-06",
+        "value": 672.4211652248207
+      },
       {
         "time": "2026-01-07",
         "value": 671.6032553553696
@@ -2255,74 +2267,66 @@
         "value": 528.896984638156
       },
       {
-        "time": "2026-07-21",
-        "value": 529.5127802049232
-      },
-      {
-        "time": "2026-07-22",
-        "value": 530.0369269305259
-      },
-      {
         "time": "2026-07-23",
-        "value": 528.7533099700837
+        "value": 528.0095517736106
       },
       {
         "time": "2026-07-24",
-        "value": 527.8678531127989
+        "value": 528.4197475901558
       },
       {
         "time": "2026-07-27",
-        "value": 528.0992969154236
+        "value": 528.8525091440575
       },
       {
         "time": "2026-07-28",
-        "value": 530.3002778646568
+        "value": 528.7303919123257
       },
       {
         "time": "2026-07-29",
-        "value": 535.586624848285
+        "value": 528.9411426270445
       },
       {
         "time": "2026-07-30",
-        "value": 538.6686578401824
-      },
-      {
-        "time": "2026-07-31",
-        "value": 538.7368929290169
+        "value": 531.6840921766383
       },
       {
         "time": "2026-08-03",
-        "value": 538.6677128557965
+        "value": 537.6330913762172
       },
       {
         "time": "2026-08-04",
-        "value": 536.3470905576173
+        "value": 539.062790863717
       },
       {
         "time": "2026-08-05",
-        "value": 535.5316673471222
+        "value": 538.3784278495249
       },
       {
         "time": "2026-08-06",
-        "value": 534.2894955862746
+        "value": 536.9709026068296
       },
       {
         "time": "2026-08-07",
-        "value": 533.6229163736068
+        "value": 536.1870844014848
       },
       {
         "time": "2026-08-10",
-        "value": 532.2085994884828
+        "value": 535.6460947322939
       },
       {
         "time": "2026-08-11",
-        "value": 535.3768821187449
+        "value": 536.2057222144655
       },
       {
         "time": "2026-08-12",
-        "value": 536.4295286463793
+        "value": 536.6269675884488
+      },
+      {
+        "time": "2026-08-13",
+        "value": 536.819983815689
       }
     ],
-    "supportLine": 545.46
+    "supportLine": 545.02
   }
 }
