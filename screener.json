@@ -91,19 +91,6 @@
     "expected_rsi": 46.01
   },
   {
-    "ticker": "BALL",
-    "name": "Ball Corporation",
-    "price": 61.82,
-    "changePercent": -0.18,
-    "score": 45,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.96,
-    "bb_confluence": 1.13,
-    "expected_rsi": 38.61
-  },
-  {
     "ticker": "FCX",
     "name": "Freeport-McMoRan, Inc.",
     "price": 66.49,
@@ -115,6 +102,19 @@
     "ma_distance": 4.96,
     "bb_confluence": 7.83,
     "expected_rsi": 46.83
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare, Inc.",
+    "price": 404.68,
+    "changePercent": -1.71,
+    "score": 42,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.43,
+    "bb_confluence": 6.04,
+    "expected_rsi": 46.31
   },
   {
     "ticker": "AJG",
@@ -130,17 +130,30 @@
     "expected_rsi": 43.79
   },
   {
-    "ticker": "BP",
-    "name": "BP p.l.c.",
-    "price": 42.53,
-    "changePercent": -0.7,
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "price": 61.82,
+    "changePercent": -0.18,
+    "score": 42,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.14,
+    "bb_confluence": 1.48,
+    "expected_rsi": 38.88
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "price": 61.82,
+    "changePercent": -0.18,
     "score": 40,
     "stars": 2.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 3.15,
-    "bb_confluence": 0.63,
-    "expected_rsi": 46.55
+    "ma_distance": 1.89,
+    "bb_confluence": 0.25,
+    "expected_rsi": 42.06
   },
   {
     "ticker": "MRNA",
@@ -169,32 +182,6 @@
     "expected_rsi": 40.78
   },
   {
-    "ticker": "HON",
-    "name": "Honeywell International Inc.",
-    "price": 233.96,
-    "changePercent": -0.01,
-    "score": 36,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 2.73,
-    "bb_confluence": 0.47,
-    "expected_rsi": 42.82
-  },
-  {
-    "ticker": "BALL",
-    "name": "Ball Corporation",
-    "price": 61.82,
-    "changePercent": -0.18,
-    "score": 35,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.28,
-    "bb_confluence": 0.52,
-    "expected_rsi": 43.31
-  },
-  {
     "ticker": "FCX",
     "name": "Freeport-McMoRan, Inc.",
     "price": 66.49,
@@ -221,30 +208,30 @@
     "expected_rsi": 46.18
   },
   {
-    "ticker": "HCA",
-    "name": "HCA Healthcare, Inc.",
-    "price": 404.68,
-    "changePercent": -1.71,
-    "score": 31,
+    "ticker": "ECL",
+    "name": "Ecolab Inc.",
+    "price": 276.11,
+    "changePercent": -0.05,
+    "score": 32,
     "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.18,
-    "bb_confluence": 6.17,
-    "expected_rsi": 46.68
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.36,
+    "bb_confluence": 0.61,
+    "expected_rsi": 40.42
   },
   {
     "ticker": "DE",
     "name": "Deere & Company",
     "price": 608.85,
     "changePercent": -0.58,
-    "score": 29,
+    "score": 30,
     "stars": 1.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 3.77,
-    "bb_confluence": 0.23,
-    "expected_rsi": 43.33
+    "ma_distance": 3.94,
+    "bb_confluence": 0.02,
+    "expected_rsi": 43.1
   },
   {
     "ticker": "MAS",
@@ -260,43 +247,30 @@
     "expected_rsi": 41.04
   },
   {
-    "ticker": "HON",
-    "name": "Honeywell International Inc.",
-    "price": 233.96,
-    "changePercent": -0.01,
-    "score": 26,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.09,
-    "bb_confluence": 3.02,
-    "expected_rsi": 48.19
-  },
-  {
     "ticker": "ECL",
     "name": "Ecolab Inc.",
     "price": 276.11,
     "changePercent": -0.05,
-    "score": 23,
-    "stars": 1.0,
+    "score": 27,
+    "stars": 1.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 2.27,
-    "bb_confluence": 2.72,
-    "expected_rsi": 43.57
+    "ma_distance": 2.23,
+    "bb_confluence": 1.7,
+    "expected_rsi": 43.43
   },
   {
     "ticker": "LLY",
     "name": "Eli Lilly and Company",
     "price": 1180.16,
-    "changePercent": -2.39,
+    "changePercent": -2.25,
     "score": 22,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 0.91,
+    "ma_distance": 1.05,
     "bb_confluence": 4.38,
-    "expected_rsi": 49.74
+    "expected_rsi": 49.73
   },
   {
     "ticker": "AXP",
@@ -310,19 +284,6 @@
     "ma_distance": 0.83,
     "bb_confluence": 3.19,
     "expected_rsi": 50.39
-  },
-  {
-    "ticker": "ECL",
-    "name": "Ecolab Inc.",
-    "price": 276.11,
-    "changePercent": -0.05,
-    "score": 22,
-    "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.3,
-    "bb_confluence": 1.74,
-    "expected_rsi": 40.79
   },
   {
     "ticker": "EL",
@@ -368,7 +329,7 @@
     "name": "Home Depot, Inc. (The)",
     "price": 338.86,
     "changePercent": -0.83,
-    "score": 15,
+    "score": 18,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
@@ -403,11 +364,37 @@
     "expected_rsi": 45.84
   },
   {
+    "ticker": "ECL",
+    "name": "Ecolab Inc.",
+    "price": 276.11,
+    "changePercent": -0.05,
+    "score": 11,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.03,
+    "bb_confluence": 2.85,
+    "expected_rsi": 47.24
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "price": 608.85,
+    "changePercent": -0.58,
+    "score": 9,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.46,
+    "bb_confluence": 2.37,
+    "expected_rsi": 48.39
+  },
+  {
     "ticker": "AOS",
     "name": "A.O. Smith Corporation",
     "price": 62.17,
     "changePercent": -0.53,
-    "score": 10,
+    "score": 6,
     "stars": 0.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
@@ -416,69 +403,17 @@
     "expected_rsi": 48.79
   },
   {
-    "ticker": "HON",
-    "name": "Honeywell International Inc.",
-    "price": 233.96,
-    "changePercent": -0.01,
-    "score": 9,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.2,
-    "bb_confluence": 2.93,
-    "expected_rsi": 47.96
-  },
-  {
-    "ticker": "ECL",
-    "name": "Ecolab Inc.",
-    "price": 276.11,
-    "changePercent": -0.05,
-    "score": 9,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.88,
-    "bb_confluence": 4.04,
-    "expected_rsi": 48.05
-  },
-  {
-    "ticker": "DE",
-    "name": "Deere & Company",
-    "price": 608.85,
-    "changePercent": -0.58,
-    "score": 7,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.19,
-    "bb_confluence": 2.71,
-    "expected_rsi": 49.11
-  },
-  {
     "ticker": "AOS",
     "name": "A.O. Smith Corporation",
     "price": 62.17,
     "changePercent": -0.53,
-    "score": 7,
+    "score": 6,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
     "ma_distance": 3.19,
     "bb_confluence": 3.95,
     "expected_rsi": 47.22
-  },
-  {
-    "ticker": "OTIS",
-    "name": "Otis Worldwide Corporation",
-    "price": 72.63,
-    "changePercent": -0.55,
-    "score": 4,
-    "stars": 0.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.4,
-    "bb_confluence": 2.22,
-    "expected_rsi": 50.05
   },
   {
     "ticker": "EW",
@@ -515,9 +450,9 @@
     "stars": 0.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 4.04,
-    "bb_confluence": 5.99,
-    "expected_rsi": 52.27
+    "ma_distance": 3.99,
+    "bb_confluence": 5.79,
+    "expected_rsi": 52.67
   },
   {
     "ticker": "TCOM",
@@ -541,8 +476,8 @@
     "stars": 0.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 4.36,
-    "bb_confluence": 10.73,
-    "expected_rsi": 53.22
+    "ma_distance": 4.19,
+    "bb_confluence": 10.83,
+    "expected_rsi": 53.86
   }
 ]
