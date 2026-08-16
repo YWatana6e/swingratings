@@ -8,53 +8,67 @@
     "changePercent": -0.32
   },
   "score": {
-    "total": 91,
+    "total": 86,
     "stars": 4.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 18.51,
-    "maDistance_pct": 1.5,
-    "bb2Confluence_pct": 0.06,
-    "bb3Confluence_pct": 4.56,
+    "targetMA_price": 18.37,
+    "maDistance_pct": 2.28,
+    "bb2Confluence_pct": 0.73,
+    "bb3Confluence_pct": 3.76,
     "maKnock_count": 0,
-    "expectedRsi": 36.29
+    "expectedRsi": 36.14
   },
   "metrics": {
-    "maDistance": "+1.50%",
-    "bbConfluence": "0.06%",
+    "maDistance": "+2.28%",
+    "bbConfluence": "0.73%",
     "maKnock": "0 times recently",
-    "expectedRsi": "36.29"
+    "expectedRsi": "36.14"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 21.58,
         "touches": 2,
-        "strength_score": 1.655
+        "strength_score": 1.673
       },
       {
         "price": 20.59,
         "touches": 2,
-        "strength_score": 1.492
+        "strength_score": 1.505
       },
       {
         "price": 22.36,
         "touches": 2,
-        "strength_score": 1.306
+        "strength_score": 1.336
       }
     ],
     "trendline_clusters": [
       {
-        "price": 20.86,
+        "price": 20.84,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that PENN is currently testing its Daily 100MA support zone near $18.51. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $21.58 and a significant trendline confluence around $20.86 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that PENN is currently testing its Daily 100MA support zone near $18.37. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $21.58 and a significant trendline confluence around $20.84 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2026-01-07",
+        "open": 14.90999984741211,
+        "high": 14.989999771118164,
+        "low": 13.800000190734863,
+        "close": 13.819999694824219
+      },
+      {
+        "time": "2026-01-08",
+        "open": 13.819999694824219,
+        "high": 14.90999984741211,
+        "low": 13.819999694824219,
+        "close": 14.430000305175781
+      },
       {
         "time": "2026-01-09",
         "open": 14.579999923706055,
@@ -973,20 +987,6 @@
         "close": 21.229999542236328
       },
       {
-        "time": "2026-07-21",
-        "open": 21.360000610351562,
-        "high": 21.649999618530273,
-        "low": 21.149999618530273,
-        "close": 21.229999542236328
-      },
-      {
-        "time": "2026-07-22",
-        "open": 21.229999542236328,
-        "high": 21.350000381469727,
-        "low": 20.829999923706055,
-        "close": 20.93000030517578
-      },
-      {
         "time": "2026-07-23",
         "open": 21.309999465942383,
         "high": 21.309999465942383,
@@ -1107,6 +1107,14 @@
       }
     ],
     "ma_target": [
+      {
+        "time": "2026-01-07",
+        "value": 16.8106999874115
+      },
+      {
+        "time": "2026-01-08",
+        "value": 16.772599992752074
+      },
       {
         "time": "2026-01-09",
         "value": 16.730099992752073
@@ -1632,83 +1640,83 @@
         "value": 17.437700033187866
       },
       {
-        "time": "2026-07-21",
-        "value": 17.5246000289917
-      },
-      {
-        "time": "2026-07-22",
-        "value": 17.58750002861023
-      },
-      {
         "time": "2026-07-23",
-        "value": 17.63380002975464
+        "value": 17.515000038146972
       },
       {
         "time": "2026-07-24",
-        "value": 17.690100021362305
+        "value": 17.57340003013611
       },
       {
         "time": "2026-07-27",
-        "value": 17.752600021362305
+        "value": 17.62880002975464
       },
       {
         "time": "2026-07-28",
-        "value": 17.810700016021727
+        "value": 17.691100025177
       },
       {
         "time": "2026-07-29",
-        "value": 17.868000020980833
+        "value": 17.75380002975464
       },
       {
         "time": "2026-07-30",
-        "value": 17.926800022125246
+        "value": 17.806300029754638
       },
       {
         "time": "2026-07-31",
-        "value": 17.985100030899048
+        "value": 17.856900033950804
       },
       {
         "time": "2026-08-03",
-        "value": 18.04160002708435
+        "value": 17.910300025939943
       },
       {
         "time": "2026-08-04",
-        "value": 18.093300037384033
+        "value": 17.963700037002564
       },
       {
         "time": "2026-08-05",
-        "value": 18.144200048446656
+        "value": 18.016600046157837
       },
       {
         "time": "2026-08-06",
-        "value": 18.202400035858155
+        "value": 18.069200038909912
       },
       {
         "time": "2026-08-07",
-        "value": 18.264400043487548
+        "value": 18.12570004463196
       },
       {
         "time": "2026-08-10",
-        "value": 18.31320004463196
+        "value": 18.171100044250487
       },
       {
         "time": "2026-08-11",
-        "value": 18.366100034713746
+        "value": 18.22260004043579
       },
       {
         "time": "2026-08-12",
-        "value": 18.416200037002564
+        "value": 18.274600038528444
       },
       {
         "time": "2026-08-13",
-        "value": 18.46800004005432
+        "value": 18.324700040817262
       },
       {
         "time": "2026-08-14",
-        "value": 18.51150005340576
+        "value": 18.371000051498413
       }
     ],
     "bbLower": [
+      {
+        "time": "2026-01-07",
+        "value": 13.581943923678946
+      },
+      {
+        "time": "2026-01-08",
+        "value": 13.699103531620688
+      },
       {
         "time": "2026-01-09",
         "value": 13.80253017142856
@@ -2234,80 +2242,72 @@
         "value": 19.830070004217138
       },
       {
-        "time": "2026-07-21",
-        "value": 19.847146725197142
-      },
-      {
-        "time": "2026-07-22",
-        "value": 19.890811288076733
-      },
-      {
         "time": "2026-07-23",
-        "value": 19.871907747881675
+        "value": 19.762364073654854
       },
       {
         "time": "2026-07-24",
-        "value": 19.818798366571187
+        "value": 19.759817409172747
       },
       {
         "time": "2026-07-27",
-        "value": 19.853689444601056
+        "value": 19.825524645474363
       },
       {
         "time": "2026-07-28",
-        "value": 19.927194261183608
+        "value": 19.82519010199822
       },
       {
         "time": "2026-07-29",
-        "value": 19.931932164512325
+        "value": 19.859667511742675
       },
       {
         "time": "2026-07-30",
-        "value": 19.911697981244274
+        "value": 19.893490633654558
       },
       {
         "time": "2026-07-31",
-        "value": 20.00191644768134
+        "value": 19.866992619507812
       },
       {
         "time": "2026-08-03",
-        "value": 19.891953769836956
+        "value": 19.7719765162034
       },
       {
         "time": "2026-08-04",
-        "value": 19.805518934645523
+        "value": 19.810306473796924
       },
       {
         "time": "2026-08-05",
-        "value": 19.693734189413775
+        "value": 19.652080289896137
       },
       {
         "time": "2026-08-06",
-        "value": 19.639796162644476
+        "value": 19.603861774063304
       },
       {
         "time": "2026-08-07",
-        "value": 19.618188028999132
+        "value": 19.611986019687762
       },
       {
         "time": "2026-08-10",
-        "value": 19.274152136287974
+        "value": 19.265797864619
       },
       {
         "time": "2026-08-11",
-        "value": 19.08697700151421
+        "value": 19.070510577095934
       },
       {
         "time": "2026-08-12",
-        "value": 18.91215585119162
+        "value": 18.901909102837383
       },
       {
         "time": "2026-08-13",
-        "value": 18.708077301079808
+        "value": 18.696024184738306
       },
       {
         "time": "2026-08-14",
-        "value": 18.500962337093597
+        "value": 18.505261496272542
       }
     ],
     "supportLine": 20.0

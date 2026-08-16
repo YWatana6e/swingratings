@@ -14,18 +14,18 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 88.57,
-    "maDistance_pct": 3.42,
-    "bb2Confluence_pct": 8.88,
-    "bb3Confluence_pct": 12.87,
+    "targetMA_price": 88.67,
+    "maDistance_pct": 3.31,
+    "bb2Confluence_pct": 8.41,
+    "bb3Confluence_pct": 12.24,
     "maKnock_count": 1,
-    "expectedRsi": 50.37
+    "expectedRsi": 50.12
   },
   "metrics": {
-    "maDistance": "+3.42%",
-    "bbConfluence": "8.88%",
+    "maDistance": "+3.31%",
+    "bbConfluence": "8.41%",
     "maKnock": "1 time recently",
-    "expectedRsi": "50.37"
+    "expectedRsi": "50.12"
   },
   "resistances": {
     "horizontal": [
@@ -37,14 +37,28 @@
       {
         "price": 96.29,
         "touches": 1,
-        "strength_score": 0.724
+        "strength_score": 0.741
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $88.57. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $93.91. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that EW is currently testing its Daily 50MA support zone near $88.67. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $93.91. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2026-01-07",
+        "open": 86.2699966430664,
+        "high": 86.5999984741211,
+        "low": 83.93000030517578,
+        "close": 84.83000183105469
+      },
+      {
+        "time": "2026-01-08",
+        "open": 84.27999877929688,
+        "high": 85.54000091552734,
+        "low": 84.25,
+        "close": 84.58000183105469
+      },
       {
         "time": "2026-01-09",
         "open": 85.27999877929688,
@@ -963,20 +977,6 @@
         "close": 85.0
       },
       {
-        "time": "2026-07-21",
-        "open": 83.98999786376953,
-        "high": 84.87000274658203,
-        "low": 83.16999816894531,
-        "close": 84.55000305175781
-      },
-      {
-        "time": "2026-07-22",
-        "open": 85.22000122070312,
-        "high": 85.52999877929688,
-        "low": 84.0199966430664,
-        "close": 84.37000274658203
-      },
-      {
         "time": "2026-07-23",
         "open": 83.5199966430664,
         "high": 84.44999694824219,
@@ -1097,6 +1097,14 @@
       }
     ],
     "ma_target": [
+      {
+        "time": "2026-01-07",
+        "value": 84.73919998168945
+      },
+      {
+        "time": "2026-01-08",
+        "value": 84.81440002441406
+      },
       {
         "time": "2026-01-09",
         "value": 84.8731999206543
@@ -1622,83 +1630,83 @@
         "value": 86.93940002441406
       },
       {
-        "time": "2026-07-21",
-        "value": 86.97520004272461
-      },
-      {
-        "time": "2026-07-22",
-        "value": 87.0634001159668
-      },
-      {
         "time": "2026-07-23",
-        "value": 87.19640014648438
+        "value": 86.96059997558594
       },
       {
         "time": "2026-07-24",
-        "value": 87.25440002441407
+        "value": 87.01399993896484
       },
       {
         "time": "2026-07-27",
-        "value": 87.28740005493164
+        "value": 87.13139999389648
       },
       {
         "time": "2026-07-28",
-        "value": 87.33420013427734
+        "value": 87.21039993286132
       },
       {
         "time": "2026-07-29",
-        "value": 87.42180023193359
+        "value": 87.29779998779297
       },
       {
         "time": "2026-07-30",
-        "value": 87.51240020751953
+        "value": 87.40940002441407
       },
       {
         "time": "2026-07-31",
-        "value": 87.59060012817383
+        "value": 87.50320007324218
       },
       {
         "time": "2026-08-03",
-        "value": 87.70760009765625
+        "value": 87.63180007934571
       },
       {
         "time": "2026-08-04",
-        "value": 87.83560012817382
+        "value": 87.78059997558594
       },
       {
         "time": "2026-08-05",
-        "value": 87.89940017700195
+        "value": 87.90059997558593
       },
       {
         "time": "2026-08-06",
-        "value": 87.93500015258789
+        "value": 88.02300003051758
       },
       {
         "time": "2026-08-07",
-        "value": 87.99920013427734
+        "value": 88.10180007934571
       },
       {
         "time": "2026-08-10",
-        "value": 88.12060012817383
+        "value": 88.1916000366211
       },
       {
         "time": "2026-08-11",
-        "value": 88.26440017700196
+        "value": 88.33460006713867
       },
       {
         "time": "2026-08-12",
-        "value": 88.36220016479493
+        "value": 88.47640014648438
       },
       {
         "time": "2026-08-13",
-        "value": 88.46020004272461
+        "value": 88.59820007324218
       },
       {
         "time": "2026-08-14",
-        "value": 88.57220001220703
+        "value": 88.66699996948242
       }
     ],
     "bbLower": [
+      {
+        "time": "2026-01-07",
+        "value": 82.82891729751933
+      },
+      {
+        "time": "2026-01-08",
+        "value": 83.03871002154075
+      },
       {
         "time": "2026-01-09",
         "value": 83.1807931395685
@@ -2224,80 +2232,72 @@
         "value": 84.31893675086909
       },
       {
-        "time": "2026-07-21",
-        "value": 84.03187655011675
-      },
-      {
-        "time": "2026-07-22",
-        "value": 83.53854698003799
-      },
-      {
         "time": "2026-07-23",
-        "value": 82.69749117015715
+        "value": 83.85500391807076
       },
       {
         "time": "2026-07-24",
-        "value": 81.68443735852493
+        "value": 82.95422129488612
       },
       {
         "time": "2026-07-27",
-        "value": 80.84264784424454
+        "value": 81.99855768205114
       },
       {
         "time": "2026-07-28",
-        "value": 80.20761744999626
+        "value": 81.26725826048951
       },
       {
         "time": "2026-07-29",
-        "value": 79.92146625466245
+        "value": 80.8993635529527
       },
       {
         "time": "2026-07-30",
-        "value": 79.80285117668808
+        "value": 80.69312633893912
       },
       {
         "time": "2026-07-31",
-        "value": 79.83985985073434
+        "value": 80.41976904135038
       },
       {
         "time": "2026-08-03",
-        "value": 80.25549409387524
+        "value": 80.40293797912643
       },
       {
         "time": "2026-08-04",
-        "value": 80.73783962904776
+        "value": 80.60076311133133
       },
       {
         "time": "2026-08-05",
-        "value": 81.14426062793665
+        "value": 80.96312288013574
       },
       {
         "time": "2026-08-06",
-        "value": 81.28316056118446
+        "value": 81.39364922643227
       },
       {
         "time": "2026-08-07",
-        "value": 81.54173170716895
+        "value": 81.73219049017519
       },
       {
         "time": "2026-08-10",
-        "value": 81.50643774339693
+        "value": 81.66622490159983
       },
       {
         "time": "2026-08-11",
-        "value": 81.04166811389838
+        "value": 81.47765528617221
       },
       {
         "time": "2026-08-12",
-        "value": 80.7559112841874
+        "value": 81.34578243871243
       },
       {
         "time": "2026-08-13",
-        "value": 80.58842127346041
+        "value": 81.19235219939685
       },
       {
         "time": "2026-08-14",
-        "value": 80.70439705474544
+        "value": 81.20769973508516
       }
     ],
     "supportLine": 80.57

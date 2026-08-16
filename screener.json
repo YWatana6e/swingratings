@@ -4,65 +4,26 @@
     "name": "PENN Entertainment, Inc.",
     "price": 18.79,
     "changePercent": -0.32,
-    "score": 91,
+    "score": 86,
     "stars": 4.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 1.5,
-    "bb_confluence": 0.06,
-    "expected_rsi": 36.29
+    "ma_distance": 2.28,
+    "bb_confluence": 0.73,
+    "expected_rsi": 36.14
   },
   {
-    "ticker": "AXP",
-    "name": "American Express Company",
-    "price": 342.48,
-    "changePercent": -0.34,
+    "ticker": "LUV",
+    "name": "Southwest Airlines Company",
+    "price": 44.26,
+    "changePercent": -1.36,
     "score": 72,
     "stars": 3.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 4.95,
-    "bb_confluence": 0.76,
-    "expected_rsi": 39.51
-  },
-  {
-    "ticker": "ILMN",
-    "name": "Illumina, Inc.",
-    "price": 190.89,
-    "changePercent": -0.91,
-    "score": 71,
-    "stars": 3.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.1,
-    "bb_confluence": 0.31,
-    "expected_rsi": 43.98
-  },
-  {
-    "ticker": "LUV",
-    "name": "Southwest Airlines Company",
-    "price": 44.26,
-    "changePercent": -1.36,
-    "score": 70,
-    "stars": 3.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.01,
-    "bb_confluence": 0.51,
-    "expected_rsi": 39.21
-  },
-  {
-    "ticker": "LUV",
-    "name": "Southwest Airlines Company",
-    "price": 44.26,
-    "changePercent": -1.36,
-    "score": 66,
-    "stars": 3.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.94,
-    "bb_confluence": 2.34,
-    "expected_rsi": 35.7
+    "ma_distance": 2.22,
+    "bb_confluence": 0.18,
+    "expected_rsi": 39.02
   },
   {
     "ticker": "CSCO",
@@ -76,6 +37,19 @@
     "ma_distance": 4.96,
     "bb_confluence": 1.46,
     "expected_rsi": 36.67
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global Corporation",
+    "price": 66.74,
+    "changePercent": -2.49,
+    "score": 62,
+    "stars": 3.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.59,
+    "bb_confluence": 2.3,
+    "expected_rsi": 37.18
   },
   {
     "ticker": "DHR",
@@ -104,19 +78,6 @@
     "expected_rsi": 46.83
   },
   {
-    "ticker": "HCA",
-    "name": "HCA Healthcare, Inc.",
-    "price": 404.68,
-    "changePercent": -1.71,
-    "score": 42,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.43,
-    "bb_confluence": 6.04,
-    "expected_rsi": 46.31
-  },
-  {
     "ticker": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "price": 251.21,
@@ -143,6 +104,19 @@
     "expected_rsi": 38.88
   },
   {
+    "ticker": "HCA",
+    "name": "HCA Healthcare, Inc.",
+    "price": 404.68,
+    "changePercent": -1.71,
+    "score": 42,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.43,
+    "bb_confluence": 6.04,
+    "expected_rsi": 46.31
+  },
+  {
     "ticker": "BALL",
     "name": "Ball Corporation",
     "price": 61.82,
@@ -167,19 +141,6 @@
     "ma_distance": 4.14,
     "bb_confluence": 14.73,
     "expected_rsi": 52.19
-  },
-  {
-    "ticker": "ATR",
-    "name": "AptarGroup, Inc.",
-    "price": 132.1,
-    "changePercent": -0.35,
-    "score": 37,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.27,
-    "bb_confluence": 0.92,
-    "expected_rsi": 40.78
   },
   {
     "ticker": "FCX",
@@ -260,6 +221,19 @@
     "expected_rsi": 43.43
   },
   {
+    "ticker": "EL",
+    "name": "Estee Lauder Companies, Inc. (T",
+    "price": 86.1,
+    "changePercent": -1.4,
+    "score": 23,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.32,
+    "bb_confluence": 4.76,
+    "expected_rsi": 49.21
+  },
+  {
     "ticker": "LLY",
     "name": "Eli Lilly and Company",
     "price": 1180.16,
@@ -273,95 +247,56 @@
     "expected_rsi": 49.73
   },
   {
+    "ticker": "HD",
+    "name": "Home Depot, Inc. (The)",
+    "price": 338.86,
+    "changePercent": -0.83,
+    "score": 21,
+    "stars": 1.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.83,
+    "bb_confluence": 1.67,
+    "expected_rsi": 43.47
+  },
+  {
     "ticker": "AXP",
     "name": "American Express Company",
     "price": 342.48,
     "changePercent": -0.34,
-    "score": 22,
+    "score": 19,
     "stars": 1.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 0.83,
-    "bb_confluence": 3.19,
-    "expected_rsi": 50.39
-  },
-  {
-    "ticker": "EL",
-    "name": "Estee Lauder Companies, Inc. (T",
-    "price": 86.1,
-    "changePercent": -1.4,
-    "score": 22,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.33,
-    "bb_confluence": 4.73,
-    "expected_rsi": 49.21
+    "ma_distance": 1.14,
+    "bb_confluence": 3.07,
+    "expected_rsi": 49.57
   },
   {
     "ticker": "HD",
     "name": "Home Depot, Inc. (The)",
     "price": 338.86,
     "changePercent": -0.83,
-    "score": 20,
+    "score": 16,
     "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.82,
-    "bb_confluence": 1.93,
-    "expected_rsi": 43.44
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.47,
+    "bb_confluence": 3.93,
+    "expected_rsi": 48.56
   },
   {
     "ticker": "AXP",
     "name": "American Express Company",
     "price": 342.48,
     "changePercent": -0.34,
-    "score": 20,
-    "stars": 1.0,
+    "score": 14,
+    "stars": 0.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 1.4,
-    "bb_confluence": 2.65,
-    "expected_rsi": 48.58
-  },
-  {
-    "ticker": "HD",
-    "name": "Home Depot, Inc. (The)",
-    "price": 338.86,
-    "changePercent": -0.83,
-    "score": 18,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.34,
-    "bb_confluence": 4.29,
-    "expected_rsi": 48.9
-  },
-  {
-    "ticker": "SYK",
-    "name": "Stryker Corporation",
-    "price": 339.21,
-    "changePercent": -0.55,
-    "score": 13,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.78,
-    "bb_confluence": 3.69,
-    "expected_rsi": 45.54
-  },
-  {
-    "ticker": "DPZ",
-    "name": "Domino's Pizza Inc",
-    "price": 346.27,
-    "changePercent": -1.31,
-    "score": 13,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.63,
-    "bb_confluence": 3.45,
-    "expected_rsi": 45.84
+    "ma_distance": 1.39,
+    "bb_confluence": 2.83,
+    "expected_rsi": 48.79
   },
   {
     "ticker": "ECL",
@@ -375,6 +310,32 @@
     "ma_distance": 1.03,
     "bb_confluence": 2.85,
     "expected_rsi": 47.24
+  },
+  {
+    "ticker": "AOS",
+    "name": "A.O. Smith Corporation",
+    "price": 62.17,
+    "changePercent": -0.53,
+    "score": 10,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.45,
+    "bb_confluence": 4.64,
+    "expected_rsi": 48.79
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's Pizza Inc",
+    "price": 346.27,
+    "changePercent": -1.31,
+    "score": 10,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.27,
+    "bb_confluence": 5.3,
+    "expected_rsi": 47.14
   },
   {
     "ticker": "DE",
@@ -394,20 +355,7 @@
     "name": "A.O. Smith Corporation",
     "price": 62.17,
     "changePercent": -0.53,
-    "score": 6,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.45,
-    "bb_confluence": 4.64,
-    "expected_rsi": 48.79
-  },
-  {
-    "ticker": "AOS",
-    "name": "A.O. Smith Corporation",
-    "price": 62.17,
-    "changePercent": -0.53,
-    "score": 6,
+    "score": 7,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
@@ -424,9 +372,9 @@
     "stars": 0.0,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 3.42,
-    "bb_confluence": 8.88,
-    "expected_rsi": 50.37
+    "ma_distance": 3.31,
+    "bb_confluence": 8.41,
+    "expected_rsi": 50.12
   },
   {
     "ticker": "WMT",
@@ -450,9 +398,9 @@
     "stars": 0.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 3.99,
-    "bb_confluence": 5.79,
-    "expected_rsi": 52.67
+    "ma_distance": 4.04,
+    "bb_confluence": 5.99,
+    "expected_rsi": 52.27
   },
   {
     "ticker": "TCOM",
