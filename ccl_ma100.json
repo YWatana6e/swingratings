@@ -3,70 +3,63 @@
     "ticker": "CCL",
     "name": "Carnival Corporation Ltd.",
     "market": "NYQ",
-    "price": 27.73,
-    "change": -0.39,
-    "changePercent": -1.39
+    "price": 27.27,
+    "change": -0.46,
+    "changePercent": -1.66
   },
   "score": {
-    "total": 41,
+    "total": 40,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 71%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 27.04,
-    "maDistance_pct": 2.54,
-    "bb2Confluence_pct": 5.96,
-    "bb3Confluence_pct": 10.15,
+    "targetMA_price": 27.06,
+    "maDistance_pct": 0.77,
+    "bb2Confluence_pct": 5.34,
+    "bb3Confluence_pct": 9.31,
     "maKnock_count": 0,
-    "expectedRsi": 46.31
+    "expectedRsi": 46.5
   },
   "metrics": {
-    "maDistance": "+2.54%",
-    "bbConfluence": "5.96%",
+    "maDistance": "+0.77%",
+    "bbConfluence": "5.34%",
     "maKnock": "0 times recently",
-    "expectedRsi": "46.31"
+    "expectedRsi": "46.5"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 28.57,
-        "touches": 3,
-        "strength_score": 1.878
+        "price": 28.73,
+        "touches": 2,
+        "strength_score": 1.327
       },
       {
         "price": 29.94,
         "touches": 2,
-        "strength_score": 1.295
+        "strength_score": 1.28
       },
       {
         "price": 31.44,
         "touches": 1,
-        "strength_score": 0.623
+        "strength_score": 0.616
+      },
+      {
+        "price": 28.25,
+        "touches": 1,
+        "strength_score": 0.53
       },
       {
         "price": 27.73,
         "touches": 1,
-        "strength_score": 0.451
-      },
-      {
-        "price": 32.62,
-        "touches": 1,
-        "strength_score": 0.256
+        "strength_score": 0.445
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CCL is currently testing its Daily 100MA support zone near $27.04. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.57. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CCL is currently testing its Daily 100MA support zone near $27.06. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.73. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-12",
-        "open": 31.395485622536945,
-        "high": 31.493904449377847,
-        "low": 30.903393365515416,
-        "close": 31.11007308959961
-      },
       {
         "time": "2026-01-13",
         "open": 30.795132485024205,
@@ -1109,13 +1102,16 @@
         "high": 28.100000381469727,
         "low": 27.549999237060547,
         "close": 27.729999542236328
+      },
+      {
+        "time": "2026-08-18",
+        "open": 27.399999618530273,
+        "high": 27.655000686645508,
+        "low": 27.219999313354492,
+        "close": 27.270000457763672
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-12",
-        "value": 28.615557899475096
-      },
       {
         "time": "2026-01-13",
         "value": 28.632584266662597
@@ -1711,13 +1707,13 @@
       {
         "time": "2026-08-17",
         "value": 27.042462062835693
+      },
+      {
+        "time": "2026-08-18",
+        "value": 27.06076084136963
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-12",
-        "value": 27.152226817348065
-      },
       {
         "time": "2026-01-13",
         "value": 27.639598466008728
@@ -2313,6 +2309,10 @@
       {
         "time": "2026-08-17",
         "value": 25.430054348136032
+      },
+      {
+        "time": "2026-08-18",
+        "value": 25.61451898568424
       }
     ],
     "supportLine": 25.15

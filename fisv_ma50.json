@@ -3,83 +3,76 @@
     "ticker": "FISV",
     "name": "Fiserv, Inc.",
     "market": "NMS",
-    "price": 52.21,
-    "change": -2.18,
-    "changePercent": -4.01
+    "price": 51.72,
+    "change": -0.49,
+    "changePercent": -0.94
   },
   "score": {
-    "total": 7,
+    "total": 8,
     "stars": 0.5,
     "note": "/ 100 (Win Rate: 43%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 51.6,
-    "maDistance_pct": 1.19,
-    "bb2Confluence_pct": 3.94,
-    "bb3Confluence_pct": 7.33,
+    "targetMA_price": 51.54,
+    "maDistance_pct": 0.34,
+    "bb2Confluence_pct": 3.49,
+    "bb3Confluence_pct": 6.76,
     "maKnock_count": 2,
-    "expectedRsi": 47.51
+    "expectedRsi": 47.45
   },
   "metrics": {
-    "maDistance": "+1.19%",
-    "bbConfluence": "3.94%",
+    "maDistance": "+0.34%",
+    "bbConfluence": "3.49%",
     "maKnock": "2 times recently",
-    "expectedRsi": "47.51"
+    "expectedRsi": "47.45"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 55.99,
         "touches": 4,
-        "strength_score": 3.465
+        "strength_score": 3.425
       },
       {
         "price": 59.05,
         "touches": 3,
-        "strength_score": 1.151
+        "strength_score": 1.138
       },
       {
         "price": 64.61,
         "touches": 3,
-        "strength_score": 1.099
+        "strength_score": 1.086
       },
       {
         "price": 52.23,
         "touches": 1,
-        "strength_score": 0.785
+        "strength_score": 0.776
       },
       {
         "price": 57.7,
         "touches": 1,
-        "strength_score": 0.494
+        "strength_score": 0.489
       }
     ],
     "trendline_clusters": [
       {
-        "price": 55.88,
-        "count": 9
+        "price": 55.86,
+        "count": 8
       },
       {
-        "price": 55.66,
-        "count": 4
+        "price": 55.5,
+        "count": 6
       },
       {
-        "price": 55.54,
-        "count": 3
+        "price": 55.7,
+        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that FISV is currently testing its Daily 50MA support zone near $51.6. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $55.99 and a significant trendline confluence around $55.88 (formed by 9 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that FISV is currently testing its Daily 50MA support zone near $51.54. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $55.99 and a significant trendline confluence around $55.86 (formed by 8 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-12",
-        "open": 69.44000244140625,
-        "high": 69.52999877929688,
-        "low": 67.22000122070312,
-        "close": 68.19999694824219
-      },
       {
         "time": "2026-01-13",
         "open": 68.41999816894531,
@@ -1122,13 +1115,16 @@
         "high": 54.040000915527344,
         "low": 52.08000183105469,
         "close": 52.209999084472656
+      },
+      {
+        "time": "2026-08-18",
+        "open": 53.0,
+        "high": 53.40999984741211,
+        "low": 51.689998626708984,
+        "close": 51.720001220703125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-12",
-        "value": 65.59779975891114
-      },
       {
         "time": "2026-01-13",
         "value": 65.52079978942871
@@ -1724,13 +1720,13 @@
       {
         "time": "2026-08-17",
         "value": 51.59800018310547
+      },
+      {
+        "time": "2026-08-18",
+        "value": 51.54380020141602
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-12",
-        "value": 66.18774050874815
-      },
       {
         "time": "2026-01-13",
         "value": 66.03416204009667
@@ -2326,6 +2322,10 @@
       {
         "time": "2026-08-17",
         "value": 49.56650354740657
+      },
+      {
+        "time": "2026-08-18",
+        "value": 49.74660514107457
       }
     ],
     "supportLine": 49.56

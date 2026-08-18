@@ -3,55 +3,48 @@
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
     "market": "NMS",
-    "price": 261.31,
-    "change": -1.34,
-    "changePercent": -0.51
+    "price": 259.45,
+    "change": -1.86,
+    "changePercent": -0.71
   },
   "score": {
-    "total": 21,
-    "stars": 1.0,
+    "total": 29,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 54%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 249.39,
-    "maDistance_pct": 4.78,
-    "bb2Confluence_pct": 12.1,
-    "bb3Confluence_pct": 19.69,
+    "targetMA_price": 249.87,
+    "maDistance_pct": 3.83,
+    "bb2Confluence_pct": 11.93,
+    "bb3Confluence_pct": 19.46,
     "maKnock_count": 0,
-    "expectedRsi": 45.24
+    "expectedRsi": 45.18
   },
   "metrics": {
-    "maDistance": "+4.78%",
-    "bbConfluence": "12.10%",
+    "maDistance": "+3.83%",
+    "bbConfluence": "11.93%",
     "maKnock": "0 times recently",
-    "expectedRsi": "45.24"
+    "expectedRsi": "45.18"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 276.65,
         "touches": 2,
-        "strength_score": 0.976
+        "strength_score": 0.965
       },
       {
         "price": 287.2,
         "touches": 1,
-        "strength_score": 0.891
+        "strength_score": 0.881
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 100MA support zone near $249.39. Based on historical price action, bounces from this level have yielded a win rate of 53.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $276.65. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 100MA support zone near $249.87. Based on historical price action, bounces from this level have yielded a win rate of 53.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $276.65. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-12",
-        "open": 246.72999572753906,
-        "high": 248.94000244140625,
-        "low": 245.9600067138672,
-        "close": 246.47000122070312
-      },
       {
         "time": "2026-01-13",
         "open": 246.52999877929688,
@@ -1092,15 +1085,18 @@
         "time": "2026-08-17",
         "open": 265.44000244140625,
         "high": 265.75,
-        "low": 258.3389892578125,
+        "low": 258.3399963378906,
         "close": 261.30999755859375
+      },
+      {
+        "time": "2026-08-18",
+        "open": 260.6300048828125,
+        "high": 262.1799011230469,
+        "low": 257.7300109863281,
+        "close": 259.45001220703125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-12",
-        "value": 229.35460006713868
-      },
       {
         "time": "2026-01-13",
         "value": 229.54250015258788
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-08-17",
         "value": 249.3941000366211
+      },
+      {
+        "time": "2026-08-18",
+        "value": 249.87150009155275
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-12",
-        "value": 216.74380232398653
-      },
       {
         "time": "2026-01-13",
         "value": 217.25521241429604
@@ -1713,7 +1709,7 @@
       },
       {
         "time": "2026-01-15",
-        "value": 220.31898931642834
+        "value": 220.31898931642831
       },
       {
         "time": "2026-01-16",
@@ -1725,7 +1721,7 @@
       },
       {
         "time": "2026-01-21",
-        "value": 223.7995516998239
+        "value": 223.79955169982387
       },
       {
         "time": "2026-01-22",
@@ -1733,7 +1729,7 @@
       },
       {
         "time": "2026-01-23",
-        "value": 225.03192382310573
+        "value": 225.0319238231057
       },
       {
         "time": "2026-01-26",
@@ -1745,11 +1741,11 @@
       },
       {
         "time": "2026-01-28",
-        "value": 226.45574486023017
+        "value": 226.45574486023014
       },
       {
         "time": "2026-01-29",
-        "value": 227.12128709524316
+        "value": 227.12128709524313
       },
       {
         "time": "2026-01-30",
@@ -1765,7 +1761,7 @@
       },
       {
         "time": "2026-02-04",
-        "value": 230.349188473294
+        "value": 230.34918847329396
       },
       {
         "time": "2026-02-05",
@@ -1793,7 +1789,7 @@
       },
       {
         "time": "2026-02-13",
-        "value": 195.83742335146823
+        "value": 195.8374233514682
       },
       {
         "time": "2026-02-17",
@@ -1821,7 +1817,7 @@
       },
       {
         "time": "2026-02-25",
-        "value": 184.90372085705573
+        "value": 184.9037208570557
       },
       {
         "time": "2026-02-26",
@@ -1829,7 +1825,7 @@
       },
       {
         "time": "2026-02-27",
-        "value": 186.3572432792475
+        "value": 186.35724327924748
       },
       {
         "time": "2026-03-02",
@@ -1837,7 +1833,7 @@
       },
       {
         "time": "2026-03-03",
-        "value": 190.3943254452834
+        "value": 190.39432544528339
       },
       {
         "time": "2026-03-04",
@@ -1845,7 +1841,7 @@
       },
       {
         "time": "2026-03-05",
-        "value": 196.7112948170392
+        "value": 196.71129481703917
       },
       {
         "time": "2026-03-06",
@@ -1869,7 +1865,7 @@
       },
       {
         "time": "2026-03-13",
-        "value": 199.68749367158455
+        "value": 199.68749367158452
       },
       {
         "time": "2026-03-16",
@@ -1877,11 +1873,11 @@
       },
       {
         "time": "2026-03-17",
-        "value": 203.03833798696164
+        "value": 203.0383379869616
       },
       {
         "time": "2026-03-18",
-        "value": 203.76668935104033
+        "value": 203.7666893510403
       },
       {
         "time": "2026-03-19",
@@ -1909,7 +1905,7 @@
       },
       {
         "time": "2026-03-27",
-        "value": 202.02277915140618
+        "value": 202.02277915140616
       },
       {
         "time": "2026-03-30",
@@ -1917,23 +1913,23 @@
       },
       {
         "time": "2026-03-31",
-        "value": 200.67107116956714
+        "value": 200.6710711695671
       },
       {
         "time": "2026-04-01",
-        "value": 200.86216621651312
+        "value": 200.8621662165131
       },
       {
         "time": "2026-04-02",
-        "value": 201.43673419772836
+        "value": 201.43673419772833
       },
       {
         "time": "2026-04-06",
-        "value": 201.4544145177367
+        "value": 201.45441451773667
       },
       {
         "time": "2026-04-07",
-        "value": 201.43812783304196
+        "value": 201.43812783304193
       },
       {
         "time": "2026-04-08",
@@ -2298,6 +2294,10 @@
       {
         "time": "2026-08-17",
         "value": 219.22576162466487
+      },
+      {
+        "time": "2026-08-18",
+        "value": 220.06565322053888
       }
     ],
     "supportLine": 225.86
