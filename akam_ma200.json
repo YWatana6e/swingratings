@@ -3,129 +3,73 @@
     "ticker": "AKAM",
     "name": "Akamai Technologies, Inc.",
     "market": "NMS",
-    "price": 110.54,
-    "change": -8.01,
-    "changePercent": -6.76
+    "price": 112.84,
+    "change": -2.36,
+    "changePercent": -2.05
   },
   "score": {
-    "total": 75,
-    "stars": 4.0,
-    "note": "/ 100 (Win Rate: 100%)"
+    "total": 66,
+    "stars": 3.5,
+    "note": "/ 100 (Win Rate: 0%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 106.25,
-    "maDistance_pct": 4.04,
-    "bb2Confluence_pct": 1.62,
-    "bb3Confluence_pct": 3.32,
+    "targetMA_price": 108.04,
+    "maDistance_pct": 4.44,
+    "bb2Confluence_pct": 0.63,
+    "bb3Confluence_pct": 5.2,
     "maKnock_count": 0,
-    "expectedRsi": 37.48
+    "expectedRsi": 39.45
   },
   "metrics": {
-    "maDistance": "+4.04%",
-    "bbConfluence": "1.62%",
+    "maDistance": "+4.44%",
+    "bbConfluence": "0.63%",
     "maKnock": "0 times recently",
-    "expectedRsi": "37.48"
+    "expectedRsi": "39.45"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 165.12,
-        "touches": 2,
-        "strength_score": 1.1
+        "price": 126.7,
+        "touches": 3,
+        "strength_score": 2.651
       },
       {
-        "price": 127.5,
-        "touches": 1,
-        "strength_score": 0.861
+        "price": 165.12,
+        "touches": 2,
+        "strength_score": 1.003
       },
       {
         "price": 131.08,
         "touches": 1,
-        "strength_score": 0.794
+        "strength_score": 0.724
       },
       {
         "price": 137.93,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.602
       },
       {
         "price": 150.14,
         "touches": 1,
-        "strength_score": 0.555
+        "strength_score": 0.506
       },
       {
         "price": 118.17,
         "touches": 1,
-        "strength_score": 0.37
+        "strength_score": 0.338
       },
       {
         "price": 121.12,
         "touches": 1,
-        "strength_score": 0.345
+        "strength_score": 0.315
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AKAM is currently testing its Daily 200MA support zone near $106.25. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $165.12. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AKAM is currently testing its Daily 200MA support zone near $108.04. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $126.70. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-02",
-        "open": 87.30000305175781,
-        "high": 87.5199966430664,
-        "low": 84.54000091552734,
-        "close": 85.0999984741211
-      },
-      {
-        "time": "2026-01-05",
-        "open": 85.05999755859375,
-        "high": 87.4000015258789,
-        "low": 85.05000305175781,
-        "close": 85.91000366210938
-      },
-      {
-        "time": "2026-01-06",
-        "open": 85.54000091552734,
-        "high": 88.86000061035156,
-        "low": 85.54000091552734,
-        "close": 88.73999786376953
-      },
-      {
-        "time": "2026-01-07",
-        "open": 88.1500015258789,
-        "high": 89.11000061035156,
-        "low": 87.22000122070312,
-        "close": 88.18000030517578
-      },
-      {
-        "time": "2026-01-08",
-        "open": 87.2300033569336,
-        "high": 87.69999694824219,
-        "low": 85.37000274658203,
-        "close": 85.70999908447266
-      },
-      {
-        "time": "2026-01-09",
-        "open": 86.18000030517578,
-        "high": 88.51000213623047,
-        "low": 85.77999877929688,
-        "close": 88.12000274658203
-      },
-      {
-        "time": "2026-01-12",
-        "open": 93.73999786376953,
-        "high": 93.94000244140625,
-        "low": 90.81999969482422,
-        "close": 91.2699966430664
-      },
-      {
-        "time": "2026-01-13",
-        "open": 91.5,
-        "high": 91.77999877929688,
-        "low": 88.36000061035156,
-        "close": 88.86000061035156
-      },
       {
         "time": "2026-01-14",
         "open": 88.94999694824219,
@@ -1119,41 +1063,65 @@
         "high": 125.55000305175781,
         "low": 110.0199966430664,
         "close": 110.54000091552734
+      },
+      {
+        "time": "2026-08-10",
+        "open": 107.37000274658203,
+        "high": 120.13999938964844,
+        "low": 107.31999969482422,
+        "close": 117.6500015258789
+      },
+      {
+        "time": "2026-08-11",
+        "open": 118.01000213623047,
+        "high": 119.20999908447266,
+        "low": 116.27999877929688,
+        "close": 116.66999816894531
+      },
+      {
+        "time": "2026-08-12",
+        "open": 117.5,
+        "high": 124.91000366210938,
+        "low": 117.05000305175781,
+        "close": 122.77999877929688
+      },
+      {
+        "time": "2026-08-13",
+        "open": 124.91999816894531,
+        "high": 127.04000091552734,
+        "low": 123.30999755859375,
+        "close": 125.29000091552734
+      },
+      {
+        "time": "2026-08-14",
+        "open": 126.0,
+        "high": 126.7300033569336,
+        "low": 123.94000244140625,
+        "close": 124.98999786376953
+      },
+      {
+        "time": "2026-08-17",
+        "open": 124.55999755859375,
+        "high": 125.58000183105469,
+        "low": 121.56999969482422,
+        "close": 122.97000122070312
+      },
+      {
+        "time": "2026-08-18",
+        "open": 121.48999786376953,
+        "high": 123.79000091552734,
+        "low": 115.11000061035156,
+        "close": 115.19999694824219
+      },
+      {
+        "time": "2026-08-19",
+        "open": 115.80000305175781,
+        "high": 116.80000305175781,
+        "low": 110.36000061035156,
+        "close": 112.83999633789062
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-02",
-        "value": 79.16264965057373
-      },
-      {
-        "time": "2026-01-05",
-        "value": 79.18014965057372
-      },
-      {
-        "time": "2026-01-06",
-        "value": 79.21609962463378
-      },
-      {
-        "time": "2026-01-07",
-        "value": 79.25179962158204
-      },
-      {
-        "time": "2026-01-08",
-        "value": 79.26649963378907
-      },
-      {
-        "time": "2026-01-09",
-        "value": 79.29784965515137
-      },
-      {
-        "time": "2026-01-12",
-        "value": 79.34684963226319
-      },
-      {
-        "time": "2026-01-13",
-        "value": 79.38334964752197
-      },
       {
         "time": "2026-01-14",
         "value": 79.43634963989258
@@ -1721,41 +1689,41 @@
       {
         "time": "2026-08-07",
         "value": 106.24590011596679
+      },
+      {
+        "time": "2026-08-10",
+        "value": 106.4535001373291
+      },
+      {
+        "time": "2026-08-11",
+        "value": 106.66330013275146
+      },
+      {
+        "time": "2026-08-12",
+        "value": 106.9041501235962
+      },
+      {
+        "time": "2026-08-13",
+        "value": 107.15535011291504
+      },
+      {
+        "time": "2026-08-14",
+        "value": 107.40285011291503
+      },
+      {
+        "time": "2026-08-17",
+        "value": 107.63895011901856
+      },
+      {
+        "time": "2026-08-18",
+        "value": 107.84990009307862
+      },
+      {
+        "time": "2026-08-19",
+        "value": 108.04445007324219
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-02",
-        "value": 83.86594428535854
-      },
-      {
-        "time": "2026-01-05",
-        "value": 83.7939785508629
-      },
-      {
-        "time": "2026-01-06",
-        "value": 84.44180136524383
-      },
-      {
-        "time": "2026-01-07",
-        "value": 84.72837469081959
-      },
-      {
-        "time": "2026-01-08",
-        "value": 84.73749211167426
-      },
-      {
-        "time": "2026-01-09",
-        "value": 84.85760612955612
-      },
-      {
-        "time": "2026-01-12",
-        "value": 84.91459204001349
-      },
-      {
-        "time": "2026-01-13",
-        "value": 85.19075065526513
-      },
       {
         "time": "2026-01-14",
         "value": 85.28072830768691
@@ -2323,8 +2291,40 @@
       {
         "time": "2026-08-07",
         "value": 107.9637506152241
+      },
+      {
+        "time": "2026-08-10",
+        "value": 108.0467469271096
+      },
+      {
+        "time": "2026-08-11",
+        "value": 108.26829938234344
+      },
+      {
+        "time": "2026-08-12",
+        "value": 108.18809106702959
+      },
+      {
+        "time": "2026-08-13",
+        "value": 107.96450512275224
+      },
+      {
+        "time": "2026-08-14",
+        "value": 107.79371139840813
+      },
+      {
+        "time": "2026-08-17",
+        "value": 107.80019428828443
+      },
+      {
+        "time": "2026-08-18",
+        "value": 107.6924199504821
+      },
+      {
+        "time": "2026-08-19",
+        "value": 107.3598472867821
       }
     ],
-    "supportLine": 108.55
+    "supportLine": 108.3
   }
 }

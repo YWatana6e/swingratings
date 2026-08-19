@@ -3,9 +3,9 @@
     "ticker": "CZR",
     "name": "Caesars Entertainment, Inc.",
     "market": "NMS",
-    "price": 29.63,
-    "change": -0.03,
-    "changePercent": -0.1
+    "price": 29.59,
+    "change": -0.04,
+    "changePercent": -0.13
   },
   "score": {
     "total": 17,
@@ -14,62 +14,45 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 28.59,
-    "maDistance_pct": 3.63,
-    "bb2Confluence_pct": 3.19,
-    "bb3Confluence_pct": 2.57,
+    "targetMA_price": 28.69,
+    "maDistance_pct": 3.13,
+    "bb2Confluence_pct": 2.74,
+    "bb3Confluence_pct": 2.09,
     "maKnock_count": 0,
-    "expectedRsi": 30.83
+    "expectedRsi": 31.3
   },
   "metrics": {
-    "maDistance": "+3.63%",
-    "bbConfluence": "3.19%",
+    "maDistance": "+3.13%",
+    "bbConfluence": "2.74%",
     "maKnock": "0 times recently",
-    "expectedRsi": "30.83"
+    "expectedRsi": "31.3"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 30.59,
-        "touches": 5,
-        "strength_score": 3.308
+        "price": 30.52,
+        "touches": 6,
+        "strength_score": 4.017
       }
     ],
     "trendline_clusters": [
       {
-        "price": 30.4,
+        "price": 30.41,
+        "count": 6
+      },
+      {
+        "price": 29.98,
         "count": 3
       },
       {
-        "price": 30.5,
+        "price": 30.51,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that CZR is currently testing its Daily 100MA support zone near $28.59. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $30.59 and a significant trendline confluence around $30.40 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CZR is currently testing its Daily 100MA support zone near $28.69. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $30.52 and a significant trendline confluence around $30.41 (formed by 6 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-08",
-        "open": 23.420000076293945,
-        "high": 25.485000610351562,
-        "low": 23.399999618530273,
-        "close": 25.06999969482422
-      },
-      {
-        "time": "2026-01-09",
-        "open": 25.68000030517578,
-        "high": 25.719999313354492,
-        "low": 24.420000076293945,
-        "close": 24.6299991607666
-      },
-      {
-        "time": "2026-01-12",
-        "open": 24.34000015258789,
-        "high": 24.950000762939453,
-        "low": 24.0,
-        "close": 24.56999969482422
-      },
       {
         "time": "2026-01-13",
         "open": 24.670000076293945,
@@ -974,6 +957,20 @@
         "close": 29.799999237060547
       },
       {
+        "time": "2026-07-21",
+        "open": 29.850000381469727,
+        "high": 30.094999313354492,
+        "low": 29.75,
+        "close": 30.030000686645508
+      },
+      {
+        "time": "2026-07-22",
+        "open": 30.148000717163086,
+        "high": 30.149999618530273,
+        "low": 29.889999389648438,
+        "close": 29.940000534057617
+      },
+      {
         "time": "2026-07-23",
         "open": 29.850000381469727,
         "high": 29.93000030517578,
@@ -1014,6 +1011,13 @@
         "high": 29.799999237060547,
         "low": 29.600000381469727,
         "close": 29.610000610351562
+      },
+      {
+        "time": "2026-07-31",
+        "open": 29.75,
+        "high": 29.834999084472656,
+        "low": 29.54199981689453,
+        "close": 29.75
       },
       {
         "time": "2026-08-03",
@@ -1058,13 +1062,6 @@
         "close": 30.06999969482422
       },
       {
-        "time": "2026-08-11",
-        "open": 30.079999923706055,
-        "high": 30.1299991607666,
-        "low": 29.725000381469727,
-        "close": 29.739999771118164
-      },
-      {
         "time": "2026-08-12",
         "open": 29.6200008392334,
         "high": 29.690000534057617,
@@ -1096,23 +1093,18 @@
         "time": "2026-08-18",
         "open": 29.68000030517578,
         "high": 29.719999313354492,
-        "low": 29.594999313354492,
+        "low": 29.59000015258789,
         "close": 29.6299991607666
+      },
+      {
+        "time": "2026-08-19",
+        "open": 29.670000076293945,
+        "high": 29.709999084472656,
+        "low": 29.575000762939453,
+        "close": 29.59000015258789
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-08",
-        "value": 23.662700061798095
-      },
-      {
-        "time": "2026-01-09",
-        "value": 23.652200050354004
-      },
-      {
-        "time": "2026-01-12",
-        "value": 23.645100040435793
-      },
       {
         "time": "2026-01-13",
         "value": 23.64150005340576
@@ -1630,91 +1622,91 @@
         "value": 27.938899955749513
       },
       {
+        "time": "2026-07-21",
+        "value": 28.03149995803833
+      },
+      {
+        "time": "2026-07-22",
+        "value": 28.083499965667723
+      },
+      {
         "time": "2026-07-23",
-        "value": 28.03019994735718
+        "value": 28.131999969482422
       },
       {
         "time": "2026-07-24",
-        "value": 28.08219995498657
+        "value": 28.184999980926513
       },
       {
         "time": "2026-07-27",
-        "value": 28.13139995574951
+        "value": 28.23449996948242
       },
       {
         "time": "2026-07-28",
-        "value": 28.18449996948242
+        "value": 28.27839998245239
       },
       {
         "time": "2026-07-29",
-        "value": 28.231999969482423
+        "value": 28.310199985504152
       },
       {
         "time": "2026-07-30",
-        "value": 28.272499980926515
+        "value": 28.342299995422362
+      },
+      {
+        "time": "2026-07-31",
+        "value": 28.382199993133543
       },
       {
         "time": "2026-08-03",
-        "value": 28.303899974822997
+        "value": 28.41939998626709
       },
       {
         "time": "2026-08-04",
-        "value": 28.34109998703003
+        "value": 28.429899997711182
       },
       {
         "time": "2026-08-05",
-        "value": 28.38449998855591
+        "value": 28.44680000305176
       },
       {
         "time": "2026-08-06",
-        "value": 28.424899978637697
+        "value": 28.46670000076294
       },
       {
         "time": "2026-08-07",
-        "value": 28.435699977874755
+        "value": 28.49659999847412
       },
       {
         "time": "2026-08-10",
-        "value": 28.452299976348876
-      },
-      {
-        "time": "2026-08-11",
-        "value": 28.469099979400635
+        "value": 28.523999996185303
       },
       {
         "time": "2026-08-12",
-        "value": 28.49379997253418
+        "value": 28.54599998474121
       },
       {
         "time": "2026-08-13",
-        "value": 28.51709997177124
+        "value": 28.568199977874755
       },
       {
         "time": "2026-08-14",
-        "value": 28.54029996871948
+        "value": 28.59809997558594
       },
       {
         "time": "2026-08-17",
-        "value": 28.562499961853028
+        "value": 28.630299968719484
       },
       {
         "time": "2026-08-18",
-        "value": 28.591199951171873
+        "value": 28.663499965667725
+      },
+      {
+        "time": "2026-08-19",
+        "value": 28.69119997024536
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-08",
-        "value": 22.972992859756772
-      },
-      {
-        "time": "2026-01-09",
-        "value": 23.0364134232305
-      },
-      {
-        "time": "2026-01-12",
-        "value": 23.04155582740424
-      },
       {
         "time": "2026-01-13",
         "value": 23.025244598835123
@@ -2232,78 +2224,90 @@
         "value": 29.311980762181566
       },
       {
+        "time": "2026-07-21",
+        "value": 29.424109339686197
+      },
+      {
+        "time": "2026-07-22",
+        "value": 29.50923813188674
+      },
+      {
         "time": "2026-07-23",
-        "value": 29.41708288314338
+        "value": 29.55709618001794
       },
       {
         "time": "2026-07-24",
-        "value": 29.50081446642459
+        "value": 29.568795750049546
       },
       {
         "time": "2026-07-27",
-        "value": 29.55361676865811
+        "value": 29.56705174907481
       },
       {
         "time": "2026-07-28",
-        "value": 29.566664102304905
+        "value": 29.58004871322765
       },
       {
         "time": "2026-07-29",
-        "value": 29.544976773754126
+        "value": 29.558207373341343
       },
       {
         "time": "2026-07-30",
-        "value": 29.5103554039696
+        "value": 29.54151189530338
+      },
+      {
+        "time": "2026-07-31",
+        "value": 29.564031908260056
       },
       {
         "time": "2026-08-03",
-        "value": 29.48860241547646
+        "value": 29.55490750964185
       },
       {
         "time": "2026-08-04",
-        "value": 29.51902881281648
+        "value": 29.599628837123767
       },
       {
         "time": "2026-08-05",
-        "value": 29.554186408796774
+        "value": 29.596314184484548
       },
       {
         "time": "2026-08-06",
-        "value": 29.55920911221219
+        "value": 29.606123182310434
       },
       {
         "time": "2026-08-07",
-        "value": 29.591982537553566
+        "value": 29.602591321891197
       },
       {
         "time": "2026-08-10",
-        "value": 29.597622652265763
-      },
-      {
-        "time": "2026-08-11",
-        "value": 29.59318341617109
+        "value": 29.638428548661896
       },
       {
         "time": "2026-08-12",
-        "value": 29.561077329555324
+        "value": 29.6007203496961
       },
       {
         "time": "2026-08-13",
-        "value": 29.561077329555324
+        "value": 29.5732036228988
       },
       {
         "time": "2026-08-14",
-        "value": 29.55049735290289
+        "value": 29.559036227063704
       },
       {
         "time": "2026-08-17",
-        "value": 29.53108168676888
+        "value": 29.534331844394252
       },
       {
         "time": "2026-08-18",
-        "value": 29.502222812760937
+        "value": 29.510417788118513
+      },
+      {
+        "time": "2026-08-19",
+        "value": 29.47651726869362
       }
     ],
-    "supportLine": 29.44
+    "supportLine": 29.43
   }
 }
