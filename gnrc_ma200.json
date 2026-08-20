@@ -3,63 +3,70 @@
     "ticker": "GNRC",
     "name": "Generac Holdlings Inc.",
     "market": "NYQ",
-    "price": 210.81,
-    "change": -0.75,
-    "changePercent": -0.35
+    "price": 206.75,
+    "change": -4.06,
+    "changePercent": -1.93
   },
   "score": {
-    "total": 59,
+    "total": 60,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 80%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 206.29,
-    "maDistance_pct": 2.19,
-    "bb2Confluence_pct": 7.95,
-    "bb3Confluence_pct": 12.51,
+    "targetMA_price": 206.0,
+    "maDistance_pct": 0.36,
+    "bb2Confluence_pct": 7.92,
+    "bb3Confluence_pct": 12.48,
     "maKnock_count": 1,
-    "expectedRsi": 42.84
+    "expectedRsi": 42.47
   },
   "metrics": {
-    "maDistance": "+2.19%",
-    "bbConfluence": "7.95%",
+    "maDistance": "+0.36%",
+    "bbConfluence": "7.92%",
     "maKnock": "1 time recently",
-    "expectedRsi": "42.84"
+    "expectedRsi": "42.47"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 225.67,
         "touches": 2,
-        "strength_score": 1.846
+        "strength_score": 1.825
       },
       {
         "price": 295.31,
         "touches": 2,
-        "strength_score": 1.181
+        "strength_score": 1.194
       },
       {
         "price": 276.8,
         "touches": 1,
-        "strength_score": 0.467
+        "strength_score": 0.472
       },
       {
         "price": 211.98,
         "touches": 1,
-        "strength_score": 0.311
+        "strength_score": 0.315
       },
       {
         "price": 215.19,
         "touches": 1,
-        "strength_score": 0.277
+        "strength_score": 0.281
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that GNRC is currently testing its Daily 200MA support zone near $206.29. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $225.67. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that GNRC is currently testing its Daily 200MA support zone near $206.0. Based on historical price action, bounces from this level have yielded a win rate of 80.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $225.67. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
+      {
+        "time": "2026-01-13",
+        "open": 157.44000244140625,
+        "high": 161.17999267578125,
+        "low": 156.24000549316406,
+        "close": 157.6999969482422
+      },
       {
         "time": "2026-01-14",
         "open": 157.2100067138672,
@@ -957,20 +964,6 @@
         "close": 213.25
       },
       {
-        "time": "2026-07-21",
-        "open": 217.74000549316406,
-        "high": 218.99000549316406,
-        "low": 212.13999938964844,
-        "close": 215.61000061035156
-      },
-      {
-        "time": "2026-07-22",
-        "open": 212.1199951171875,
-        "high": 216.85000610351562,
-        "low": 212.1199951171875,
-        "close": 213.4199981689453
-      },
-      {
         "time": "2026-07-23",
         "open": 210.3300018310547,
         "high": 216.5,
@@ -1106,12 +1099,23 @@
       {
         "time": "2026-08-19",
         "open": 212.60000610351562,
-        "high": 212.46749877929688,
+        "high": 212.60000610351562,
         "low": 203.0800018310547,
         "close": 210.80999755859375
+      },
+      {
+        "time": "2026-08-20",
+        "open": 207.2100067138672,
+        "high": 210.58529663085938,
+        "low": 204.38999938964844,
+        "close": 206.75
       }
     ],
     "ma_target": [
+      {
+        "time": "2026-01-13",
+        "value": 152.74974998474121
+      },
       {
         "time": "2026-01-14",
         "value": 152.91559997558593
@@ -1625,95 +1629,95 @@
         "value": 203.07145027160644
       },
       {
-        "time": "2026-07-21",
-        "value": 203.31005027770996
-      },
-      {
-        "time": "2026-07-22",
-        "value": 203.52720024108888
-      },
-      {
         "time": "2026-07-23",
-        "value": 203.75135025024414
+        "value": 203.2845002746582
       },
       {
         "time": "2026-07-24",
-        "value": 203.94075019836427
+        "value": 203.44460021972657
       },
       {
         "time": "2026-07-27",
-        "value": 204.0937001800537
+        "value": 203.6039501953125
       },
       {
         "time": "2026-07-28",
-        "value": 204.215050201416
+        "value": 203.76130020141602
       },
       {
         "time": "2026-07-29",
-        "value": 204.3314002227783
+        "value": 203.90250022888185
       },
       {
         "time": "2026-07-30",
-        "value": 204.4405502319336
+        "value": 204.0054002380371
       },
       {
         "time": "2026-07-31",
-        "value": 204.55550025939942
+        "value": 204.13135025024414
       },
       {
         "time": "2026-08-03",
-        "value": 204.64245025634764
+        "value": 204.2870002746582
       },
       {
         "time": "2026-08-04",
-        "value": 204.777250289917
+        "value": 204.50955032348634
       },
       {
         "time": "2026-08-05",
-        "value": 204.9011003112793
+        "value": 204.67750030517578
       },
       {
         "time": "2026-08-06",
-        "value": 205.00455024719238
+        "value": 204.77505027770997
       },
       {
         "time": "2026-08-07",
-        "value": 205.08680023193358
+        "value": 204.87295028686523
       },
       {
         "time": "2026-08-10",
-        "value": 205.15475021362306
+        "value": 204.95095024108886
       },
       {
         "time": "2026-08-11",
-        "value": 205.31860023498535
+        "value": 205.0514002227783
       },
       {
         "time": "2026-08-12",
-        "value": 205.4829002380371
+        "value": 205.19840019226075
       },
       {
         "time": "2026-08-13",
-        "value": 205.60645027160643
+        "value": 205.36625022888182
       },
       {
         "time": "2026-08-14",
-        "value": 205.7509002685547
+        "value": 205.51755027770997
       },
       {
         "time": "2026-08-17",
-        "value": 205.90640029907226
+        "value": 205.66405029296874
       },
       {
         "time": "2026-08-18",
-        "value": 206.05990028381348
+        "value": 205.76980026245118
       },
       {
         "time": "2026-08-19",
-        "value": 206.28505027770996
+        "value": 205.87310028076172
+      },
+      {
+        "time": "2026-08-20",
+        "value": 206.00255027770996
       }
     ],
     "bbLower": [
+      {
+        "time": "2026-01-13",
+        "value": 130.54700059370452
+      },
       {
         "time": "2026-01-14",
         "value": 130.2840307910923
@@ -2227,94 +2231,90 @@
         "value": 195.30617741691435
       },
       {
-        "time": "2026-07-21",
-        "value": 192.7502403410109
-      },
-      {
-        "time": "2026-07-22",
-        "value": 189.04427033972246
-      },
-      {
         "time": "2026-07-23",
-        "value": 186.34453172044047
+        "value": 191.85109746306432
       },
       {
         "time": "2026-07-24",
-        "value": 184.858715503648
+        "value": 186.1665566591766
       },
       {
         "time": "2026-07-27",
-        "value": 181.74876921213715
+        "value": 181.36368481433712
       },
       {
         "time": "2026-07-28",
-        "value": 180.48605202308673
+        "value": 179.01014955265293
       },
       {
         "time": "2026-07-29",
-        "value": 183.47095923468055
+        "value": 175.9438646238447
       },
       {
         "time": "2026-07-30",
-        "value": 183.3397927497492
+        "value": 174.44324205454944
       },
       {
         "time": "2026-07-31",
-        "value": 182.57902179826533
+        "value": 177.9719215519086
       },
       {
         "time": "2026-08-03",
-        "value": 184.65176440759222
+        "value": 179.78572206296613
       },
       {
         "time": "2026-08-04",
-        "value": 185.39485650410165
+        "value": 181.44728371243943
       },
       {
         "time": "2026-08-05",
-        "value": 186.4460615722876
+        "value": 184.91945100237427
       },
       {
         "time": "2026-08-06",
-        "value": 187.5474942920403
+        "value": 185.31541106447236
       },
       {
         "time": "2026-08-07",
-        "value": 188.87398154307155
+        "value": 186.20826196678556
       },
       {
         "time": "2026-08-10",
-        "value": 189.24606448887977
+        "value": 187.02656555544164
       },
       {
         "time": "2026-08-11",
-        "value": 189.90744005448613
+        "value": 188.4955864577616
       },
       {
         "time": "2026-08-12",
-        "value": 190.48174334821417
+        "value": 188.95994589073544
       },
       {
         "time": "2026-08-13",
-        "value": 190.4365750362147
+        "value": 189.51869167778364
       },
       {
         "time": "2026-08-14",
-        "value": 190.2415034958266
+        "value": 190.2325500217521
       },
       {
         "time": "2026-08-17",
-        "value": 189.92291225045432
+        "value": 189.93299390764557
       },
       {
         "time": "2026-08-18",
-        "value": 189.91883322176153
+        "value": 189.91844762044315
       },
       {
         "time": "2026-08-19",
-        "value": 189.88111811627581
+        "value": 189.88111811627624
+      },
+      {
+        "time": "2026-08-20",
+        "value": 189.6944850851624
       }
     ],
-    "supportLine": 206.19
+    "supportLine": 203.39
   }
 }
