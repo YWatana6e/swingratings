@@ -3,69 +3,53 @@
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
     "market": "NMS",
-    "price": 259.45,
-    "change": -1.86,
-    "changePercent": -0.71
+    "price": 258.63,
+    "change": -1.48,
+    "changePercent": -0.57
   },
   "score": {
-    "total": 29,
+    "total": 27,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 54%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 249.87,
-    "maDistance_pct": 3.83,
-    "bb2Confluence_pct": 11.93,
-    "bb3Confluence_pct": 19.46,
+    "targetMA_price": 251.64,
+    "maDistance_pct": 2.78,
+    "bb2Confluence_pct": 9.28,
+    "bb3Confluence_pct": 15.86,
     "maKnock_count": 0,
-    "expectedRsi": 45.18
+    "expectedRsi": 45.86
   },
   "metrics": {
-    "maDistance": "+3.83%",
-    "bbConfluence": "11.93%",
+    "maDistance": "+2.78%",
+    "bbConfluence": "9.28%",
     "maKnock": "0 times recently",
-    "expectedRsi": "45.18"
+    "expectedRsi": "45.86"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 266.4,
+        "touches": 1,
+        "strength_score": 0.977
+      },
+      {
         "price": 276.65,
         "touches": 2,
-        "strength_score": 0.965
+        "strength_score": 0.932
       },
       {
         "price": 287.2,
         "touches": 1,
-        "strength_score": 0.881
+        "strength_score": 0.851
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 100MA support zone near $249.87. Based on historical price action, bounces from this level have yielded a win rate of 53.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $276.65. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 100MA support zone near $251.64. Based on historical price action, bounces from this level have yielded a win rate of 53.8%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $266.40. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-13",
-        "open": 246.52999877929688,
-        "high": 247.66000366210938,
-        "low": 240.25,
-        "close": 242.60000610351562
-      },
-      {
-        "time": "2026-01-14",
-        "open": 241.14999389648438,
-        "high": 241.27999877929688,
-        "low": 236.22000122070312,
-        "close": 236.64999389648438
-      },
-      {
-        "time": "2026-01-15",
-        "open": 239.30999755859375,
-        "high": 240.64999389648438,
-        "low": 236.6300048828125,
-        "close": 238.17999267578125
-      },
       {
         "time": "2026-01-16",
         "open": 239.08999633789062,
@@ -1091,24 +1075,33 @@
       {
         "time": "2026-08-18",
         "open": 260.6300048828125,
-        "high": 262.1799011230469,
+        "high": 262.17999267578125,
         "low": 257.7300109863281,
         "close": 259.45001220703125
+      },
+      {
+        "time": "2026-08-19",
+        "open": 260.8500061035156,
+        "high": 266.3999938964844,
+        "low": 258.5799865722656,
+        "close": 265.8399963378906
+      },
+      {
+        "time": "2026-08-20",
+        "open": 263.1600036621094,
+        "high": 263.8399963378906,
+        "low": 259.5199890136719,
+        "close": 260.1099853515625
+      },
+      {
+        "time": "2026-08-21",
+        "open": 260.75,
+        "high": 261.0799865722656,
+        "low": 257.0350036621094,
+        "close": 258.6300048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-13",
-        "value": 229.54250015258788
-      },
-      {
-        "time": "2026-01-14",
-        "value": 229.6895001220703
-      },
-      {
-        "time": "2026-01-15",
-        "value": 229.78290008544923
-      },
       {
         "time": "2026-01-16",
         "value": 229.89470001220704
@@ -1696,21 +1689,21 @@
       {
         "time": "2026-08-18",
         "value": 249.87150009155275
+      },
+      {
+        "time": "2026-08-19",
+        "value": 250.4545001220703
+      },
+      {
+        "time": "2026-08-20",
+        "value": 251.06220001220703
+      },
+      {
+        "time": "2026-08-21",
+        "value": 251.63900009155273
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-13",
-        "value": 217.25521241429604
-      },
-      {
-        "time": "2026-01-14",
-        "value": 218.69211437984157
-      },
-      {
-        "time": "2026-01-15",
-        "value": 220.31898931642831
-      },
       {
         "time": "2026-01-16",
         "value": 222.51453687871316
@@ -1721,7 +1714,7 @@
       },
       {
         "time": "2026-01-21",
-        "value": 223.79955169982387
+        "value": 223.7995516998239
       },
       {
         "time": "2026-01-22",
@@ -1729,7 +1722,7 @@
       },
       {
         "time": "2026-01-23",
-        "value": 225.0319238231057
+        "value": 225.03192382310573
       },
       {
         "time": "2026-01-26",
@@ -1741,11 +1734,11 @@
       },
       {
         "time": "2026-01-28",
-        "value": 226.45574486023014
+        "value": 226.45574486023017
       },
       {
         "time": "2026-01-29",
-        "value": 227.12128709524313
+        "value": 227.12128709524316
       },
       {
         "time": "2026-01-30",
@@ -1761,7 +1754,7 @@
       },
       {
         "time": "2026-02-04",
-        "value": 230.34918847329396
+        "value": 230.349188473294
       },
       {
         "time": "2026-02-05",
@@ -1789,7 +1782,7 @@
       },
       {
         "time": "2026-02-13",
-        "value": 195.8374233514682
+        "value": 195.83742335146823
       },
       {
         "time": "2026-02-17",
@@ -1817,7 +1810,7 @@
       },
       {
         "time": "2026-02-25",
-        "value": 184.9037208570557
+        "value": 184.90372085705573
       },
       {
         "time": "2026-02-26",
@@ -1825,7 +1818,7 @@
       },
       {
         "time": "2026-02-27",
-        "value": 186.35724327924748
+        "value": 186.3572432792475
       },
       {
         "time": "2026-03-02",
@@ -1833,7 +1826,7 @@
       },
       {
         "time": "2026-03-03",
-        "value": 190.39432544528339
+        "value": 190.3943254452834
       },
       {
         "time": "2026-03-04",
@@ -1841,7 +1834,7 @@
       },
       {
         "time": "2026-03-05",
-        "value": 196.71129481703917
+        "value": 196.7112948170392
       },
       {
         "time": "2026-03-06",
@@ -1865,7 +1858,7 @@
       },
       {
         "time": "2026-03-13",
-        "value": 199.68749367158452
+        "value": 199.68749367158455
       },
       {
         "time": "2026-03-16",
@@ -1873,11 +1866,11 @@
       },
       {
         "time": "2026-03-17",
-        "value": 203.0383379869616
+        "value": 203.03833798696164
       },
       {
         "time": "2026-03-18",
-        "value": 203.7666893510403
+        "value": 203.76668935104033
       },
       {
         "time": "2026-03-19",
@@ -1905,7 +1898,7 @@
       },
       {
         "time": "2026-03-27",
-        "value": 202.02277915140616
+        "value": 202.02277915140618
       },
       {
         "time": "2026-03-30",
@@ -1913,23 +1906,23 @@
       },
       {
         "time": "2026-03-31",
-        "value": 200.6710711695671
+        "value": 200.67107116956714
       },
       {
         "time": "2026-04-01",
-        "value": 200.8621662165131
+        "value": 200.86216621651312
       },
       {
         "time": "2026-04-02",
-        "value": 201.43673419772833
+        "value": 201.43673419772836
       },
       {
         "time": "2026-04-06",
-        "value": 201.45441451773667
+        "value": 201.4544145177367
       },
       {
         "time": "2026-04-07",
-        "value": 201.43812783304193
+        "value": 201.43812783304196
       },
       {
         "time": "2026-04-08",
@@ -2298,6 +2291,18 @@
       {
         "time": "2026-08-18",
         "value": 220.06565322053888
+      },
+      {
+        "time": "2026-08-19",
+        "value": 221.43573638081142
+      },
+      {
+        "time": "2026-08-20",
+        "value": 224.57650698558973
+      },
+      {
+        "time": "2026-08-21",
+        "value": 228.2762189299375
       }
     ],
     "supportLine": 225.86
