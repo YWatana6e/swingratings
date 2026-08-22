@@ -273,6 +273,19 @@
     "expected_rsi": 38.3
   },
   {
+    "ticker": "ALL",
+    "name": "Allstate Corporation (The)",
+    "price": 253.83,
+    "changePercent": -0.28,
+    "score": 41,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.63,
+    "bb_confluence": 0.72,
+    "expected_rsi": 44.42
+  },
+  {
     "ticker": "TROW",
     "name": "T. Rowe Price Group, Inc.",
     "price": 111.51,
@@ -338,19 +351,6 @@
     "expected_rsi": 49.36
   },
   {
-    "ticker": "SHW",
-    "name": "Sherwin-Williams Company (The)",
-    "price": 346.59,
-    "changePercent": -0.09,
-    "score": 36,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.04,
-    "bb_confluence": 0.06,
-    "expected_rsi": 42.94
-  },
-  {
     "ticker": "BKR",
     "name": "Baker Hughes Company",
     "price": 62.34,
@@ -401,32 +401,6 @@
     "ma_distance": 0.38,
     "bb_confluence": 1.89,
     "expected_rsi": 44.02
-  },
-  {
-    "ticker": "ALL",
-    "name": "Allstate Corporation (The)",
-    "price": 253.83,
-    "changePercent": -0.28,
-    "score": 34,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.63,
-    "bb_confluence": 0.72,
-    "expected_rsi": 44.42
-  },
-  {
-    "ticker": "BBWI",
-    "name": "Bath & Body Works, Inc.",
-    "price": 19.45,
-    "changePercent": -0.97,
-    "score": 31,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.21,
-    "bb_confluence": 5.97,
-    "expected_rsi": 48.15
   },
   {
     "ticker": "BC",
@@ -739,19 +713,6 @@
     "ma_distance": 3.05,
     "bb_confluence": 2.74,
     "expected_rsi": 42.06
-  },
-  {
-    "ticker": "SHW",
-    "name": "Sherwin-Williams Company (The)",
-    "price": 346.59,
-    "changePercent": -0.09,
-    "score": 14,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.11,
-    "bb_confluence": 1.91,
-    "expected_rsi": 46.36
   },
   {
     "ticker": "NOC",
