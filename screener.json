@@ -273,17 +273,17 @@
     "expected_rsi": 38.3
   },
   {
-    "ticker": "ALL",
-    "name": "Allstate Corporation (The)",
-    "price": 253.83,
-    "changePercent": -0.28,
-    "score": 41,
+    "ticker": "HRL",
+    "name": "Hormel Foods Corporation",
+    "price": 23.88,
+    "changePercent": -0.83,
+    "score": 39,
     "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.63,
-    "bb_confluence": 0.72,
-    "expected_rsi": 44.42
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.79,
+    "bb_confluence": 2.74,
+    "expected_rsi": 32.34
   },
   {
     "ticker": "TROW",
@@ -310,19 +310,6 @@
     "ma_distance": 0.72,
     "bb_confluence": 0.28,
     "expected_rsi": 42.53
-  },
-  {
-    "ticker": "HRL",
-    "name": "Hormel Foods Corporation",
-    "price": 23.88,
-    "changePercent": -0.83,
-    "score": 39,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.79,
-    "bb_confluence": 2.74,
-    "expected_rsi": 32.34
   },
   {
     "ticker": "AFL",
@@ -401,6 +388,19 @@
     "ma_distance": 0.38,
     "bb_confluence": 1.89,
     "expected_rsi": 44.02
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate Corporation (The)",
+    "price": 253.83,
+    "changePercent": -0.28,
+    "score": 34,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.63,
+    "bb_confluence": 0.72,
+    "expected_rsi": 44.42
   },
   {
     "ticker": "BC",
@@ -546,19 +546,6 @@
     "expected_rsi": 45.29
   },
   {
-    "ticker": "FDX",
-    "name": "FedEx Corporation",
-    "price": 325.08,
-    "changePercent": -0.29,
-    "score": 24,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.73,
-    "bb_confluence": 5.79,
-    "expected_rsi": 50.34
-  },
-  {
     "ticker": "TCOM",
     "name": "Trip.com Group Limited",
     "price": 46.11,
@@ -596,6 +583,19 @@
     "ma_distance": 2.86,
     "bb_confluence": 1.52,
     "expected_rsi": 42.61
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "price": 325.08,
+    "changePercent": -0.29,
+    "score": 21,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.73,
+    "bb_confluence": 5.79,
+    "expected_rsi": 50.34
   },
   {
     "ticker": "MAS",
