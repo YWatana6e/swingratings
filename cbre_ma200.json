@@ -3,55 +3,48 @@
     "ticker": "CBRE",
     "name": "CBRE Group Inc",
     "market": "NYQ",
-    "price": 151.74,
-    "change": -0.19,
-    "changePercent": -0.13
+    "price": 150.36,
+    "change": -1.38,
+    "changePercent": -0.91
   },
   "score": {
-    "total": 15,
+    "total": 19,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 147.39,
-    "maDistance_pct": 2.95,
-    "bb2Confluence_pct": 2.1,
-    "bb3Confluence_pct": 3.89,
+    "targetMA_price": 147.4,
+    "maDistance_pct": 2.01,
+    "bb2Confluence_pct": 1.98,
+    "bb3Confluence_pct": 3.75,
     "maKnock_count": 2,
-    "expectedRsi": 51.47
+    "expectedRsi": 51.26
   },
   "metrics": {
-    "maDistance": "+2.95%",
-    "bbConfluence": "2.10%",
+    "maDistance": "+2.01%",
+    "bbConfluence": "1.98%",
     "maKnock": "2 times recently",
-    "expectedRsi": "51.47"
+    "expectedRsi": "51.26"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 152.86,
         "touches": 2,
-        "strength_score": 1.654
+        "strength_score": 1.635
       },
       {
         "price": 157.08,
         "touches": 2,
-        "strength_score": 1.329
+        "strength_score": 1.314
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 200MA support zone near $147.39. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $152.86. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 200MA support zone near $147.4. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $152.86. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-21",
-        "open": 167.3000030517578,
-        "high": 171.3000030517578,
-        "low": 166.9600067138672,
-        "close": 170.2899932861328
-      },
       {
         "time": "2026-01-22",
         "open": 171.25999450683594,
@@ -1091,16 +1084,19 @@
       {
         "time": "2026-08-25",
         "open": 151.42999267578125,
-        "high": 152.99989318847656,
+        "high": 153.0,
         "low": 150.02999877929688,
         "close": 151.74000549316406
+      },
+      {
+        "time": "2026-08-26",
+        "open": 151.1699981689453,
+        "high": 152.9698028564453,
+        "low": 150.08999633789062,
+        "close": 150.36000061035156
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-21",
-        "value": 147.89565032958984
-      },
       {
         "time": "2026-01-22",
         "value": 148.1561003112793
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-08-25",
         "value": 147.39315044403077
+      },
+      {
+        "time": "2026-08-26",
+        "value": 147.3950004196167
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-21",
-        "value": 159.8579595468582
-      },
       {
         "time": "2026-01-22",
         "value": 159.84859362709753
@@ -2298,6 +2294,10 @@
       {
         "time": "2026-08-25",
         "value": 144.29764673857795
+      },
+      {
+        "time": "2026-08-26",
+        "value": 144.4837700761896
       }
     ],
     "supportLine": 130.77

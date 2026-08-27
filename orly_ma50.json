@@ -3,118 +3,73 @@
     "ticker": "ORLY",
     "name": "O'Reilly Automotive, Inc.",
     "market": "NMS",
-    "price": 90.23,
-    "change": -0.82,
-    "changePercent": -0.9
+    "price": 89.55,
+    "change": -0.77,
+    "changePercent": -0.85
   },
   "score": {
-    "total": 18,
+    "total": 21,
     "stars": 1.0,
-    "note": "/ 100 (Win Rate: 50%)"
+    "note": "/ 100 (Win Rate: 47%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
     "targetMA_price": 88.98,
-    "maDistance_pct": 1.41,
-    "bb2Confluence_pct": 3.46,
-    "bb3Confluence_pct": 6.04,
-    "maKnock_count": 2,
-    "expectedRsi": 48.31
+    "maDistance_pct": 0.64,
+    "bb2Confluence_pct": 1.43,
+    "bb3Confluence_pct": 3.28,
+    "maKnock_count": 3,
+    "expectedRsi": 48.2
   },
   "metrics": {
-    "maDistance": "+1.41%",
-    "bbConfluence": "3.46%",
-    "maKnock": "2 times recently",
-    "expectedRsi": "48.31"
+    "maDistance": "+0.64%",
+    "bbConfluence": "1.43%",
+    "maKnock": "3 times recently",
+    "expectedRsi": "48.2"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 93.62,
+        "price": 93.42,
         "touches": 12,
-        "strength_score": 6.342
+        "strength_score": 6.552
       },
       {
         "price": 100.63,
         "touches": 1,
-        "strength_score": 0.43
+        "strength_score": 0.397
       }
     ],
     "trendline_clusters": [
       {
-        "price": 92.82,
-        "count": 15
+        "price": 92.61,
+        "count": 23
       },
       {
-        "price": 92.96,
-        "count": 11
+        "price": 92.8,
+        "count": 16
       },
       {
-        "price": 92.22,
+        "price": 93.28,
         "count": 5
       },
       {
-        "price": 93.27,
-        "count": 5
+        "price": 89.72,
+        "count": 3
       },
       {
-        "price": 91.49,
+        "price": 91.23,
+        "count": 2
+      },
+      {
+        "price": 91.88,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ORLY is currently testing its Daily 50MA support zone near $88.98. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $93.62 and a significant trendline confluence around $92.82 (formed by 15 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ORLY is currently testing its Daily 50MA support zone near $88.98. Based on historical price action, bounces from this level have yielded a win rate of 47.1%. The asset has recently tested this support 3 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $93.42 and a significant trendline confluence around $92.61 (formed by 23 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-12",
-        "open": 94.05999755859375,
-        "high": 96.0,
-        "low": 93.91999816894531,
-        "close": 95.5999984741211
-      },
-      {
-        "time": "2026-01-13",
-        "open": 95.1500015258789,
-        "high": 95.54000091552734,
-        "low": 94.0199966430664,
-        "close": 94.62999725341797
-      },
-      {
-        "time": "2026-01-14",
-        "open": 94.48999786376953,
-        "high": 95.33000183105469,
-        "low": 94.06999969482422,
-        "close": 95.0199966430664
-      },
-      {
-        "time": "2026-01-15",
-        "open": 95.05999755859375,
-        "high": 95.33999633789062,
-        "low": 93.08000183105469,
-        "close": 93.63999938964844
-      },
-      {
-        "time": "2026-01-16",
-        "open": 93.47000122070312,
-        "high": 94.81999969482422,
-        "low": 92.73999786376953,
-        "close": 94.69999694824219
-      },
-      {
-        "time": "2026-01-20",
-        "open": 94.37999725341797,
-        "high": 95.80999755859375,
-        "low": 94.06999969482422,
-        "close": 95.23999786376953
-      },
-      {
-        "time": "2026-01-21",
-        "open": 95.16000366210938,
-        "high": 98.97000122070312,
-        "low": 94.94999694824219,
-        "close": 98.77999877929688
-      },
       {
         "time": "2026-01-22",
         "open": 98.2699966430664,
@@ -1115,37 +1070,58 @@
         "high": 91.31999969482422,
         "low": 89.37000274658203,
         "close": 90.2300033569336
+      },
+      {
+        "time": "2026-08-18",
+        "open": 91.95999908447266,
+        "high": 92.1500015258789,
+        "low": 90.5999984741211,
+        "close": 90.76000213623047
+      },
+      {
+        "time": "2026-08-19",
+        "open": 90.94000244140625,
+        "high": 92.7699966430664,
+        "low": 90.56999969482422,
+        "close": 91.19999694824219
+      },
+      {
+        "time": "2026-08-20",
+        "open": 88.79000091552734,
+        "high": 90.06999969482422,
+        "low": 87.19000244140625,
+        "close": 89.08000183105469
+      },
+      {
+        "time": "2026-08-21",
+        "open": 89.5199966430664,
+        "high": 90.0199966430664,
+        "low": 88.3499984741211,
+        "close": 89.11000061035156
+      },
+      {
+        "time": "2026-08-24",
+        "open": 89.12999725341797,
+        "high": 91.48999786376953,
+        "low": 89.12999725341797,
+        "close": 90.68000030517578
+      },
+      {
+        "time": "2026-08-25",
+        "open": 90.58000183105469,
+        "high": 91.43000030517578,
+        "low": 90.20999908447266,
+        "close": 90.31999969482422
+      },
+      {
+        "time": "2026-08-26",
+        "open": 90.29000091552734,
+        "high": 90.80500030517578,
+        "low": 89.3949966430664,
+        "close": 89.55000305175781
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-12",
-        "value": 95.52559967041016
-      },
-      {
-        "time": "2026-01-13",
-        "value": 95.51519958496094
-      },
-      {
-        "time": "2026-01-14",
-        "value": 95.52679946899414
-      },
-      {
-        "time": "2026-01-15",
-        "value": 95.56559951782226
-      },
-      {
-        "time": "2026-01-16",
-        "value": 95.58299942016602
-      },
-      {
-        "time": "2026-01-20",
-        "value": 95.58899932861328
-      },
-      {
-        "time": "2026-01-21",
-        "value": 95.66459930419921
-      },
       {
         "time": "2026-01-22",
         "value": 95.70039932250977
@@ -1717,37 +1693,37 @@
       {
         "time": "2026-08-17",
         "value": 88.97680038452148
+      },
+      {
+        "time": "2026-08-18",
+        "value": 88.985400390625
+      },
+      {
+        "time": "2026-08-19",
+        "value": 89.02900039672852
+      },
+      {
+        "time": "2026-08-20",
+        "value": 89.02080047607421
+      },
+      {
+        "time": "2026-08-21",
+        "value": 88.9938005065918
+      },
+      {
+        "time": "2026-08-24",
+        "value": 89.00540054321289
+      },
+      {
+        "time": "2026-08-25",
+        "value": 88.99140060424804
+      },
+      {
+        "time": "2026-08-26",
+        "value": 88.9772006225586
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-12",
-        "value": 89.28377483539974
-      },
-      {
-        "time": "2026-01-13",
-        "value": 89.23356870869287
-      },
-      {
-        "time": "2026-01-14",
-        "value": 89.25064264599467
-      },
-      {
-        "time": "2026-01-15",
-        "value": 89.23637081830898
-      },
-      {
-        "time": "2026-01-16",
-        "value": 89.1529068266018
-      },
-      {
-        "time": "2026-01-20",
-        "value": 89.09916208967238
-      },
-      {
-        "time": "2026-01-21",
-        "value": 88.60964396191365
-      },
       {
         "time": "2026-01-22",
         "value": 88.28066683056518
@@ -2319,8 +2295,36 @@
       {
         "time": "2026-08-17",
         "value": 85.89496740251158
+      },
+      {
+        "time": "2026-08-18",
+        "value": 86.18168729601354
+      },
+      {
+        "time": "2026-08-19",
+        "value": 86.82921020584988
+      },
+      {
+        "time": "2026-08-20",
+        "value": 87.5041927780622
+      },
+      {
+        "time": "2026-08-21",
+        "value": 87.87414308831204
+      },
+      {
+        "time": "2026-08-24",
+        "value": 87.88122537415504
+      },
+      {
+        "time": "2026-08-25",
+        "value": 87.82119344482989
+      },
+      {
+        "time": "2026-08-26",
+        "value": 87.70506634311283
       }
     ],
-    "supportLine": 85.75
+    "supportLine": 86.39
   }
 }

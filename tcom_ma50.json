@@ -3,87 +3,84 @@
     "ticker": "TCOM",
     "name": "Trip.com Group Limited",
     "market": "NMS",
-    "price": 45.98,
-    "change": -0.04,
-    "changePercent": -0.09
+    "price": 45.14,
+    "change": -0.84,
+    "changePercent": -1.83
   },
   "score": {
-    "total": 23,
-    "stars": 1.0,
+    "total": 25,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 33%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 44.33,
-    "maDistance_pct": 3.71,
-    "bb2Confluence_pct": 0.56,
-    "bb3Confluence_pct": 1.11,
+    "targetMA_price": 44.29,
+    "maDistance_pct": 1.92,
+    "bb2Confluence_pct": 0.45,
+    "bb3Confluence_pct": 1.29,
     "maKnock_count": 1,
-    "expectedRsi": 45.22
+    "expectedRsi": 44.76
   },
   "metrics": {
-    "maDistance": "+3.71%",
-    "bbConfluence": "0.56%",
+    "maDistance": "+1.92%",
+    "bbConfluence": "0.45%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.22"
+    "expectedRsi": "44.76"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 47.1,
         "touches": 3,
-        "strength_score": 2.667
+        "strength_score": 2.636
       },
       {
         "price": 49.09,
         "touches": 2,
-        "strength_score": 1.06
-      },
-      {
-        "price": 54.37,
-        "touches": 2,
-        "strength_score": 0.671
+        "strength_score": 1.048
       },
       {
         "price": 52.91,
         "touches": 2,
-        "strength_score": 0.607
+        "strength_score": 0.6
+      },
+      {
+        "price": 54.5,
+        "touches": 1,
+        "strength_score": 0.411
       },
       {
         "price": 55.7,
         "touches": 1,
-        "strength_score": 0.358
+        "strength_score": 0.354
       }
     ],
     "trendline_clusters": [
       {
-        "price": 46.37,
-        "count": 18
+        "price": 46.31,
+        "count": 10
       },
       {
-        "price": 46.14,
+        "price": 46.03,
         "count": 4
       },
       {
-        "price": 46.56,
+        "price": 46.61,
+        "count": 4
+      },
+      {
+        "price": 45.72,
         "count": 3
       },
       {
-        "price": 46.7,
-        "count": 2
+        "price": 46.4,
+        "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $44.33. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $47.10 and a significant trendline confluence around $46.37 (formed by 18 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TCOM is currently testing its Daily 50MA support zone near $44.29. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $47.10 and a significant trendline confluence around $46.31 (formed by 10 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-21",
-        "open": 62.470001220703125,
-        "high": 62.959999084472656,
-        "low": 61.83000183105469,
-        "close": 62.099998474121094
-      },
       {
         "time": "2026-01-22",
         "open": 61.95000076293945,
@@ -1126,13 +1123,16 @@
         "high": 46.029998779296875,
         "low": 45.400001525878906,
         "close": 45.97999954223633
+      },
+      {
+        "time": "2026-08-26",
+        "open": 45.849998474121094,
+        "high": 45.935001373291016,
+        "low": 45.040000915527344,
+        "close": 45.13999938964844
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-21",
-        "value": 71.26820022583007
-      },
       {
         "time": "2026-01-22",
         "value": 71.10480026245118
@@ -1728,13 +1728,13 @@
       {
         "time": "2026-08-25",
         "value": 44.333199996948245
+      },
+      {
+        "time": "2026-08-26",
+        "value": 44.287999954223636
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-21",
-        "value": 59.62506849128786
-      },
       {
         "time": "2026-01-22",
         "value": 58.44778782954542
@@ -2330,8 +2330,12 @@
       {
         "time": "2026-08-25",
         "value": 44.583280902973314
+      },
+      {
+        "time": "2026-08-26",
+        "value": 44.4862227938082
       }
     ],
-    "supportLine": 51.99
+    "supportLine": 51.96
   }
 }
