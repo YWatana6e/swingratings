@@ -377,19 +377,6 @@
     "expected_rsi": 34.97
   },
   {
-    "ticker": "ALV",
-    "name": "Autoliv, Inc.",
-    "price": 122.07,
-    "changePercent": -0.69,
-    "score": 47,
-    "stars": 2.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.27,
-    "bb_confluence": 1.35,
-    "expected_rsi": 42.87
-  },
-  {
     "ticker": "BP",
     "name": "BP p.l.c.",
     "price": 42.15,
@@ -520,32 +507,6 @@
     "expected_rsi": 40.69
   },
   {
-    "ticker": "COF",
-    "name": "Capital One Financial Corporati",
-    "price": 215.67,
-    "changePercent": -0.46,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.85,
-    "bb_confluence": 1.47,
-    "expected_rsi": 44.99
-  },
-  {
-    "ticker": "ALV",
-    "name": "Autoliv, Inc.",
-    "price": 122.07,
-    "changePercent": -0.69,
-    "score": 36,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.65,
-    "bb_confluence": 0.25,
-    "expected_rsi": 47.13
-  },
-  {
     "ticker": "AME",
     "name": "AMETEK, Inc.",
     "price": 236.25,
@@ -570,6 +531,19 @@
     "ma_distance": 2.33,
     "bb_confluence": 3.12,
     "expected_rsi": 40.39
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One Financial Corporati",
+    "price": 215.67,
+    "changePercent": -0.46,
+    "score": 35,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.85,
+    "bb_confluence": 1.47,
+    "expected_rsi": 44.99
   },
   {
     "ticker": "ES",
@@ -650,32 +624,6 @@
     "expected_rsi": 44.85
   },
   {
-    "ticker": "FAST",
-    "name": "Fastenal Company",
-    "price": 49.78,
-    "changePercent": -2.66,
-    "score": 32,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.13,
-    "bb_confluence": 1.51,
-    "expected_rsi": 42.63
-  },
-  {
-    "ticker": "PCAR",
-    "name": "PACCAR Inc.",
-    "price": 125.34,
-    "changePercent": -0.95,
-    "score": 32,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.58,
-    "bb_confluence": 2.89,
-    "expected_rsi": 36.08
-  },
-  {
     "ticker": "DLR",
     "name": "Digital Realty Trust, Inc.",
     "price": 185.47,
@@ -713,6 +661,19 @@
     "ma_distance": 0.96,
     "bb_confluence": 0.08,
     "expected_rsi": 45.17
+  },
+  {
+    "ticker": "PCAR",
+    "name": "PACCAR Inc.",
+    "price": 125.34,
+    "changePercent": -0.95,
+    "score": 29,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.58,
+    "bb_confluence": 2.89,
+    "expected_rsi": 36.08
   },
   {
     "ticker": "RF",
@@ -765,6 +726,19 @@
     "ma_distance": 4.87,
     "bb_confluence": 2.97,
     "expected_rsi": 39.24
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "price": 49.78,
+    "changePercent": -2.66,
+    "score": 28,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.13,
+    "bb_confluence": 1.51,
+    "expected_rsi": 42.63
   },
   {
     "ticker": "SHW",
@@ -973,19 +947,6 @@
     "ma_distance": 4.42,
     "bb_confluence": 2.66,
     "expected_rsi": 42.74
-  },
-  {
-    "ticker": "ALV",
-    "name": "Autoliv, Inc.",
-    "price": 122.07,
-    "changePercent": -0.69,
-    "score": 23,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.17,
-    "bb_confluence": 0.72,
-    "expected_rsi": 48.55
   },
   {
     "ticker": "NUE",
