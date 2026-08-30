@@ -234,19 +234,6 @@
     "expected_rsi": 38.4
   },
   {
-    "ticker": "CSCO",
-    "name": "Cisco Systems, Inc.",
-    "price": 109.93,
-    "changePercent": -1.98,
-    "score": 52,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.3,
-    "bb_confluence": 3.98,
-    "expected_rsi": 42.73
-  },
-  {
     "ticker": "ELV",
     "name": "Elevance Health, Inc.",
     "price": 394.43,
@@ -403,17 +390,17 @@
     "expected_rsi": 38.93
   },
   {
-    "ticker": "KEY",
-    "name": "KeyCorp",
-    "price": 21.91,
-    "changePercent": -0.5,
-    "score": 46,
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "price": 109.93,
+    "changePercent": -1.98,
+    "score": 45,
     "stars": 2.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.91,
-    "bb_confluence": 2.12,
-    "expected_rsi": 30.44
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.3,
+    "bb_confluence": 3.98,
+    "expected_rsi": 42.73
   },
   {
     "ticker": "CAT",
@@ -507,6 +494,19 @@
     "expected_rsi": 40.69
   },
   {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "price": 21.91,
+    "changePercent": -0.5,
+    "score": 39,
+    "stars": 2.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 3.91,
+    "bb_confluence": 2.12,
+    "expected_rsi": 30.44
+  },
+  {
     "ticker": "AME",
     "name": "AMETEK, Inc.",
     "price": 236.25,
@@ -598,17 +598,17 @@
     "expected_rsi": 39.01
   },
   {
-    "ticker": "FDX",
-    "name": "FedEx Corporation",
-    "price": 330.88,
-    "changePercent": -0.16,
-    "score": 33,
+    "ticker": "PCAR",
+    "name": "PACCAR Inc.",
+    "price": 125.34,
+    "changePercent": -0.95,
+    "score": 32,
     "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.57,
-    "bb_confluence": 3.21,
-    "expected_rsi": 46.98
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.58,
+    "bb_confluence": 2.89,
+    "expected_rsi": 36.08
   },
   {
     "ticker": "ES",
@@ -622,6 +622,19 @@
     "ma_distance": 0.36,
     "bb_confluence": 0.24,
     "expected_rsi": 44.85
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "price": 49.78,
+    "changePercent": -2.66,
+    "score": 32,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.13,
+    "bb_confluence": 1.51,
+    "expected_rsi": 42.63
   },
   {
     "ticker": "DLR",
@@ -650,6 +663,19 @@
     "expected_rsi": 51.72
   },
   {
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "price": 330.88,
+    "changePercent": -0.16,
+    "score": 30,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.57,
+    "bb_confluence": 3.21,
+    "expected_rsi": 46.98
+  },
+  {
     "ticker": "GD",
     "name": "General Dynamics Corporation",
     "price": 379.32,
@@ -661,19 +687,6 @@
     "ma_distance": 0.96,
     "bb_confluence": 0.08,
     "expected_rsi": 45.17
-  },
-  {
-    "ticker": "PCAR",
-    "name": "PACCAR Inc.",
-    "price": 125.34,
-    "changePercent": -0.95,
-    "score": 29,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.58,
-    "bb_confluence": 2.89,
-    "expected_rsi": 36.08
   },
   {
     "ticker": "RF",
@@ -726,19 +739,6 @@
     "ma_distance": 4.87,
     "bb_confluence": 2.97,
     "expected_rsi": 39.24
-  },
-  {
-    "ticker": "FAST",
-    "name": "Fastenal Company",
-    "price": 49.78,
-    "changePercent": -2.66,
-    "score": 28,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.13,
-    "bb_confluence": 1.51,
-    "expected_rsi": 42.63
   },
   {
     "ticker": "SHW",
@@ -988,19 +988,6 @@
     "expected_rsi": 46.42
   },
   {
-    "ticker": "HSY",
-    "name": "The Hershey Company",
-    "price": 179.05,
-    "changePercent": -1.25,
-    "score": 20,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.65,
-    "bb_confluence": 1.39,
-    "expected_rsi": 45.97
-  },
-  {
     "ticker": "EOG",
     "name": "EOG Resources, Inc.",
     "price": 143.35,
@@ -1051,6 +1038,19 @@
     "ma_distance": 3.64,
     "bb_confluence": 1.54,
     "expected_rsi": 41.94
+  },
+  {
+    "ticker": "HSY",
+    "name": "The Hershey Company",
+    "price": 179.05,
+    "changePercent": -1.25,
+    "score": 19,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.65,
+    "bb_confluence": 1.39,
+    "expected_rsi": 45.97
   },
   {
     "ticker": "IEX",
