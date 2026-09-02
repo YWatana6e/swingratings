@@ -3,72 +3,58 @@
     "ticker": "FFIV",
     "name": "F5, Inc.",
     "market": "NMS",
-    "price": 395.72,
-    "change": -11.41,
-    "changePercent": -2.8
+    "price": 391.08,
+    "change": -4.64,
+    "changePercent": -1.17
   },
   "score": {
-    "total": 37,
-    "stars": 2.0,
+    "total": 27,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 33%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 379.56,
-    "maDistance_pct": 4.26,
-    "bb2Confluence_pct": 1.47,
-    "bb3Confluence_pct": 4.97,
+    "targetMA_price": 381.57,
+    "maDistance_pct": 2.49,
+    "bb2Confluence_pct": 2.29,
+    "bb3Confluence_pct": 5.68,
     "maKnock_count": 1,
-    "expectedRsi": 42.73
+    "expectedRsi": 44.2
   },
   "metrics": {
-    "maDistance": "+4.26%",
-    "bbConfluence": "1.47%",
+    "maDistance": "+2.49%",
+    "bbConfluence": "2.29%",
     "maKnock": "1 time recently",
-    "expectedRsi": "42.73"
+    "expectedRsi": "44.2"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 413.23,
         "touches": 3,
-        "strength_score": 2.229
+        "strength_score": 2.178
       },
       {
         "price": 426.57,
         "touches": 2,
-        "strength_score": 1.469
+        "strength_score": 1.435
       },
       {
         "price": 401.79,
         "touches": 2,
-        "strength_score": 1.003
+        "strength_score": 0.98
       },
       {
         "price": 435.0,
         "touches": 1,
-        "strength_score": 0.683
+        "strength_score": 0.667
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that FFIV is currently testing its Daily 100MA support zone near $379.56. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $413.23. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that FFIV is currently testing its Daily 100MA support zone near $381.57. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $413.23. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 268.5199890136719,
-        "high": 272.9100036621094,
-        "low": 264.3399963378906,
-        "close": 270.42999267578125
-      },
-      {
-        "time": "2026-01-28",
-        "open": 298.5,
-        "high": 303.9800109863281,
-        "low": 285.0,
-        "close": 292.29998779296875
-      },
       {
         "time": "2026-01-29",
         "open": 293.75,
@@ -1092,6 +1078,13 @@
         "close": 410.2200012207031
       },
       {
+        "time": "2026-08-28",
+        "open": 409.7099914550781,
+        "high": 410.0,
+        "low": 394.0799865722656,
+        "close": 394.239990234375
+      },
+      {
         "time": "2026-08-31",
         "open": 395.8599853515625,
         "high": 408.9100036621094,
@@ -1104,17 +1097,16 @@
         "high": 407.6300048828125,
         "low": 390.3699951171875,
         "close": 395.7200012207031
+      },
+      {
+        "time": "2026-09-02",
+        "open": 398.57000732421875,
+        "high": 398.57000732421875,
+        "low": 384.9867858886719,
+        "close": 391.0799865722656
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 279.19470153808595
-      },
-      {
-        "time": "2026-01-28",
-        "value": 278.9742013549805
-      },
       {
         "time": "2026-01-29",
         "value": 278.6406011962891
@@ -1700,23 +1692,23 @@
         "value": 377.6706008911133
       },
       {
+        "time": "2026-08-28",
+        "value": 378.5220007324219
+      },
+      {
         "time": "2026-08-31",
-        "value": 378.65090087890627
+        "value": 379.54570068359374
       },
       {
         "time": "2026-09-01",
-        "value": 379.56050079345704
+        "value": 380.5570007324219
+      },
+      {
+        "time": "2026-09-02",
+        "value": 381.56970062255857
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 254.39543353824803
-      },
-      {
-        "time": "2026-01-28",
-        "value": 251.3865747719925
-      },
       {
         "time": "2026-01-29",
         "value": 251.6302485503479
@@ -2302,12 +2294,20 @@
         "value": 374.42060443902716
       },
       {
+        "time": "2026-08-28",
+        "value": 373.86136049662997
+      },
+      {
         "time": "2026-08-31",
-        "value": 374.51630312537816
+        "value": 373.8637441317962
       },
       {
         "time": "2026-09-01",
-        "value": 373.99965377824316
+        "value": 373.5241791218357
+      },
+      {
+        "time": "2026-09-02",
+        "value": 372.8271266968658
       }
     ],
     "supportLine": 375.63

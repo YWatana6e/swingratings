@@ -3,92 +3,73 @@
     "ticker": "AGL",
     "name": "agilon health, inc.",
     "market": "NYQ",
-    "price": 87.47,
-    "change": -0.42,
-    "changePercent": -0.48
+    "price": 87.38,
+    "change": -0.09,
+    "changePercent": -0.1
   },
   "score": {
-    "total": 78,
-    "stars": 4.0,
+    "total": 74,
+    "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 83.94,
-    "maDistance_pct": 4.2,
-    "bb2Confluence_pct": 0.59,
-    "bb3Confluence_pct": 6.59,
+    "targetMA_price": 85.36,
+    "maDistance_pct": 2.37,
+    "bb2Confluence_pct": 1.04,
+    "bb3Confluence_pct": 5.68,
     "maKnock_count": 0,
-    "expectedRsi": 38.97
+    "expectedRsi": 39.63
   },
   "metrics": {
-    "maDistance": "+4.20%",
-    "bbConfluence": "0.59%",
+    "maDistance": "+2.37%",
+    "bbConfluence": "1.04%",
     "maKnock": "0 times recently",
-    "expectedRsi": "38.97"
+    "expectedRsi": "39.63"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 99.6,
         "touches": 2,
-        "strength_score": 1.888
+        "strength_score": 1.845
       },
       {
         "price": 118.66,
         "touches": 2,
-        "strength_score": 1.104
+        "strength_score": 1.078
       },
       {
         "price": 114.32,
         "touches": 1,
-        "strength_score": 0.812
+        "strength_score": 0.794
       },
       {
         "price": 133.04,
         "touches": 1,
-        "strength_score": 0.699
+        "strength_score": 0.683
       },
       {
         "price": 125.71,
         "touches": 1,
-        "strength_score": 0.602
+        "strength_score": 0.588
       },
       {
         "price": 94.71,
         "touches": 1,
-        "strength_score": 0.472
+        "strength_score": 0.461
       },
       {
         "price": 90.48,
         "touches": 1,
-        "strength_score": 0.435
+        "strength_score": 0.425
       }
     ],
-    "trendline_clusters": [
-      {
-        "price": 97.58,
-        "count": 2
-      }
-    ]
+    "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AGL is currently testing its Daily 100MA support zone near $83.94. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.60 and a significant trendline confluence around $97.58 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AGL is currently testing its Daily 100MA support zone near $85.36. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.60. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 23.100000381469727,
-        "high": 23.100000381469727,
-        "low": 19.774999618530273,
-        "close": 21.350000381469727
-      },
-      {
-        "time": "2026-01-28",
-        "open": 20.875,
-        "high": 21.5,
-        "low": 19.950000762939453,
-        "close": 20.524999618530273
-      },
       {
         "time": "2026-01-29",
         "open": 20.0,
@@ -1112,6 +1093,13 @@
         "close": 94.18000030517578
       },
       {
+        "time": "2026-08-28",
+        "open": 93.93000030517578,
+        "high": 94.7300033569336,
+        "low": 90.98999786376953,
+        "close": 92.54000091552734
+      },
+      {
         "time": "2026-08-31",
         "open": 91.80999755859375,
         "high": 92.04499816894531,
@@ -1121,20 +1109,19 @@
       {
         "time": "2026-09-01",
         "open": 86.8499984741211,
-        "high": 89.88999938964844,
-        "low": 86.55010223388672,
+        "high": 90.30000305175781,
+        "low": 86.55000305175781,
         "close": 87.47000122070312
+      },
+      {
+        "time": "2026-09-02",
+        "open": 88.27999877929688,
+        "high": 91.13999938964844,
+        "low": 86.80999755859375,
+        "close": 87.37999725341797
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 21.67175000190735
-      },
-      {
-        "time": "2026-01-28",
-        "value": 21.57449999809265
-      },
       {
         "time": "2026-01-29",
         "value": 21.489999990463257
@@ -1720,23 +1707,23 @@
         "value": 82.54160013198853
       },
       {
+        "time": "2026-08-28",
+        "value": 83.30110013961792
+      },
+      {
         "time": "2026-08-31",
-        "value": 83.25460012435913
+        "value": 83.99530014038086
       },
       {
         "time": "2026-09-01",
-        "value": 83.94460014343262
+        "value": 84.67160015106201
+      },
+      {
+        "time": "2026-09-02",
+        "value": 85.35520011901855
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 15.971232619896462
-      },
-      {
-        "time": "2026-01-28",
-        "value": 16.258181827410287
-      },
       {
         "time": "2026-01-29",
         "value": 16.770421440993623
@@ -2322,12 +2309,20 @@
         "value": 84.68949148667787
       },
       {
+        "time": "2026-08-28",
+        "value": 84.77574351555684
+      },
+      {
         "time": "2026-08-31",
-        "value": 84.17498240942051
+        "value": 84.08037687381665
       },
       {
         "time": "2026-09-01",
-        "value": 83.45251491778934
+        "value": 83.3488097639626
+      },
+      {
+        "time": "2026-09-02",
+        "value": 84.46814304040784
       }
     ],
     "supportLine": 90.14

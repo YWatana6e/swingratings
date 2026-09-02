@@ -3,9 +3,9 @@
     "ticker": "MTD",
     "name": "Mettler-Toledo International, I",
     "market": "NYQ",
-    "price": 1375.96,
-    "change": -29.18,
-    "changePercent": -2.08
+    "price": 1367.74,
+    "change": -8.22,
+    "changePercent": -0.6
   },
   "score": {
     "total": 27,
@@ -14,51 +14,37 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 1320.39,
-    "maDistance_pct": 4.21,
-    "bb2Confluence_pct": 4.51,
-    "bb3Confluence_pct": 3.22,
+    "targetMA_price": 1319.92,
+    "maDistance_pct": 3.62,
+    "bb2Confluence_pct": 3.91,
+    "bb3Confluence_pct": 2.48,
     "maKnock_count": 1,
-    "expectedRsi": 36.68
+    "expectedRsi": 36.0
   },
   "metrics": {
-    "maDistance": "+4.21%",
-    "bbConfluence": "4.51%",
+    "maDistance": "+3.62%",
+    "bbConfluence": "3.91%",
     "maKnock": "1 time recently",
-    "expectedRsi": "36.68"
+    "expectedRsi": "36.0"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 1454.35,
         "touches": 4,
-        "strength_score": 3.572
+        "strength_score": 3.49
       }
     ],
     "trendline_clusters": [
       {
-        "price": 1443.38,
+        "price": 1445.48,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 200MA support zone near $1320.39. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1443.38 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 200MA support zone near $1319.92. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1445.48 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 1419.3499755859375,
-        "high": 1441.949951171875,
-        "low": 1416.5899658203125,
-        "close": 1425.1800537109375
-      },
-      {
-        "time": "2026-01-28",
-        "open": 1413.25,
-        "high": 1419.8599853515625,
-        "low": 1397.4100341796875,
-        "close": 1401.6400146484375
-      },
       {
         "time": "2026-01-29",
         "open": 1392.02001953125,
@@ -1082,6 +1068,13 @@
         "close": 1407.4300537109375
       },
       {
+        "time": "2026-08-28",
+        "open": 1401.0899658203125,
+        "high": 1406.9300537109375,
+        "low": 1391.6199951171875,
+        "close": 1398.5799560546875
+      },
+      {
         "time": "2026-08-31",
         "open": 1384.199951171875,
         "high": 1407.1099853515625,
@@ -1091,20 +1084,19 @@
       {
         "time": "2026-09-01",
         "open": 1410.75,
-        "high": 1411.010009765625,
-        "low": 1370.5999755859375,
+        "high": 1415.0,
+        "low": 1370.3299560546875,
         "close": 1375.9599609375
+      },
+      {
+        "time": "2026-09-02",
+        "open": 1361.3599853515625,
+        "high": 1398.0450439453125,
+        "low": 1357.18994140625,
+        "close": 1367.739990234375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 1280.37559967041
-      },
-      {
-        "time": "2026-01-28",
-        "value": 1282.3953497314453
-      },
       {
         "time": "2026-01-29",
         "value": 1284.1498498535157
@@ -1690,23 +1682,23 @@
         "value": 1320.8747003173828
       },
       {
+        "time": "2026-08-28",
+        "value": 1320.7047503662109
+      },
+      {
         "time": "2026-08-31",
-        "value": 1320.7375506591798
+        "value": 1320.5051501464843
       },
       {
         "time": "2026-09-01",
-        "value": 1320.3920501708985
+        "value": 1320.1458996582032
+      },
+      {
+        "time": "2026-09-02",
+        "value": 1319.9236993408203
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 1381.608329543628
-      },
-      {
-        "time": "2026-01-28",
-        "value": 1378.7658289810815
-      },
       {
         "time": "2026-01-29",
         "value": 1375.0401268302128
@@ -2292,12 +2284,20 @@
         "value": 1386.7068694587663
       },
       {
+        "time": "2026-08-28",
+        "value": 1384.6907533649794
+      },
+      {
         "time": "2026-08-31",
-        "value": 1385.6500864428294
+        "value": 1384.958326037308
       },
       {
         "time": "2026-09-01",
-        "value": 1379.9789793388136
+        "value": 1379.1346980244534
+      },
+      {
+        "time": "2026-09-02",
+        "value": 1371.5433329934904
       }
     ],
     "supportLine": 1228.88

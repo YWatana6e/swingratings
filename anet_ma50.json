@@ -3,72 +3,58 @@
     "ticker": "ANET",
     "name": "Arista Networks, Inc.",
     "market": "NYQ",
-    "price": 189.26,
-    "change": -6.43,
-    "changePercent": -3.29
+    "price": 186.1,
+    "change": -3.16,
+    "changePercent": -1.67
   },
   "score": {
-    "total": 67,
-    "stars": 3.5,
+    "total": 64,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 89%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 180.88,
-    "maDistance_pct": 4.63,
-    "bb2Confluence_pct": 0.2,
-    "bb3Confluence_pct": 3.5,
+    "targetMA_price": 181.77,
+    "maDistance_pct": 2.38,
+    "bb2Confluence_pct": 0.66,
+    "bb3Confluence_pct": 4.44,
     "maKnock_count": 1,
-    "expectedRsi": 45.43
+    "expectedRsi": 45.32
   },
   "metrics": {
-    "maDistance": "+4.63%",
-    "bbConfluence": "0.20%",
+    "maDistance": "+2.38%",
+    "bbConfluence": "0.66%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.43"
+    "expectedRsi": "45.32"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 206.13,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.955
       },
       {
         "price": 211.45,
         "touches": 1,
-        "strength_score": 0.861
+        "strength_score": 0.841
       },
       {
         "price": 214.89,
         "touches": 1,
-        "strength_score": 0.812
+        "strength_score": 0.794
       },
       {
         "price": 189.82,
         "touches": 1,
-        "strength_score": 0.652
+        "strength_score": 0.637
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ANET is currently testing its Daily 50MA support zone near $180.88. Based on historical price action, bounces from this level have yielded a win rate of 88.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $206.13. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ANET is currently testing its Daily 50MA support zone near $181.77. Based on historical price action, bounces from this level have yielded a win rate of 88.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $206.13. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 144.86000061035156,
-        "high": 149.27000427246094,
-        "low": 143.8000030517578,
-        "close": 146.69000244140625
-      },
-      {
-        "time": "2026-01-28",
-        "open": 150.35000610351562,
-        "high": 151.8000030517578,
-        "low": 145.57000732421875,
-        "close": 150.14999389648438
-      },
       {
         "time": "2026-01-29",
         "open": 150.14999389648438,
@@ -1092,6 +1078,13 @@
         "close": 201.08999633789062
       },
       {
+        "time": "2026-08-28",
+        "open": 200.0,
+        "high": 200.10000610351562,
+        "low": 194.61000061035156,
+        "close": 195.3800048828125
+      },
+      {
         "time": "2026-08-31",
         "open": 195.5,
         "high": 197.99000549316406,
@@ -1104,17 +1097,16 @@
         "high": 196.5,
         "low": 188.55999755859375,
         "close": 189.25999450683594
+      },
+      {
+        "time": "2026-09-02",
+        "open": 188.0,
+        "high": 189.88999938964844,
+        "low": 184.0800018310547,
+        "close": 186.10000610351562
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 129.23939956665038
-      },
-      {
-        "time": "2026-01-28",
-        "value": 129.63639938354493
-      },
       {
         "time": "2026-01-29",
         "value": 129.97199935913085
@@ -1700,23 +1692,23 @@
         "value": 179.8694006347656
       },
       {
+        "time": "2026-08-28",
+        "value": 180.47840087890626
+      },
+      {
         "time": "2026-08-31",
-        "value": 180.48460083007814
+        "value": 180.99880096435547
       },
       {
         "time": "2026-09-01",
-        "value": 180.87640075683595
+        "value": 181.2928009033203
+      },
+      {
+        "time": "2026-09-02",
+        "value": 181.7708010864258
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 119.35235454124962
-      },
-      {
-        "time": "2026-01-28",
-        "value": 117.82360412110397
-      },
       {
         "time": "2026-01-29",
         "value": 117.13761067835615
@@ -2302,12 +2294,20 @@
         "value": 178.5043661845886
       },
       {
+        "time": "2026-08-28",
+        "value": 180.53003132725365
+      },
+      {
         "time": "2026-08-31",
-        "value": 180.54040857517677
+        "value": 181.76784745774114
       },
       {
         "time": "2026-09-01",
-        "value": 181.23586909689467
+        "value": 181.61054675819503
+      },
+      {
+        "time": "2026-09-02",
+        "value": 180.5722147308664
       }
     ],
     "supportLine": 156.24

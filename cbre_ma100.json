@@ -3,72 +3,58 @@
     "ticker": "CBRE",
     "name": "CBRE Group Inc",
     "market": "NYQ",
-    "price": 144.46,
-    "change": -1.35,
-    "changePercent": -0.93
+    "price": 142.06,
+    "change": -2.4,
+    "changePercent": -1.66
   },
   "score": {
-    "total": 30,
+    "total": 34,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 46%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 140.95,
-    "maDistance_pct": 2.49,
-    "bb2Confluence_pct": 1.78,
-    "bb3Confluence_pct": 0.3,
+    "targetMA_price": 141.05,
+    "maDistance_pct": 0.72,
+    "bb2Confluence_pct": 0.88,
+    "bb3Confluence_pct": 1.46,
     "maKnock_count": 1,
-    "expectedRsi": 41.29
+    "expectedRsi": 42.39
   },
   "metrics": {
-    "maDistance": "+2.49%",
-    "bbConfluence": "1.78%",
+    "maDistance": "+0.72%",
+    "bbConfluence": "0.88%",
     "maKnock": "1 time recently",
-    "expectedRsi": "41.29"
+    "expectedRsi": "42.39"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 152.86,
         "touches": 2,
-        "strength_score": 1.579
+        "strength_score": 1.543
       },
       {
         "price": 145.18,
         "touches": 2,
-        "strength_score": 1.336
+        "strength_score": 1.306
       },
       {
         "price": 157.08,
         "touches": 2,
-        "strength_score": 1.269
+        "strength_score": 1.24
       },
       {
         "price": 148.97,
         "touches": 1,
-        "strength_score": 0.406
+        "strength_score": 0.397
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 100MA support zone near $140.95. Based on historical price action, bounces from this level have yielded a win rate of 45.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $152.86. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CBRE is currently testing its Daily 100MA support zone near $141.05. Based on historical price action, bounces from this level have yielded a win rate of 45.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $152.86. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 170.30999755859375,
-        "high": 172.17999267578125,
-        "low": 169.30999755859375,
-        "close": 169.38999938964844
-      },
-      {
-        "time": "2026-01-28",
-        "open": 169.36000061035156,
-        "high": 171.97000122070312,
-        "low": 168.6199951171875,
-        "close": 169.5
-      },
       {
         "time": "2026-01-29",
         "open": 170.22000122070312,
@@ -1092,6 +1078,13 @@
         "close": 147.22000122070312
       },
       {
+        "time": "2026-08-28",
+        "open": 147.55999755859375,
+        "high": 151.85000610351562,
+        "low": 147.27000427246094,
+        "close": 150.82000732421875
+      },
+      {
         "time": "2026-08-31",
         "open": 149.33999633789062,
         "high": 150.7899932861328,
@@ -1101,20 +1094,19 @@
       {
         "time": "2026-09-01",
         "open": 144.80999755859375,
-        "high": 146.57989501953125,
-        "low": 142.98500061035156,
+        "high": 146.5800018310547,
+        "low": 142.99000549316406,
         "close": 144.4600067138672
+      },
+      {
+        "time": "2026-09-02",
+        "open": 146.2100067138672,
+        "high": 148.17999267578125,
+        "low": 141.63999938964844,
+        "close": 142.05999755859375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 159.85890029907227
-      },
-      {
-        "time": "2026-01-28",
-        "value": 159.9370002746582
-      },
       {
         "time": "2026-01-29",
         "value": 160.0093002319336
@@ -1700,23 +1692,23 @@
         "value": 140.85580039978026
       },
       {
+        "time": "2026-08-28",
+        "value": 140.98380043029786
+      },
+      {
         "time": "2026-08-31",
-        "value": 140.9337003326416
+        "value": 141.01700035095215
       },
       {
         "time": "2026-09-01",
-        "value": 140.95340034484863
+        "value": 141.03700035095216
+      },
+      {
+        "time": "2026-09-02",
+        "value": 141.04540031433106
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 160.16583096738066
-      },
-      {
-        "time": "2026-01-28",
-        "value": 160.4072979574127
-      },
       {
         "time": "2026-01-29",
         "value": 160.7107581675485
@@ -2302,12 +2294,20 @@
         "value": 144.25987942266522
       },
       {
+        "time": "2026-08-28",
+        "value": 144.59566818520267
+      },
+      {
         "time": "2026-08-31",
-        "value": 144.08889398099186
+        "value": 144.20749849822636
       },
       {
         "time": "2026-09-01",
-        "value": 143.46927976376318
+        "value": 143.4701714103673
+      },
+      {
+        "time": "2026-09-02",
+        "value": 142.2838724662389
       }
     ],
     "supportLine": 131.81
