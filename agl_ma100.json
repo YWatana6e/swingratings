@@ -3,80 +3,73 @@
     "ticker": "AGL",
     "name": "agilon health, inc.",
     "market": "NYQ",
-    "price": 87.38,
-    "change": -0.09,
-    "changePercent": -0.1
+    "price": 86.48,
+    "change": -0.9,
+    "changePercent": -1.03
   },
   "score": {
-    "total": 74,
+    "total": 66,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 85.36,
-    "maDistance_pct": 2.37,
-    "bb2Confluence_pct": 1.04,
-    "bb3Confluence_pct": 5.68,
+    "targetMA_price": 86.0,
+    "maDistance_pct": 0.55,
+    "bb2Confluence_pct": 1.86,
+    "bb3Confluence_pct": 6.5,
     "maKnock_count": 0,
-    "expectedRsi": 39.63
+    "expectedRsi": 40.44
   },
   "metrics": {
-    "maDistance": "+2.37%",
-    "bbConfluence": "1.04%",
+    "maDistance": "+0.55%",
+    "bbConfluence": "1.86%",
     "maKnock": "0 times recently",
-    "expectedRsi": "39.63"
+    "expectedRsi": "40.44"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 99.6,
         "touches": 2,
-        "strength_score": 1.845
+        "strength_score": 1.824
       },
       {
         "price": 118.66,
         "touches": 2,
-        "strength_score": 1.078
+        "strength_score": 1.066
       },
       {
         "price": 114.32,
         "touches": 1,
-        "strength_score": 0.794
+        "strength_score": 0.785
       },
       {
         "price": 133.04,
         "touches": 1,
-        "strength_score": 0.683
+        "strength_score": 0.675
       },
       {
         "price": 125.71,
         "touches": 1,
-        "strength_score": 0.588
+        "strength_score": 0.581
       },
       {
         "price": 94.71,
         "touches": 1,
-        "strength_score": 0.461
+        "strength_score": 0.456
       },
       {
         "price": 90.48,
         "touches": 1,
-        "strength_score": 0.425
+        "strength_score": 0.42
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AGL is currently testing its Daily 100MA support zone near $85.36. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.60. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AGL is currently testing its Daily 100MA support zone near $86.0. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $99.60. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-29",
-        "open": 20.0,
-        "high": 22.325000762939453,
-        "low": 19.850000381469727,
-        "close": 21.549999237060547
-      },
       {
         "time": "2026-01-30",
         "open": 20.75,
@@ -1119,13 +1112,16 @@
         "high": 91.13999938964844,
         "low": 86.80999755859375,
         "close": 87.37999725341797
+      },
+      {
+        "time": "2026-09-03",
+        "open": 87.66999816894531,
+        "high": 89.75499725341797,
+        "low": 84.91999816894531,
+        "close": 86.4800033569336
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-29",
-        "value": 21.489999990463257
-      },
       {
         "time": "2026-01-30",
         "value": 21.382999982833862
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-09-02",
         "value": 85.35520011901855
+      },
+      {
+        "time": "2026-09-03",
+        "value": 86.00370016098023
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-29",
-        "value": 16.770421440993623
-      },
       {
         "time": "2026-01-30",
         "value": 17.409033754921158
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-09-02",
         "value": 84.46814304040784
+      },
+      {
+        "time": "2026-09-03",
+        "value": 84.40019518536262
       }
     ],
     "supportLine": 90.14

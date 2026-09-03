@@ -3,9 +3,9 @@
     "ticker": "MTD",
     "name": "Mettler-Toledo International, I",
     "market": "NYQ",
-    "price": 1367.74,
-    "change": -8.22,
-    "changePercent": -0.6
+    "price": 1356.23,
+    "change": -11.51,
+    "changePercent": -0.84
   },
   "score": {
     "total": 27,
@@ -14,44 +14,37 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 1319.92,
-    "maDistance_pct": 3.62,
-    "bb2Confluence_pct": 3.91,
-    "bb3Confluence_pct": 2.48,
+    "targetMA_price": 1319.69,
+    "maDistance_pct": 2.77,
+    "bb2Confluence_pct": 3.22,
+    "bb3Confluence_pct": 1.56,
     "maKnock_count": 1,
-    "expectedRsi": 36.0
+    "expectedRsi": 35.61
   },
   "metrics": {
-    "maDistance": "+3.62%",
-    "bbConfluence": "3.91%",
+    "maDistance": "+2.77%",
+    "bbConfluence": "3.22%",
     "maKnock": "1 time recently",
-    "expectedRsi": "36.0"
+    "expectedRsi": "35.61"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 1454.35,
         "touches": 4,
-        "strength_score": 3.49
+        "strength_score": 3.45
       }
     ],
     "trendline_clusters": [
       {
-        "price": 1445.48,
+        "price": 1446.52,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 200MA support zone near $1319.92. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1445.48 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 200MA support zone near $1319.69. Based on historical price action, bounces from this level have yielded a win rate of 40.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1446.52 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-29",
-        "open": 1392.02001953125,
-        "high": 1401.989990234375,
-        "low": 1363.0,
-        "close": 1392.800048828125
-      },
       {
         "time": "2026-01-30",
         "open": 1374.0400390625,
@@ -1091,16 +1084,19 @@
       {
         "time": "2026-09-02",
         "open": 1361.3599853515625,
-        "high": 1398.0450439453125,
+        "high": 1398.1300048828125,
         "low": 1357.18994140625,
         "close": 1367.739990234375
+      },
+      {
+        "time": "2026-09-03",
+        "open": 1376.1600341796875,
+        "high": 1387.3199462890625,
+        "low": 1334.72998046875,
+        "close": 1356.22998046875
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-29",
-        "value": 1284.1498498535157
-      },
       {
         "time": "2026-01-30",
         "value": 1285.6017999267578
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-09-02",
         "value": 1319.9236993408203
+      },
+      {
+        "time": "2026-09-03",
+        "value": 1319.6894494628907
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-29",
-        "value": 1375.0401268302128
-      },
       {
         "time": "2026-01-30",
         "value": 1370.4373637529168
@@ -2298,6 +2294,10 @@
       {
         "time": "2026-09-02",
         "value": 1371.5433329934904
+      },
+      {
+        "time": "2026-09-03",
+        "value": 1362.2312407455383
       }
     ],
     "supportLine": 1228.88
