@@ -3,76 +3,66 @@
     "ticker": "LYV",
     "name": "Live Nation Entertainment, Inc.",
     "market": "NYQ",
-    "price": 177.2,
-    "change": -2.69,
-    "changePercent": -1.5
+    "price": 173.5,
+    "change": -3.99,
+    "changePercent": -2.25
   },
   "score": {
-    "total": 61,
+    "total": 63,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 71%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 172.29,
-    "maDistance_pct": 2.85,
-    "bb2Confluence_pct": 3.23,
-    "bb3Confluence_pct": 1.71,
+    "targetMA_price": 172.85,
+    "maDistance_pct": 0.38,
+    "bb2Confluence_pct": 1.32,
+    "bb3Confluence_pct": 0.73,
     "maKnock_count": 0,
-    "expectedRsi": 38.57
+    "expectedRsi": 40.31
   },
   "metrics": {
-    "maDistance": "+2.85%",
-    "bbConfluence": "3.23%",
+    "maDistance": "+0.38%",
+    "bbConfluence": "1.32%",
     "maKnock": "0 times recently",
-    "expectedRsi": "38.57"
+    "expectedRsi": "40.31"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 188.35,
         "touches": 4,
-        "strength_score": 3.261
+        "strength_score": 3.114
+      },
+      {
+        "price": 182.21,
+        "touches": 1,
+        "strength_score": 0.989
+      },
+      {
+        "price": 176.0,
+        "touches": 1,
+        "strength_score": 0.518
       }
     ],
     "trendline_clusters": [
       {
-        "price": 185.36,
+        "price": 182.5,
+        "count": 4
+      },
+      {
+        "price": 182.2,
+        "count": 2
+      },
+      {
+        "price": 186.05,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 100MA support zone near $172.29. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $188.35 and a significant trendline confluence around $185.36 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that LYV is currently testing its Daily 100MA support zone near $172.85. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $188.35 and a significant trendline confluence around $182.50 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 147.50999450683594,
-        "high": 147.50999450683594,
-        "low": 144.55999755859375,
-        "close": 146.8000030517578
-      },
-      {
-        "time": "2026-01-28",
-        "open": 147.0800018310547,
-        "high": 148.36000061035156,
-        "low": 146.58999633789062,
-        "close": 147.52999877929688
-      },
-      {
-        "time": "2026-01-29",
-        "open": 148.6699981689453,
-        "high": 148.8800048828125,
-        "low": 145.80999755859375,
-        "close": 147.77999877929688
-      },
-      {
-        "time": "2026-01-30",
-        "open": 147.39999389648438,
-        "high": 148.1199951171875,
-        "low": 143.2899932861328,
-        "close": 145.4499969482422
-      },
       {
         "time": "2026-02-02",
         "open": 144.7100067138672,
@@ -1082,6 +1072,13 @@
         "close": 180.63999938964844
       },
       {
+        "time": "2026-08-28",
+        "open": 180.72999572753906,
+        "high": 181.7100067138672,
+        "low": 177.75,
+        "close": 181.64999389648438
+      },
+      {
         "time": "2026-08-31",
         "open": 181.16000366210938,
         "high": 182.00999450683594,
@@ -1091,28 +1088,33 @@
       {
         "time": "2026-09-01",
         "open": 179.47000122070312,
-        "high": 180.1649932861328,
-        "low": 177.13999938964844,
+        "high": 180.1699981689453,
+        "low": 177.1300048828125,
         "close": 177.1999969482422
+      },
+      {
+        "time": "2026-09-02",
+        "open": 177.44000244140625,
+        "high": 180.64999389648438,
+        "low": 177.3300018310547,
+        "close": 179.58999633789062
+      },
+      {
+        "time": "2026-09-03",
+        "open": 181.3000030517578,
+        "high": 182.2100067138672,
+        "low": 176.83999633789062,
+        "close": 177.49000549316406
+      },
+      {
+        "time": "2026-09-04",
+        "open": 178.1999969482422,
+        "high": 177.4499969482422,
+        "low": 171.72000122070312,
+        "close": 173.5
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 148.31540069580078
-      },
-      {
-        "time": "2026-01-28",
-        "value": 148.16090072631835
-      },
-      {
-        "time": "2026-01-29",
-        "value": 148.0045007324219
-      },
-      {
-        "time": "2026-01-30",
-        "value": 147.76500076293945
-      },
       {
         "time": "2026-02-02",
         "value": 147.50140075683595
@@ -1690,31 +1692,31 @@
         "value": 171.9377005004883
       },
       {
+        "time": "2026-08-28",
+        "value": 172.1713005065918
+      },
+      {
         "time": "2026-08-31",
-        "value": 172.15370056152344
+        "value": 172.33460052490236
       },
       {
         "time": "2026-09-01",
-        "value": 172.2901005554199
+        "value": 172.47000045776366
+      },
+      {
+        "time": "2026-09-02",
+        "value": 172.66000045776366
+      },
+      {
+        "time": "2026-09-03",
+        "value": 172.7777005004883
+      },
+      {
+        "time": "2026-09-04",
+        "value": 172.8499005126953
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 139.47046437050483
-      },
-      {
-        "time": "2026-01-28",
-        "value": 139.49255527786244
-      },
-      {
-        "time": "2026-01-29",
-        "value": 139.5610075514368
-      },
-      {
-        "time": "2026-01-30",
-        "value": 139.8424671280036
-      },
       {
         "time": "2026-02-02",
         "value": 139.7417161627758
@@ -2292,12 +2294,28 @@
         "value": 177.1160727139622
       },
       {
+        "time": "2026-08-28",
+        "value": 179.05331363812692
+      },
+      {
         "time": "2026-08-31",
-        "value": 178.7611018367299
+        "value": 178.75623051808478
       },
       {
         "time": "2026-09-01",
-        "value": 177.84830308643797
+        "value": 177.71848011215383
+      },
+      {
+        "time": "2026-09-02",
+        "value": 177.32813921229152
+      },
+      {
+        "time": "2026-09-03",
+        "value": 176.6558724242086
+      },
+      {
+        "time": "2026-09-04",
+        "value": 175.12795574641373
       }
     ],
     "supportLine": 179.68

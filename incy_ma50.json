@@ -3,101 +3,48 @@
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "market": "NMS",
-    "price": 123.22,
-    "change": -1.15,
-    "changePercent": -0.92
+    "price": 126.75,
+    "change": -1.25,
+    "changePercent": -0.98
   },
   "score": {
-    "total": 48,
-    "stars": 2.5,
+    "total": 57,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 85%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 119.12,
-    "maDistance_pct": 3.45,
-    "bb2Confluence_pct": 2.03,
-    "bb3Confluence_pct": 4.99,
+    "targetMA_price": 120.81,
+    "maDistance_pct": 4.92,
+    "bb2Confluence_pct": 1.53,
+    "bb3Confluence_pct": 4.13,
     "maKnock_count": 0,
-    "expectedRsi": 44.22
+    "expectedRsi": 45.87
   },
   "metrics": {
-    "maDistance": "+3.45%",
-    "bbConfluence": "2.03%",
+    "maDistance": "+4.92%",
+    "bbConfluence": "1.53%",
     "maKnock": "0 times recently",
-    "expectedRsi": "44.22"
+    "expectedRsi": "45.87"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 131.7,
-        "touches": 2,
-        "strength_score": 1.713
-      },
-      {
-        "price": 124.57,
-        "touches": 1,
-        "strength_score": 0.812
+        "price": 131.13,
+        "touches": 3,
+        "strength_score": 2.624
       }
     ],
     "trendline_clusters": [
       {
-        "price": 130.8,
-        "count": 8
-      },
-      {
-        "price": 130.27,
-        "count": 4
-      },
-      {
-        "price": 125.36,
-        "count": 3
-      },
-      {
-        "price": 129.01,
-        "count": 3
-      },
-      {
-        "price": 131.57,
-        "count": 3
-      },
-      {
-        "price": 131.29,
-        "count": 2
+        "price": 130.63,
+        "count": 14
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $119.12. Based on historical price action, bounces from this level have yielded a win rate of 84.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $131.70 and a significant trendline confluence around $130.80 (formed by 8 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $120.81. Based on historical price action, bounces from this level have yielded a win rate of 84.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $131.13 and a significant trendline confluence around $130.63 (formed by 14 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-01-27",
-        "open": 103.0,
-        "high": 105.05999755859375,
-        "low": 102.58999633789062,
-        "close": 103.47000122070312
-      },
-      {
-        "time": "2026-01-28",
-        "open": 103.0199966430664,
-        "high": 104.02999877929688,
-        "low": 98.8499984741211,
-        "close": 101.18000030517578
-      },
-      {
-        "time": "2026-01-29",
-        "open": 101.08999633789062,
-        "high": 101.88999938964844,
-        "low": 100.20999908447266,
-        "close": 101.08000183105469
-      },
-      {
-        "time": "2026-01-30",
-        "open": 100.7699966430664,
-        "high": 101.25,
-        "low": 99.27999877929688,
-        "close": 100.06999969482422
-      },
       {
         "time": "2026-02-02",
         "open": 99.75,
@@ -1119,25 +1066,37 @@
         "high": 124.0,
         "low": 121.61000061035156,
         "close": 123.22000122070312
+      },
+      {
+        "time": "2026-09-01",
+        "open": 124.61000061035156,
+        "high": 125.13999938964844,
+        "low": 122.5,
+        "close": 125.01000213623047
+      },
+      {
+        "time": "2026-09-02",
+        "open": 126.43000030517578,
+        "high": 129.55999755859375,
+        "low": 125.88999938964844,
+        "close": 128.8300018310547
+      },
+      {
+        "time": "2026-09-03",
+        "open": 129.6699981689453,
+        "high": 130.0,
+        "low": 126.19999694824219,
+        "close": 128.0
+      },
+      {
+        "time": "2026-09-04",
+        "open": 126.45999908447266,
+        "high": 128.0449981689453,
+        "low": 126.04000091552734,
+        "close": 126.75
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-01-27",
-        "value": 102.08760009765625
-      },
-      {
-        "time": "2026-01-28",
-        "value": 102.00300003051758
-      },
-      {
-        "time": "2026-01-29",
-        "value": 101.9416000366211
-      },
-      {
-        "time": "2026-01-30",
-        "value": 101.85960006713867
-      },
       {
         "time": "2026-02-02",
         "value": 101.83520004272461
@@ -1721,25 +1680,25 @@
       {
         "time": "2026-08-31",
         "value": 119.11619995117188
+      },
+      {
+        "time": "2026-09-01",
+        "value": 119.5431999206543
+      },
+      {
+        "time": "2026-09-02",
+        "value": 120.03179992675781
+      },
+      {
+        "time": "2026-09-03",
+        "value": 120.42259994506836
+      },
+      {
+        "time": "2026-09-04",
+        "value": 120.80699996948242
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-01-27",
-        "value": 97.97668672872811
-      },
-      {
-        "time": "2026-01-28",
-        "value": 98.31272277533637
-      },
-      {
-        "time": "2026-01-29",
-        "value": 98.73952760046285
-      },
-      {
-        "time": "2026-01-30",
-        "value": 99.03814352105832
-      },
       {
         "time": "2026-02-02",
         "value": 99.20636739093605
@@ -2323,6 +2282,22 @@
       {
         "time": "2026-08-31",
         "value": 116.6956984389134
+      },
+      {
+        "time": "2026-09-01",
+        "value": 117.0495564245996
+      },
+      {
+        "time": "2026-09-02",
+        "value": 117.47053363115282
+      },
+      {
+        "time": "2026-09-03",
+        "value": 118.37213594243242
+      },
+      {
+        "time": "2026-09-04",
+        "value": 118.95342089548494
       }
     ],
     "supportLine": 115.95
