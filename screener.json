@@ -13,19 +13,6 @@
     "expected_rsi": 34.46
   },
   {
-    "ticker": "HAS",
-    "name": "Hasbro, Inc.",
-    "price": 92.53,
-    "changePercent": -0.51,
-    "score": 65,
-    "stars": 3.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.17,
-    "bb_confluence": 3.45,
-    "expected_rsi": 39.5
-  },
-  {
     "ticker": "FANG",
     "name": "Diamondback Energy, Inc.",
     "price": 199.22,
@@ -37,6 +24,19 @@
     "ma_distance": 2.54,
     "bb_confluence": 0.16,
     "expected_rsi": 44.35
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro, Inc.",
+    "price": 92.53,
+    "changePercent": -0.51,
+    "score": 65,
+    "stars": 3.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.17,
+    "bb_confluence": 3.45,
+    "expected_rsi": 39.5
   },
   {
     "ticker": "FANG",
@@ -273,6 +273,19 @@
     "expected_rsi": 49.06
   },
   {
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "price": 61.28,
+    "changePercent": -0.28,
+    "score": 39,
+    "stars": 2.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 4.85,
+    "bb_confluence": 3.82,
+    "expected_rsi": 34.03
+  },
+  {
     "ticker": "HAL",
     "name": "Halliburton Company",
     "price": 37.07,
@@ -364,32 +377,6 @@
     "expected_rsi": 42.75
   },
   {
-    "ticker": "MDLZ",
-    "name": "Mondelez International, Inc.",
-    "price": 61.28,
-    "changePercent": -0.28,
-    "score": 34,
-    "stars": 1.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.85,
-    "bb_confluence": 3.82,
-    "expected_rsi": 34.03
-  },
-  {
-    "ticker": "KHC",
-    "name": "The Kraft Heinz Company",
-    "price": 24.85,
-    "changePercent": -2.24,
-    "score": 34,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.09,
-    "bb_confluence": 1.16,
-    "expected_rsi": 40.65
-  },
-  {
     "ticker": "PM",
     "name": "Philip Morris International Inc",
     "price": 182.53,
@@ -401,6 +388,19 @@
     "ma_distance": 0.87,
     "bb_confluence": 0.94,
     "expected_rsi": 40.65
+  },
+  {
+    "ticker": "KHC",
+    "name": "The Kraft Heinz Company",
+    "price": 24.85,
+    "changePercent": -0.68,
+    "score": 33,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.72,
+    "bb_confluence": 1.32,
+    "expected_rsi": 40.49
   },
   {
     "ticker": "CAG",
@@ -481,6 +481,19 @@
     "expected_rsi": 39.26
   },
   {
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "price": 45.15,
+    "changePercent": -0.2,
+    "score": 30,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.0,
+    "bb_confluence": 0.61,
+    "expected_rsi": 46.98
+  },
+  {
     "ticker": "ABT",
     "name": "Abbott Laboratories",
     "price": 108.33,
@@ -497,14 +510,14 @@
     "ticker": "KMB",
     "name": "Kimberly-Clark Corporation",
     "price": 104.96,
-    "changePercent": -2.77,
+    "changePercent": -1.6,
     "score": 28,
     "stars": 1.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 3.12,
-    "bb_confluence": 4.13,
-    "expected_rsi": 34.94
+    "ma_distance": 4.35,
+    "bb_confluence": 4.49,
+    "expected_rsi": 34.79
   },
   {
     "ticker": "KVUE",
@@ -531,6 +544,19 @@
     "ma_distance": 1.44,
     "bb_confluence": 0.28,
     "expected_rsi": 42.14
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics Incorporated",
+    "price": 237.14,
+    "changePercent": -0.94,
+    "score": 28,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 4.28,
+    "bb_confluence": 2.46,
+    "expected_rsi": 39.91
   },
   {
     "ticker": "ABT",
@@ -562,40 +588,27 @@
     "ticker": "KMB",
     "name": "Kimberly-Clark Corporation",
     "price": 104.96,
-    "changePercent": -2.77,
+    "changePercent": -1.6,
     "score": 26,
     "stars": 1.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 1.07,
-    "bb_confluence": 2.06,
-    "expected_rsi": 39.07
-  },
-  {
-    "ticker": "DGX",
-    "name": "Quest Diagnostics Incorporated",
-    "price": 237.14,
-    "changePercent": -0.94,
-    "score": 26,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.28,
-    "bb_confluence": 2.46,
-    "expected_rsi": 39.91
+    "ma_distance": 2.27,
+    "bb_confluence": 2.4,
+    "expected_rsi": 38.69
   },
   {
     "ticker": "KIM",
     "name": "Kimco Realty Corporation (HC)",
     "price": 23.6,
-    "changePercent": -1.34,
+    "changePercent": -0.17,
     "score": 26,
     "stars": 1.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 3.61,
-    "bb_confluence": 3.75,
-    "expected_rsi": 27.33
+    "ma_distance": 4.83,
+    "bb_confluence": 4.01,
+    "expected_rsi": 27.16
   },
   {
     "ticker": "ATR",
