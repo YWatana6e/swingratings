@@ -3,75 +3,68 @@
     "ticker": "SHOP",
     "name": "Shopify Inc.",
     "market": "NMS",
-    "price": 126.79,
-    "change": -7.31,
-    "changePercent": -5.45
+    "price": 126.6,
+    "change": -0.19,
+    "changePercent": -0.15
   },
   "score": {
-    "total": 62,
+    "total": 61,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 123.96,
-    "maDistance_pct": 2.28,
-    "bb2Confluence_pct": 7.22,
-    "bb3Confluence_pct": 1.47,
+    "targetMA_price": 123.91,
+    "maDistance_pct": 2.17,
+    "bb2Confluence_pct": 4.3,
+    "bb3Confluence_pct": 2.46,
     "maKnock_count": 1,
-    "expectedRsi": 35.69
+    "expectedRsi": 35.58
   },
   "metrics": {
-    "maDistance": "+2.28%",
-    "bbConfluence": "7.22%",
+    "maDistance": "+2.17%",
+    "bbConfluence": "4.30%",
     "maKnock": "1 time recently",
-    "expectedRsi": "35.69"
+    "expectedRsi": "35.58"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 127.9,
-        "touches": 5,
-        "strength_score": 2.382
+        "price": 127.05,
+        "touches": 6,
+        "strength_score": 2.61
       },
       {
         "price": 149.43,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 156.49,
         "touches": 1,
-        "strength_score": 0.922
+        "strength_score": 0.912
       },
       {
         "price": 158.87,
         "touches": 1,
-        "strength_score": 0.822
+        "strength_score": 0.812
       },
       {
         "price": 133.99,
         "touches": 1,
-        "strength_score": 0.707
+        "strength_score": 0.699
       },
       {
         "price": 137.3,
         "touches": 1,
-        "strength_score": 0.326
+        "strength_score": 0.322
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SHOP is currently testing its Daily 100MA support zone near $123.96. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $127.90. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SHOP is currently testing its Daily 100MA support zone near $123.91. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $127.05. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 116.01000213623047,
-        "high": 116.4000015258789,
-        "low": 109.88999938964844,
-        "close": 114.0199966430664
-      },
       {
         "time": "2026-02-05",
         "open": 112.75,
@@ -1110,17 +1103,20 @@
       },
       {
         "time": "2026-09-09",
-        "open": 138.22000122070312,
+        "open": 138.0,
         "high": 138.22000122070312,
         "low": 125.98999786376953,
         "close": 126.79000091552734
+      },
+      {
+        "time": "2026-09-10",
+        "open": 124.02999877929688,
+        "high": 128.99000549316406,
+        "low": 124.02999877929688,
+        "close": 126.5999984741211
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 156.14479995727538
-      },
       {
         "time": "2026-02-05",
         "value": 155.82339988708497
@@ -1716,13 +1712,13 @@
       {
         "time": "2026-09-09",
         "value": 123.95820022583008
+      },
+      {
+        "time": "2026-09-10",
+        "value": 123.91270027160644
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 113.82729925260384
-      },
       {
         "time": "2026-02-05",
         "value": 109.19671998303076
@@ -2318,6 +2314,10 @@
       {
         "time": "2026-09-09",
         "value": 132.91238841782342
+      },
+      {
+        "time": "2026-09-10",
+        "value": 129.2407431611567
       }
     ],
     "supportLine": 115.22

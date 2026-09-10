@@ -3,9 +3,9 @@
     "ticker": "ABG",
     "name": "Asbury Automotive Group Inc",
     "market": "NYQ",
-    "price": 212.38,
-    "change": -0.53,
-    "changePercent": -0.25
+    "price": 208.81,
+    "change": -3.57,
+    "changePercent": -1.68
   },
   "score": {
     "total": 48,
@@ -14,54 +14,47 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 205.78,
-    "maDistance_pct": 3.21,
-    "bb2Confluence_pct": 0.06,
-    "bb3Confluence_pct": 1.39,
+    "targetMA_price": 205.75,
+    "maDistance_pct": 1.49,
+    "bb2Confluence_pct": 0.03,
+    "bb3Confluence_pct": 1.43,
     "maKnock_count": 3,
-    "expectedRsi": 42.98
+    "expectedRsi": 42.85
   },
   "metrics": {
-    "maDistance": "+3.21%",
-    "bbConfluence": "0.06%",
+    "maDistance": "+1.49%",
+    "bbConfluence": "0.03%",
     "maKnock": "3 times recently",
-    "expectedRsi": "42.98"
+    "expectedRsi": "42.85"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 216.89,
         "touches": 2,
-        "strength_score": 1.22
+        "strength_score": 1.206
       },
       {
         "price": 223.5,
         "touches": 1,
-        "strength_score": 0.989
+        "strength_score": 0.977
       },
       {
         "price": 257.21,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.707
       },
       {
         "price": 230.22,
         "touches": 1,
-        "strength_score": 0.652
+        "strength_score": 0.645
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ABG is currently testing its Daily 100MA support zone near $205.78. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 3 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $216.89. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ABG is currently testing its Daily 100MA support zone near $205.75. Based on historical price action, bounces from this level have yielded a win rate of 64.3%. The asset has recently tested this support 3 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $216.89. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 234.13999938964844,
-        "high": 242.22000122070312,
-        "low": 234.13999938964844,
-        "close": 237.0399932861328
-      },
       {
         "time": "2026-02-05",
         "open": 232.41000366210938,
@@ -1101,16 +1094,19 @@
       {
         "time": "2026-09-09",
         "open": 211.60000610351562,
-        "high": 212.44000244140625,
-        "low": 209.5301055908203,
+        "high": 212.55999755859375,
+        "low": 209.52999877929688,
         "close": 212.3800048828125
+      },
+      {
+        "time": "2026-09-10",
+        "open": 211.50999450683594,
+        "high": 212.27999877929688,
+        "low": 207.3300018310547,
+        "close": 208.80999755859375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 238.65609954833985
-      },
       {
         "time": "2026-02-05",
         "value": 238.41919952392578
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-09-09",
         "value": 205.77750030517578
+      },
+      {
+        "time": "2026-09-10",
+        "value": 205.75120025634766
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 230.35208832231223
-      },
       {
         "time": "2026-02-05",
         "value": 225.9042222752716
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-09-09",
         "value": 205.89492825727675
+      },
+      {
+        "time": "2026-09-10",
+        "value": 205.8104469868201
       }
     ],
     "supportLine": 206.18

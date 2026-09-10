@@ -3,55 +3,48 @@
     "ticker": "ABNB",
     "name": "Airbnb, Inc.",
     "market": "NMS",
-    "price": 169.63,
-    "change": -4.91,
-    "changePercent": -2.81
+    "price": 167.65,
+    "change": -1.98,
+    "changePercent": -1.17
   },
   "score": {
-    "total": 40,
+    "total": 39,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 163.99,
-    "maDistance_pct": 3.44,
-    "bb2Confluence_pct": 5.99,
-    "bb3Confluence_pct": 2.98,
+    "targetMA_price": 164.48,
+    "maDistance_pct": 1.93,
+    "bb2Confluence_pct": 3.98,
+    "bb3Confluence_pct": 0.32,
     "maKnock_count": 0,
-    "expectedRsi": 39.03
+    "expectedRsi": 39.31
   },
   "metrics": {
-    "maDistance": "+3.44%",
-    "bbConfluence": "5.99%",
+    "maDistance": "+1.93%",
+    "bbConfluence": "3.98%",
     "maKnock": "0 times recently",
-    "expectedRsi": "39.03"
+    "expectedRsi": "39.31"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 193.45,
         "touches": 1,
-        "strength_score": 0.881
+        "strength_score": 0.871
       },
       {
         "price": 187.12,
         "touches": 1,
-        "strength_score": 0.794
+        "strength_score": 0.785
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ABNB is currently testing its Daily 50MA support zone near $163.99. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $193.45. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ABNB is currently testing its Daily 50MA support zone near $164.48. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $193.45. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 123.1500015258789,
-        "high": 125.51000213623047,
-        "low": 120.19999694824219,
-        "close": 124.61000061035156
-      },
       {
         "time": "2026-02-05",
         "open": 124.23999786376953,
@@ -1090,17 +1083,20 @@
       },
       {
         "time": "2026-09-09",
-        "open": 173.0,
+        "open": 172.97500610351562,
         "high": 174.39999389648438,
         "low": 168.89999389648438,
         "close": 169.6300048828125
+      },
+      {
+        "time": "2026-09-10",
+        "open": 167.91000366210938,
+        "high": 170.1300048828125,
+        "low": 165.8300018310547,
+        "close": 167.64999389648438
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 130.0222998046875
-      },
       {
         "time": "2026-02-05",
         "value": 130.16249969482422
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-09-09",
         "value": 163.99140014648438
+      },
+      {
+        "time": "2026-09-10",
+        "value": 164.48239990234376
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 123.97671826231849
-      },
       {
         "time": "2026-02-05",
         "value": 122.09232596171555
@@ -2298,8 +2294,12 @@
       {
         "time": "2026-09-09",
         "value": 173.80773533938444
+      },
+      {
+        "time": "2026-09-10",
+        "value": 171.02730384912732
       }
     ],
-    "supportLine": 128.21
+    "supportLine": 136.53
   }
 }

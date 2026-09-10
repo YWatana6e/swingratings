@@ -3,60 +3,53 @@
     "ticker": "ILMN",
     "name": "Illumina, Inc.",
     "market": "NMS",
-    "price": 205.0,
-    "change": -6.06,
-    "changePercent": -2.87
+    "price": 201.27,
+    "change": -3.73,
+    "changePercent": -1.82
   },
   "score": {
-    "total": 46,
+    "total": 45,
     "stars": 2.5,
     "note": "/ 100 (Win Rate: 70%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 199.34,
-    "maDistance_pct": 2.84,
-    "bb2Confluence_pct": 7.03,
-    "bb3Confluence_pct": 13.23,
+    "targetMA_price": 199.85,
+    "maDistance_pct": 0.71,
+    "bb2Confluence_pct": 6.6,
+    "bb3Confluence_pct": 12.56,
     "maKnock_count": 0,
-    "expectedRsi": 45.36
+    "expectedRsi": 45.77
   },
   "metrics": {
-    "maDistance": "+2.84%",
-    "bbConfluence": "7.03%",
+    "maDistance": "+0.71%",
+    "bbConfluence": "6.60%",
     "maKnock": "0 times recently",
-    "expectedRsi": "45.36"
+    "expectedRsi": "45.77"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 221.76,
         "touches": 1,
-        "strength_score": 0.966
+        "strength_score": 0.955
       },
       {
         "price": 231.81,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.901
       },
       {
         "price": 207.0,
         "touches": 1,
-        "strength_score": 0.741
+        "strength_score": 0.732
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ILMN is currently testing its Daily 50MA support zone near $199.34. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $221.76. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ILMN is currently testing its Daily 50MA support zone near $199.85. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $221.76. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 137.10000610351562,
-        "high": 140.64999389648438,
-        "low": 133.3300018310547,
-        "close": 134.19000244140625
-      },
       {
         "time": "2026-02-05",
         "open": 133.69000244140625,
@@ -1095,17 +1088,20 @@
       },
       {
         "time": "2026-09-09",
-        "open": 210.0,
-        "high": 211.08999633789062,
-        "low": 203.60479736328125,
+        "open": 211.6300048828125,
+        "high": 212.17999267578125,
+        "low": 203.60000610351562,
         "close": 205.0
+      },
+      {
+        "time": "2026-09-10",
+        "open": 203.61000061035156,
+        "high": 206.07000732421875,
+        "low": 200.55999755859375,
+        "close": 201.27000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 137.97340026855468
-      },
       {
         "time": "2026-02-05",
         "value": 138.1686003112793
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-09-09",
         "value": 199.3437991333008
+      },
+      {
+        "time": "2026-09-10",
+        "value": 199.8525991821289
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 135.4497749970749
-      },
       {
         "time": "2026-02-05",
         "value": 133.47572642620418
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-09-09",
         "value": 185.337072315308
+      },
+      {
+        "time": "2026-09-10",
+        "value": 186.6639797026655
       }
     ],
     "supportLine": 187.15

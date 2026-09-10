@@ -3,60 +3,53 @@
     "ticker": "AN",
     "name": "AutoNation, Inc.",
     "market": "NYQ",
-    "price": 209.18,
-    "change": -0.12,
-    "changePercent": -0.06
+    "price": 207.22,
+    "change": -1.96,
+    "changePercent": -0.94
   },
   "score": {
-    "total": 22,
+    "total": 21,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 75%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 203.53,
-    "maDistance_pct": 2.77,
-    "bb2Confluence_pct": 5.21,
-    "bb3Confluence_pct": 7.74,
+    "targetMA_price": 203.96,
+    "maDistance_pct": 1.6,
+    "bb2Confluence_pct": 5.38,
+    "bb3Confluence_pct": 7.88,
     "maKnock_count": 2,
-    "expectedRsi": 50.64
+    "expectedRsi": 51.08
   },
   "metrics": {
-    "maDistance": "+2.77%",
-    "bbConfluence": "5.21%",
+    "maDistance": "+1.60%",
+    "bbConfluence": "5.38%",
     "maKnock": "2 times recently",
-    "expectedRsi": "50.64"
+    "expectedRsi": "51.08"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 211.75,
         "touches": 3,
-        "strength_score": 1.948
+        "strength_score": 1.926
       },
       {
         "price": 235.81,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.707
       },
       {
         "price": 217.91,
         "touches": 1,
-        "strength_score": 0.358
+        "strength_score": 0.354
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AN is currently testing its Daily 50MA support zone near $203.53. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.75. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AN is currently testing its Daily 50MA support zone near $203.96. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $211.75. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 210.80999755859375,
-        "high": 216.0,
-        "low": 208.97999572753906,
-        "close": 214.9199981689453
-      },
       {
         "time": "2026-02-05",
         "open": 213.39999389648438,
@@ -1096,16 +1089,19 @@
       {
         "time": "2026-09-09",
         "open": 207.94000244140625,
-        "high": 209.68499755859375,
-        "low": 205.9550018310547,
+        "high": 209.69000244140625,
+        "low": 205.91000366210938,
         "close": 209.17999267578125
+      },
+      {
+        "time": "2026-09-10",
+        "open": 209.1199951171875,
+        "high": 212.25999450683594,
+        "low": 204.50999450683594,
+        "close": 207.22000122070312
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 211.89539978027344
-      },
       {
         "time": "2026-02-05",
         "value": 211.8363998413086
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-09-09",
         "value": 203.53419921875
+      },
+      {
+        "time": "2026-09-10",
+        "value": 203.9627993774414
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 205.3343115866178
-      },
       {
         "time": "2026-02-05",
         "value": 203.86718237309458
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-09-09",
         "value": 192.9292658949675
+      },
+      {
+        "time": "2026-09-10",
+        "value": 192.98785110577572
       }
     ],
     "supportLine": 193.28

@@ -3,70 +3,67 @@
     "ticker": "MTD",
     "name": "Mettler-Toledo International, I",
     "market": "NYQ",
-    "price": 1290.36,
-    "change": -35.16,
-    "changePercent": -2.65
+    "price": 1280.58,
+    "change": -9.78,
+    "changePercent": -0.76
   },
   "score": {
-    "total": 34,
-    "stars": 1.5,
+    "total": 37,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 56%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 1272.51,
-    "maDistance_pct": 1.4,
-    "bb2Confluence_pct": 3.55,
-    "bb3Confluence_pct": 0.73,
+    "targetMA_price": 1271.91,
+    "maDistance_pct": 0.68,
+    "bb2Confluence_pct": 2.14,
+    "bb3Confluence_pct": 1.1,
     "maKnock_count": 0,
-    "expectedRsi": 27.52
+    "expectedRsi": 28.45
   },
   "metrics": {
-    "maDistance": "+1.40%",
-    "bbConfluence": "3.55%",
+    "maDistance": "+0.68%",
+    "bbConfluence": "2.14%",
     "maKnock": "0 times recently",
-    "expectedRsi": "27.52"
+    "expectedRsi": "28.45"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 1454.35,
         "touches": 4,
-        "strength_score": 3.333
+        "strength_score": 3.294
       },
       {
         "price": 1352.01,
         "touches": 4,
-        "strength_score": 1.653
+        "strength_score": 1.634
       },
       {
         "price": 1321.47,
         "touches": 1,
-        "strength_score": 0.581
+        "strength_score": 0.574
       },
       {
         "price": 1296.37,
         "touches": 2,
-        "strength_score": 0.545
+        "strength_score": 0.539
       }
     ],
     "trendline_clusters": [
       {
-        "price": 1326.09,
+        "price": 1281.98,
+        "count": 2
+      },
+      {
+        "price": 1325.7,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 100MA support zone near $1272.51. Based on historical price action, bounces from this level have yielded a win rate of 55.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1326.09 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MTD is currently testing its Daily 100MA support zone near $1271.91. Based on historical price action, bounces from this level have yielded a win rate of 55.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1454.35 and a significant trendline confluence around $1281.98 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 1389.530029296875,
-        "high": 1414.0400390625,
-        "low": 1381.75,
-        "close": 1389.72998046875
-      },
       {
         "time": "2026-02-05",
         "open": 1383.9300537109375,
@@ -1109,13 +1106,16 @@
         "high": 1316.3900146484375,
         "low": 1288.8399658203125,
         "close": 1290.3599853515625
+      },
+      {
+        "time": "2026-09-10",
+        "open": 1275.7900390625,
+        "high": 1296.6461181640625,
+        "low": 1266.550048828125,
+        "close": 1280.5799560546875
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 1386.258302001953
-      },
       {
         "time": "2026-02-05",
         "value": 1387.4914013671876
@@ -1711,13 +1711,13 @@
       {
         "time": "2026-09-09",
         "value": 1272.5089001464844
+      },
+      {
+        "time": "2026-09-10",
+        "value": 1271.9089001464845
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 1351.1777769933003
-      },
       {
         "time": "2026-02-05",
         "value": 1345.58184738761
@@ -2313,6 +2313,10 @@
       {
         "time": "2026-09-09",
         "value": 1317.7106047350078
+      },
+      {
+        "time": "2026-09-10",
+        "value": 1299.153633088439
       }
     ],
     "supportLine": 1228.88
