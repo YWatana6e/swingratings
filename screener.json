@@ -208,6 +208,19 @@
     "expected_rsi": 32.6
   },
   {
+    "ticker": "AES",
+    "name": "The AES Corporation",
+    "price": 14.79,
+    "changePercent": -0.07,
+    "score": 42,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.82,
+    "bb_confluence": 1.19,
+    "expected_rsi": 39.34
+  },
+  {
     "ticker": "GILD",
     "name": "Gilead Sciences, Inc.",
     "price": 143.72,
@@ -273,32 +286,6 @@
     "expected_rsi": 45.29
   },
   {
-    "ticker": "NDAQ",
-    "name": "Nasdaq, Inc.",
-    "price": 91.19,
-    "changePercent": -0.56,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 1.46,
-    "bb_confluence": 2.52,
-    "expected_rsi": 34.67
-  },
-  {
-    "ticker": "AES",
-    "name": "The AES Corporation",
-    "price": 14.79,
-    "changePercent": -0.07,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.82,
-    "bb_confluence": 1.19,
-    "expected_rsi": 39.34
-  },
-  {
     "ticker": "AMH",
     "name": "American Homes 4 Rent",
     "price": 31.48,
@@ -351,19 +338,6 @@
     "expected_rsi": 42.68
   },
   {
-    "ticker": "NDAQ",
-    "name": "Nasdaq, Inc.",
-    "price": 91.19,
-    "changePercent": -0.56,
-    "score": 34,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.82,
-    "bb_confluence": 1.88,
-    "expected_rsi": 36.53
-  },
-  {
     "ticker": "AMCR",
     "name": "Amcor plc",
     "price": 42.32,
@@ -375,6 +349,32 @@
     "ma_distance": 1.58,
     "bb_confluence": 2.31,
     "expected_rsi": 32.19
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corporation",
+    "price": 32.71,
+    "changePercent": -0.21,
+    "score": 34,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.9,
+    "bb_confluence": 3.39,
+    "expected_rsi": 34.28
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "price": 91.19,
+    "changePercent": -0.56,
+    "score": 33,
+    "stars": 1.5,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 1.46,
+    "bb_confluence": 2.52,
+    "expected_rsi": 34.67
   },
   {
     "ticker": "GPC",
@@ -461,19 +461,6 @@
     "changePercent": -0.21,
     "score": 30,
     "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.9,
-    "bb_confluence": 3.39,
-    "expected_rsi": 34.28
-  },
-  {
-    "ticker": "NWS",
-    "name": "News Corporation",
-    "price": 32.71,
-    "changePercent": -0.21,
-    "score": 30,
-    "stars": 1.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
     "ma_distance": 0.63,
@@ -492,6 +479,19 @@
     "ma_distance": 3.49,
     "bb_confluence": 1.37,
     "expected_rsi": 45.22
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "price": 91.19,
+    "changePercent": -0.56,
+    "score": 29,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.82,
+    "bb_confluence": 1.88,
+    "expected_rsi": 36.53
   },
   {
     "ticker": "HAL",
@@ -531,19 +531,6 @@
     "ma_distance": 0.05,
     "bb_confluence": 2.47,
     "expected_rsi": 38.04
-  },
-  {
-    "ticker": "FMC",
-    "name": "FMC Corporation",
-    "price": 11.4,
-    "changePercent": -5.63,
-    "score": 28,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.12,
-    "bb_confluence": 14.08,
-    "expected_rsi": 46.49
   },
   {
     "ticker": "AWK",
@@ -739,6 +726,19 @@
     "ma_distance": 4.07,
     "bb_confluence": 3.89,
     "expected_rsi": 39.56
+  },
+  {
+    "ticker": "FMC",
+    "name": "FMC Corporation",
+    "price": 11.4,
+    "changePercent": -5.63,
+    "score": 21,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.12,
+    "bb_confluence": 14.08,
+    "expected_rsi": 46.49
   },
   {
     "ticker": "CTVA",
