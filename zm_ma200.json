@@ -3,65 +3,63 @@
     "ticker": "ZM",
     "name": "Zoom Communications, Inc.",
     "market": "NMS",
-    "price": 93.07,
-    "change": -2.29,
-    "changePercent": -2.4
+    "price": 91.94,
+    "change": -1.13,
+    "changePercent": -1.21
   },
   "score": {
-    "total": 69,
-    "stars": 3.5,
+    "total": 62,
+    "stars": 3.0,
     "note": "/ 100 (Win Rate: 77%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 90.87,
-    "maDistance_pct": 2.42,
-    "bb2Confluence_pct": 0.96,
-    "bb3Confluence_pct": 6.01,
+    "targetMA_price": 90.91,
+    "maDistance_pct": 1.13,
+    "bb2Confluence_pct": 1.86,
+    "bb3Confluence_pct": 6.98,
     "maKnock_count": 0,
-    "expectedRsi": 38.85
+    "expectedRsi": 39.0
   },
   "metrics": {
-    "maDistance": "+2.42%",
-    "bbConfluence": "0.96%",
+    "maDistance": "+1.13%",
+    "bbConfluence": "1.86%",
     "maKnock": "0 times recently",
-    "expectedRsi": "38.85"
+    "expectedRsi": "39.0"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 110.65,
-        "touches": 3,
-        "strength_score": 1.5
+        "price": 111.22,
+        "touches": 2,
+        "strength_score": 1.137
       },
       {
         "price": 102.25,
         "touches": 1,
-        "strength_score": 0.933
+        "strength_score": 0.922
       },
       {
         "price": 94.48,
         "touches": 2,
-        "strength_score": 0.927
+        "strength_score": 0.916
       },
       {
         "price": 114.24,
         "touches": 2,
-        "strength_score": 0.836
+        "strength_score": 0.827
+      },
+      {
+        "price": 109.5,
+        "touches": 1,
+        "strength_score": 0.345
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ZM is currently testing its Daily 200MA support zone near $90.87. Based on historical price action, bounces from this level have yielded a win rate of 76.9%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $110.65. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ZM is currently testing its Daily 200MA support zone near $90.91. Based on historical price action, bounces from this level have yielded a win rate of 76.9%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $111.22. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-10",
-        "open": 95.56999969482422,
-        "high": 96.5199966430664,
-        "low": 94.43000030517578,
-        "close": 94.98999786376953
-      },
       {
         "time": "2026-02-11",
         "open": 94.5,
@@ -1101,16 +1099,19 @@
       {
         "time": "2026-09-15",
         "open": 94.7300033569336,
-        "high": 95.20230102539062,
+        "high": 95.2020034790039,
         "low": 92.7249984741211,
         "close": 93.06999969482422
+      },
+      {
+        "time": "2026-09-16",
+        "open": 92.2699966430664,
+        "high": 93.30000305175781,
+        "low": 91.58000183105469,
+        "close": 91.94000244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-10",
-        "value": 81.67080001831054
-      },
       {
         "time": "2026-02-11",
         "value": 81.75140003204346
@@ -1706,13 +1707,13 @@
       {
         "time": "2026-09-15",
         "value": 90.87087490081787
+      },
+      {
+        "time": "2026-09-16",
+        "value": 90.90842491149903
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-10",
-        "value": 77.92000518093683
-      },
       {
         "time": "2026-02-11",
         "value": 78.59514965181907
@@ -2308,6 +2309,10 @@
       {
         "time": "2026-09-15",
         "value": 89.99413477562962
+      },
+      {
+        "time": "2026-09-16",
+        "value": 89.21329353347919
       }
     ],
     "supportLine": 83.41

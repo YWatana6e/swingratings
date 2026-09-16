@@ -3,86 +3,58 @@
     "ticker": "CPRT",
     "name": "Copart, Inc.",
     "market": "NMS",
-    "price": 30.75,
-    "change": -1.28,
-    "changePercent": -4.0
+    "price": 30.82,
+    "change": -0.22,
+    "changePercent": -0.71
   },
   "score": {
-    "total": 56,
-    "stars": 3.0,
-    "note": "/ 100 (Win Rate: 67%)"
+    "total": 43,
+    "stars": 2.0,
+    "note": "/ 100 (Win Rate: 71%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 30.25,
-    "maDistance_pct": 1.64,
-    "bb2Confluence_pct": 0.03,
-    "bb3Confluence_pct": 3.79,
-    "maKnock_count": 1,
-    "expectedRsi": 41.96
+    "targetMA_price": 30.38,
+    "maDistance_pct": 1.45,
+    "bb2Confluence_pct": 0.5,
+    "bb3Confluence_pct": 4.31,
+    "maKnock_count": 2,
+    "expectedRsi": 44.61
   },
   "metrics": {
-    "maDistance": "+1.64%",
-    "bbConfluence": "0.03%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "41.96"
+    "maDistance": "+1.45%",
+    "bbConfluence": "0.50%",
+    "maKnock": "2 times recently",
+    "expectedRsi": "44.61"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 34.3,
-        "touches": 6,
-        "strength_score": 3.054
+        "price": 34.38,
+        "touches": 5,
+        "strength_score": 2.663
       },
       {
         "price": 31.42,
         "touches": 1,
-        "strength_score": 0.707
+        "strength_score": 0.675
       },
       {
         "price": 30.93,
         "touches": 1,
-        "strength_score": 0.542
+        "strength_score": 0.518
       },
       {
         "price": 35.66,
         "touches": 1,
-        "strength_score": 0.42
+        "strength_score": 0.401
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CPRT is currently testing its Daily 50MA support zone near $30.25. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $34.30. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CPRT is currently testing its Daily 50MA support zone near $30.38. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $34.38. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-05",
-        "open": 40.31999969482422,
-        "high": 40.400001525878906,
-        "low": 39.5,
-        "close": 39.880001068115234
-      },
-      {
-        "time": "2026-02-06",
-        "open": 39.86000061035156,
-        "high": 40.75,
-        "low": 39.84000015258789,
-        "close": 40.36000061035156
-      },
-      {
-        "time": "2026-02-09",
-        "open": 40.31999969482422,
-        "high": 40.40999984741211,
-        "low": 39.939998626708984,
-        "close": 40.29999923706055
-      },
-      {
-        "time": "2026-02-10",
-        "open": 40.2400016784668,
-        "high": 40.95000076293945,
-        "low": 39.95000076293945,
-        "close": 40.349998474121094
-      },
       {
         "time": "2026-02-11",
         "open": 40.150001525878906,
@@ -1104,25 +1076,37 @@
         "high": 32.2599983215332,
         "low": 30.540000915527344,
         "close": 30.75
+      },
+      {
+        "time": "2026-09-11",
+        "open": 32.0099983215332,
+        "high": 32.04999923706055,
+        "low": 29.579999923706055,
+        "close": 29.950000762939453
+      },
+      {
+        "time": "2026-09-14",
+        "open": 30.6299991607666,
+        "high": 31.829999923706055,
+        "low": 30.25,
+        "close": 31.729999542236328
+      },
+      {
+        "time": "2026-09-15",
+        "open": 31.549999237060547,
+        "high": 31.829999923706055,
+        "low": 30.989999771118164,
+        "close": 31.040000915527344
+      },
+      {
+        "time": "2026-09-16",
+        "open": 30.56999969482422,
+        "high": 30.954999923706055,
+        "low": 30.46500015258789,
+        "close": 30.81999969482422
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-05",
-        "value": 39.499800033569336
-      },
-      {
-        "time": "2026-02-06",
-        "value": 39.528800048828124
-      },
-      {
-        "time": "2026-02-09",
-        "value": 39.553600006103515
-      },
-      {
-        "time": "2026-02-10",
-        "value": 39.585599975585936
-      },
       {
         "time": "2026-02-11",
         "value": 39.596199951171876
@@ -1706,25 +1690,25 @@
       {
         "time": "2026-09-10",
         "value": 30.25340019226074
+      },
+      {
+        "time": "2026-09-11",
+        "value": 30.276600189208985
+      },
+      {
+        "time": "2026-09-14",
+        "value": 30.311000175476075
+      },
+      {
+        "time": "2026-09-15",
+        "value": 30.347000198364256
+      },
+      {
+        "time": "2026-09-16",
+        "value": 30.37800018310547
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-05",
-        "value": 38.89835629263631
-      },
-      {
-        "time": "2026-02-06",
-        "value": 39.09775678701063
-      },
-      {
-        "time": "2026-02-09",
-        "value": 39.149123335432286
-      },
-      {
-        "time": "2026-02-10",
-        "value": 39.19350003089299
-      },
       {
         "time": "2026-02-11",
         "value": 39.132185274494475
@@ -2308,8 +2292,24 @@
       {
         "time": "2026-09-10",
         "value": 30.262377712126
+      },
+      {
+        "time": "2026-09-11",
+        "value": 30.436351906457222
+      },
+      {
+        "time": "2026-09-14",
+        "value": 30.452744775786577
+      },
+      {
+        "time": "2026-09-15",
+        "value": 30.346162275930798
+      },
+      {
+        "time": "2026-09-16",
+        "value": 30.227012644992893
       }
     ],
-    "supportLine": 32.38
+    "supportLine": 32.4
   }
 }

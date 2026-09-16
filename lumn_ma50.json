@@ -3,132 +3,78 @@
     "ticker": "LUMN",
     "name": "Lumen Technologies, Inc.",
     "market": "NYQ",
-    "price": 6.64,
-    "change": -0.13,
-    "changePercent": -1.92
+    "price": 6.67,
+    "change": -0.16,
+    "changePercent": -2.34
   },
   "score": {
-    "total": 48,
+    "total": 49,
     "stars": 2.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 6.45,
-    "maDistance_pct": 2.9,
-    "bb2Confluence_pct": 12.56,
-    "bb3Confluence_pct": 17.73,
-    "maKnock_count": 0,
-    "expectedRsi": 51.28
+    "targetMA_price": 6.43,
+    "maDistance_pct": 3.71,
+    "bb2Confluence_pct": 12.76,
+    "bb3Confluence_pct": 19.2,
+    "maKnock_count": 1,
+    "expectedRsi": 47.83
   },
   "metrics": {
-    "maDistance": "+2.90%",
-    "bbConfluence": "12.56%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "51.28"
+    "maDistance": "+3.71%",
+    "bbConfluence": "12.76%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "47.83"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 6.85,
         "touches": 4,
-        "strength_score": 2.887
+        "strength_score": 2.694
       },
       {
-        "price": 7.08,
+        "price": 7.32,
         "touches": 2,
-        "strength_score": 1.256
+        "strength_score": 1.231
+      },
+      {
+        "price": 7.07,
+        "touches": 1,
+        "strength_score": 0.922
       },
       {
         "price": 11.3,
         "touches": 2,
-        "strength_score": 0.857
+        "strength_score": 0.8
       },
       {
         "price": 8.5,
         "touches": 1,
-        "strength_score": 0.561
+        "strength_score": 0.524
       },
       {
         "price": 10.03,
         "touches": 1,
-        "strength_score": 0.379
+        "strength_score": 0.354
       },
       {
         "price": 9.5,
         "touches": 1,
-        "strength_score": 0.338
-      },
-      {
-        "price": 7.37,
-        "touches": 1,
-        "strength_score": 0.284
+        "strength_score": 0.315
       }
     ],
     "trendline_clusters": [
       {
-        "price": 6.75,
-        "count": 4
-      },
-      {
-        "price": 6.76,
+        "price": 6.73,
         "count": 3
-      },
-      {
-        "price": 6.7,
-        "count": 2
-      },
-      {
-        "price": 6.81,
-        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that LUMN is currently testing its Daily 50MA support zone near $6.45. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6.85 and a significant trendline confluence around $6.75 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that LUMN is currently testing its Daily 50MA support zone near $6.43. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6.85 and a significant trendline confluence around $6.73 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-03",
-        "open": 9.079999923706055,
-        "high": 9.079999923706055,
-        "low": 8.170000076293945,
-        "close": 8.460000038146973
-      },
-      {
-        "time": "2026-02-04",
-        "open": 7.289999961853027,
-        "high": 7.710000038146973,
-        "low": 6.380000114440918,
-        "close": 6.630000114440918
-      },
-      {
-        "time": "2026-02-05",
-        "open": 6.53000020980835,
-        "high": 6.559999942779541,
-        "low": 6.090000152587891,
-        "close": 6.230000019073486
-      },
-      {
-        "time": "2026-02-06",
-        "open": 6.599999904632568,
-        "high": 8.1899995803833,
-        "low": 6.5,
-        "close": 8.0600004196167
-      },
-      {
-        "time": "2026-02-09",
-        "open": 7.840000152587891,
-        "high": 8.0600004196167,
-        "low": 7.550000190734863,
-        "close": 7.769999980926514
-      },
-      {
-        "time": "2026-02-10",
-        "open": 7.78000020980835,
-        "high": 8.09000015258789,
-        "low": 7.639999866485596,
-        "close": 7.78000020980835
-      },
       {
         "time": "2026-02-11",
         "open": 7.900000095367432,
@@ -1133,36 +1079,54 @@
       {
         "time": "2026-09-08",
         "open": 6.840000152587891,
-        "high": 6.829999923706055,
-        "low": 6.494999885559082,
+        "high": 6.840000152587891,
+        "low": 6.5,
         "close": 6.639999866485596
+      },
+      {
+        "time": "2026-09-09",
+        "open": 6.650000095367432,
+        "high": 6.880000114440918,
+        "low": 6.46999979019165,
+        "close": 6.809999942779541
+      },
+      {
+        "time": "2026-09-10",
+        "open": 6.710000038146973,
+        "high": 6.860000133514404,
+        "low": 6.630000114440918,
+        "close": 6.809999942779541
+      },
+      {
+        "time": "2026-09-11",
+        "open": 7.0,
+        "high": 7.269999980926514,
+        "low": 6.929999828338623,
+        "close": 6.940000057220459
+      },
+      {
+        "time": "2026-09-14",
+        "open": 6.769999980926514,
+        "high": 7.179999828338623,
+        "low": 6.670000076293945,
+        "close": 7.03000020980835
+      },
+      {
+        "time": "2026-09-15",
+        "open": 7.039999961853027,
+        "high": 7.170000076293945,
+        "low": 6.829999923706055,
+        "close": 6.829999923706055
+      },
+      {
+        "time": "2026-09-16",
+        "open": 6.929999828338623,
+        "high": 7.039999961853027,
+        "low": 6.599999904632568,
+        "close": 6.670000076293945
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-03",
-        "value": 8.25560001373291
-      },
-      {
-        "time": "2026-02-04",
-        "value": 8.238600015640259
-      },
-      {
-        "time": "2026-02-05",
-        "value": 8.211400012969971
-      },
-      {
-        "time": "2026-02-06",
-        "value": 8.218400020599365
-      },
-      {
-        "time": "2026-02-09",
-        "value": 8.213800020217896
-      },
-      {
-        "time": "2026-02-10",
-        "value": 8.207600021362305
-      },
       {
         "time": "2026-02-11",
         "value": 8.202400026321412
@@ -1738,33 +1702,33 @@
       {
         "time": "2026-09-08",
         "value": 6.452599992752075
+      },
+      {
+        "time": "2026-09-09",
+        "value": 6.429599990844727
+      },
+      {
+        "time": "2026-09-10",
+        "value": 6.4121999931335445
+      },
+      {
+        "time": "2026-09-11",
+        "value": 6.4079999923706055
+      },
+      {
+        "time": "2026-09-14",
+        "value": 6.42
+      },
+      {
+        "time": "2026-09-15",
+        "value": 6.4269999980926515
+      },
+      {
+        "time": "2026-09-16",
+        "value": 6.4315999984741214
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-03",
-        "value": 7.672491568793067
-      },
-      {
-        "time": "2026-02-04",
-        "value": 7.255356351156696
-      },
-      {
-        "time": "2026-02-05",
-        "value": 6.839880317668613
-      },
-      {
-        "time": "2026-02-06",
-        "value": 6.831338870934706
-      },
-      {
-        "time": "2026-02-09",
-        "value": 6.8154351649241605
-      },
-      {
-        "time": "2026-02-10",
-        "value": 6.796933978117888
-      },
       {
         "time": "2026-02-11",
         "value": 6.770239081228054
@@ -2340,8 +2304,32 @@
       {
         "time": "2026-09-08",
         "value": 5.641978549844625
+      },
+      {
+        "time": "2026-09-09",
+        "value": 5.6288011399337154
+      },
+      {
+        "time": "2026-09-10",
+        "value": 5.624743661474872
+      },
+      {
+        "time": "2026-09-11",
+        "value": 5.608633259097027
+      },
+      {
+        "time": "2026-09-14",
+        "value": 5.586286421661557
+      },
+      {
+        "time": "2026-09-15",
+        "value": 5.58050864701387
+      },
+      {
+        "time": "2026-09-16",
+        "value": 5.610700834690886
       }
     ],
-    "supportLine": 6.3
+    "supportLine": 6.27
   }
 }

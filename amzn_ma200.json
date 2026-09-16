@@ -3,9 +3,9 @@
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
     "market": "NMS",
-    "price": 248.42,
-    "change": -5.12,
-    "changePercent": -2.02
+    "price": 245.96,
+    "change": -2.46,
+    "changePercent": -0.99
   },
   "score": {
     "total": 70,
@@ -14,64 +14,57 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 240.03,
-    "maDistance_pct": 3.5,
-    "bb2Confluence_pct": 3.8,
-    "bb3Confluence_pct": 1.99,
+    "targetMA_price": 240.11,
+    "maDistance_pct": 2.44,
+    "bb2Confluence_pct": 2.91,
+    "bb3Confluence_pct": 0.81,
     "maKnock_count": 0,
-    "expectedRsi": 36.57
+    "expectedRsi": 36.42
   },
   "metrics": {
-    "maDistance": "+3.50%",
-    "bbConfluence": "3.80%",
+    "maDistance": "+2.44%",
+    "bbConfluence": "2.91%",
     "maKnock": "0 times recently",
-    "expectedRsi": "36.57"
+    "expectedRsi": "36.42"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 258.46,
         "touches": 3,
-        "strength_score": 1.853
+        "strength_score": 1.832
       },
       {
         "price": 266.98,
         "touches": 2,
-        "strength_score": 1.693
+        "strength_score": 1.673
       },
       {
         "price": 249.61,
         "touches": 2,
-        "strength_score": 1.024
+        "strength_score": 1.013
       },
       {
         "price": 287.2,
         "touches": 1,
-        "strength_score": 0.707
+        "strength_score": 0.699
       },
       {
         "price": 274.75,
         "touches": 1,
-        "strength_score": 0.425
+        "strength_score": 0.42
       },
       {
         "price": 278.56,
         "touches": 1,
-        "strength_score": 0.349
+        "strength_score": 0.345
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 200MA support zone near $240.03. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $258.46. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 200MA support zone near $240.11. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $258.46. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-10",
-        "open": 208.8000030517578,
-        "high": 212.64999389648438,
-        "low": 206.41000366210938,
-        "close": 206.9600067138672
-      },
       {
         "time": "2026-02-11",
         "open": 208.05999755859375,
@@ -1110,17 +1103,20 @@
       },
       {
         "time": "2026-09-15",
-        "open": 252.375,
+        "open": 252.24000549316406,
         "high": 253.27000427246094,
         "low": 247.22000122070312,
         "close": 248.4199981689453
+      },
+      {
+        "time": "2026-09-16",
+        "open": 248.1999969482422,
+        "high": 249.25999450683594,
+        "low": 244.3000030517578,
+        "close": 245.9600067138672
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-10",
-        "value": 223.43010025024415
-      },
       {
         "time": "2026-02-11",
         "value": 223.5055502319336
@@ -1716,13 +1712,13 @@
       {
         "time": "2026-09-15",
         "value": 240.0277498626709
+      },
+      {
+        "time": "2026-09-16",
+        "value": 240.1117498779297
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-10",
-        "value": 210.26027670821682
-      },
       {
         "time": "2026-02-11",
         "value": 205.530881184404
@@ -2318,6 +2314,10 @@
       {
         "time": "2026-09-15",
         "value": 249.15456450343393
+      },
+      {
+        "time": "2026-09-16",
+        "value": 247.0967705407996
       }
     ],
     "supportLine": 255.08

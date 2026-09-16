@@ -3,75 +3,68 @@
     "ticker": "ARW",
     "name": "Arrow Electronics, Inc.",
     "market": "NYQ",
-    "price": 212.83,
-    "change": -1.02,
-    "changePercent": -0.48
+    "price": 211.7,
+    "change": -1.13,
+    "changePercent": -0.53
   },
   "score": {
-    "total": 17,
-    "stars": 1.0,
+    "total": 12,
+    "stars": 0.5,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 210.45,
-    "maDistance_pct": 1.13,
-    "bb2Confluence_pct": 5.84,
-    "bb3Confluence_pct": 8.73,
+    "targetMA_price": 210.7,
+    "maDistance_pct": 0.48,
+    "bb2Confluence_pct": 5.96,
+    "bb3Confluence_pct": 8.83,
     "maKnock_count": 1,
-    "expectedRsi": 49.92
+    "expectedRsi": 50.12
   },
   "metrics": {
-    "maDistance": "+1.13%",
-    "bbConfluence": "5.84%",
+    "maDistance": "+0.48%",
+    "bbConfluence": "5.96%",
     "maKnock": "1 time recently",
-    "expectedRsi": "49.92"
+    "expectedRsi": "50.12"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 231.4,
         "touches": 3,
-        "strength_score": 2.141
+        "strength_score": 2.117
       },
       {
         "price": 221.0,
         "touches": 2,
-        "strength_score": 1.446
+        "strength_score": 1.429
       },
       {
         "price": 237.33,
         "touches": 1,
-        "strength_score": 0.506
+        "strength_score": 0.5
       },
       {
         "price": 224.83,
         "touches": 1,
-        "strength_score": 0.411
+        "strength_score": 0.406
       },
       {
         "price": 215.68,
         "touches": 1,
-        "strength_score": 0.379
+        "strength_score": 0.375
       }
     ],
     "trendline_clusters": [
       {
-        "price": 230.49,
+        "price": 230.5,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ARW is currently testing its Daily 100MA support zone near $210.45. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $231.40 and a significant trendline confluence around $230.49 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ARW is currently testing its Daily 100MA support zone near $210.7. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $231.40 and a significant trendline confluence around $230.50 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-10",
-        "open": 158.32000732421875,
-        "high": 158.5,
-        "low": 154.6699981689453,
-        "close": 156.02000427246094
-      },
       {
         "time": "2026-02-11",
         "open": 158.50999450683594,
@@ -1112,15 +1105,18 @@
         "time": "2026-09-15",
         "open": 217.05999755859375,
         "high": 219.97000122070312,
-        "low": 212.38999938964844,
+        "low": 212.3800048828125,
         "close": 212.8300018310547
+      },
+      {
+        "time": "2026-09-16",
+        "open": 216.9499969482422,
+        "high": 216.75999450683594,
+        "low": 207.87550354003906,
+        "close": 211.6999969482422
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-10",
-        "value": 117.42750030517578
-      },
       {
         "time": "2026-02-11",
         "value": 117.7772003173828
@@ -1716,13 +1712,13 @@
       {
         "time": "2026-09-15",
         "value": 210.45460037231445
+      },
+      {
+        "time": "2026-09-16",
+        "value": 210.69660034179688
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-10",
-        "value": 100.66653980788436
-      },
       {
         "time": "2026-02-11",
         "value": 100.9588019707083
@@ -2318,6 +2314,10 @@
       {
         "time": "2026-09-15",
         "value": 198.17009918247368
+      },
+      {
+        "time": "2026-09-16",
+        "value": 198.14854940114944
       }
     ],
     "supportLine": 200.76

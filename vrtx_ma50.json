@@ -3,81 +3,53 @@
     "ticker": "VRTX",
     "name": "Vertex Pharmaceuticals Incorpor",
     "market": "NMS",
-    "price": 514.56,
-    "change": -6.56,
-    "changePercent": -1.26
+    "price": 513.26,
+    "change": -1.37,
+    "changePercent": -0.27
   },
   "score": {
-    "total": 66,
+    "total": 72,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 71%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 510.3,
-    "maDistance_pct": 0.83,
-    "bb2Confluence_pct": 0.62,
-    "bb3Confluence_pct": 3.65,
-    "maKnock_count": 1,
-    "expectedRsi": 43.54
+    "targetMA_price": 510.0,
+    "maDistance_pct": 0.64,
+    "bb2Confluence_pct": 0.53,
+    "bb3Confluence_pct": 3.53,
+    "maKnock_count": 0,
+    "expectedRsi": 43.9
   },
   "metrics": {
-    "maDistance": "+0.83%",
-    "bbConfluence": "0.62%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "43.54"
+    "maDistance": "+0.64%",
+    "bbConfluence": "0.53%",
+    "maKnock": "0 times recently",
+    "expectedRsi": "43.9"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 557.97,
         "touches": 2,
-        "strength_score": 1.836
+        "strength_score": 1.753
       },
       {
         "price": 546.17,
         "touches": 1,
-        "strength_score": 0.776
+        "strength_score": 0.741
       },
       {
         "price": 533.67,
         "touches": 1,
-        "strength_score": 0.588
+        "strength_score": 0.561
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 50MA support zone near $510.3. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 50MA support zone near $510.0. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-05",
-        "open": 473.8999938964844,
-        "high": 478.0,
-        "low": 457.739990234375,
-        "close": 458.80999755859375
-      },
-      {
-        "time": "2026-02-06",
-        "open": 459.69000244140625,
-        "high": 478.2799987792969,
-        "low": 459.0,
-        "close": 477.9200134277344
-      },
-      {
-        "time": "2026-02-09",
-        "open": 476.9700012207031,
-        "high": 478.5400085449219,
-        "low": 467.9800109863281,
-        "close": 470.8699951171875
-      },
-      {
-        "time": "2026-02-10",
-        "open": 469.8299865722656,
-        "high": 474.57000732421875,
-        "low": 462.239990234375,
-        "close": 463.4800109863281
-      },
       {
         "time": "2026-02-11",
         "open": 460.42999267578125,
@@ -1099,25 +1071,37 @@
         "high": 522.5999755859375,
         "low": 514.3200073242188,
         "close": 514.5599975585938
+      },
+      {
+        "time": "2026-09-11",
+        "open": 522.0999755859375,
+        "high": 522.0999755859375,
+        "low": 511.80999755859375,
+        "close": 515.4400024414062
+      },
+      {
+        "time": "2026-09-14",
+        "open": 522.1699829101562,
+        "high": 525.2899780273438,
+        "low": 514.6599731445312,
+        "close": 519.510009765625
+      },
+      {
+        "time": "2026-09-15",
+        "open": 519.9400024414062,
+        "high": 519.9400024414062,
+        "low": 511.0,
+        "close": 514.6300048828125
+      },
+      {
+        "time": "2026-09-16",
+        "open": 513.7999877929688,
+        "high": 517.9500122070312,
+        "low": 511.3500061035156,
+        "close": 513.260009765625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-05",
-        "value": 455.2907989501953
-      },
-      {
-        "time": "2026-02-06",
-        "value": 456.36919921875
-      },
-      {
-        "time": "2026-02-09",
-        "value": 457.19019897460936
-      },
-      {
-        "time": "2026-02-10",
-        "value": 457.81639892578124
-      },
       {
         "time": "2026-02-11",
         "value": 458.3689990234375
@@ -1701,25 +1685,25 @@
       {
         "time": "2026-09-10",
         "value": 510.30140014648435
+      },
+      {
+        "time": "2026-09-11",
+        "value": 510.65
+      },
+      {
+        "time": "2026-09-14",
+        "value": 510.4794006347656
+      },
+      {
+        "time": "2026-09-15",
+        "value": 510.1802001953125
+      },
+      {
+        "time": "2026-09-16",
+        "value": 510.000400390625
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-05",
-        "value": 439.50631528324135
-      },
-      {
-        "time": "2026-02-06",
-        "value": 439.18185337113675
-      },
-      {
-        "time": "2026-02-09",
-        "value": 439.3115579268841
-      },
-      {
-        "time": "2026-02-10",
-        "value": 439.49758550441527
-      },
       {
         "time": "2026-02-11",
         "value": 440.15561968835095
@@ -2303,6 +2287,22 @@
       {
         "time": "2026-09-10",
         "value": 507.1193208102502
+      },
+      {
+        "time": "2026-09-11",
+        "value": 506.9268596487128
+      },
+      {
+        "time": "2026-09-14",
+        "value": 509.9823235750599
+      },
+      {
+        "time": "2026-09-15",
+        "value": 509.7856185421684
+      },
+      {
+        "time": "2026-09-16",
+        "value": 507.2777999844842
       }
     ],
     "supportLine": 424.01
