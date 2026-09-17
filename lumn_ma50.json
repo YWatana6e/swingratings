@@ -3,9 +3,9 @@
     "ticker": "LUMN",
     "name": "Lumen Technologies, Inc.",
     "market": "NYQ",
-    "price": 6.67,
-    "change": -0.16,
-    "changePercent": -2.34
+    "price": 6.48,
+    "change": -0.19,
+    "changePercent": -2.85
   },
   "score": {
     "total": 49,
@@ -15,73 +15,75 @@
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
     "targetMA_price": 6.43,
-    "maDistance_pct": 3.71,
-    "bb2Confluence_pct": 12.76,
-    "bb3Confluence_pct": 19.2,
+    "maDistance_pct": 0.8,
+    "bb2Confluence_pct": 12.27,
+    "bb3Confluence_pct": 18.61,
     "maKnock_count": 1,
-    "expectedRsi": 47.83
+    "expectedRsi": 47.79
   },
   "metrics": {
-    "maDistance": "+3.71%",
-    "bbConfluence": "12.76%",
+    "maDistance": "+0.80%",
+    "bbConfluence": "12.27%",
     "maKnock": "1 time recently",
-    "expectedRsi": "47.83"
+    "expectedRsi": "47.79"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 6.85,
         "touches": 4,
-        "strength_score": 2.694
+        "strength_score": 2.663
       },
       {
-        "price": 7.32,
-        "touches": 2,
-        "strength_score": 1.231
+        "price": 7.27,
+        "touches": 1,
+        "strength_score": 0.955
       },
       {
         "price": 7.07,
         "touches": 1,
-        "strength_score": 0.922
+        "strength_score": 0.912
       },
       {
         "price": 11.3,
         "touches": 2,
-        "strength_score": 0.8
+        "strength_score": 0.791
       },
       {
         "price": 8.5,
         "touches": 1,
-        "strength_score": 0.524
+        "strength_score": 0.518
       },
       {
         "price": 10.03,
         "touches": 1,
-        "strength_score": 0.354
+        "strength_score": 0.349
       },
       {
         "price": 9.5,
         "touches": 1,
-        "strength_score": 0.315
+        "strength_score": 0.311
+      },
+      {
+        "price": 7.37,
+        "touches": 1,
+        "strength_score": 0.262
       }
     ],
     "trendline_clusters": [
       {
-        "price": 6.73,
-        "count": 3
+        "price": 6.65,
+        "count": 2
+      },
+      {
+        "price": 6.74,
+        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that LUMN is currently testing its Daily 50MA support zone near $6.43. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6.85 and a significant trendline confluence around $6.73 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that LUMN is currently testing its Daily 50MA support zone near $6.43. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $6.85 and a significant trendline confluence around $6.65 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-11",
-        "open": 7.900000095367432,
-        "high": 8.260000228881836,
-        "low": 7.800000190734863,
-        "close": 7.849999904632568
-      },
       {
         "time": "2026-02-12",
         "open": 7.960000038146973,
@@ -1124,13 +1126,16 @@
         "high": 7.039999961853027,
         "low": 6.599999904632568,
         "close": 6.670000076293945
+      },
+      {
+        "time": "2026-09-17",
+        "open": 6.920000076293945,
+        "high": 6.989999771118164,
+        "low": 6.440000057220459,
+        "close": 6.480000019073486
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-11",
-        "value": 8.202400026321412
-      },
       {
         "time": "2026-02-12",
         "value": 8.19660002708435
@@ -1726,13 +1731,13 @@
       {
         "time": "2026-09-16",
         "value": 6.4315999984741214
+      },
+      {
+        "time": "2026-09-17",
+        "value": 6.428800001144409
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-11",
-        "value": 6.770239081228054
-      },
       {
         "time": "2026-02-12",
         "value": 6.754852638019172
@@ -2328,6 +2333,10 @@
       {
         "time": "2026-09-16",
         "value": 5.610700834690886
+      },
+      {
+        "time": "2026-09-17",
+        "value": 5.640282893667482
       }
     ],
     "supportLine": 6.27

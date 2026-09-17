@@ -3,63 +3,56 @@
     "ticker": "ROKU",
     "name": "Roku, Inc.",
     "market": "NMS",
-    "price": 155.12,
-    "change": -1.5,
-    "changePercent": -0.96
+    "price": 154.08,
+    "change": -1.04,
+    "changePercent": -0.67
   },
   "score": {
-    "total": 53,
+    "total": 54,
     "stars": 2.5,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 150.63,
-    "maDistance_pct": 2.98,
-    "bb2Confluence_pct": 1.83,
-    "bb3Confluence_pct": 0.76,
+    "targetMA_price": 150.92,
+    "maDistance_pct": 2.09,
+    "bb2Confluence_pct": 1.42,
+    "bb3Confluence_pct": 0.29,
     "maKnock_count": 0,
-    "expectedRsi": 43.95
+    "expectedRsi": 44.27
   },
   "metrics": {
-    "maDistance": "+2.98%",
-    "bbConfluence": "1.83%",
+    "maDistance": "+2.09%",
+    "bbConfluence": "1.42%",
     "maKnock": "0 times recently",
-    "expectedRsi": "43.95"
+    "expectedRsi": "44.27"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 159.07,
         "touches": 4,
-        "strength_score": 3.523
+        "strength_score": 3.483
       }
     ],
     "trendline_clusters": [
       {
-        "price": 158.77,
+        "price": 159.01,
         "count": 4
       },
       {
-        "price": 157.46,
+        "price": 157.35,
         "count": 3
       },
       {
-        "price": 158.35,
-        "count": 3
+        "price": 158.28,
+        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ROKU is currently testing its Daily 50MA support zone near $150.63. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $159.07 and a significant trendline confluence around $158.77 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ROKU is currently testing its Daily 50MA support zone near $150.92. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $159.07 and a significant trendline confluence around $159.01 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-11",
-        "open": 91.08999633789062,
-        "high": 91.25,
-        "low": 86.62000274658203,
-        "close": 87.88999938964844
-      },
       {
         "time": "2026-02-12",
         "open": 87.55999755859375,
@@ -1099,16 +1092,19 @@
       {
         "time": "2026-09-16",
         "open": 156.64999389648438,
-        "high": 156.8000030517578,
+        "high": 156.8300018310547,
         "low": 154.49000549316406,
         "close": 155.1199951171875
+      },
+      {
+        "time": "2026-09-17",
+        "open": 155.99000549316406,
+        "high": 156.5800018310547,
+        "low": 153.99000549316406,
+        "close": 154.0800018310547
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-11",
-        "value": 103.68230026245118
-      },
       {
         "time": "2026-02-12",
         "value": 103.41050033569336
@@ -1704,13 +1700,13 @@
       {
         "time": "2026-09-16",
         "value": 150.62729888916016
+      },
+      {
+        "time": "2026-09-17",
+        "value": 150.92389892578126
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-11",
-        "value": 83.35117784418452
-      },
       {
         "time": "2026-02-12",
         "value": 81.33373265784633
@@ -2306,6 +2302,10 @@
       {
         "time": "2026-09-16",
         "value": 153.38370251259764
+      },
+      {
+        "time": "2026-09-17",
+        "value": 153.06581086538344
       }
     ],
     "supportLine": 151.23
