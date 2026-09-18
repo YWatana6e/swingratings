@@ -3,110 +3,63 @@
     "ticker": "SHOP",
     "name": "Shopify Inc.",
     "market": "NMS",
-    "price": 126.6,
-    "change": -0.19,
-    "changePercent": -0.15
+    "price": 128.5,
+    "change": -0.1,
+    "changePercent": -0.08
   },
   "score": {
-    "total": 61,
-    "stars": 3.0,
+    "total": 70,
+    "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 123.91,
-    "maDistance_pct": 2.17,
-    "bb2Confluence_pct": 4.3,
-    "bb3Confluence_pct": 2.46,
-    "maKnock_count": 1,
-    "expectedRsi": 35.58
+    "targetMA_price": 123.98,
+    "maDistance_pct": 3.64,
+    "bb2Confluence_pct": 3.26,
+    "bb3Confluence_pct": 11.3,
+    "maKnock_count": 0,
+    "expectedRsi": 37.39
   },
   "metrics": {
-    "maDistance": "+2.17%",
-    "bbConfluence": "4.30%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "35.58"
+    "maDistance": "+3.64%",
+    "bbConfluence": "3.26%",
+    "maKnock": "0 times recently",
+    "expectedRsi": "37.39"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 127.05,
-        "touches": 6,
-        "strength_score": 2.61
-      },
-      {
         "price": 149.43,
         "touches": 1,
-        "strength_score": 0.966
+        "strength_score": 0.901
       },
       {
         "price": 156.49,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.851
       },
       {
         "price": 158.87,
         "touches": 1,
-        "strength_score": 0.812
+        "strength_score": 0.758
       },
       {
         "price": 133.99,
         "touches": 1,
-        "strength_score": 0.699
+        "strength_score": 0.652
       },
       {
         "price": 137.3,
         "touches": 1,
-        "strength_score": 0.322
+        "strength_score": 0.301
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SHOP is currently testing its Daily 100MA support zone near $123.91. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $127.05. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SHOP is currently testing its Daily 100MA support zone near $123.98. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $149.43. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-05",
-        "open": 112.75,
-        "high": 115.72000122070312,
-        "low": 108.78700256347656,
-        "close": 111.23999786376953
-      },
-      {
-        "time": "2026-02-06",
-        "open": 112.05000305175781,
-        "high": 115.04000091552734,
-        "low": 109.77999877929688,
-        "close": 112.05000305175781
-      },
-      {
-        "time": "2026-02-09",
-        "open": 112.66500091552734,
-        "high": 120.08000183105469,
-        "low": 110.87999725341797,
-        "close": 118.4000015258789
-      },
-      {
-        "time": "2026-02-10",
-        "open": 122.69000244140625,
-        "high": 128.82400512695312,
-        "low": 122.69000244140625,
-        "close": 127.23999786376953
-      },
-      {
-        "time": "2026-02-11",
-        "open": 138.89999389648438,
-        "high": 139.10000610351562,
-        "low": 109.5999984741211,
-        "close": 118.70999908447266
-      },
-      {
-        "time": "2026-02-12",
-        "open": 120.69000244140625,
-        "high": 121.0,
-        "low": 104.91999816894531,
-        "close": 110.66000366210938
-      },
       {
         "time": "2026-02-13",
         "open": 110.20999908447266,
@@ -1114,33 +1067,51 @@
         "high": 128.99000549316406,
         "low": 124.02999877929688,
         "close": 126.5999984741211
+      },
+      {
+        "time": "2026-09-11",
+        "open": 130.75,
+        "high": 131.97000122070312,
+        "low": 128.38999938964844,
+        "close": 128.7899932861328
+      },
+      {
+        "time": "2026-09-14",
+        "open": 129.13999938964844,
+        "high": 134.74000549316406,
+        "low": 128.08999633789062,
+        "close": 133.88999938964844
+      },
+      {
+        "time": "2026-09-15",
+        "open": 132.3800048828125,
+        "high": 133.24000549316406,
+        "low": 129.63999938964844,
+        "close": 129.86000061035156
+      },
+      {
+        "time": "2026-09-16",
+        "open": 129.64999389648438,
+        "high": 132.68499755859375,
+        "low": 128.61000061035156,
+        "close": 129.9600067138672
+      },
+      {
+        "time": "2026-09-17",
+        "open": 130.25,
+        "high": 130.8000030517578,
+        "low": 127.63999938964844,
+        "close": 128.60000610351562
+      },
+      {
+        "time": "2026-09-18",
+        "open": 128.61000061035156,
+        "high": 129.39999389648438,
+        "low": 126.83000183105469,
+        "close": 128.5
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-05",
-        "value": 155.82339988708497
-      },
-      {
-        "time": "2026-02-06",
-        "value": 155.46499992370605
-      },
-      {
-        "time": "2026-02-09",
-        "value": 155.17689987182618
-      },
-      {
-        "time": "2026-02-10",
-        "value": 154.97059989929198
-      },
-      {
-        "time": "2026-02-11",
-        "value": 154.63659988403322
-      },
-      {
-        "time": "2026-02-12",
-        "value": 154.21019989013672
-      },
       {
         "time": "2026-02-13",
         "value": 153.76599990844727
@@ -1716,33 +1687,33 @@
       {
         "time": "2026-09-10",
         "value": 123.91270027160644
+      },
+      {
+        "time": "2026-09-11",
+        "value": 123.84920021057128
+      },
+      {
+        "time": "2026-09-14",
+        "value": 123.87680015563964
+      },
+      {
+        "time": "2026-09-15",
+        "value": 123.85580009460449
+      },
+      {
+        "time": "2026-09-16",
+        "value": 123.91310012817382
+      },
+      {
+        "time": "2026-09-17",
+        "value": 123.94080017089844
+      },
+      {
+        "time": "2026-09-18",
+        "value": 123.9835001373291
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-05",
-        "value": 109.19671998303076
-      },
-      {
-        "time": "2026-02-06",
-        "value": 105.87607872545006
-      },
-      {
-        "time": "2026-02-09",
-        "value": 104.18937305035843
-      },
-      {
-        "time": "2026-02-10",
-        "value": 104.81023887376085
-      },
-      {
-        "time": "2026-02-11",
-        "value": 105.09683349095343
-      },
-      {
-        "time": "2026-02-12",
-        "value": 103.32848275346466
-      },
       {
         "time": "2026-02-13",
         "value": 102.8398983235222
@@ -2318,6 +2289,30 @@
       {
         "time": "2026-09-10",
         "value": 129.2407431611567
+      },
+      {
+        "time": "2026-09-11",
+        "value": 127.19935704528376
+      },
+      {
+        "time": "2026-09-14",
+        "value": 126.20438334048873
+      },
+      {
+        "time": "2026-09-15",
+        "value": 124.46611973692472
+      },
+      {
+        "time": "2026-09-16",
+        "value": 122.93926484490888
+      },
+      {
+        "time": "2026-09-17",
+        "value": 121.3495661738424
+      },
+      {
+        "time": "2026-09-18",
+        "value": 119.94042346515317
       }
     ],
     "supportLine": 115.22

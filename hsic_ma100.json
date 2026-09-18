@@ -3,77 +3,70 @@
     "ticker": "HSIC",
     "name": "Henry Schein, Inc.",
     "market": "NMS",
-    "price": 85.04,
-    "change": -1.73,
-    "changePercent": -1.99
+    "price": 84.84,
+    "change": -0.2,
+    "changePercent": -0.24
   },
   "score": {
-    "total": 36,
+    "total": 40,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 22%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 82.58,
-    "maDistance_pct": 2.98,
-    "bb2Confluence_pct": 4.19,
-    "bb3Confluence_pct": 2.51,
+    "targetMA_price": 82.66,
+    "maDistance_pct": 2.64,
+    "bb2Confluence_pct": 3.28,
+    "bb3Confluence_pct": 1.29,
     "maKnock_count": 0,
-    "expectedRsi": 31.26
+    "expectedRsi": 31.17
   },
   "metrics": {
-    "maDistance": "+2.98%",
-    "bbConfluence": "4.19%",
+    "maDistance": "+2.64%",
+    "bbConfluence": "3.28%",
     "maKnock": "0 times recently",
-    "expectedRsi": "31.26"
+    "expectedRsi": "31.17"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 91.62,
         "touches": 5,
-        "strength_score": 4.002
+        "strength_score": 3.956
       },
       {
         "price": 89.23,
         "touches": 2,
-        "strength_score": 1.567
+        "strength_score": 1.549
       },
       {
         "price": 87.72,
         "touches": 1,
-        "strength_score": 0.555
+        "strength_score": 0.548
       }
     ],
     "trendline_clusters": [
       {
-        "price": 88.66,
+        "price": 88.54,
         "count": 4
       },
       {
-        "price": 89.63,
+        "price": 91.45,
         "count": 3
       },
       {
-        "price": 91.47,
-        "count": 3
+        "price": 89.6,
+        "count": 2
       },
       {
-        "price": 90.69,
+        "price": 90.65,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that HSIC is currently testing its Daily 100MA support zone near $82.58. Based on historical price action, bounces from this level have yielded a win rate of 22.2%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $91.62 and a significant trendline confluence around $88.66 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that HSIC is currently testing its Daily 100MA support zone near $82.66. Based on historical price action, bounces from this level have yielded a win rate of 22.2%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $91.62 and a significant trendline confluence around $88.54 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-12",
-        "open": 81.77999877929688,
-        "high": 82.80000305175781,
-        "low": 78.11000061035156,
-        "close": 78.43000030517578
-      },
       {
         "time": "2026-02-13",
         "open": 78.23999786376953,
@@ -1116,13 +1109,16 @@
         "high": 87.0999984741211,
         "low": 84.1500015258789,
         "close": 85.04000091552734
+      },
+      {
+        "time": "2026-09-18",
+        "open": 84.83999633789062,
+        "high": 85.95999908447266,
+        "low": 84.45500183105469,
+        "close": 84.83999633789062
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-12",
-        "value": 72.20640003204346
-      },
       {
         "time": "2026-02-13",
         "value": 72.30910007476807
@@ -1718,13 +1714,13 @@
       {
         "time": "2026-09-17",
         "value": 82.58189987182617
+      },
+      {
+        "time": "2026-09-18",
+        "value": 82.65829986572265
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-12",
-        "value": 73.06788801107916
-      },
       {
         "time": "2026-02-13",
         "value": 73.07065235016132
@@ -2320,8 +2316,12 @@
       {
         "time": "2026-09-17",
         "value": 86.04487391771175
+      },
+      {
+        "time": "2026-09-18",
+        "value": 85.3659089361077
       }
     ],
-    "supportLine": 87.59
+    "supportLine": 83.31
   }
 }
