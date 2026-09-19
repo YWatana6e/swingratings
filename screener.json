@@ -13,19 +13,6 @@
     "expected_rsi": 39.13
   },
   {
-    "ticker": "FOX",
-    "name": "Fox Corporation",
-    "price": 57.74,
-    "changePercent": -1.18,
-    "score": 71,
-    "stars": 3.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.11,
-    "bb_confluence": 1.39,
-    "expected_rsi": 43.15
-  },
-  {
     "ticker": "SHOP",
     "name": "Shopify Inc.",
     "price": 128.5,
@@ -115,6 +102,19 @@
     "ma_distance": 1.64,
     "bb_confluence": 1.01,
     "expected_rsi": 42.65
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation",
+    "price": 57.74,
+    "changePercent": -1.18,
+    "score": 64,
+    "stars": 3.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.11,
+    "bb_confluence": 1.39,
+    "expected_rsi": 43.15
   },
   {
     "ticker": "LYB",
@@ -323,6 +323,19 @@
     "ma_distance": 2.47,
     "bb_confluence": 1.04,
     "expected_rsi": 44.89
+  },
+  {
+    "ticker": "NOV",
+    "name": "NOV Inc.",
+    "price": 20.07,
+    "changePercent": -2.24,
+    "score": 52,
+    "stars": 2.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.33,
+    "bb_confluence": 1.55,
+    "expected_rsi": 43.64
   },
   {
     "ticker": "AFL",
@@ -702,6 +715,19 @@
     "expected_rsi": 34.38
   },
   {
+    "ticker": "NWS",
+    "name": "News Corporation",
+    "price": 32.68,
+    "changePercent": -2.07,
+    "score": 32,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.29,
+    "bb_confluence": 3.25,
+    "expected_rsi": 35.78
+  },
+  {
     "ticker": "PM",
     "name": "Philip Morris International Inc",
     "price": 188.62,
@@ -752,6 +778,19 @@
     "ma_distance": 2.6,
     "bb_confluence": 1.22,
     "expected_rsi": 31.69
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corporation",
+    "price": 29.78,
+    "changePercent": -1.33,
+    "score": 28,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.5,
+    "bb_confluence": 1.0,
+    "expected_rsi": 44.64
   },
   {
     "ticker": "BR",
@@ -832,19 +871,6 @@
     "expected_rsi": 46.81
   },
   {
-    "ticker": "MO",
-    "name": "Altria Group, Inc.",
-    "price": 69.52,
-    "changePercent": -0.26,
-    "score": 17,
-    "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.81,
-    "bb_confluence": 4.96,
-    "expected_rsi": 57.25
-  },
-  {
     "ticker": "KDP",
     "name": "Keurig Dr Pepper Inc.",
     "price": 30.96,
@@ -856,6 +882,19 @@
     "ma_distance": 0.85,
     "bb_confluence": 0.95,
     "expected_rsi": 43.52
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria Group, Inc.",
+    "price": 69.52,
+    "changePercent": -0.26,
+    "score": 17,
+    "stars": 1.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.81,
+    "bb_confluence": 4.96,
+    "expected_rsi": 57.25
   },
   {
     "ticker": "V",
@@ -901,7 +940,7 @@
     "name": "Altria Group, Inc.",
     "price": 69.52,
     "changePercent": -0.26,
-    "score": 9,
+    "score": 6,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
