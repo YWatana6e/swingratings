@@ -13,6 +13,19 @@
     "expected_rsi": 39.13
   },
   {
+    "ticker": "FOX",
+    "name": "Fox Corporation",
+    "price": 57.74,
+    "changePercent": -1.18,
+    "score": 71,
+    "stars": 3.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.11,
+    "bb_confluence": 1.39,
+    "expected_rsi": 43.15
+  },
+  {
     "ticker": "SHOP",
     "name": "Shopify Inc.",
     "price": 128.5,
@@ -102,19 +115,6 @@
     "ma_distance": 1.64,
     "bb_confluence": 1.01,
     "expected_rsi": 42.65
-  },
-  {
-    "ticker": "FOX",
-    "name": "Fox Corporation",
-    "price": 57.74,
-    "changePercent": -1.18,
-    "score": 64,
-    "stars": 3.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.11,
-    "bb_confluence": 1.39,
-    "expected_rsi": 43.15
   },
   {
     "ticker": "LYB",
@@ -871,19 +871,6 @@
     "expected_rsi": 46.81
   },
   {
-    "ticker": "KDP",
-    "name": "Keurig Dr Pepper Inc.",
-    "price": 30.96,
-    "changePercent": -1.5,
-    "score": 17,
-    "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.85,
-    "bb_confluence": 0.95,
-    "expected_rsi": 43.52
-  },
-  {
     "ticker": "MO",
     "name": "Altria Group, Inc.",
     "price": 69.52,
@@ -895,6 +882,19 @@
     "ma_distance": 0.81,
     "bb_confluence": 4.96,
     "expected_rsi": 57.25
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "price": 30.96,
+    "changePercent": -1.5,
+    "score": 17,
+    "stars": 1.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.85,
+    "bb_confluence": 0.95,
+    "expected_rsi": 43.52
   },
   {
     "ticker": "V",
@@ -940,7 +940,7 @@
     "name": "Altria Group, Inc.",
     "price": 69.52,
     "changePercent": -0.26,
-    "score": 6,
+    "score": 9,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
