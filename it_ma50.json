@@ -3,116 +3,53 @@
     "ticker": "IT",
     "name": "Gartner, Inc.",
     "market": "NYQ",
-    "price": 169.69,
-    "change": -2.9,
-    "changePercent": -1.68
+    "price": 178.75,
+    "change": -4.57,
+    "changePercent": -2.49
   },
   "score": {
-    "total": 23,
+    "total": 21,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 43%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 165.4,
-    "maDistance_pct": 2.59,
-    "bb2Confluence_pct": 3.28,
-    "bb3Confluence_pct": 2.11,
+    "targetMA_price": 174.45,
+    "maDistance_pct": 2.46,
+    "bb2Confluence_pct": 2.82,
+    "bb3Confluence_pct": 8.02,
     "maKnock_count": 0,
-    "expectedRsi": 40.21
+    "expectedRsi": 44.55
   },
   "metrics": {
-    "maDistance": "+2.59%",
-    "bbConfluence": "3.28%",
+    "maDistance": "+2.46%",
+    "bbConfluence": "2.82%",
     "maKnock": "0 times recently",
-    "expectedRsi": "40.21"
+    "expectedRsi": "44.55"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 203.03,
-        "touches": 1,
-        "strength_score": 0.881
+        "price": 203.0,
+        "touches": 2,
+        "strength_score": 1.738
       },
       {
         "price": 194.53,
         "touches": 1,
-        "strength_score": 0.776
+        "strength_score": 0.699
       },
       {
         "price": 180.45,
         "touches": 1,
-        "strength_score": 0.451
+        "strength_score": 0.406
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that IT is currently testing its Daily 50MA support zone near $165.4. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $203.03. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IT is currently testing its Daily 50MA support zone near $174.45. Based on historical price action, bounces from this level have yielded a win rate of 42.9%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $203.00. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-04",
-        "open": 157.17999267578125,
-        "high": 161.6199951171875,
-        "low": 149.0,
-        "close": 157.8300018310547
-      },
-      {
-        "time": "2026-02-05",
-        "open": 155.2100067138672,
-        "high": 157.61000061035156,
-        "low": 150.27000427246094,
-        "close": 152.02999877929688
-      },
-      {
-        "time": "2026-02-06",
-        "open": 151.85000610351562,
-        "high": 158.24000549316406,
-        "low": 151.85000610351562,
-        "close": 156.3300018310547
-      },
-      {
-        "time": "2026-02-09",
-        "open": 155.61000061035156,
-        "high": 161.1999969482422,
-        "low": 155.1199951171875,
-        "close": 159.75
-      },
-      {
-        "time": "2026-02-10",
-        "open": 159.75,
-        "high": 164.47000122070312,
-        "low": 157.0,
-        "close": 159.88999938964844
-      },
-      {
-        "time": "2026-02-11",
-        "open": 159.08999633789062,
-        "high": 161.63999938964844,
-        "low": 156.3300018310547,
-        "close": 161.52999877929688
-      },
-      {
-        "time": "2026-02-12",
-        "open": 162.1999969482422,
-        "high": 163.25,
-        "low": 152.6300048828125,
-        "close": 153.6300048828125
-      },
-      {
-        "time": "2026-02-13",
-        "open": 154.44000244140625,
-        "high": 158.83999633789062,
-        "low": 153.4600067138672,
-        "close": 158.5800018310547
-      },
-      {
-        "time": "2026-02-17",
-        "open": 156.0,
-        "high": 159.52999877929688,
-        "low": 151.0,
-        "close": 156.3000030517578
-      },
       {
         "time": "2026-02-18",
         "open": 158.17999267578125,
@@ -1096,48 +1033,75 @@
       {
         "time": "2026-09-09",
         "open": 172.6999969482422,
-        "high": 172.28500366210938,
+        "high": 172.6999969482422,
         "low": 166.00999450683594,
         "close": 169.69000244140625
+      },
+      {
+        "time": "2026-09-10",
+        "open": 171.07000732421875,
+        "high": 172.4199981689453,
+        "low": 169.0800018310547,
+        "close": 170.6199951171875
+      },
+      {
+        "time": "2026-09-11",
+        "open": 171.24000549316406,
+        "high": 179.6300048828125,
+        "low": 170.7100067138672,
+        "close": 179.58999633789062
+      },
+      {
+        "time": "2026-09-14",
+        "open": 186.08999633789062,
+        "high": 197.63999938964844,
+        "low": 184.8800048828125,
+        "close": 197.07000732421875
+      },
+      {
+        "time": "2026-09-15",
+        "open": 192.4499969482422,
+        "high": 202.97999572753906,
+        "low": 191.25999450683594,
+        "close": 195.6199951171875
+      },
+      {
+        "time": "2026-09-16",
+        "open": 192.7100067138672,
+        "high": 195.83999633789062,
+        "low": 190.0399932861328,
+        "close": 191.57000732421875
+      },
+      {
+        "time": "2026-09-17",
+        "open": 191.61000061035156,
+        "high": 193.00999450683594,
+        "low": 187.61000061035156,
+        "close": 187.8000030517578
+      },
+      {
+        "time": "2026-09-18",
+        "open": 188.32000732421875,
+        "high": 189.38999938964844,
+        "low": 183.4199981689453,
+        "close": 185.77999877929688
+      },
+      {
+        "time": "2026-09-21",
+        "open": 188.5800018310547,
+        "high": 192.91000366210938,
+        "low": 183.22999572753906,
+        "close": 183.32000732421875
+      },
+      {
+        "time": "2026-09-22",
+        "open": 186.5,
+        "high": 186.27999877929688,
+        "low": 178.1750030517578,
+        "close": 178.75
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-04",
-        "value": 233.6366000366211
-      },
-      {
-        "time": "2026-02-05",
-        "value": 231.9936001586914
-      },
-      {
-        "time": "2026-02-06",
-        "value": 230.51540008544922
-      },
-      {
-        "time": "2026-02-09",
-        "value": 229.00279998779297
-      },
-      {
-        "time": "2026-02-10",
-        "value": 227.57559997558593
-      },
-      {
-        "time": "2026-02-11",
-        "value": 226.1513998413086
-      },
-      {
-        "time": "2026-02-12",
-        "value": 224.6083999633789
-      },
-      {
-        "time": "2026-02-13",
-        "value": 223.20760009765624
-      },
-      {
-        "time": "2026-02-17",
-        "value": 221.69540008544922
-      },
       {
         "time": "2026-02-18",
         "value": 220.27839996337892
@@ -1701,45 +1665,45 @@
       {
         "time": "2026-09-09",
         "value": 165.39820037841798
+      },
+      {
+        "time": "2026-09-10",
+        "value": 166.21820037841798
+      },
+      {
+        "time": "2026-09-11",
+        "value": 167.13480041503905
+      },
+      {
+        "time": "2026-09-14",
+        "value": 168.34980041503906
+      },
+      {
+        "time": "2026-09-15",
+        "value": 169.56000030517578
+      },
+      {
+        "time": "2026-09-16",
+        "value": 170.575400390625
+      },
+      {
+        "time": "2026-09-17",
+        "value": 171.63780059814454
+      },
+      {
+        "time": "2026-09-18",
+        "value": 172.69960052490234
+      },
+      {
+        "time": "2026-09-21",
+        "value": 173.70120056152345
+      },
+      {
+        "time": "2026-09-22",
+        "value": 174.45000061035157
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-04",
-        "value": 174.67711491233837
-      },
-      {
-        "time": "2026-02-05",
-        "value": 161.99447311482663
-      },
-      {
-        "time": "2026-02-06",
-        "value": 152.7852257299393
-      },
-      {
-        "time": "2026-02-09",
-        "value": 145.95385190017117
-      },
-      {
-        "time": "2026-02-10",
-        "value": 140.02202236085185
-      },
-      {
-        "time": "2026-02-11",
-        "value": 135.0437496988792
-      },
-      {
-        "time": "2026-02-12",
-        "value": 129.75374091484747
-      },
-      {
-        "time": "2026-02-13",
-        "value": 125.75478040703018
-      },
-      {
-        "time": "2026-02-17",
-        "value": 122.18829519500592
-      },
       {
         "time": "2026-02-18",
         "value": 119.53614289761407
@@ -2303,8 +2267,44 @@
       {
         "time": "2026-09-09",
         "value": 170.8217788601591
+      },
+      {
+        "time": "2026-09-10",
+        "value": 169.0981051574629
+      },
+      {
+        "time": "2026-09-11",
+        "value": 168.65536821819865
+      },
+      {
+        "time": "2026-09-14",
+        "value": 169.34591702476206
+      },
+      {
+        "time": "2026-09-15",
+        "value": 170.4780422006003
+      },
+      {
+        "time": "2026-09-16",
+        "value": 171.25881326444585
+      },
+      {
+        "time": "2026-09-17",
+        "value": 171.02477776117752
+      },
+      {
+        "time": "2026-09-18",
+        "value": 170.63493573934264
+      },
+      {
+        "time": "2026-09-21",
+        "value": 170.0666097190385
+      },
+      {
+        "time": "2026-09-22",
+        "value": 169.5226357020488
       }
     ],
-    "supportLine": 143.55
+    "supportLine": 128.83
   }
 }
