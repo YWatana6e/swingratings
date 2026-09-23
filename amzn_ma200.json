@@ -3,103 +3,73 @@
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
     "market": "NMS",
-    "price": 245.96,
-    "change": -2.46,
-    "changePercent": -0.99
+    "price": 249.27,
+    "change": -5.71,
+    "changePercent": -2.24
   },
   "score": {
-    "total": 70,
+    "total": 68,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 75%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 240.11,
-    "maDistance_pct": 2.44,
-    "bb2Confluence_pct": 2.91,
-    "bb3Confluence_pct": 0.81,
+    "targetMA_price": 240.63,
+    "maDistance_pct": 3.59,
+    "bb2Confluence_pct": 2.23,
+    "bb3Confluence_pct": 0.32,
     "maKnock_count": 0,
-    "expectedRsi": 36.42
+    "expectedRsi": 38.88
   },
   "metrics": {
-    "maDistance": "+2.44%",
-    "bbConfluence": "2.91%",
+    "maDistance": "+3.59%",
+    "bbConfluence": "2.23%",
     "maKnock": "0 times recently",
-    "expectedRsi": "36.42"
+    "expectedRsi": "38.88"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 258.46,
-        "touches": 3,
-        "strength_score": 1.832
+        "price": 258.72,
+        "touches": 4,
+        "strength_score": 2.706
       },
       {
         "price": 266.98,
         "touches": 2,
-        "strength_score": 1.673
+        "strength_score": 1.58
       },
       {
         "price": 249.61,
         "touches": 2,
-        "strength_score": 1.013
+        "strength_score": 0.956
       },
       {
         "price": 287.2,
         "touches": 1,
-        "strength_score": 0.699
+        "strength_score": 0.66
       },
       {
         "price": 274.75,
         "touches": 1,
-        "strength_score": 0.42
+        "strength_score": 0.397
       },
       {
         "price": 278.56,
         "touches": 1,
-        "strength_score": 0.345
+        "strength_score": 0.326
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 258.5,
+        "count": 2
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 200MA support zone near $240.11. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $258.46. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that AMZN is currently testing its Daily 200MA support zone near $240.63. Based on historical price action, bounces from this level have yielded a win rate of 75.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $258.72 and a significant trendline confluence around $258.50 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-11",
-        "open": 208.05999755859375,
-        "high": 208.57000732421875,
-        "low": 202.49000549316406,
-        "close": 204.0800018310547
-      },
-      {
-        "time": "2026-02-12",
-        "open": 203.9600067138672,
-        "high": 203.9600067138672,
-        "low": 197.55999755859375,
-        "close": 199.60000610351562
-      },
-      {
-        "time": "2026-02-13",
-        "open": 198.8800048828125,
-        "high": 201.16000366210938,
-        "low": 197.27999877929688,
-        "close": 198.7899932861328
-      },
-      {
-        "time": "2026-02-17",
-        "open": 198.1300048828125,
-        "high": 201.74000549316406,
-        "low": 196.0,
-        "close": 201.14999389648438
-      },
-      {
-        "time": "2026-02-18",
-        "open": 202.07000732421875,
-        "high": 206.86000061035156,
-        "low": 201.50999450683594,
-        "close": 204.7899932861328
-      },
       {
         "time": "2026-02-19",
         "open": 203.8000030517578,
@@ -1110,33 +1080,48 @@
       },
       {
         "time": "2026-09-16",
-        "open": 248.1999969482422,
+        "open": 248.10000610351562,
         "high": 249.25999450683594,
         "low": 244.3000030517578,
         "close": 245.9600067138672
+      },
+      {
+        "time": "2026-09-17",
+        "open": 251.07000732421875,
+        "high": 252.72999572753906,
+        "low": 249.24000549316406,
+        "close": 251.19000244140625
+      },
+      {
+        "time": "2026-09-18",
+        "open": 252.9199981689453,
+        "high": 255.42999267578125,
+        "low": 251.8800048828125,
+        "close": 253.7100067138672
+      },
+      {
+        "time": "2026-09-21",
+        "open": 256.3999938964844,
+        "high": 259.489990234375,
+        "low": 253.60000610351562,
+        "close": 258.45001220703125
+      },
+      {
+        "time": "2026-09-22",
+        "open": 255.11000061035156,
+        "high": 259.0,
+        "low": 253.77999877929688,
+        "close": 254.97999572753906
+      },
+      {
+        "time": "2026-09-23",
+        "open": 253.3300018310547,
+        "high": 253.80999755859375,
+        "low": 247.75999450683594,
+        "close": 249.27000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-11",
-        "value": 223.5055502319336
-      },
-      {
-        "time": "2026-02-12",
-        "value": 223.56505027770996
-      },
-      {
-        "time": "2026-02-13",
-        "value": 223.6220502471924
-      },
-      {
-        "time": "2026-02-17",
-        "value": 223.70570022583007
-      },
-      {
-        "time": "2026-02-18",
-        "value": 223.77865020751952
-      },
       {
         "time": "2026-02-19",
         "value": 223.8530502319336
@@ -1716,29 +1701,29 @@
       {
         "time": "2026-09-16",
         "value": 240.1117498779297
+      },
+      {
+        "time": "2026-09-17",
+        "value": 240.20159988403321
+      },
+      {
+        "time": "2026-09-18",
+        "value": 240.30074989318848
+      },
+      {
+        "time": "2026-09-21",
+        "value": 240.4208999633789
+      },
+      {
+        "time": "2026-09-22",
+        "value": 240.53389991760253
+      },
+      {
+        "time": "2026-09-23",
+        "value": 240.6346999359131
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-11",
-        "value": 205.530881184404
-      },
-      {
-        "time": "2026-02-12",
-        "value": 200.38119631647714
-      },
-      {
-        "time": "2026-02-13",
-        "value": 195.83742335146817
-      },
-      {
-        "time": "2026-02-17",
-        "value": 192.45611115553868
-      },
-      {
-        "time": "2026-02-18",
-        "value": 190.06195756254738
-      },
       {
         "time": "2026-02-19",
         "value": 187.9069806787307
@@ -2318,6 +2303,26 @@
       {
         "time": "2026-09-16",
         "value": 247.0967705407996
+      },
+      {
+        "time": "2026-09-17",
+        "value": 246.86922231324115
+      },
+      {
+        "time": "2026-09-18",
+        "value": 246.63191423181686
+      },
+      {
+        "time": "2026-09-21",
+        "value": 246.6320535497507
+      },
+      {
+        "time": "2026-09-22",
+        "value": 246.6707673372461
+      },
+      {
+        "time": "2026-09-23",
+        "value": 246.00122104474008
       }
     ],
     "supportLine": 255.08

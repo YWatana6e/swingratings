@@ -3,9 +3,9 @@
     "ticker": "IT",
     "name": "Gartner, Inc.",
     "market": "NYQ",
-    "price": 178.75,
-    "change": -4.57,
-    "changePercent": -2.49
+    "price": 178.52,
+    "change": -4.8,
+    "changePercent": -2.62
   },
   "score": {
     "total": 21,
@@ -15,17 +15,17 @@
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
     "targetMA_price": 174.45,
-    "maDistance_pct": 2.46,
-    "bb2Confluence_pct": 2.82,
-    "bb3Confluence_pct": 8.02,
+    "maDistance_pct": 2.34,
+    "bb2Confluence_pct": 2.84,
+    "bb3Confluence_pct": 8.04,
     "maKnock_count": 0,
-    "expectedRsi": 44.55
+    "expectedRsi": 44.56
   },
   "metrics": {
-    "maDistance": "+2.46%",
-    "bbConfluence": "2.82%",
+    "maDistance": "+2.34%",
+    "bbConfluence": "2.84%",
     "maKnock": "0 times recently",
-    "expectedRsi": "44.55"
+    "expectedRsi": "44.56"
   },
   "resistances": {
     "horizontal": [
@@ -1094,11 +1094,11 @@
         "close": 183.32000732421875
       },
       {
-        "time": "2026-09-22",
-        "open": 186.5,
-        "high": 186.27999877929688,
-        "low": 178.1750030517578,
-        "close": 178.75
+        "time": "2026-09-23",
+        "open": 178.0,
+        "high": 181.69000244140625,
+        "low": 176.72500610351562,
+        "close": 178.52000427246094
       }
     ],
     "ma_target": [
@@ -1699,8 +1699,8 @@
         "value": 173.70120056152345
       },
       {
-        "time": "2026-09-22",
-        "value": 174.45000061035157
+        "time": "2026-09-23",
+        "value": 174.44540069580077
       }
     ],
     "bbLower": [
@@ -2301,8 +2301,8 @@
         "value": 170.0666097190385
       },
       {
-        "time": "2026-09-22",
-        "value": 169.5226357020488
+        "time": "2026-09-23",
+        "value": 169.48830099387052
       }
     ],
     "supportLine": 128.83
