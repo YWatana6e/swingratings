@@ -3,65 +3,53 @@
     "ticker": "EPAM",
     "name": "EPAM Systems, Inc.",
     "market": "NYQ",
-    "price": 110.06,
+    "price": 106.99,
     "change": -3.07,
-    "changePercent": -2.71
+    "changePercent": -2.79
   },
   "score": {
-    "total": 51,
+    "total": 52,
     "stars": 2.5,
     "note": "/ 100 (Win Rate: 71%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 105.41,
-    "maDistance_pct": 4.41,
-    "bb2Confluence_pct": 3.02,
-    "bb3Confluence_pct": 0.44,
+    "targetMA_price": 105.86,
+    "maDistance_pct": 1.06,
+    "bb2Confluence_pct": 1.6,
+    "bb3Confluence_pct": 2.23,
     "maKnock_count": 0,
-    "expectedRsi": 41.15
+    "expectedRsi": 41.76
   },
   "metrics": {
-    "maDistance": "+4.41%",
-    "bbConfluence": "3.02%",
+    "maDistance": "+1.06%",
+    "bbConfluence": "1.60%",
     "maKnock": "0 times recently",
-    "expectedRsi": "41.15"
+    "expectedRsi": "41.76"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 112.28,
         "touches": 3,
-        "strength_score": 1.874
+        "strength_score": 1.852
       },
       {
         "price": 121.53,
         "touches": 1,
-        "strength_score": 0.871
+        "strength_score": 0.861
       },
       {
         "price": 135.0,
         "touches": 1,
-        "strength_score": 0.294
-      },
-      {
-        "price": 141.28,
-        "touches": 1,
-        "strength_score": 0.256
+        "strength_score": 0.291
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that EPAM is currently testing its Daily 50MA support zone near $105.41. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $112.28. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that EPAM is currently testing its Daily 50MA support zone near $105.86. Based on historical price action, bounces from this level have yielded a win rate of 71.4%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $112.28. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-18",
-        "open": 164.4499969482422,
-        "high": 170.4600067138672,
-        "low": 161.86000061035156,
-        "close": 167.69000244140625
-      },
       {
         "time": "2026-02-19",
         "open": 131.8000030517578,
@@ -1101,16 +1089,19 @@
       {
         "time": "2026-09-23",
         "open": 111.6500015258789,
-        "high": 113.97989654541016,
+        "high": 113.9800033569336,
         "low": 109.66999816894531,
         "close": 110.05999755859375
+      },
+      {
+        "time": "2026-09-24",
+        "open": 110.69999694824219,
+        "high": 112.06500244140625,
+        "low": 105.58000183105469,
+        "close": 106.98999786376953
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-18",
-        "value": 203.81480072021483
-      },
       {
         "time": "2026-02-19",
         "value": 202.52600067138673
@@ -1706,13 +1697,13 @@
       {
         "time": "2026-09-23",
         "value": 105.41400009155274
+      },
+      {
+        "time": "2026-09-24",
+        "value": 105.86380004882812
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-18",
-        "value": 153.43284593401387
-      },
       {
         "time": "2026-02-19",
         "value": 144.1897685025699
@@ -2308,6 +2299,10 @@
       {
         "time": "2026-09-23",
         "value": 108.6027053829275
+      },
+      {
+        "time": "2026-09-24",
+        "value": 107.55683815147891
       }
     ],
     "supportLine": 111.24

@@ -3,59 +3,57 @@
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "market": "NMS",
-    "price": 124.64,
-    "change": -0.01,
-    "changePercent": -0.01
+    "price": 124.44,
+    "change": -0.2,
+    "changePercent": -0.16
   },
   "score": {
-    "total": 34,
+    "total": 33,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 87%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 122.67,
-    "maDistance_pct": 1.6,
-    "bb2Confluence_pct": 1.6,
-    "bb3Confluence_pct": 3.5,
+    "targetMA_price": 122.86,
+    "maDistance_pct": 1.28,
+    "bb2Confluence_pct": 1.61,
+    "bb3Confluence_pct": 3.34,
     "maKnock_count": 2,
-    "expectedRsi": 48.8
+    "expectedRsi": 49.11
   },
   "metrics": {
-    "maDistance": "+1.60%",
-    "bbConfluence": "1.60%",
+    "maDistance": "+1.28%",
+    "bbConfluence": "1.61%",
     "maKnock": "2 times recently",
-    "expectedRsi": "48.8"
+    "expectedRsi": "49.11"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 130.53,
         "touches": 4,
-        "strength_score": 3.288
+        "strength_score": 3.25
+      },
+      {
+        "price": 124.57,
+        "touches": 1,
+        "strength_score": 0.675
       }
     ],
     "trendline_clusters": [
       {
-        "price": 129.49,
+        "price": 129.74,
         "count": 5
       },
       {
-        "price": 128.39,
+        "price": 128.28,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $122.67. Based on historical price action, bounces from this level have yielded a win rate of 86.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $130.53 and a significant trendline confluence around $129.49 (formed by 5 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $122.86. Based on historical price action, bounces from this level have yielded a win rate of 86.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $130.53 and a significant trendline confluence around $129.74 (formed by 5 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-18",
-        "open": 100.7699966430664,
-        "high": 103.69000244140625,
-        "low": 100.6500015258789,
-        "close": 102.98999786376953
-      },
       {
         "time": "2026-02-19",
         "open": 102.12999725341797,
@@ -1095,16 +1093,19 @@
       {
         "time": "2026-09-23",
         "open": 127.51000213623047,
-        "high": 128.1699981689453,
+        "high": 128.2100067138672,
         "low": 123.88999938964844,
         "close": 124.63999938964844
+      },
+      {
+        "time": "2026-09-24",
+        "open": 124.79000091552734,
+        "high": 125.54889678955078,
+        "low": 123.02999877929688,
+        "close": 124.44000244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-18",
-        "value": 101.75739990234375
-      },
       {
         "time": "2026-02-19",
         "value": 101.7416000366211
@@ -1700,13 +1701,13 @@
       {
         "time": "2026-09-23",
         "value": 122.6715998840332
+      },
+      {
+        "time": "2026-09-24",
+        "value": 122.86279998779297
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-18",
-        "value": 97.49979902398084
-      },
       {
         "time": "2026-02-19",
         "value": 97.43532143079027
@@ -2302,6 +2303,10 @@
       {
         "time": "2026-09-23",
         "value": 120.71429724530829
+      },
+      {
+        "time": "2026-09-24",
+        "value": 120.88134406563077
       }
     ],
     "supportLine": 115.95

@@ -3,65 +3,58 @@
     "ticker": "MNST",
     "name": "Monster Beverage Corporation",
     "market": "NMS",
-    "price": 43.91,
-    "change": -0.09,
-    "changePercent": -0.2
+    "price": 42.67,
+    "change": -1.24,
+    "changePercent": -2.82
   },
   "score": {
-    "total": 78,
+    "total": 81,
     "stars": 4.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 42.17,
-    "maDistance_pct": 4.13,
-    "bb2Confluence_pct": 1.12,
-    "bb3Confluence_pct": 4.82,
+    "targetMA_price": 42.2,
+    "maDistance_pct": 1.11,
+    "bb2Confluence_pct": 0.89,
+    "bb3Confluence_pct": 4.07,
     "maKnock_count": 0,
-    "expectedRsi": 32.49
+    "expectedRsi": 32.96
   },
   "metrics": {
-    "maDistance": "+4.13%",
-    "bbConfluence": "1.12%",
+    "maDistance": "+1.11%",
+    "bbConfluence": "0.89%",
     "maKnock": "0 times recently",
-    "expectedRsi": "32.49"
+    "expectedRsi": "32.96"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 49.66,
         "touches": 4,
-        "strength_score": 2.571
+        "strength_score": 2.542
       },
       {
         "price": 45.08,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 44.36,
         "touches": 2,
-        "strength_score": 0.708
+        "strength_score": 0.699
       },
       {
         "price": 46.96,
         "touches": 1,
-        "strength_score": 0.461
+        "strength_score": 0.456
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 200MA support zone near $42.17. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $49.66. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 200MA support zone near $42.2. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $49.66. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-18",
-        "open": 41.404998779296875,
-        "high": 41.95500183105469,
-        "low": 41.18000030517578,
-        "close": 41.59000015258789
-      },
       {
         "time": "2026-02-19",
         "open": 41.34000015258789,
@@ -1102,15 +1095,18 @@
         "time": "2026-09-23",
         "open": 44.15999984741211,
         "high": 44.43000030517578,
-        "low": 43.3120002746582,
+        "low": 43.310001373291016,
         "close": 43.90999984741211
+      },
+      {
+        "time": "2026-09-24",
+        "open": 43.7599983215332,
+        "high": 44.18000030517578,
+        "low": 42.60499954223633,
+        "close": 42.66999816894531
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-18",
-        "value": 34.10005005836487
-      },
       {
         "time": "2026-02-19",
         "value": 34.15490005493164
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-09-23",
         "value": 42.16940008163452
+      },
+      {
+        "time": "2026-09-24",
+        "value": 42.199600067138675
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-18",
-        "value": 39.908723367970524
-      },
       {
         "time": "2026-02-19",
         "value": 39.90929149956871
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-09-23",
         "value": 41.696717657273965
+      },
+      {
+        "time": "2026-09-24",
+        "value": 41.82540612174181
       }
     ],
     "supportLine": 42.46
