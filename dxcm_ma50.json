@@ -3,60 +3,53 @@
     "ticker": "DXCM",
     "name": "DexCom, Inc.",
     "market": "NMS",
-    "price": 87.47,
-    "change": -0.26,
-    "changePercent": -0.3
+    "price": 86.62,
+    "change": -0.85,
+    "changePercent": -0.97
   },
   "score": {
-    "total": 46,
-    "stars": 2.5,
+    "total": 44,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 88%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 84.96,
-    "maDistance_pct": 2.96,
-    "bb2Confluence_pct": 2.36,
-    "bb3Confluence_pct": 5.17,
+    "targetMA_price": 85.13,
+    "maDistance_pct": 1.75,
+    "bb2Confluence_pct": 2.68,
+    "bb3Confluence_pct": 5.45,
     "maKnock_count": 1,
-    "expectedRsi": 45.69
+    "expectedRsi": 46.01
   },
   "metrics": {
-    "maDistance": "+2.96%",
-    "bbConfluence": "2.36%",
+    "maDistance": "+1.75%",
+    "bbConfluence": "2.68%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.69"
+    "expectedRsi": "46.01"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 92.3,
         "touches": 3,
-        "strength_score": 2.33
+        "strength_score": 2.304
       },
       {
         "price": 90.39,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 87.85,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.652
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that DXCM is currently testing its Daily 50MA support zone near $84.96. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.30. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DXCM is currently testing its Daily 50MA support zone near $85.13. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.30. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-20",
-        "open": 72.3499984741211,
-        "high": 73.37000274658203,
-        "low": 72.04000091552734,
-        "close": 73.08000183105469
-      },
       {
         "time": "2026-02-23",
         "open": 73.06999969482422,
@@ -1099,13 +1092,16 @@
         "high": 88.0,
         "low": 86.87999725341797,
         "close": 87.47000122070312
+      },
+      {
+        "time": "2026-09-25",
+        "open": 87.37999725341797,
+        "high": 87.63999938964844,
+        "low": 86.36000061035156,
+        "close": 86.62000274658203
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-20",
-        "value": 69.43060028076172
-      },
       {
         "time": "2026-02-23",
         "value": 69.56920028686524
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-09-24",
         "value": 84.95900009155274
+      },
+      {
+        "time": "2026-09-25",
+        "value": 85.13180007934571
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-20",
-        "value": 66.77123538502752
-      },
       {
         "time": "2026-02-23",
         "value": 66.75952015075256
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-09-24",
         "value": 82.94979577476694
+      },
+      {
+        "time": "2026-09-25",
+        "value": 82.85133743376589
       }
     ],
     "supportLine": 68.81
