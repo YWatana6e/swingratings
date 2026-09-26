@@ -8,59 +8,52 @@
     "changePercent": -0.16
   },
   "score": {
-    "total": 33,
+    "total": 31,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 87%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 122.86,
-    "maDistance_pct": 1.28,
-    "bb2Confluence_pct": 1.61,
-    "bb3Confluence_pct": 3.34,
+    "targetMA_price": 123.1,
+    "maDistance_pct": 1.09,
+    "bb2Confluence_pct": 1.74,
+    "bb3Confluence_pct": 3.41,
     "maKnock_count": 2,
-    "expectedRsi": 49.11
+    "expectedRsi": 49.32
   },
   "metrics": {
-    "maDistance": "+1.28%",
-    "bbConfluence": "1.61%",
+    "maDistance": "+1.09%",
+    "bbConfluence": "1.74%",
     "maKnock": "2 times recently",
-    "expectedRsi": "49.11"
+    "expectedRsi": "49.32"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 130.53,
         "touches": 4,
-        "strength_score": 3.25
+        "strength_score": 3.213
       },
       {
         "price": 124.57,
         "touches": 1,
-        "strength_score": 0.675
+        "strength_score": 0.667
       }
     ],
     "trendline_clusters": [
       {
-        "price": 129.74,
-        "count": 5
+        "price": 129.96,
+        "count": 4
       },
       {
-        "price": 128.28,
+        "price": 128.17,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $122.86. Based on historical price action, bounces from this level have yielded a win rate of 86.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $130.53 and a significant trendline confluence around $129.74 (formed by 5 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INCY is currently testing its Daily 50MA support zone near $123.1. Based on historical price action, bounces from this level have yielded a win rate of 86.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $130.53 and a significant trendline confluence around $129.96 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-19",
-        "open": 102.12999725341797,
-        "high": 102.80999755859375,
-        "low": 100.0,
-        "close": 101.7300033569336
-      },
       {
         "time": "2026-02-20",
         "open": 101.62999725341797,
@@ -1091,6 +1084,13 @@
         "close": 124.6500015258789
       },
       {
+        "time": "2026-09-22",
+        "open": 124.72000122070312,
+        "high": 127.75,
+        "low": 124.01000213623047,
+        "close": 126.93000030517578
+      },
+      {
         "time": "2026-09-23",
         "open": 127.51000213623047,
         "high": 128.2100067138672,
@@ -1100,16 +1100,12 @@
       {
         "time": "2026-09-24",
         "open": 124.79000091552734,
-        "high": 125.54889678955078,
+        "high": 125.55000305175781,
         "low": 123.02999877929688,
         "close": 124.44000244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-19",
-        "value": 101.7416000366211
-      },
       {
         "time": "2026-02-20",
         "value": 101.83400009155274
@@ -1699,19 +1695,19 @@
         "value": 122.4633999633789
       },
       {
+        "time": "2026-09-22",
+        "value": 122.71739990234374
+      },
+      {
         "time": "2026-09-23",
-        "value": 122.6715998840332
+        "value": 122.91259994506837
       },
       {
         "time": "2026-09-24",
-        "value": 122.86279998779297
+        "value": 123.09960006713867
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-19",
-        "value": 97.43532143079027
-      },
       {
         "time": "2026-02-20",
         "value": 97.37944621321412
@@ -2301,12 +2297,16 @@
         "value": 120.76344296038687
       },
       {
+        "time": "2026-09-22",
+        "value": 120.79593411473694
+      },
+      {
         "time": "2026-09-23",
-        "value": 120.71429724530829
+        "value": 120.94808708060249
       },
       {
         "time": "2026-09-24",
-        "value": 120.88134406563077
+        "value": 120.96019069912838
       }
     ],
     "supportLine": 115.95
