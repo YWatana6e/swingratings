@@ -273,19 +273,6 @@
     "expected_rsi": 48.87
   },
   {
-    "ticker": "VRSN",
-    "name": "VeriSign, Inc.",
-    "price": 287.25,
-    "changePercent": -1.59,
-    "score": 41,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.61,
-    "bb_confluence": 0.54,
-    "expected_rsi": 43.2
-  },
-  {
     "ticker": "ASPN",
     "name": "Aspen Aerogels, Inc.",
     "price": 5.22,
@@ -349,6 +336,19 @@
     "ma_distance": 1.27,
     "bb_confluence": 1.91,
     "expected_rsi": 32.92
+  },
+  {
+    "ticker": "VRSN",
+    "name": "VeriSign, Inc.",
+    "price": 287.25,
+    "changePercent": -1.59,
+    "score": 38,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.61,
+    "bb_confluence": 0.54,
+    "expected_rsi": 43.2
   },
   {
     "ticker": "EQIX",
@@ -641,7 +641,7 @@
     "name": "Fastenal Company",
     "price": 50.43,
     "changePercent": -0.59,
-    "score": 6,
+    "score": 5,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
