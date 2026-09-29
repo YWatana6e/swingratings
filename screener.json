@@ -273,6 +273,19 @@
     "expected_rsi": 48.87
   },
   {
+    "ticker": "VRSN",
+    "name": "VeriSign, Inc.",
+    "price": 287.25,
+    "changePercent": -1.59,
+    "score": 41,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.61,
+    "bb_confluence": 0.54,
+    "expected_rsi": 43.2
+  },
+  {
     "ticker": "ASPN",
     "name": "Aspen Aerogels, Inc.",
     "price": 5.22,
@@ -336,19 +349,6 @@
     "ma_distance": 1.27,
     "bb_confluence": 1.91,
     "expected_rsi": 32.92
-  },
-  {
-    "ticker": "VRSN",
-    "name": "VeriSign, Inc.",
-    "price": 287.25,
-    "changePercent": -1.59,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.61,
-    "bb_confluence": 0.54,
-    "expected_rsi": 43.2
   },
   {
     "ticker": "EQIX",
@@ -494,6 +494,19 @@
     "expected_rsi": 34.56
   },
   {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "price": 93.55,
+    "changePercent": -1.06,
+    "score": 27,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.03,
+    "bb_confluence": 2.53,
+    "expected_rsi": 42.39
+  },
+  {
     "ticker": "TYL",
     "name": "Tyler Technologies, Inc.",
     "price": 325.57,
@@ -559,19 +572,6 @@
     "expected_rsi": 40.68
   },
   {
-    "ticker": "NDAQ",
-    "name": "Nasdaq, Inc.",
-    "price": 93.55,
-    "changePercent": -1.06,
-    "score": 22,
-    "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.03,
-    "bb_confluence": 2.53,
-    "expected_rsi": 42.39
-  },
-  {
     "ticker": "ELV",
     "name": "Elevance Health, Inc.",
     "price": 396.09,
@@ -624,6 +624,19 @@
     "expected_rsi": 51.83
   },
   {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "price": 50.43,
+    "changePercent": -0.59,
+    "score": 8,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.16,
+    "bb_confluence": 2.62,
+    "expected_rsi": 50.28
+  },
+  {
     "ticker": "ELV",
     "name": "Elevance Health, Inc.",
     "price": 396.09,
@@ -635,18 +648,5 @@
     "ma_distance": 0.18,
     "bb_confluence": 2.01,
     "expected_rsi": 46.1
-  },
-  {
-    "ticker": "FAST",
-    "name": "Fastenal Company",
-    "price": 50.43,
-    "changePercent": -0.59,
-    "score": 5,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.16,
-    "bb_confluence": 2.62,
-    "expected_rsi": 50.28
   }
 ]
