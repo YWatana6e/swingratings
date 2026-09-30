@@ -3,65 +3,58 @@
     "ticker": "WDAY",
     "name": "Workday, Inc.",
     "market": "NMS",
-    "price": 189.45,
-    "change": -1.54,
-    "changePercent": -0.81
+    "price": 188.6,
+    "change": -0.85,
+    "changePercent": -0.45
   },
   "score": {
-    "total": 66,
+    "total": 65,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 180.93,
-    "maDistance_pct": 4.71,
-    "bb2Confluence_pct": 0.04,
-    "bb3Confluence_pct": 3.47,
+    "targetMA_price": 181.81,
+    "maDistance_pct": 3.73,
+    "bb2Confluence_pct": 0.4,
+    "bb3Confluence_pct": 3.54,
     "maKnock_count": 0,
-    "expectedRsi": 44.76
+    "expectedRsi": 45.08
   },
   "metrics": {
-    "maDistance": "+4.71%",
-    "bbConfluence": "0.04%",
+    "maDistance": "+3.73%",
+    "bbConfluence": "0.40%",
     "maKnock": "0 times recently",
-    "expectedRsi": "44.76"
+    "expectedRsi": "45.08"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 201.88,
         "touches": 2,
-        "strength_score": 1.7
+        "strength_score": 1.68
       },
       {
         "price": 211.83,
         "touches": 1,
-        "strength_score": 0.841
+        "strength_score": 0.831
       },
       {
         "price": 207.84,
         "touches": 1,
-        "strength_score": 0.803
+        "strength_score": 0.794
       },
       {
         "price": 227.49,
         "touches": 1,
-        "strength_score": 0.707
+        "strength_score": 0.699
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that WDAY is currently testing its Daily 50MA support zone near $180.93. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $201.88. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that WDAY is currently testing its Daily 50MA support zone near $181.81. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $201.88. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-23",
-        "open": 134.41000366210938,
-        "high": 134.52000427246094,
-        "low": 125.83000183105469,
-        "close": 129.2100067138672
-      },
       {
         "time": "2026-02-24",
         "open": 128.9199981689453,
@@ -1104,13 +1097,16 @@
         "high": 192.07000732421875,
         "low": 188.75,
         "close": 189.4499969482422
+      },
+      {
+        "time": "2026-09-28",
+        "open": 184.4499969482422,
+        "high": 190.94000244140625,
+        "low": 181.47000122070312,
+        "close": 188.60000610351562
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-23",
-        "value": 188.66940002441407
-      },
       {
         "time": "2026-02-24",
         "value": 186.81899993896485
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-09-25",
         "value": 180.93379898071288
+      },
+      {
+        "time": "2026-09-28",
+        "value": 181.81019912719728
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-23",
-        "value": 122.65106909431782
-      },
       {
         "time": "2026-02-24",
         "value": 120.67613133646654
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-09-25",
         "value": 180.86990791119177
+      },
+      {
+        "time": "2026-09-28",
+        "value": 181.08139394485028
       }
     ],
     "supportLine": 183.57

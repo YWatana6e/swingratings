@@ -3,9 +3,9 @@
     "ticker": "CPRI",
     "name": "Capri Holdings Limited",
     "market": "NYQ",
-    "price": 15.1,
-    "change": -0.09,
-    "changePercent": -0.59
+    "price": 14.79,
+    "change": -0.31,
+    "changePercent": -2.05
   },
   "score": {
     "total": 31,
@@ -14,84 +14,77 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 14.72,
-    "maDistance_pct": 2.56,
-    "bb2Confluence_pct": 17.48,
-    "bb3Confluence_pct": 23.68,
+    "targetMA_price": 14.69,
+    "maDistance_pct": 0.67,
+    "bb2Confluence_pct": 17.0,
+    "bb3Confluence_pct": 23.27,
     "maKnock_count": 1,
-    "expectedRsi": 53.64
+    "expectedRsi": 53.18
   },
   "metrics": {
-    "maDistance": "+2.56%",
-    "bbConfluence": "17.48%",
+    "maDistance": "+0.67%",
+    "bbConfluence": "17.00%",
     "maKnock": "1 time recently",
-    "expectedRsi": "53.64"
+    "expectedRsi": "53.18"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 19.46,
         "touches": 2,
-        "strength_score": 1.001
+        "strength_score": 0.989
       },
       {
         "price": 16.2,
         "touches": 1,
-        "strength_score": 0.966
+        "strength_score": 0.955
       },
       {
         "price": 15.9,
         "touches": 1,
-        "strength_score": 0.715
+        "strength_score": 0.707
       },
       {
         "price": 16.96,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.652
       },
       {
         "price": 16.56,
         "touches": 1,
-        "strength_score": 0.616
+        "strength_score": 0.609
       },
       {
         "price": 21.95,
         "touches": 1,
-        "strength_score": 0.44
+        "strength_score": 0.435
       },
       {
         "price": 20.19,
         "touches": 1,
-        "strength_score": 0.383
+        "strength_score": 0.379
       },
       {
         "price": 19.69,
         "touches": 1,
-        "strength_score": 0.326
+        "strength_score": 0.322
       },
       {
         "price": 21.71,
         "touches": 1,
-        "strength_score": 0.284
+        "strength_score": 0.281
       }
     ],
     "trendline_clusters": [
       {
-        "price": 15.99,
+        "price": 15.94,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that CPRI is currently testing its Daily 50MA support zone near $14.72. Based on historical price action, bounces from this level have yielded a win rate of 63.6%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $19.46 and a significant trendline confluence around $15.99 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CPRI is currently testing its Daily 50MA support zone near $14.69. Based on historical price action, bounces from this level have yielded a win rate of 63.6%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $19.46 and a significant trendline confluence around $15.94 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-23",
-        "open": 21.770000457763672,
-        "high": 21.84000015258789,
-        "low": 20.010000228881836,
-        "close": 20.469999313354492
-      },
       {
         "time": "2026-02-24",
         "open": 20.489999771118164,
@@ -1134,13 +1127,16 @@
         "high": 15.470000267028809,
         "low": 15.09000015258789,
         "close": 15.100000381469727
+      },
+      {
+        "time": "2026-09-28",
+        "open": 14.829999923706055,
+        "high": 15.100000381469727,
+        "low": 14.569999694824219,
+        "close": 14.789999961853027
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-23",
-        "value": 23.7385998916626
-      },
       {
         "time": "2026-02-24",
         "value": 23.62499988555908
@@ -1736,13 +1732,13 @@
       {
         "time": "2026-09-25",
         "value": 14.723800067901612
+      },
+      {
+        "time": "2026-09-28",
+        "value": 14.69200008392334
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-23",
-        "value": 18.52181860173072
-      },
       {
         "time": "2026-02-24",
         "value": 18.642561341469865
@@ -2338,6 +2334,10 @@
       {
         "time": "2026-09-25",
         "value": 12.149742912300391
+      },
+      {
+        "time": "2026-09-28",
+        "value": 12.19479952158752
       }
     ],
     "supportLine": 12.48
