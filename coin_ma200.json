@@ -3,65 +3,67 @@
     "ticker": "COIN",
     "name": "Coinbase Global, Inc.",
     "market": "NMS",
-    "price": 191.79,
-    "change": -3.32,
-    "changePercent": -1.7
+    "price": 190.02,
+    "change": -1.77,
+    "changePercent": -0.92
   },
   "score": {
-    "total": 15,
+    "total": 16,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 0%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 186.98,
-    "maDistance_pct": 2.58,
-    "bb2Confluence_pct": 13.01,
-    "bb3Confluence_pct": 19.0,
+    "targetMA_price": 186.55,
+    "maDistance_pct": 1.86,
+    "bb2Confluence_pct": 12.8,
+    "bb3Confluence_pct": 18.82,
     "maKnock_count": 0,
-    "expectedRsi": 52.98
+    "expectedRsi": 52.65
   },
   "metrics": {
-    "maDistance": "+2.58%",
-    "bbConfluence": "13.01%",
+    "maDistance": "+1.86%",
+    "bbConfluence": "12.80%",
     "maKnock": "0 times recently",
-    "expectedRsi": "52.98"
+    "expectedRsi": "52.65"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 193.68,
         "touches": 4,
-        "strength_score": 2.89
+        "strength_score": 2.857
       },
       {
         "price": 208.61,
         "touches": 2,
-        "strength_score": 1.259
+        "strength_score": 1.244
       },
       {
         "price": 222.35,
         "touches": 1,
-        "strength_score": 0.342
+        "strength_score": 0.338
       },
       {
         "price": 216.05,
         "touches": 1,
-        "strength_score": 0.274
+        "strength_score": 0.271
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 190.53,
+        "count": 2
+      },
+      {
+        "price": 191.13,
+        "count": 2
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that COIN is currently testing its Daily 200MA support zone near $186.98. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $193.68. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that COIN is currently testing its Daily 200MA support zone near $186.55. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $193.68 and a significant trendline confluence around $190.53 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-24",
-        "open": 155.83999633789062,
-        "high": 162.27999877929688,
-        "low": 152.6999969482422,
-        "close": 162.02999877929688
-      },
       {
         "time": "2026-02-25",
         "open": 171.77999877929688,
@@ -1104,13 +1106,16 @@
         "high": 198.77999877929688,
         "low": 191.10000610351562,
         "close": 191.7899932861328
+      },
+      {
+        "time": "2026-09-29",
+        "open": 197.52999877929688,
+        "high": 197.6300048828125,
+        "low": 188.13999938964844,
+        "close": 190.02000427246094
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-24",
-        "value": 288.57060035705564
-      },
       {
         "time": "2026-02-25",
         "value": 288.4578003692627
@@ -1706,13 +1711,13 @@
       {
         "time": "2026-09-28",
         "value": 186.9752995300293
+      },
+      {
+        "time": "2026-09-29",
+        "value": 186.54994956970214
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-24",
-        "value": 134.4076576256311
-      },
       {
         "time": "2026-02-25",
         "value": 137.00282661462668
@@ -2308,6 +2313,10 @@
       {
         "time": "2026-09-28",
         "value": 162.65280527753788
+      },
+      {
+        "time": "2026-09-29",
+        "value": 162.68059705672658
       }
     ],
     "supportLine": 153.46

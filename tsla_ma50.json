@@ -3,85 +3,78 @@
     "ticker": "TSLA",
     "name": "Tesla, Inc.",
     "market": "NMS",
-    "price": 357.45,
-    "change": -14.66,
-    "changePercent": -3.94
+    "price": 352.84,
+    "change": -4.61,
+    "changePercent": -1.29
   },
   "score": {
-    "total": 68,
+    "total": 71,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 77%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 347.78,
-    "maDistance_pct": 2.78,
-    "bb2Confluence_pct": 0.54,
-    "bb3Confluence_pct": 1.83,
+    "targetMA_price": 347.45,
+    "maDistance_pct": 1.55,
+    "bb2Confluence_pct": 0.14,
+    "bb3Confluence_pct": 2.36,
     "maKnock_count": 1,
-    "expectedRsi": 43.72
+    "expectedRsi": 43.48
   },
   "metrics": {
-    "maDistance": "+2.78%",
-    "bbConfluence": "0.54%",
+    "maDistance": "+1.55%",
+    "bbConfluence": "0.14%",
     "maKnock": "1 time recently",
-    "expectedRsi": "43.72"
+    "expectedRsi": "43.48"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 385.43,
         "touches": 2,
-        "strength_score": 1.82
+        "strength_score": 1.799
       },
       {
         "price": 415.38,
         "touches": 2,
-        "strength_score": 0.891
+        "strength_score": 0.881
       },
       {
         "price": 366.5,
         "touches": 1,
-        "strength_score": 0.749
+        "strength_score": 0.741
       },
       {
         "price": 432.86,
         "touches": 1,
-        "strength_score": 0.494
+        "strength_score": 0.489
       },
       {
         "price": 445.6,
         "touches": 1,
-        "strength_score": 0.375
+        "strength_score": 0.37
       },
       {
         "price": 453.4,
         "touches": 1,
-        "strength_score": 0.338
+        "strength_score": 0.334
       },
       {
         "price": 409.28,
         "touches": 1,
-        "strength_score": 0.274
+        "strength_score": 0.271
       }
     ],
     "trendline_clusters": [
       {
-        "price": 385.4,
-        "count": 2
+        "price": 384.7,
+        "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that TSLA is currently testing its Daily 50MA support zone near $347.78. Based on historical price action, bounces from this level have yielded a win rate of 76.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $385.43 and a significant trendline confluence around $385.40 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TSLA is currently testing its Daily 50MA support zone near $347.45. Based on historical price action, bounces from this level have yielded a win rate of 76.9%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $385.43 and a significant trendline confluence around $384.70 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-24",
-        "open": 399.5,
-        "high": 410.82000732421875,
-        "low": 397.6400146484375,
-        "close": 409.3800048828125
-      },
       {
         "time": "2026-02-25",
         "open": 412.1499938964844,
@@ -1124,13 +1117,16 @@
         "high": 369.42999267578125,
         "low": 356.79998779296875,
         "close": 357.45001220703125
+      },
+      {
+        "time": "2026-09-29",
+        "open": 358.3999938964844,
+        "high": 358.739990234375,
+        "low": 351.6700134277344,
+        "close": 352.8399963378906
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-24",
-        "value": 439.19260070800783
-      },
       {
         "time": "2026-02-25",
         "value": 438.60280029296877
@@ -1726,13 +1722,13 @@
       {
         "time": "2026-09-28",
         "value": 347.7807983398437
+      },
+      {
+        "time": "2026-09-29",
+        "value": 347.4461981201172
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-24",
-        "value": 397.164604790128
-      },
       {
         "time": "2026-02-25",
         "value": 397.6665681673263
@@ -2328,8 +2324,12 @@
       {
         "time": "2026-09-28",
         "value": 349.6539802259716
+      },
+      {
+        "time": "2026-09-29",
+        "value": 347.9447829625944
       }
     ],
-    "supportLine": 339.89
+    "supportLine": 354.05
   }
 }
