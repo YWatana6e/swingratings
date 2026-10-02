@@ -3,89 +3,83 @@
     "ticker": "ALNY",
     "name": "Alnylam Pharmaceuticals, Inc.",
     "market": "NMS",
-    "price": 254.07,
-    "change": -1.29,
-    "changePercent": -0.51
+    "price": 246.74,
+    "change": -7.33,
+    "changePercent": -2.89
   },
   "score": {
-    "total": 34,
-    "stars": 1.5,
+    "total": 35,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 86%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 243.68,
-    "maDistance_pct": 4.26,
-    "bb2Confluence_pct": 3.76,
-    "bb3Confluence_pct": 7.23,
+    "targetMA_price": 243.19,
+    "maDistance_pct": 1.46,
+    "bb2Confluence_pct": 3.53,
+    "bb3Confluence_pct": 7.0,
     "maKnock_count": 1,
-    "expectedRsi": 47.98
+    "expectedRsi": 47.58
   },
   "metrics": {
-    "maDistance": "+4.26%",
-    "bbConfluence": "3.76%",
+    "maDistance": "+1.46%",
+    "bbConfluence": "3.53%",
     "maKnock": "1 time recently",
-    "expectedRsi": "47.98"
+    "expectedRsi": "47.58"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 257.27,
+        "touches": 1,
+        "strength_score": 0.989
+      },
+      {
         "price": 272.08,
         "touches": 1,
-        "strength_score": 0.841
+        "strength_score": 0.831
       },
       {
         "price": 304.72,
         "touches": 2,
-        "strength_score": 0.836
+        "strength_score": 0.826
       },
       {
         "price": 290.6,
         "touches": 1,
-        "strength_score": 0.609
+        "strength_score": 0.602
       },
       {
         "price": 316.69,
         "touches": 2,
-        "strength_score": 0.585
+        "strength_score": 0.578
       },
       {
         "price": 380.0,
         "touches": 1,
-        "strength_score": 0.518
+        "strength_score": 0.512
       },
       {
         "price": 310.53,
         "touches": 1,
-        "strength_score": 0.397
+        "strength_score": 0.392
       },
       {
         "price": 343.36,
         "touches": 1,
-        "strength_score": 0.262
+        "strength_score": 0.259
       }
     ],
     "trendline_clusters": [
       {
-        "price": 262.55,
+        "price": 255.95,
         "count": 3
-      },
-      {
-        "price": 264.26,
-        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ALNY is currently testing its Daily 50MA support zone near $243.68. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $272.08 and a significant trendline confluence around $262.55 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ALNY is currently testing its Daily 50MA support zone near $243.19. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $257.27 and a significant trendline confluence around $255.95 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-25",
-        "open": 332.760009765625,
-        "high": 334.4200134277344,
-        "low": 325.239990234375,
-        "close": 327.3599853515625
-      },
       {
         "time": "2026-02-26",
         "open": 328.6700134277344,
@@ -1128,13 +1122,16 @@
         "high": 257.2699890136719,
         "low": 251.02000427246094,
         "close": 254.07000732421875
+      },
+      {
+        "time": "2026-09-30",
+        "open": 253.67999267578125,
+        "high": 254.44000244140625,
+        "low": 246.66000366210938,
+        "close": 246.74000549316406
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-25",
-        "value": 364.82379943847656
-      },
       {
         "time": "2026-02-26",
         "value": 363.4975994873047
@@ -1730,13 +1727,13 @@
       {
         "time": "2026-09-29",
         "value": 243.67819854736328
+      },
+      {
+        "time": "2026-09-30",
+        "value": 243.18559875488282
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-25",
-        "value": 309.55050637768744
-      },
       {
         "time": "2026-02-26",
         "value": 309.95186870939096
@@ -2332,6 +2329,10 @@
       {
         "time": "2026-09-29",
         "value": 234.52268561552862
+      },
+      {
+        "time": "2026-09-30",
+        "value": 234.59163373617358
       }
     ],
     "supportLine": 284.69

@@ -3,102 +3,95 @@
     "ticker": "DVA",
     "name": "DaVita Inc.",
     "market": "NYQ",
-    "price": 175.19,
-    "change": -2.88,
-    "changePercent": -1.62
+    "price": 174.92,
+    "change": -0.27,
+    "changePercent": -0.15
   },
   "score": {
-    "total": 35,
-    "stars": 2.0,
+    "total": 50,
+    "stars": 2.5,
     "note": "/ 100 (Win Rate: 0%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 169.23,
-    "maDistance_pct": 3.52,
-    "bb2Confluence_pct": 1.98,
-    "bb3Confluence_pct": 0.85,
+    "targetMA_price": 169.51,
+    "maDistance_pct": 3.19,
+    "bb2Confluence_pct": 1.69,
+    "bb3Confluence_pct": 1.19,
     "maKnock_count": 0,
-    "expectedRsi": 35.24
+    "expectedRsi": 35.21
   },
   "metrics": {
-    "maDistance": "+3.52%",
-    "bbConfluence": "1.98%",
+    "maDistance": "+3.19%",
+    "bbConfluence": "1.69%",
     "maKnock": "0 times recently",
-    "expectedRsi": "35.24"
+    "expectedRsi": "35.21"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 239.24,
         "touches": 3,
-        "strength_score": 1.597
+        "strength_score": 1.578
       },
       {
         "price": 202.42,
         "touches": 3,
-        "strength_score": 1.037
+        "strength_score": 1.025
       },
       {
         "price": 186.23,
         "touches": 1,
-        "strength_score": 0.955
+        "strength_score": 0.944
       },
       {
         "price": 195.75,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.901
       },
       {
         "price": 182.53,
         "touches": 1,
-        "strength_score": 0.785
+        "strength_score": 0.776
       },
       {
         "price": 247.49,
         "touches": 1,
-        "strength_score": 0.63
+        "strength_score": 0.623
       },
       {
         "price": 215.33,
         "touches": 1,
-        "strength_score": 0.451
+        "strength_score": 0.445
       },
       {
         "price": 199.15,
         "touches": 1,
-        "strength_score": 0.397
+        "strength_score": 0.392
       }
     ],
     "trendline_clusters": [
       {
-        "price": 185.32,
+        "price": 185.14,
         "count": 6
       },
       {
-        "price": 176.56,
+        "price": 176.28,
         "count": 4
       },
       {
-        "price": 195.06,
+        "price": 194.98,
         "count": 4
       },
       {
-        "price": 181.23,
+        "price": 181.01,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that DVA is currently testing its Daily 200MA support zone near $169.23. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $239.24 and a significant trendline confluence around $185.32 (formed by 6 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DVA is currently testing its Daily 200MA support zone near $169.51. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $239.24 and a significant trendline confluence around $185.14 (formed by 6 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-25",
-        "open": 151.35000610351562,
-        "high": 152.5,
-        "low": 146.0,
-        "close": 149.50999450683594
-      },
       {
         "time": "2026-02-26",
         "open": 149.72000122070312,
@@ -1141,13 +1134,16 @@
         "high": 176.97999572753906,
         "low": 174.0800018310547,
         "close": 175.19000244140625
+      },
+      {
+        "time": "2026-09-30",
+        "open": 176.0800018310547,
+        "high": 178.36000061035156,
+        "low": 174.9199981689453,
+        "close": 174.9199981689453
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-25",
-        "value": 130.33114994049072
-      },
       {
         "time": "2026-02-26",
         "value": 130.37504993438722
@@ -1743,13 +1739,13 @@
       {
         "time": "2026-09-29",
         "value": 169.2345000076294
+      },
+      {
+        "time": "2026-09-30",
+        "value": 169.50744998931884
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-25",
-        "value": 106.95076323715553
-      },
       {
         "time": "2026-02-26",
         "value": 112.52948682188463
@@ -2345,8 +2341,12 @@
       {
         "time": "2026-09-29",
         "value": 172.59175461515218
+      },
+      {
+        "time": "2026-09-30",
+        "value": 172.36369366607528
       }
     ],
-    "supportLine": 176.29
+    "supportLine": 175.74
   }
 }

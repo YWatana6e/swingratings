@@ -3,55 +3,48 @@
     "ticker": "INFO",
     "name": "Harbor PanAgora Dynamic Large C",
     "market": "NYQ",
-    "price": 28.08,
-    "change": -0.08,
-    "changePercent": -0.28
+    "price": 28.06,
+    "change": -0.02,
+    "changePercent": -0.08
   },
   "score": {
-    "total": 15,
+    "total": 18,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 11%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 28.03,
-    "maDistance_pct": 0.18,
-    "bb2Confluence_pct": 1.15,
-    "bb3Confluence_pct": 1.87,
+    "targetMA_price": 28.04,
+    "maDistance_pct": 0.06,
+    "bb2Confluence_pct": 1.08,
+    "bb3Confluence_pct": 1.78,
     "maKnock_count": 3,
-    "expectedRsi": 52.57
+    "expectedRsi": 52.99
   },
   "metrics": {
-    "maDistance": "+0.18%",
-    "bbConfluence": "1.15%",
+    "maDistance": "+0.06%",
+    "bbConfluence": "1.08%",
     "maKnock": "3 times recently",
-    "expectedRsi": "52.57"
+    "expectedRsi": "52.99"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 28.56,
         "touches": 5,
-        "strength_score": 3.886
+        "strength_score": 3.841
       }
     ],
     "trendline_clusters": [
       {
-        "price": 28.23,
+        "price": 28.24,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $28.03. Based on historical price action, bounces from this level have yielded a win rate of 11.1%. The asset has recently tested this support 3 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.56 and a significant trendline confluence around $28.23 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 50MA support zone near $28.04. Based on historical price action, bounces from this level have yielded a win rate of 11.1%. The asset has recently tested this support 3 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.56 and a significant trendline confluence around $28.24 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-25",
-        "open": 24.899999618530273,
-        "high": 24.959999084472656,
-        "low": 24.899999618530273,
-        "close": 24.930999755859375
-      },
       {
         "time": "2026-02-26",
         "open": 24.65999984741211,
@@ -1094,13 +1087,16 @@
         "high": 28.1299991607666,
         "low": 28.020000457763672,
         "close": 28.08099937438965
+      },
+      {
+        "time": "2026-09-30",
+        "open": 28.2450008392334,
+        "high": 28.29800033569336,
+        "low": 28.05900001525879,
+        "close": 28.05900001525879
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-25",
-        "value": 24.666565742492676
-      },
       {
         "time": "2026-02-26",
         "value": 24.675391807556153
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-09-29",
         "value": 28.0318798828125
+      },
+      {
+        "time": "2026-09-30",
+        "value": 28.042739868164062
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-25",
-        "value": 24.309388208264355
-      },
       {
         "time": "2026-02-26",
         "value": 24.322729019921525
@@ -2298,8 +2294,12 @@
       {
         "time": "2026-09-29",
         "value": 27.710478237144752
+      },
+      {
+        "time": "2026-09-30",
+        "value": 27.73865241314227
       }
     ],
-    "supportLine": 27.79
+    "supportLine": 27.84
   }
 }
