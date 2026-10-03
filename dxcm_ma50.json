@@ -3,60 +3,53 @@
     "ticker": "DXCM",
     "name": "DexCom, Inc.",
     "market": "NMS",
-    "price": 86.29,
-    "change": -0.35,
-    "changePercent": -0.4
+    "price": 86.23,
+    "change": -0.06,
+    "changePercent": -0.07
   },
   "score": {
-    "total": 43,
+    "total": 40,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 88%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 85.78,
-    "maDistance_pct": 0.59,
-    "bb2Confluence_pct": 3.24,
-    "bb3Confluence_pct": 5.54,
+    "targetMA_price": 86.08,
+    "maDistance_pct": 0.18,
+    "bb2Confluence_pct": 3.54,
+    "bb3Confluence_pct": 5.73,
     "maKnock_count": 1,
-    "expectedRsi": 48.05
+    "expectedRsi": 49.32
   },
   "metrics": {
-    "maDistance": "+0.59%",
-    "bbConfluence": "3.24%",
+    "maDistance": "+0.18%",
+    "bbConfluence": "3.54%",
     "maKnock": "1 time recently",
-    "expectedRsi": "48.05"
+    "expectedRsi": "49.32"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 92.3,
         "touches": 3,
-        "strength_score": 2.225
+        "strength_score": 2.2
       },
       {
         "price": 90.39,
         "touches": 1,
-        "strength_score": 0.933
+        "strength_score": 0.922
       },
       {
         "price": 87.85,
         "touches": 1,
-        "strength_score": 0.63
+        "strength_score": 0.623
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that DXCM is currently testing its Daily 50MA support zone near $85.78. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.30. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DXCM is currently testing its Daily 50MA support zone near $86.08. Based on historical price action, bounces from this level have yielded a win rate of 87.5%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.30. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-26",
-        "open": 73.44999694824219,
-        "high": 74.43000030517578,
-        "low": 72.83000183105469,
-        "close": 74.37999725341797
-      },
       {
         "time": "2026-02-27",
         "open": 73.58000183105469,
@@ -1099,13 +1092,16 @@
         "high": 86.75,
         "low": 85.26000213623047,
         "close": 86.29000091552734
+      },
+      {
+        "time": "2026-10-01",
+        "open": 86.45999908447266,
+        "high": 87.69999694824219,
+        "low": 85.80999755859375,
+        "close": 86.2300033569336
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-26",
-        "value": 69.91260025024414
-      },
       {
         "time": "2026-02-27",
         "value": 70.06660018920898
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-09-30",
         "value": 85.78220001220703
+      },
+      {
+        "time": "2026-10-01",
+        "value": 86.07820007324219
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-26",
-        "value": 66.72559937453275
-      },
       {
         "time": "2026-02-27",
         "value": 66.75820059708106
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-09-30",
         "value": 83.00477442859658
+      },
+      {
+        "time": "2026-10-01",
+        "value": 83.02749536443464
       }
     ],
     "supportLine": 68.81
