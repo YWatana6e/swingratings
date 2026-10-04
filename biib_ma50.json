@@ -3,50 +3,48 @@
     "ticker": "BIIB",
     "name": "Biogen Inc.",
     "market": "NMS",
-    "price": 222.82,
-    "change": -3.06,
-    "changePercent": -1.35
+    "price": 219.88,
+    "change": -2.94,
+    "changePercent": -1.32
   },
   "score": {
-    "total": 51,
+    "total": 49,
     "stars": 2.5,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 214.91,
-    "maDistance_pct": 3.68,
-    "bb2Confluence_pct": 2.33,
-    "bb3Confluence_pct": 4.86,
+    "targetMA_price": 215.3,
+    "maDistance_pct": 2.13,
+    "bb2Confluence_pct": 2.55,
+    "bb3Confluence_pct": 5.04,
     "maKnock_count": 1,
-    "expectedRsi": 45.25
+    "expectedRsi": 45.45
   },
   "metrics": {
-    "maDistance": "+3.68%",
-    "bbConfluence": "2.33%",
+    "maDistance": "+2.13%",
+    "bbConfluence": "2.55%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.25"
+    "expectedRsi": "45.45"
   },
   "resistances": {
     "horizontal": [
       {
+        "price": 220.34,
+        "touches": 8,
+        "strength_score": 5.328
+      },
+      {
         "price": 230.49,
         "touches": 1,
-        "strength_score": 0.966
+        "strength_score": 0.955
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 50MA support zone near $214.91. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $230.49. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BIIB is currently testing its Daily 50MA support zone near $215.3. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $220.34. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-27",
-        "open": 187.50999450683594,
-        "high": 192.4600067138672,
-        "low": 186.6199951171875,
-        "close": 191.82000732421875
-      },
       {
         "time": "2026-03-02",
         "open": 190.22000122070312,
@@ -1089,13 +1087,16 @@
         "high": 228.30999755859375,
         "low": 222.5,
         "close": 222.82000732421875
+      },
+      {
+        "time": "2026-10-02",
+        "open": 222.97999572753906,
+        "high": 224.0800018310547,
+        "low": 219.80999755859375,
+        "close": 219.8800048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-27",
-        "value": 181.47140045166014
-      },
       {
         "time": "2026-03-02",
         "value": 181.8024005126953
@@ -1691,13 +1692,13 @@
       {
         "time": "2026-10-01",
         "value": 214.9097998046875
+      },
+      {
+        "time": "2026-10-02",
+        "value": 215.295
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-27",
-        "value": 177.99082494000365
-      },
       {
         "time": "2026-03-02",
         "value": 179.30951213839555
@@ -2293,6 +2294,10 @@
       {
         "time": "2026-10-01",
         "value": 209.90658589666597
+      },
+      {
+        "time": "2026-10-02",
+        "value": 209.80614007700802
       }
     ],
     "supportLine": 214.04

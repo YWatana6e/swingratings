@@ -3,60 +3,53 @@
     "ticker": "VRTX",
     "name": "Vertex Pharmaceuticals Incorpor",
     "market": "NMS",
-    "price": 506.74,
-    "change": -16.07,
-    "changePercent": -3.07
+    "price": 504.73,
+    "change": -2.01,
+    "changePercent": -0.4
   },
   "score": {
-    "total": 32,
+    "total": 29,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 29%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 490.26,
-    "maDistance_pct": 3.36,
-    "bb2Confluence_pct": 1.48,
-    "bb3Confluence_pct": 0.97,
+    "targetMA_price": 490.96,
+    "maDistance_pct": 2.8,
+    "bb2Confluence_pct": 1.93,
+    "bb3Confluence_pct": 0.05,
     "maKnock_count": 0,
-    "expectedRsi": 34.2
+    "expectedRsi": 34.18
   },
   "metrics": {
-    "maDistance": "+3.36%",
-    "bbConfluence": "1.48%",
+    "maDistance": "+2.80%",
+    "bbConfluence": "1.93%",
     "maKnock": "0 times recently",
-    "expectedRsi": "34.2"
+    "expectedRsi": "34.18"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 557.97,
         "touches": 2,
-        "strength_score": 1.543
+        "strength_score": 1.526
       },
       {
         "price": 531.78,
         "touches": 2,
-        "strength_score": 1.46
+        "strength_score": 1.443
       },
       {
         "price": 546.17,
         "touches": 1,
-        "strength_score": 0.652
+        "strength_score": 0.645
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 100MA support zone near $490.26. Based on historical price action, bounces from this level have yielded a win rate of 28.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 100MA support zone near $490.96. Based on historical price action, bounces from this level have yielded a win rate of 28.6%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-27",
-        "open": 480.30999755859375,
-        "high": 497.79998779296875,
-        "low": 479.75,
-        "close": 496.8299865722656
-      },
       {
         "time": "2026-03-02",
         "open": 496.6000061035156,
@@ -1099,13 +1092,16 @@
         "high": 523.52001953125,
         "low": 505.2699890136719,
         "close": 506.739990234375
+      },
+      {
+        "time": "2026-10-02",
+        "open": 509.5,
+        "high": 509.5,
+        "low": 499.95001220703125,
+        "close": 504.7300109863281
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-27",
-        "value": 446.34059936523437
-      },
       {
         "time": "2026-03-02",
         "value": 447.1718994140625
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-10-01",
         "value": 490.26460021972656
+      },
+      {
+        "time": "2026-10-02",
+        "value": 490.9602001953125
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-27",
-        "value": 454.7574052551675
-      },
       {
         "time": "2026-03-02",
         "value": 455.0615004455088
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-10-01",
         "value": 497.5079946265244
+      },
+      {
+        "time": "2026-10-02",
+        "value": 500.42982903856
       }
     ],
     "supportLine": 466.7

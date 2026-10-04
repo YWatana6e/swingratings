@@ -3,9 +3,9 @@
     "ticker": "WAT",
     "name": "Waters Corporation",
     "market": "NYQ",
-    "price": 425.53,
-    "change": -13.86,
-    "changePercent": -3.15
+    "price": 425.21,
+    "change": -0.32,
+    "changePercent": -0.08
   },
   "score": {
     "total": 12,
@@ -14,39 +14,32 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 409.33,
-    "maDistance_pct": 3.96,
-    "bb2Confluence_pct": 3.24,
-    "bb3Confluence_pct": 6.3,
+    "targetMA_price": 410.18,
+    "maDistance_pct": 3.66,
+    "bb2Confluence_pct": 3.25,
+    "bb3Confluence_pct": 6.28,
     "maKnock_count": 1,
-    "expectedRsi": 45.24
+    "expectedRsi": 45.22
   },
   "metrics": {
-    "maDistance": "+3.96%",
-    "bbConfluence": "3.24%",
+    "maDistance": "+3.66%",
+    "bbConfluence": "3.25%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.24"
+    "expectedRsi": "45.22"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 448.21,
         "touches": 1,
-        "strength_score": 0.989
+        "strength_score": 0.977
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that WAT is currently testing its Daily 50MA support zone near $409.33. Based on historical price action, bounces from this level have yielded a win rate of 25.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $448.21. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that WAT is currently testing its Daily 50MA support zone near $410.18. Based on historical price action, bounces from this level have yielded a win rate of 25.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $448.21. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-02-27",
-        "open": 318.9200134277344,
-        "high": 322.1000061035156,
-        "low": 315.5,
-        "close": 319.3800048828125
-      },
       {
         "time": "2026-03-02",
         "open": 313.1099853515625,
@@ -1089,13 +1082,16 @@
         "high": 438.0299987792969,
         "low": 424.70001220703125,
         "close": 425.5299987792969
+      },
+      {
+        "time": "2026-10-02",
+        "open": 426.7799987792969,
+        "high": 433.3399963378906,
+        "low": 423.44000244140625,
+        "close": 425.2099914550781
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-02-27",
-        "value": 369.41059814453126
-      },
       {
         "time": "2026-03-02",
         "value": 367.9845983886719
@@ -1691,13 +1687,13 @@
       {
         "time": "2026-10-01",
         "value": 409.3276019287109
+      },
+      {
+        "time": "2026-10-02",
+        "value": 410.1836016845703
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-02-27",
-        "value": 291.75629685248043
-      },
       {
         "time": "2026-03-02",
         "value": 288.3964707137533
@@ -2293,6 +2289,10 @@
       {
         "time": "2026-10-01",
         "value": 396.07419061800607
+      },
+      {
+        "time": "2026-10-02",
+        "value": 396.84814389177916
       }
     ],
     "supportLine": 394.48
