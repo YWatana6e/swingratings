@@ -3,60 +3,53 @@
     "ticker": "SNOW",
     "name": "Snowflake Inc.",
     "market": "NYQ",
-    "price": 338.99,
-    "change": -2.05,
-    "changePercent": -0.6
+    "price": 335.95,
+    "change": -3.04,
+    "changePercent": -0.9
   },
   "score": {
-    "total": 63,
+    "total": 56,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 325.11,
-    "maDistance_pct": 4.27,
-    "bb2Confluence_pct": 0.17,
-    "bb3Confluence_pct": 1.65,
+    "targetMA_price": 326.37,
+    "maDistance_pct": 2.93,
+    "bb2Confluence_pct": 0.56,
+    "bb3Confluence_pct": 2.03,
     "maKnock_count": 0,
-    "expectedRsi": 47.74
+    "expectedRsi": 48.18
   },
   "metrics": {
-    "maDistance": "+4.27%",
-    "bbConfluence": "0.17%",
+    "maDistance": "+2.93%",
+    "bbConfluence": "0.56%",
     "maKnock": "0 times recently",
-    "expectedRsi": "47.74"
+    "expectedRsi": "48.18"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 348.44,
         "touches": 2,
-        "strength_score": 1.878
+        "strength_score": 1.856
       },
       {
         "price": 384.56,
         "touches": 1,
-        "strength_score": 0.785
+        "strength_score": 0.776
       },
       {
         "price": 341.95,
         "touches": 1,
-        "strength_score": 0.652
+        "strength_score": 0.645
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SNOW is currently testing its Daily 50MA support zone near $325.11. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $348.44. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SNOW is currently testing its Daily 50MA support zone near $326.37. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $348.44. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-03",
-        "open": 164.9499969482422,
-        "high": 169.6999969482422,
-        "low": 156.8699951171875,
-        "close": 165.7899932861328
-      },
       {
         "time": "2026-03-04",
         "open": 165.66000366210938,
@@ -1099,13 +1092,16 @@
         "high": 343.0,
         "low": 337.8699951171875,
         "close": 338.989990234375
+      },
+      {
+        "time": "2026-10-06",
+        "open": 339.70001220703125,
+        "high": 349.0,
+        "low": 335.1099853515625,
+        "close": 335.95001220703125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-03",
-        "value": 197.89260040283204
-      },
       {
         "time": "2026-03-04",
         "value": 196.83160034179687
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-10-05",
         "value": 325.11419921875
+      },
+      {
+        "time": "2026-10-06",
+        "value": 326.37479919433594
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-03",
-        "value": 156.8377374952423
-      },
       {
         "time": "2026-03-04",
         "value": 156.5575654154405
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-10-05",
         "value": 324.5494546904127
+      },
+      {
+        "time": "2026-10-06",
+        "value": 324.55763221160805
       }
     ],
     "supportLine": 317.04
