@@ -3,69 +3,48 @@
     "ticker": "IQV",
     "name": "IQVIA Holdings, Inc.",
     "market": "NYQ",
-    "price": 258.21,
-    "change": -2.51,
-    "changePercent": -0.96
+    "price": 258.11,
+    "change": -1.87,
+    "changePercent": -0.72
   },
   "score": {
-    "total": 49,
-    "stars": 2.5,
+    "total": 43,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 50%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 253.8,
-    "maDistance_pct": 1.74,
-    "bb2Confluence_pct": 0.86,
-    "bb3Confluence_pct": 1.16,
+    "targetMA_price": 256.19,
+    "maDistance_pct": 0.75,
+    "bb2Confluence_pct": 0.04,
+    "bb3Confluence_pct": 1.89,
     "maKnock_count": 0,
-    "expectedRsi": 42.82
+    "expectedRsi": 46.05
   },
   "metrics": {
-    "maDistance": "+1.74%",
-    "bbConfluence": "0.86%",
+    "maDistance": "+0.75%",
+    "bbConfluence": "0.04%",
     "maKnock": "0 times recently",
-    "expectedRsi": "42.82"
+    "expectedRsi": "46.05"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 274.36,
-        "touches": 3,
-        "strength_score": 2.606
+        "price": 274.34,
+        "touches": 4,
+        "strength_score": 3.506
       },
       {
         "price": 265.25,
         "touches": 1,
-        "strength_score": 0.749
+        "strength_score": 0.724
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 50MA support zone near $253.8. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $274.36. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 50MA support zone near $256.19. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $274.34. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-02",
-        "open": 174.80999755859375,
-        "high": 177.2100067138672,
-        "low": 172.4499969482422,
-        "close": 174.27000427246094
-      },
-      {
-        "time": "2026-03-03",
-        "open": 170.7899932861328,
-        "high": 174.8300018310547,
-        "low": 168.52999877929688,
-        "close": 173.9600067138672
-      },
-      {
-        "time": "2026-03-04",
-        "open": 174.72999572753906,
-        "high": 178.27999877929688,
-        "low": 173.32000732421875,
-        "close": 177.8800048828125
-      },
       {
         "time": "2026-03-05",
         "open": 176.69000244140625,
@@ -1094,21 +1073,30 @@
         "high": 261.9800109863281,
         "low": 257.07000732421875,
         "close": 258.2099914550781
+      },
+      {
+        "time": "2026-10-05",
+        "open": 258.510009765625,
+        "high": 266.9100036621094,
+        "low": 258.510009765625,
+        "close": 266.0899963378906
+      },
+      {
+        "time": "2026-10-06",
+        "open": 269.42999267578125,
+        "high": 274.2799987792969,
+        "low": 259.7900085449219,
+        "close": 259.9800109863281
+      },
+      {
+        "time": "2026-10-07",
+        "open": 261.4100036621094,
+        "high": 261.4100036621094,
+        "low": 255.0500030517578,
+        "close": 258.1099853515625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-02",
-        "value": 211.86519927978514
-      },
-      {
-        "time": "2026-03-03",
-        "value": 210.91579956054687
-      },
-      {
-        "time": "2026-03-04",
-        "value": 210.02299957275392
-      },
       {
         "time": "2026-03-05",
         "value": 209.17919952392577
@@ -1696,21 +1684,21 @@
       {
         "time": "2026-10-02",
         "value": 253.79540008544922
+      },
+      {
+        "time": "2026-10-05",
+        "value": 254.95619995117187
+      },
+      {
+        "time": "2026-10-06",
+        "value": 255.8914001464844
+      },
+      {
+        "time": "2026-10-07",
+        "value": 256.1947998046875
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-02",
-        "value": 144.71911474326652
-      },
-      {
-        "time": "2026-03-03",
-        "value": 151.71762239290257
-      },
-      {
-        "time": "2026-03-04",
-        "value": 153.9811349550105
-      },
       {
         "time": "2026-03-05",
         "value": 157.0187353997511
@@ -2298,6 +2286,18 @@
       {
         "time": "2026-10-02",
         "value": 255.97365127561736
+      },
+      {
+        "time": "2026-10-05",
+        "value": 255.91503020810956
+      },
+      {
+        "time": "2026-10-06",
+        "value": 256.0527544880634
+      },
+      {
+        "time": "2026-10-07",
+        "value": 256.3043819125277
       }
     ],
     "supportLine": 252.85
