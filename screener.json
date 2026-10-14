@@ -104,19 +104,6 @@
     "expected_rsi": 43.85
   },
   {
-    "ticker": "SWKS",
-    "name": "Skyworks Solutions, Inc.",
-    "price": 74.7,
-    "changePercent": -2.16,
-    "score": 46,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.09,
-    "bb_confluence": 5.88,
-    "expected_rsi": 37.09
-  },
-  {
     "ticker": "MU",
     "name": "Micron Technology, Inc.",
     "price": 989.04,
@@ -180,6 +167,19 @@
     "ma_distance": 2.54,
     "bb_confluence": 6.1,
     "expected_rsi": 49.89
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions, Inc.",
+    "price": 74.7,
+    "changePercent": -2.16,
+    "score": 38,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.09,
+    "bb_confluence": 5.88,
+    "expected_rsi": 37.09
   },
   {
     "ticker": "TXN",
