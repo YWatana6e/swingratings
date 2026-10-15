@@ -3,87 +3,78 @@
     "ticker": "CDNS",
     "name": "Cadence Design Systems, Inc.",
     "market": "NMS",
-    "price": 334.2,
-    "change": -14.22,
-    "changePercent": -4.08
+    "price": 324.38,
+    "change": -5.08,
+    "changePercent": -1.54
   },
   "score": {
-    "total": 33,
+    "total": 34,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 320.64,
-    "maDistance_pct": 4.23,
-    "bb2Confluence_pct": 14.41,
-    "bb3Confluence_pct": 22.57,
+    "targetMA_price": 320.16,
+    "maDistance_pct": 1.32,
+    "bb2Confluence_pct": 9.71,
+    "bb3Confluence_pct": 16.32,
     "maKnock_count": 2,
-    "expectedRsi": 46.34
+    "expectedRsi": 45.8
   },
   "metrics": {
-    "maDistance": "+4.23%",
-    "bbConfluence": "14.41%",
+    "maDistance": "+1.32%",
+    "bbConfluence": "9.71%",
     "maKnock": "2 times recently",
-    "expectedRsi": "46.34"
+    "expectedRsi": "45.8"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 348.41,
         "touches": 2,
-        "strength_score": 1.259
+        "strength_score": 1.23
       },
       {
         "price": 363.46,
         "touches": 2,
-        "strength_score": 1.231
+        "strength_score": 1.203
       },
       {
         "price": 389.1,
         "touches": 2,
-        "strength_score": 0.897
+        "strength_score": 0.877
+      },
+      {
+        "price": 333.48,
+        "touches": 1,
+        "strength_score": 0.616
       },
       {
         "price": 355.59,
         "touches": 1,
-        "strength_score": 0.536
+        "strength_score": 0.524
       },
       {
         "price": 403.38,
         "touches": 1,
-        "strength_score": 0.392
+        "strength_score": 0.383
       },
       {
         "price": 416.69,
         "touches": 1,
-        "strength_score": 0.345
+        "strength_score": 0.338
       }
     ],
     "trendline_clusters": [
       {
-        "price": 340.21,
+        "price": 339.76,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that CDNS is currently testing its Daily 50MA support zone near $320.64. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $348.41 and a significant trendline confluence around $340.21 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CDNS is currently testing its Daily 50MA support zone near $320.16. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $348.41 and a significant trendline confluence around $339.76 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-11",
-        "open": 294.7900085449219,
-        "high": 296.0,
-        "low": 287.0,
-        "close": 294.1600036621094
-      },
-      {
-        "time": "2026-03-12",
-        "open": 290.92999267578125,
-        "high": 296.510009765625,
-        "low": 289.19000244140625,
-        "close": 290.32000732421875
-      },
       {
         "time": "2026-03-13",
         "open": 290.79998779296875,
@@ -1119,17 +1110,23 @@
         "high": 344.1300048828125,
         "low": 333.7900085449219,
         "close": 334.20001220703125
+      },
+      {
+        "time": "2026-10-14",
+        "open": 333.2699890136719,
+        "high": 335.9599914550781,
+        "low": 325.8500061035156,
+        "close": 329.4599914550781
+      },
+      {
+        "time": "2026-10-15",
+        "open": 323.8450012207031,
+        "high": 328.04998779296875,
+        "low": 315.9110107421875,
+        "close": 324.3800048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-11",
-        "value": 303.1853991699219
-      },
-      {
-        "time": "2026-03-12",
-        "value": 302.63759948730467
-      },
       {
         "time": "2026-03-13",
         "value": 302.06619934082033
@@ -1721,17 +1718,17 @@
       {
         "time": "2026-10-13",
         "value": 320.63740173339846
+      },
+      {
+        "time": "2026-10-14",
+        "value": 320.41420166015627
+      },
+      {
+        "time": "2026-10-15",
+        "value": 320.1604016113281
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-11",
-        "value": 283.4096841837712
-      },
-      {
-        "time": "2026-03-12",
-        "value": 282.75070328902734
-      },
       {
         "time": "2026-03-13",
         "value": 282.5231806312963
@@ -2323,6 +2320,14 @@
       {
         "time": "2026-10-13",
         "value": 274.42768905228945
+      },
+      {
+        "time": "2026-10-14",
+        "value": 281.5265318994515
+      },
+      {
+        "time": "2026-10-15",
+        "value": 289.0864194634028
       }
     ],
     "supportLine": 315.67
