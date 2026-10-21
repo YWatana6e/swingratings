@@ -3,104 +3,48 @@
     "ticker": "IQV",
     "name": "IQVIA Holdings, Inc.",
     "market": "NYQ",
-    "price": 258.11,
-    "change": -1.87,
-    "changePercent": -0.72
+    "price": 265.88,
+    "change": -1.02,
+    "changePercent": -0.38
   },
   "score": {
-    "total": 43,
-    "stars": 2.0,
-    "note": "/ 100 (Win Rate: 50%)"
+    "total": 19,
+    "stars": 1.0,
+    "note": "/ 100 (Win Rate: 57%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 256.19,
-    "maDistance_pct": 0.75,
-    "bb2Confluence_pct": 0.04,
-    "bb3Confluence_pct": 1.89,
-    "maKnock_count": 0,
-    "expectedRsi": 46.05
+    "targetMA_price": 260.56,
+    "maDistance_pct": 2.04,
+    "bb2Confluence_pct": 2.11,
+    "bb3Confluence_pct": 4.04,
+    "maKnock_count": 1,
+    "expectedRsi": 49.71
   },
   "metrics": {
-    "maDistance": "+0.75%",
-    "bbConfluence": "0.04%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "46.05"
+    "maDistance": "+2.04%",
+    "bbConfluence": "2.11%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "49.71"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 274.34,
-        "touches": 4,
-        "strength_score": 3.506
-      },
-      {
-        "price": 265.25,
-        "touches": 1,
-        "strength_score": 0.724
+        "price": 274.07,
+        "touches": 5,
+        "strength_score": 4.185
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 272.87,
+        "count": 4
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 50MA support zone near $256.19. Based on historical price action, bounces from this level have yielded a win rate of 50.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $274.34. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that IQV is currently testing its Daily 50MA support zone near $260.56. Based on historical price action, bounces from this level have yielded a win rate of 57.1%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $274.07 and a significant trendline confluence around $272.87 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-05",
-        "open": 176.69000244140625,
-        "high": 182.92999267578125,
-        "low": 176.27999877929688,
-        "close": 178.5
-      },
-      {
-        "time": "2026-03-06",
-        "open": 178.1999969482422,
-        "high": 179.64999389648438,
-        "low": 173.92999267578125,
-        "close": 174.49000549316406
-      },
-      {
-        "time": "2026-03-09",
-        "open": 174.49000549316406,
-        "high": 180.24000549316406,
-        "low": 172.1699981689453,
-        "close": 178.5500030517578
-      },
-      {
-        "time": "2026-03-10",
-        "open": 178.1199951171875,
-        "high": 180.13999938964844,
-        "low": 170.8800048828125,
-        "close": 170.92999267578125
-      },
-      {
-        "time": "2026-03-11",
-        "open": 170.41000366210938,
-        "high": 173.5,
-        "low": 169.41000366210938,
-        "close": 171.5800018310547
-      },
-      {
-        "time": "2026-03-12",
-        "open": 169.22999572753906,
-        "high": 172.77000427246094,
-        "low": 162.22000122070312,
-        "close": 162.92999267578125
-      },
-      {
-        "time": "2026-03-13",
-        "open": 164.64999389648438,
-        "high": 167.0399932861328,
-        "low": 164.13999938964844,
-        "close": 164.72000122070312
-      },
-      {
-        "time": "2026-03-16",
-        "open": 166.97999572753906,
-        "high": 168.86000061035156,
-        "low": 163.60000610351562,
-        "close": 164.88999938964844
-      },
       {
         "time": "2026-03-17",
         "open": 166.6699981689453,
@@ -1094,41 +1038,65 @@
         "high": 261.4100036621094,
         "low": 255.0500030517578,
         "close": 258.1099853515625
+      },
+      {
+        "time": "2026-10-08",
+        "open": 256.010009765625,
+        "high": 259.95001220703125,
+        "low": 252.55999755859375,
+        "close": 258.8800048828125
+      },
+      {
+        "time": "2026-10-09",
+        "open": 257.7300109863281,
+        "high": 263.510009765625,
+        "low": 257.7300109863281,
+        "close": 259.8800048828125
+      },
+      {
+        "time": "2026-10-12",
+        "open": 260.2300109863281,
+        "high": 263.82000732421875,
+        "low": 257.29998779296875,
+        "close": 262.2099914550781
+      },
+      {
+        "time": "2026-10-13",
+        "open": 263.489990234375,
+        "high": 265.0,
+        "low": 259.6099853515625,
+        "close": 260.67999267578125
+      },
+      {
+        "time": "2026-10-14",
+        "open": 264.3699951171875,
+        "high": 266.6600036621094,
+        "low": 260.82000732421875,
+        "close": 262.010009765625
+      },
+      {
+        "time": "2026-10-15",
+        "open": 265.1000061035156,
+        "high": 271.67999267578125,
+        "low": 261.7699890136719,
+        "close": 271.0400085449219
+      },
+      {
+        "time": "2026-10-16",
+        "open": 271.9200134277344,
+        "high": 272.9800109863281,
+        "low": 263.2099914550781,
+        "close": 266.8999938964844
+      },
+      {
+        "time": "2026-10-19",
+        "open": 268.1000061035156,
+        "high": 269.8699951171875,
+        "low": 264.07000732421875,
+        "close": 265.8800048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-05",
-        "value": 209.17919952392577
-      },
-      {
-        "time": "2026-03-06",
-        "value": 208.18159973144532
-      },
-      {
-        "time": "2026-03-09",
-        "value": 207.24959991455077
-      },
-      {
-        "time": "2026-03-10",
-        "value": 206.14779968261718
-      },
-      {
-        "time": "2026-03-11",
-        "value": 205.0409997558594
-      },
-      {
-        "time": "2026-03-12",
-        "value": 203.75739959716796
-      },
-      {
-        "time": "2026-03-13",
-        "value": 202.4979995727539
-      },
-      {
-        "time": "2026-03-16",
-        "value": 201.28759948730467
-      },
       {
         "time": "2026-03-17",
         "value": 200.14879943847657
@@ -1696,41 +1664,41 @@
       {
         "time": "2026-10-07",
         "value": 256.1947998046875
+      },
+      {
+        "time": "2026-10-08",
+        "value": 256.4211999511719
+      },
+      {
+        "time": "2026-10-09",
+        "value": 256.86300018310544
+      },
+      {
+        "time": "2026-10-12",
+        "value": 257.4067999267578
+      },
+      {
+        "time": "2026-10-13",
+        "value": 257.9531997680664
+      },
+      {
+        "time": "2026-10-14",
+        "value": 258.62940002441405
+      },
+      {
+        "time": "2026-10-15",
+        "value": 259.32920013427736
+      },
+      {
+        "time": "2026-10-16",
+        "value": 260.0186001586914
+      },
+      {
+        "time": "2026-10-19",
+        "value": 260.5622003173828
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-05",
-        "value": 157.0187353997511
-      },
-      {
-        "time": "2026-03-06",
-        "value": 157.04241487506778
-      },
-      {
-        "time": "2026-03-09",
-        "value": 157.75077922069457
-      },
-      {
-        "time": "2026-03-10",
-        "value": 159.7726645033662
-      },
-      {
-        "time": "2026-03-11",
-        "value": 160.3096353440431
-      },
-      {
-        "time": "2026-03-12",
-        "value": 159.4147804863027
-      },
-      {
-        "time": "2026-03-13",
-        "value": 158.947550574074
-      },
-      {
-        "time": "2026-03-16",
-        "value": 158.69207819039502
-      },
       {
         "time": "2026-03-17",
         "value": 159.15739385166316
@@ -2298,8 +2266,40 @@
       {
         "time": "2026-10-07",
         "value": 256.3043819125277
+      },
+      {
+        "time": "2026-10-08",
+        "value": 256.64720377680896
+      },
+      {
+        "time": "2026-10-09",
+        "value": 256.34260913266
+      },
+      {
+        "time": "2026-10-12",
+        "value": 256.0184041949617
+      },
+      {
+        "time": "2026-10-13",
+        "value": 255.45751482270035
+      },
+      {
+        "time": "2026-10-14",
+        "value": 255.1185984089757
+      },
+      {
+        "time": "2026-10-15",
+        "value": 255.04265384718633
+      },
+      {
+        "time": "2026-10-16",
+        "value": 255.0541822551167
+      },
+      {
+        "time": "2026-10-19",
+        "value": 255.0619055139639
       }
     ],
-    "supportLine": 252.85
+    "supportLine": 252.75
   }
 }

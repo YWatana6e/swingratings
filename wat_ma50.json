@@ -3,71 +3,43 @@
     "ticker": "WAT",
     "name": "Waters Corporation",
     "market": "NYQ",
-    "price": 429.17,
-    "change": -2.93,
-    "changePercent": -0.68
+    "price": 434.27,
+    "change": -2.68,
+    "changePercent": -0.61
   },
   "score": {
-    "total": 25,
-    "stars": 1.5,
-    "note": "/ 100 (Win Rate: 25%)"
+    "total": 24,
+    "stars": 1.0,
+    "note": "/ 100 (Win Rate: 31%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 418.09,
-    "maDistance_pct": 2.65,
-    "bb2Confluence_pct": 0.35,
-    "bb3Confluence_pct": 2.06,
-    "maKnock_count": 1,
-    "expectedRsi": 46.81
+    "targetMA_price": 421.07,
+    "maDistance_pct": 3.13,
+    "bb2Confluence_pct": 0.03,
+    "bb3Confluence_pct": 1.55,
+    "maKnock_count": 2,
+    "expectedRsi": 47.02
   },
   "metrics": {
-    "maDistance": "+2.65%",
-    "bbConfluence": "0.35%",
-    "maKnock": "1 time recently",
-    "expectedRsi": "46.81"
+    "maDistance": "+3.13%",
+    "bbConfluence": "0.03%",
+    "maKnock": "2 times recently",
+    "expectedRsi": "47.02"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 451.38,
-        "touches": 2,
-        "strength_score": 1.845
+        "price": 450.62,
+        "touches": 3,
+        "strength_score": 2.739
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that WAT is currently testing its Daily 50MA support zone near $418.09. Based on historical price action, bounces from this level have yielded a win rate of 25.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $451.38. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that WAT is currently testing its Daily 50MA support zone near $421.07. Based on historical price action, bounces from this level have yielded a win rate of 30.8%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $450.62. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-11",
-        "open": 301.0,
-        "high": 304.70001220703125,
-        "low": 295.0199890136719,
-        "close": 297.5400085449219
-      },
-      {
-        "time": "2026-03-12",
-        "open": 293.5400085449219,
-        "high": 296.8900146484375,
-        "low": 283.2699890136719,
-        "close": 283.32000732421875
-      },
-      {
-        "time": "2026-03-13",
-        "open": 285.4800109863281,
-        "high": 288.8500061035156,
-        "low": 282.7699890136719,
-        "close": 286.57000732421875
-      },
-      {
-        "time": "2026-03-16",
-        "open": 286.0,
-        "high": 294.1099853515625,
-        "low": 284.0799865722656,
-        "close": 290.0199890136719
-      },
       {
         "time": "2026-03-17",
         "open": 292.80999755859375,
@@ -1089,25 +1061,37 @@
         "high": 436.5299987792969,
         "low": 422.8299865722656,
         "close": 429.1700134277344
+      },
+      {
+        "time": "2026-10-14",
+        "open": 430.8800048828125,
+        "high": 441.8900146484375,
+        "low": 429.8999938964844,
+        "close": 436.6099853515625
+      },
+      {
+        "time": "2026-10-15",
+        "open": 440.3699951171875,
+        "high": 449.1199951171875,
+        "low": 435.7900085449219,
+        "close": 444.1499938964844
+      },
+      {
+        "time": "2026-10-16",
+        "open": 444.4800109863281,
+        "high": 448.3900146484375,
+        "low": 431.989990234375,
+        "close": 436.95001220703125
+      },
+      {
+        "time": "2026-10-19",
+        "open": 436.54998779296875,
+        "high": 441.2799987792969,
+        "low": 433.2699890136719,
+        "close": 434.2699890136719
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-11",
-        "value": 357.63359985351565
-      },
-      {
-        "time": "2026-03-12",
-        "value": 355.5979998779297
-      },
-      {
-        "time": "2026-03-13",
-        "value": 353.64960021972655
-      },
-      {
-        "time": "2026-03-16",
-        "value": 351.8534002685547
-      },
       {
         "time": "2026-03-17",
         "value": 350.1540002441406
@@ -1691,25 +1675,25 @@
       {
         "time": "2026-10-13",
         "value": 418.0856018066406
+      },
+      {
+        "time": "2026-10-14",
+        "value": 418.89620178222657
+      },
+      {
+        "time": "2026-10-15",
+        "value": 419.7792016601563
+      },
+      {
+        "time": "2026-10-16",
+        "value": 420.5242016601562
+      },
+      {
+        "time": "2026-10-19",
+        "value": 421.07240173339846
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-11",
-        "value": 297.40514567903216
-      },
-      {
-        "time": "2026-03-12",
-        "value": 290.85054484404225
-      },
-      {
-        "time": "2026-03-13",
-        "value": 286.2484084744732
-      },
-      {
-        "time": "2026-03-16",
-        "value": 283.0728613949116
-      },
       {
         "time": "2026-03-17",
         "value": 281.43939321346437
@@ -2293,6 +2277,22 @@
       {
         "time": "2026-10-13",
         "value": 416.6050828899075
+      },
+      {
+        "time": "2026-10-14",
+        "value": 418.4638887824018
+      },
+      {
+        "time": "2026-10-15",
+        "value": 418.17677927934574
+      },
+      {
+        "time": "2026-10-16",
+        "value": 419.7289889480446
+      },
+      {
+        "time": "2026-10-19",
+        "value": 420.9390281484568
       }
     ],
     "supportLine": 419.8
