@@ -260,19 +260,6 @@
     "expected_rsi": 53.15
   },
   {
-    "ticker": "VRSN",
-    "name": "VeriSign, Inc.",
-    "price": 300.32,
-    "changePercent": -1.4,
-    "score": 18,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.52,
-    "bb_confluence": 4.6,
-    "expected_rsi": 46.46
-  },
-  {
     "ticker": "COR",
     "name": "Cencora, Inc.",
     "price": 331.0,
@@ -310,6 +297,19 @@
     "ma_distance": 4.89,
     "bb_confluence": 6.59,
     "expected_rsi": 27.46
+  },
+  {
+    "ticker": "VRSN",
+    "name": "VeriSign, Inc.",
+    "price": 300.32,
+    "changePercent": -1.4,
+    "score": 14,
+    "stars": 0.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.52,
+    "bb_confluence": 4.6,
+    "expected_rsi": 46.46
   },
   {
     "ticker": "COR",
