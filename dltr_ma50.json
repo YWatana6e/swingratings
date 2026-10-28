@@ -3,88 +3,58 @@
     "ticker": "DLTR",
     "name": "Dollar Tree, Inc.",
     "market": "NMS",
-    "price": 123.15,
-    "change": -1.03,
-    "changePercent": -0.83
+    "price": 124.92,
+    "change": -0.39,
+    "changePercent": -0.31
   },
   "score": {
-    "total": 38,
+    "total": 41,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 86%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 122.13,
-    "maDistance_pct": 0.84,
-    "bb2Confluence_pct": 10.5,
-    "bb3Confluence_pct": 13.57,
-    "maKnock_count": 0,
-    "expectedRsi": 58.37
+    "targetMA_price": 121.86,
+    "maDistance_pct": 2.51,
+    "bb2Confluence_pct": 10.29,
+    "bb3Confluence_pct": 14.59,
+    "maKnock_count": 1,
+    "expectedRsi": 52.53
   },
   "metrics": {
-    "maDistance": "+0.84%",
-    "bbConfluence": "10.50%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "58.37"
+    "maDistance": "+2.51%",
+    "bbConfluence": "10.29%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "52.53"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 133.45,
-        "touches": 3,
-        "strength_score": 1.711
-      },
-      {
-        "price": 126.81,
-        "touches": 2,
-        "strength_score": 1.402
+        "price": 132.88,
+        "touches": 4,
+        "strength_score": 2.592
       },
       {
         "price": 137.07,
         "touches": 1,
-        "strength_score": 0.637
+        "strength_score": 0.602
+      },
+      {
+        "price": 126.62,
+        "touches": 1,
+        "strength_score": 0.401
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 130.89,
+        "count": 2
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that DLTR is currently testing its Daily 50MA support zone near $122.13. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $133.45. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that DLTR is currently testing its Daily 50MA support zone near $121.86. Based on historical price action, bounces from this level have yielded a win rate of 85.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $132.88 and a significant trendline confluence around $130.89 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-17",
-        "open": 115.19000244140625,
-        "high": 117.05999755859375,
-        "low": 111.2699966430664,
-        "close": 111.83999633789062
-      },
-      {
-        "time": "2026-03-18",
-        "open": 110.97000122070312,
-        "high": 111.4800033569336,
-        "low": 106.58999633789062,
-        "close": 107.48999786376953
-      },
-      {
-        "time": "2026-03-19",
-        "open": 107.7699966430664,
-        "high": 108.04000091552734,
-        "low": 104.41999816894531,
-        "close": 105.55999755859375
-      },
-      {
-        "time": "2026-03-20",
-        "open": 105.55999755859375,
-        "high": 106.91999816894531,
-        "low": 104.20999908447266,
-        "close": 105.91999816894531
-      },
-      {
-        "time": "2026-03-23",
-        "open": 108.38999938964844,
-        "high": 109.87999725341797,
-        "low": 106.44000244140625,
-        "close": 108.2699966430664
-      },
       {
         "time": "2026-03-24",
         "open": 106.80999755859375,
@@ -1099,29 +1069,44 @@
         "high": 125.05000305175781,
         "low": 122.45999908447266,
         "close": 123.1500015258789
+      },
+      {
+        "time": "2026-10-20",
+        "open": 124.38999938964844,
+        "high": 127.16999816894531,
+        "low": 123.80999755859375,
+        "close": 124.95999908447266
+      },
+      {
+        "time": "2026-10-21",
+        "open": 124.86000061035156,
+        "high": 126.44999694824219,
+        "low": 123.5,
+        "close": 125.4800033569336
+      },
+      {
+        "time": "2026-10-22",
+        "open": 125.88999938964844,
+        "high": 131.14999389648438,
+        "low": 123.83000183105469,
+        "close": 131.0399932861328
+      },
+      {
+        "time": "2026-10-23",
+        "open": 130.13999938964844,
+        "high": 130.58999633789062,
+        "low": 122.5199966430664,
+        "close": 125.30999755859375
+      },
+      {
+        "time": "2026-10-26",
+        "open": 125.73999786376953,
+        "high": 127.33000183105469,
+        "low": 122.69000244140625,
+        "close": 124.91999816894531
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-17",
-        "value": 125.12339981079101
-      },
-      {
-        "time": "2026-03-18",
-        "value": 124.70179962158203
-      },
-      {
-        "time": "2026-03-19",
-        "value": 124.13739959716797
-      },
-      {
-        "time": "2026-03-20",
-        "value": 123.624599609375
-      },
-      {
-        "time": "2026-03-23",
-        "value": 123.1577995300293
-      },
       {
         "time": "2026-03-24",
         "value": 122.64079940795898
@@ -1701,29 +1686,29 @@
       {
         "time": "2026-10-19",
         "value": 122.12859954833985
+      },
+      {
+        "time": "2026-10-20",
+        "value": 122.04039962768555
+      },
+      {
+        "time": "2026-10-21",
+        "value": 121.98879974365235
+      },
+      {
+        "time": "2026-10-22",
+        "value": 122.03739959716796
+      },
+      {
+        "time": "2026-10-23",
+        "value": 121.95299957275391
+      },
+      {
+        "time": "2026-10-26",
+        "value": 121.86359954833985
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-17",
-        "value": 104.65928305115871
-      },
-      {
-        "time": "2026-03-18",
-        "value": 103.25308351623634
-      },
-      {
-        "time": "2026-03-19",
-        "value": 101.97699428943093
-      },
-      {
-        "time": "2026-03-20",
-        "value": 101.41236944356748
-      },
-      {
-        "time": "2026-03-23",
-        "value": 101.12639047612318
-      },
       {
         "time": "2026-03-24",
         "value": 101.21515224392756
@@ -2303,6 +2288,26 @@
       {
         "time": "2026-10-19",
         "value": 109.30479939541891
+      },
+      {
+        "time": "2026-10-20",
+        "value": 109.05686303593512
+      },
+      {
+        "time": "2026-10-21",
+        "value": 109.17524130111644
+      },
+      {
+        "time": "2026-10-22",
+        "value": 108.60002320321345
+      },
+      {
+        "time": "2026-10-23",
+        "value": 109.02648498771465
+      },
+      {
+        "time": "2026-10-26",
+        "value": 109.31834099051983
       }
     ],
     "supportLine": 116.98
