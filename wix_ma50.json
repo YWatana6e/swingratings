@@ -3,9 +3,9 @@
     "ticker": "WIX",
     "name": "Wix.com Ltd.",
     "market": "NMS",
-    "price": 80.38,
-    "change": -1.56,
-    "changePercent": -1.9
+    "price": 79.19,
+    "change": -1.19,
+    "changePercent": -1.48
   },
   "score": {
     "total": 21,
@@ -14,49 +14,42 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 78.44,
-    "maDistance_pct": 2.48,
-    "bb2Confluence_pct": 12.28,
-    "bb3Confluence_pct": 16.76,
+    "targetMA_price": 78.55,
+    "maDistance_pct": 0.82,
+    "bb2Confluence_pct": 11.57,
+    "bb3Confluence_pct": 15.89,
     "maKnock_count": 1,
-    "expectedRsi": 53.13
+    "expectedRsi": 53.23
   },
   "metrics": {
-    "maDistance": "+2.48%",
-    "bbConfluence": "12.28%",
+    "maDistance": "+0.82%",
+    "bbConfluence": "11.57%",
     "maKnock": "1 time recently",
-    "expectedRsi": "53.13"
+    "expectedRsi": "53.23"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 84.94,
         "touches": 3,
-        "strength_score": 2.442
+        "strength_score": 2.414
       },
       {
         "price": 81.57,
         "touches": 3,
-        "strength_score": 1.75
+        "strength_score": 1.73
       },
       {
         "price": 96.8,
         "touches": 1,
-        "strength_score": 0.645
+        "strength_score": 0.637
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that WIX is currently testing its Daily 50MA support zone near $78.44. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $84.94. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that WIX is currently testing its Daily 50MA support zone near $78.55. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $84.94. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-24",
-        "open": 89.16000366210938,
-        "high": 89.9000015258789,
-        "low": 87.2300033569336,
-        "close": 88.0999984741211
-      },
       {
         "time": "2026-03-25",
         "open": 88.68000030517578,
@@ -1099,13 +1092,16 @@
         "high": 81.67500305175781,
         "low": 78.9739990234375,
         "close": 80.37999725341797
+      },
+      {
+        "time": "2026-10-27",
+        "open": 80.33000183105469,
+        "high": 81.91200256347656,
+        "low": 77.70500183105469,
+        "close": 79.19000244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-24",
-        "value": 81.19419929504394
-      },
       {
         "time": "2026-03-25",
         "value": 81.13579933166504
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-10-26",
         "value": 78.43650024414063
+      },
+      {
+        "time": "2026-10-27",
+        "value": 78.54590026855469
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-24",
-        "value": 67.92578153658681
-      },
       {
         "time": "2026-03-25",
         "value": 71.50463444757634
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-10-26",
         "value": 68.80505982328617
+      },
+      {
+        "time": "2026-10-27",
+        "value": 69.45804730203602
       }
     ],
     "supportLine": 51.54

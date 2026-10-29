@@ -3,80 +3,73 @@
     "ticker": "ALGN",
     "name": "Align Technology, Inc.",
     "market": "NMS",
-    "price": 152.26,
-    "change": -2.25,
-    "changePercent": -1.46
+    "price": 151.95,
+    "change": -0.31,
+    "changePercent": -0.2
   },
   "score": {
-    "total": 29,
+    "total": 30,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 69%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 151.49,
-    "maDistance_pct": 0.51,
-    "bb2Confluence_pct": 9.77,
-    "bb3Confluence_pct": 12.89,
+    "targetMA_price": 151.11,
+    "maDistance_pct": 0.56,
+    "bb2Confluence_pct": 9.46,
+    "bb3Confluence_pct": 12.68,
     "maKnock_count": 1,
-    "expectedRsi": 55.85
+    "expectedRsi": 55.16
   },
   "metrics": {
-    "maDistance": "+0.51%",
-    "bbConfluence": "9.77%",
+    "maDistance": "+0.56%",
+    "bbConfluence": "9.46%",
     "maKnock": "1 time recently",
-    "expectedRsi": "55.85"
+    "expectedRsi": "55.16"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 155.02,
         "touches": 2,
-        "strength_score": 1.735
-      },
-      {
-        "price": 177.99,
-        "touches": 3,
-        "strength_score": 0.89
+        "strength_score": 1.715
       },
       {
         "price": 162.92,
         "touches": 1,
-        "strength_score": 0.66
+        "strength_score": 0.652
+      },
+      {
+        "price": 178.76,
+        "touches": 2,
+        "strength_score": 0.627
       },
       {
         "price": 182.2,
         "touches": 1,
-        "strength_score": 0.561
+        "strength_score": 0.555
       },
       {
         "price": 187.96,
         "touches": 1,
-        "strength_score": 0.494
+        "strength_score": 0.489
       },
       {
         "price": 190.97,
         "touches": 1,
-        "strength_score": 0.406
+        "strength_score": 0.401
       },
       {
         "price": 185.0,
         "touches": 1,
-        "strength_score": 0.354
+        "strength_score": 0.349
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ALGN is currently testing its Daily 50MA support zone near $151.49. Based on historical price action, bounces from this level have yielded a win rate of 69.2%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $155.02. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ALGN is currently testing its Daily 50MA support zone near $151.11. Based on historical price action, bounces from this level have yielded a win rate of 69.2%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $155.02. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-24",
-        "open": 177.9199981689453,
-        "high": 181.4499969482422,
-        "low": 175.3800048828125,
-        "close": 179.33999633789062
-      },
       {
         "time": "2026-03-25",
         "open": 180.77999877929688,
@@ -1119,13 +1112,16 @@
         "high": 154.9199981689453,
         "low": 150.75999450683594,
         "close": 152.25999450683594
+      },
+      {
+        "time": "2026-10-27",
+        "open": 152.02999877929688,
+        "high": 152.6999969482422,
+        "low": 150.77000427246094,
+        "close": 151.9499969482422
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-24",
-        "value": 176.589599609375
-      },
       {
         "time": "2026-03-25",
         "value": 176.75499969482422
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-10-26",
         "value": 151.49279968261717
+      },
+      {
+        "time": "2026-10-27",
+        "value": 151.10859954833984
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-24",
-        "value": 162.6254876194098
-      },
       {
         "time": "2026-03-25",
         "value": 162.98130052803234
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-10-26",
         "value": 136.68731533827471
+      },
+      {
+        "time": "2026-10-27",
+        "value": 136.80824563742706
       }
     ],
     "supportLine": 165.25

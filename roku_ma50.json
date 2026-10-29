@@ -3,50 +3,48 @@
     "ticker": "ROKU",
     "name": "Roku, Inc.",
     "market": "NMS",
-    "price": 157.23,
-    "change": -1.35,
-    "changePercent": -0.85
+    "price": 156.66,
+    "change": -0.57,
+    "changePercent": -0.36
   },
   "score": {
-    "total": 18,
+    "total": 19,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 60%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 155.28,
-    "maDistance_pct": 1.26,
-    "bb2Confluence_pct": 3.82,
-    "bb3Confluence_pct": 5.42,
+    "targetMA_price": 155.25,
+    "maDistance_pct": 0.91,
+    "bb2Confluence_pct": 3.64,
+    "bb3Confluence_pct": 5.25,
     "maKnock_count": 1,
-    "expectedRsi": 55.22
+    "expectedRsi": 54.67
   },
   "metrics": {
-    "maDistance": "+1.26%",
-    "bbConfluence": "3.82%",
+    "maDistance": "+0.91%",
+    "bbConfluence": "3.64%",
     "maKnock": "1 time recently",
-    "expectedRsi": "55.22"
+    "expectedRsi": "54.67"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 159.3,
         "touches": 5,
-        "strength_score": 3.538
+        "strength_score": 3.498
       }
     ],
-    "trendline_clusters": []
+    "trendline_clusters": [
+      {
+        "price": 157.13,
+        "count": 4
+      }
+    ]
   },
-  "summary": "The SwingRatings algorithm indicates that ROKU is currently testing its Daily 50MA support zone near $155.28. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $159.30. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ROKU is currently testing its Daily 50MA support zone near $155.25. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $159.30 and a significant trendline confluence around $157.13 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-24",
-        "open": 96.61000061035156,
-        "high": 97.72599792480469,
-        "low": 94.44000244140625,
-        "close": 95.58999633789062
-      },
       {
         "time": "2026-03-25",
         "open": 97.41999816894531,
@@ -1089,13 +1087,16 @@
         "high": 159.38499450683594,
         "low": 156.7899932861328,
         "close": 157.22999572753906
+      },
+      {
+        "time": "2026-10-27",
+        "open": 157.4499969482422,
+        "high": 157.4499969482422,
+        "low": 156.1750030517578,
+        "close": 156.66000366210938
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-24",
-        "value": 96.4002001953125
-      },
       {
         "time": "2026-03-25",
         "value": 96.08700012207031
@@ -1691,13 +1692,13 @@
       {
         "time": "2026-10-26",
         "value": 155.27819885253905
+      },
+      {
+        "time": "2026-10-27",
+        "value": 155.24519897460937
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-24",
-        "value": 91.0385458173879
-      },
       {
         "time": "2026-03-25",
         "value": 91.48138734409162
@@ -2293,6 +2294,10 @@
       {
         "time": "2026-10-26",
         "value": 149.35187695115687
+      },
+      {
+        "time": "2026-10-27",
+        "value": 149.58870251564858
       }
     ],
     "supportLine": 151.15
