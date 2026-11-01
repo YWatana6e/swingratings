@@ -3,65 +3,58 @@
     "ticker": "TSLA",
     "name": "Tesla, Inc.",
     "market": "NMS",
-    "price": 403.3,
-    "change": -0.92,
-    "changePercent": -0.23
+    "price": 399.81,
+    "change": -3.49,
+    "changePercent": -0.87
   },
   "score": {
-    "total": 22,
+    "total": 23,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 67%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 385.5,
-    "maDistance_pct": 4.62,
-    "bb2Confluence_pct": 8.57,
-    "bb3Confluence_pct": 12.05,
+    "targetMA_price": 385.3,
+    "maDistance_pct": 3.77,
+    "bb2Confluence_pct": 8.44,
+    "bb3Confluence_pct": 12.06,
     "maKnock_count": 1,
-    "expectedRsi": 54.73
+    "expectedRsi": 54.21
   },
   "metrics": {
-    "maDistance": "+4.62%",
-    "bbConfluence": "8.57%",
+    "maDistance": "+3.77%",
+    "bbConfluence": "8.44%",
     "maKnock": "1 time recently",
-    "expectedRsi": "54.73"
+    "expectedRsi": "54.21"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 413.87,
         "touches": 3,
-        "strength_score": 1.672
+        "strength_score": 1.653
       },
       {
         "price": 432.86,
         "touches": 1,
-        "strength_score": 0.379
+        "strength_score": 0.375
       },
       {
         "price": 445.6,
         "touches": 1,
-        "strength_score": 0.287
+        "strength_score": 0.284
       },
       {
         "price": 453.4,
         "touches": 1,
-        "strength_score": 0.259
+        "strength_score": 0.256
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that TSLA is currently testing its Daily 200MA support zone near $385.5. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $413.87. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TSLA is currently testing its Daily 200MA support zone near $385.3. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $413.87. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-27",
-        "open": 369.69000244140625,
-        "high": 369.8599853515625,
-        "low": 359.4700012207031,
-        "close": 361.8299865722656
-      },
       {
         "time": "2026-03-30",
         "open": 365.8599853515625,
@@ -1104,13 +1097,16 @@
         "high": 406.9800109863281,
         "low": 400.5,
         "close": 403.29998779296875
+      },
+      {
+        "time": "2026-10-30",
+        "open": 393.2200012207031,
+        "high": 404.2200012207031,
+        "low": 387.5199890136719,
+        "close": 399.80999755859375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-27",
-        "value": 396.0711996459961
-      },
       {
         "time": "2026-03-30",
         "value": 396.2154496765137
@@ -1706,13 +1702,13 @@
       {
         "time": "2026-10-29",
         "value": 385.4955490112305
+      },
+      {
+        "time": "2026-10-30",
+        "value": 385.2985989379883
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-27",
-        "value": 365.5433074667494
-      },
       {
         "time": "2026-03-30",
         "value": 359.49222398875884
@@ -2308,6 +2304,10 @@
       {
         "time": "2026-10-29",
         "value": 352.4504989225877
+      },
+      {
+        "time": "2026-10-30",
+        "value": 352.793143092149
       }
     ],
     "supportLine": 347.95
