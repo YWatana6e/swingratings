@@ -3,9 +3,9 @@
     "ticker": "CRWD",
     "name": "CrowdStrike Holdings, Inc.",
     "market": "NMS",
-    "price": 250.43,
-    "change": -10.72,
-    "changePercent": -4.1
+    "price": 241.81,
+    "change": -8.62,
+    "changePercent": -3.44
   },
   "score": {
     "total": 41,
@@ -14,44 +14,37 @@
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 240.25,
-    "maDistance_pct": 4.24,
-    "bb2Confluence_pct": 6.92,
-    "bb3Confluence_pct": 13.44,
+    "targetMA_price": 241.25,
+    "maDistance_pct": 0.23,
+    "bb2Confluence_pct": 7.69,
+    "bb3Confluence_pct": 14.05,
     "maKnock_count": 1,
-    "expectedRsi": 45.68
+    "expectedRsi": 46.28
   },
   "metrics": {
-    "maDistance": "+4.24%",
-    "bbConfluence": "6.92%",
+    "maDistance": "+0.23%",
+    "bbConfluence": "7.69%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.68"
+    "expectedRsi": "46.28"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 272.29,
         "touches": 1,
-        "strength_score": 0.977
+        "strength_score": 0.966
       },
       {
         "price": 286.99,
         "touches": 1,
-        "strength_score": 0.812
+        "strength_score": 0.803
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that CRWD is currently testing its Daily 50MA support zone near $240.25. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $272.29. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that CRWD is currently testing its Daily 50MA support zone near $241.25. Based on historical price action, bounces from this level have yielded a win rate of 66.7%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $272.29. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-03-30",
-        "open": 94.89250183105469,
-        "high": 97.62174987792969,
-        "low": 94.09750366210938,
-        "close": 95.01499938964844
-      },
       {
         "time": "2026-03-31",
         "open": 95.4749984741211,
@@ -1094,13 +1087,16 @@
         "high": 264.9049987792969,
         "low": 245.14999389648438,
         "close": 250.42999267578125
+      },
+      {
+        "time": "2026-11-02",
+        "open": 253.0,
+        "high": 253.61000061035156,
+        "low": 240.1699981689453,
+        "close": 241.80999755859375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-03-30",
-        "value": 104.16550003051758
-      },
       {
         "time": "2026-03-31",
         "value": 103.84815002441407
@@ -1696,13 +1692,13 @@
       {
         "time": "2026-10-30",
         "value": 240.2516003417969
+      },
+      {
+        "time": "2026-11-02",
+        "value": 241.24880035400392
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-03-30",
-        "value": 92.71438903901254
-      },
       {
         "time": "2026-03-31",
         "value": 92.6739018393107
@@ -2298,8 +2294,12 @@
       {
         "time": "2026-10-30",
         "value": 223.62921501388007
+      },
+      {
+        "time": "2026-11-02",
+        "value": 222.69653687510538
       }
     ],
-    "supportLine": 202.44
+    "supportLine": 181.12
   }
 }
