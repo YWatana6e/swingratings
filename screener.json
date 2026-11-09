@@ -208,6 +208,19 @@
     "expected_rsi": 43.21
   },
   {
+    "ticker": "AES",
+    "name": "The AES Corporation",
+    "price": 14.87,
+    "changePercent": -0.13,
+    "score": 49,
+    "stars": 2.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.9,
+    "bb_confluence": 1.04,
+    "expected_rsi": 40.73
+  },
+  {
     "ticker": "TRGP",
     "name": "Targa Resources, Inc.",
     "price": 264.59,
@@ -245,19 +258,6 @@
     "ma_distance": 1.02,
     "bb_confluence": 2.33,
     "expected_rsi": 45.79
-  },
-  {
-    "ticker": "AES",
-    "name": "The AES Corporation",
-    "price": 14.87,
-    "changePercent": -0.13,
-    "score": 45,
-    "stars": 2.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.9,
-    "bb_confluence": 1.04,
-    "expected_rsi": 40.73
   },
   {
     "ticker": "BC",
@@ -338,6 +338,19 @@
     "expected_rsi": 39.44
   },
   {
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "price": 308.14,
+    "changePercent": -2.73,
+    "score": 38,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.81,
+    "bb_confluence": 6.48,
+    "expected_rsi": 49.49
+  },
+  {
     "ticker": "EXPD",
     "name": "Expeditors International of Was",
     "price": 184.61,
@@ -364,19 +377,6 @@
     "expected_rsi": 58.38
   },
   {
-    "ticker": "FDX",
-    "name": "FedEx Corporation",
-    "price": 308.14,
-    "changePercent": -2.73,
-    "score": 38,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.81,
-    "bb_confluence": 6.48,
-    "expected_rsi": 49.49
-  },
-  {
     "ticker": "AAPL",
     "name": "Apple Inc.",
     "price": 342.37,
@@ -401,19 +401,6 @@
     "ma_distance": 2.07,
     "bb_confluence": 0.22,
     "expected_rsi": 44.49
-  },
-  {
-    "ticker": "TROW",
-    "name": "T. Rowe Price Group, Inc.",
-    "price": 108.41,
-    "changePercent": -0.28,
-    "score": 37,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.28,
-    "bb_confluence": 6.63,
-    "expected_rsi": 50.9
   },
   {
     "ticker": "ASR",
@@ -598,19 +585,6 @@
     "expected_rsi": 48.66
   },
   {
-    "ticker": "CI",
-    "name": "The Cigna Group",
-    "price": 293.59,
-    "changePercent": -2.62,
-    "score": 30,
-    "stars": 1.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.83,
-    "bb_confluence": 1.11,
-    "expected_rsi": 41.5
-  },
-  {
     "ticker": "EMR",
     "name": "Emerson Electric Company",
     "price": 162.35,
@@ -650,6 +624,19 @@
     "expected_rsi": 48.04
   },
   {
+    "ticker": "CI",
+    "name": "The Cigna Group",
+    "price": 293.59,
+    "changePercent": -2.62,
+    "score": 29,
+    "stars": 1.5,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 4.83,
+    "bb_confluence": 1.11,
+    "expected_rsi": 41.5
+  },
+  {
     "ticker": "GRMN",
     "name": "Garmin Ltd.",
     "price": 285.57,
@@ -674,6 +661,19 @@
     "ma_distance": 0.58,
     "bb_confluence": 0.25,
     "expected_rsi": 44.46
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price Group, Inc.",
+    "price": 108.41,
+    "changePercent": -0.28,
+    "score": 28,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.28,
+    "bb_confluence": 6.63,
+    "expected_rsi": 50.9
   },
   {
     "ticker": "IBM",
@@ -897,6 +897,19 @@
     "expected_rsi": 52.58
   },
   {
+    "ticker": "ZION",
+    "name": "Zions Bancorporation N.A.",
+    "price": 64.76,
+    "changePercent": -0.26,
+    "score": 23,
+    "stars": 1.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 2.01,
+    "bb_confluence": 2.64,
+    "expected_rsi": 44.34
+  },
+  {
     "ticker": "WFC",
     "name": "Wells Fargo & Company",
     "price": 83.94,
@@ -921,19 +934,6 @@
     "ma_distance": 3.46,
     "bb_confluence": 0.21,
     "expected_rsi": 43.86
-  },
-  {
-    "ticker": "ZION",
-    "name": "Zions Bancorporation N.A.",
-    "price": 64.76,
-    "changePercent": -0.26,
-    "score": 22,
-    "stars": 1.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 2.01,
-    "bb_confluence": 2.64,
-    "expected_rsi": 44.34
   },
   {
     "ticker": "CNC",
@@ -1079,19 +1079,6 @@
     "expected_rsi": 46.92
   },
   {
-    "ticker": "MET",
-    "name": "MetLife, Inc.",
-    "price": 98.27,
-    "changePercent": -1.48,
-    "score": 18,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.67,
-    "bb_confluence": 0.07,
-    "expected_rsi": 47.83
-  },
-  {
     "ticker": "STZ",
     "name": "Constellation Brands, Inc.",
     "price": 141.97,
@@ -1129,6 +1116,19 @@
     "ma_distance": 3.66,
     "bb_confluence": 2.53,
     "expected_rsi": 44.45
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife, Inc.",
+    "price": 98.27,
+    "changePercent": -1.48,
+    "score": 18,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.67,
+    "bb_confluence": 0.07,
+    "expected_rsi": 47.83
   },
   {
     "ticker": "COR",
@@ -1560,6 +1560,19 @@
     "expected_rsi": 50.3
   },
   {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb Company",
+    "price": 62.14,
+    "changePercent": -1.57,
+    "score": 8,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.27,
+    "bb_confluence": 6.46,
+    "expected_rsi": 50.55
+  },
+  {
     "ticker": "GD",
     "name": "General Dynamics Corporation",
     "price": 354.06,
@@ -1651,19 +1664,6 @@
     "expected_rsi": 47.92
   },
   {
-    "ticker": "BMY",
-    "name": "Bristol-Myers Squibb Company",
-    "price": 62.14,
-    "changePercent": -1.57,
-    "score": 6,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.27,
-    "bb_confluence": 6.46,
-    "expected_rsi": 50.55
-  },
-  {
     "ticker": "LMT",
     "name": "Lockheed Martin Corporation",
     "price": 567.08,
@@ -1701,19 +1701,6 @@
     "ma_distance": 2.49,
     "bb_confluence": 4.18,
     "expected_rsi": 49.21
-  },
-  {
-    "ticker": "LNT",
-    "name": "Alliant Energy Corporation",
-    "price": 72.67,
-    "changePercent": -1.05,
-    "score": 4,
-    "stars": 0.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.35,
-    "bb_confluence": 7.44,
-    "expected_rsi": 53.46
   },
   {
     "ticker": "SHW",
@@ -2065,6 +2052,19 @@
     "ma_distance": 2.74,
     "bb_confluence": 5.61,
     "expected_rsi": 52.88
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy Corporation",
+    "price": 72.67,
+    "changePercent": -1.05,
+    "score": 0,
+    "stars": 0.0,
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 4.35,
+    "bb_confluence": 7.44,
+    "expected_rsi": 53.46
   },
   {
     "ticker": "LNT",
