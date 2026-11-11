@@ -78,19 +78,6 @@
     "expected_rsi": 38.21
   },
   {
-    "ticker": "PFE",
-    "name": "Pfizer, Inc.",
-    "price": 29.23,
-    "changePercent": -0.54,
-    "score": 42,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.03,
-    "bb_confluence": 0.04,
-    "expected_rsi": 45.6
-  },
-  {
     "ticker": "PPL",
     "name": "PPL Corporation",
     "price": 35.7,
@@ -102,6 +89,19 @@
     "ma_distance": 4.41,
     "bb_confluence": 0.14,
     "expected_rsi": 44.41
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer, Inc.",
+    "price": 29.23,
+    "changePercent": -0.54,
+    "score": 40,
+    "stars": 2.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.03,
+    "bb_confluence": 0.04,
+    "expected_rsi": 45.6
   },
   {
     "ticker": "ELV",
@@ -299,6 +299,19 @@
     "expected_rsi": 41.9
   },
   {
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "price": 114.76,
+    "changePercent": -1.96,
+    "score": 18,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.5,
+    "bb_confluence": 5.6,
+    "expected_rsi": 49.14
+  },
+  {
     "ticker": "PPL",
     "name": "PPL Corporation",
     "price": 35.7,
@@ -427,19 +440,6 @@
     "ma_distance": 1.87,
     "bb_confluence": 1.87,
     "expected_rsi": 49.26
-  },
-  {
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "price": 114.76,
-    "changePercent": -1.96,
-    "score": 9,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.5,
-    "bb_confluence": 5.6,
-    "expected_rsi": 49.14
   },
   {
     "ticker": "KHC",
