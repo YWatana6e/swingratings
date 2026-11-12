@@ -3,41 +3,41 @@
     "ticker": "MNST",
     "name": "Monster Beverage Corporation",
     "market": "NMS",
-    "price": 45.64,
-    "change": -0.08,
-    "changePercent": -0.17
+    "price": 45.34,
+    "change": -0.3,
+    "changePercent": -0.66
   },
   "score": {
-    "total": 33,
-    "stars": 1.5,
+    "total": 41,
+    "stars": 2.0,
     "note": "/ 100 (Win Rate: 57%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 44.68,
-    "maDistance_pct": 2.14,
-    "bb2Confluence_pct": 1.9,
-    "bb3Confluence_pct": 4.7,
+    "targetMA_price": 44.67,
+    "maDistance_pct": 1.49,
+    "bb2Confluence_pct": 0.83,
+    "bb3Confluence_pct": 3.24,
     "maKnock_count": 1,
-    "expectedRsi": 45.63
+    "expectedRsi": 45.48
   },
   "metrics": {
-    "maDistance": "+2.14%",
-    "bbConfluence": "1.90%",
+    "maDistance": "+1.49%",
+    "bbConfluence": "0.83%",
     "maKnock": "1 time recently",
-    "expectedRsi": "45.63"
+    "expectedRsi": "45.48"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 49.63,
         "touches": 5,
-        "strength_score": 2.713
+        "strength_score": 2.682
       },
       {
         "price": 47.27,
         "touches": 2,
-        "strength_score": 1.162
+        "strength_score": 1.149
       }
     ],
     "trendline_clusters": [
@@ -46,21 +46,14 @@
         "count": 4
       },
       {
-        "price": 47.02,
+        "price": 46.98,
         "count": 3
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 50MA support zone near $44.68. Based on historical price action, bounces from this level have yielded a win rate of 57.1%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $49.63 and a significant trendline confluence around $49.49 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that MNST is currently testing its Daily 50MA support zone near $44.67. Based on historical price action, bounces from this level have yielded a win rate of 57.1%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $49.63 and a significant trendline confluence around $49.49 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-08",
-        "open": 37.255001068115234,
-        "high": 37.81999969482422,
-        "low": 37.03499984741211,
-        "close": 37.56999969482422
-      },
       {
         "time": "2026-04-09",
         "open": 37.30500030517578,
@@ -1103,13 +1096,16 @@
         "high": 46.130001068115234,
         "low": 44.939998626708984,
         "close": 45.63999938964844
+      },
+      {
+        "time": "2026-11-10",
+        "open": 45.63999938964844,
+        "high": 45.95000076293945,
+        "low": 45.16999816894531,
+        "close": 45.34000015258789
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-08",
-        "value": 39.21690017700195
-      },
       {
         "time": "2026-04-09",
         "value": 39.16470016479492
@@ -1705,13 +1701,13 @@
       {
         "time": "2026-11-09",
         "value": 44.68419998168945
+      },
+      {
+        "time": "2026-11-10",
+        "value": 44.67260002136231
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-08",
-        "value": 35.04841502776373
-      },
       {
         "time": "2026-04-09",
         "value": 35.10880198317326
@@ -2307,6 +2303,10 @@
       {
         "time": "2026-11-09",
         "value": 43.836940236114785
+      },
+      {
+        "time": "2026-11-10",
+        "value": 44.29969249744872
       }
     ],
     "supportLine": 45.05

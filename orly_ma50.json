@@ -3,63 +3,52 @@
     "ticker": "ORLY",
     "name": "O'Reilly Automotive, Inc.",
     "market": "NMS",
-    "price": 89.79,
-    "change": -0.1,
-    "changePercent": -0.11
+    "price": 89.39,
+    "change": -0.4,
+    "changePercent": -0.45
   },
   "score": {
-    "total": 23,
-    "stars": 1.0,
+    "total": 28,
+    "stars": 1.5,
     "note": "/ 100 (Win Rate: 44%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 87.36,
-    "maDistance_pct": 2.78,
-    "bb2Confluence_pct": 0.99,
-    "bb3Confluence_pct": 2.79,
+    "targetMA_price": 87.37,
+    "maDistance_pct": 2.31,
+    "bb2Confluence_pct": 0.29,
+    "bb3Confluence_pct": 1.81,
     "maKnock_count": 2,
-    "expectedRsi": 46.89
+    "expectedRsi": 46.64
   },
   "metrics": {
-    "maDistance": "+2.78%",
-    "bbConfluence": "0.99%",
+    "maDistance": "+2.31%",
+    "bbConfluence": "0.29%",
     "maKnock": "2 times recently",
-    "expectedRsi": "46.89"
+    "expectedRsi": "46.64"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 92.86,
-        "touches": 10,
-        "strength_score": 5.513
+        "price": 92.76,
+        "touches": 9,
+        "strength_score": 5.196
       }
     ],
     "trendline_clusters": [
       {
-        "price": 92.39,
-        "count": 19
+        "price": 92.37,
+        "count": 10
       },
       {
         "price": 92.58,
         "count": 5
-      },
-      {
-        "price": 91.82,
-        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that ORLY is currently testing its Daily 50MA support zone near $87.36. Based on historical price action, bounces from this level have yielded a win rate of 43.8%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.86 and a significant trendline confluence around $92.39 (formed by 19 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ORLY is currently testing its Daily 50MA support zone near $87.37. Based on historical price action, bounces from this level have yielded a win rate of 43.8%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $92.76 and a significant trendline confluence around $92.37 (formed by 10 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-08",
-        "open": 91.36000061035156,
-        "high": 93.08000183105469,
-        "low": 91.36000061035156,
-        "close": 93.05999755859375
-      },
       {
         "time": "2026-04-09",
         "open": 93.5999984741211,
@@ -1102,13 +1091,16 @@
         "high": 90.75,
         "low": 88.88999938964844,
         "close": 89.79000091552734
+      },
+      {
+        "time": "2026-11-10",
+        "open": 89.29000091552734,
+        "high": 90.30000305175781,
+        "low": 88.5,
+        "close": 89.38999938964844
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-08",
-        "value": 93.35060012817382
-      },
       {
         "time": "2026-04-09",
         "value": 93.22620010375977
@@ -1704,13 +1696,13 @@
       {
         "time": "2026-11-09",
         "value": 87.35979995727538
+      },
+      {
+        "time": "2026-11-10",
+        "value": 87.3715998840332
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-08",
-        "value": 86.85300068643963
-      },
       {
         "time": "2026-04-09",
         "value": 86.85169905241958
@@ -2306,6 +2298,10 @@
       {
         "time": "2026-11-09",
         "value": 86.49099419553227
+      },
+      {
+        "time": "2026-11-10",
+        "value": 87.1214029716372
       }
     ],
     "supportLine": 85.83
