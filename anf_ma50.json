@@ -3,93 +3,58 @@
     "ticker": "ANF",
     "name": "Abercrombie & Fitch Company",
     "market": "NYQ",
-    "price": 149.54,
-    "change": -8.05,
-    "changePercent": -5.11
+    "price": 148.88,
+    "change": -1.61,
+    "changePercent": -1.07
   },
   "score": {
-    "total": 59,
+    "total": 56,
     "stars": 3.0,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 147.48,
-    "maDistance_pct": 1.4,
-    "bb2Confluence_pct": 1.27,
-    "bb3Confluence_pct": 5.71,
-    "maKnock_count": 0,
-    "expectedRsi": 45.55
+    "targetMA_price": 148.39,
+    "maDistance_pct": 0.33,
+    "bb2Confluence_pct": 1.05,
+    "bb3Confluence_pct": 5.16,
+    "maKnock_count": 1,
+    "expectedRsi": 46.23
   },
   "metrics": {
-    "maDistance": "+1.40%",
-    "bbConfluence": "1.27%",
-    "maKnock": "0 times recently",
-    "expectedRsi": "45.55"
+    "maDistance": "+0.33%",
+    "bbConfluence": "1.05%",
+    "maKnock": "1 time recently",
+    "expectedRsi": "46.23"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 154.9,
-        "touches": 2,
-        "strength_score": 1.17
+        "price": 155.7,
+        "touches": 3,
+        "strength_score": 2.082
       },
       {
         "price": 172.0,
         "touches": 1,
-        "strength_score": 0.989
+        "strength_score": 0.933
       },
       {
         "price": 167.09,
         "touches": 1,
-        "strength_score": 0.912
+        "strength_score": 0.861
       },
       {
         "price": 163.82,
         "touches": 1,
-        "strength_score": 0.861
+        "strength_score": 0.812
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ANF is currently testing its Daily 50MA support zone near $147.48. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $154.90. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ANF is currently testing its Daily 50MA support zone near $148.39. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $155.70. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-07",
-        "open": 96.31999969482422,
-        "high": 98.30000305175781,
-        "low": 94.4000015258789,
-        "close": 97.95999908447266
-      },
-      {
-        "time": "2026-04-08",
-        "open": 101.2300033569336,
-        "high": 105.22000122070312,
-        "low": 100.51000213623047,
-        "close": 101.97000122070312
-      },
-      {
-        "time": "2026-04-09",
-        "open": 101.25,
-        "high": 104.80999755859375,
-        "low": 101.08000183105469,
-        "close": 103.48999786376953
-      },
-      {
-        "time": "2026-04-10",
-        "open": 103.69000244140625,
-        "high": 103.70999908447266,
-        "low": 97.5,
-        "close": 98.38999938964844
-      },
-      {
-        "time": "2026-04-13",
-        "open": 96.80000305175781,
-        "high": 98.55000305175781,
-        "low": 92.83000183105469,
-        "close": 93.30000305175781
-      },
       {
         "time": "2026-04-14",
         "open": 93.70999908447266,
@@ -1104,29 +1069,44 @@
         "high": 157.0800018310547,
         "low": 148.72999572753906,
         "close": 149.5399932861328
+      },
+      {
+        "time": "2026-11-09",
+        "open": 150.7899932861328,
+        "high": 156.5800018310547,
+        "low": 150.7899932861328,
+        "close": 152.80999755859375
+      },
+      {
+        "time": "2026-11-10",
+        "open": 152.5399932861328,
+        "high": 157.00999450683594,
+        "low": 148.72000122070312,
+        "close": 154.0
+      },
+      {
+        "time": "2026-11-11",
+        "open": 153.60000610351562,
+        "high": 157.2899932861328,
+        "low": 149.80999755859375,
+        "close": 151.9199981689453
+      },
+      {
+        "time": "2026-11-12",
+        "open": 152.19000244140625,
+        "high": 153.52000427246094,
+        "low": 148.55999755859375,
+        "close": 150.49000549316406
+      },
+      {
+        "time": "2026-11-13",
+        "open": 148.30999755859375,
+        "high": 150.9499969482422,
+        "low": 145.25999450683594,
+        "close": 148.8800048828125
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-07",
-        "value": 92.83920013427735
-      },
-      {
-        "time": "2026-04-08",
-        "value": 92.93680023193359
-      },
-      {
-        "time": "2026-04-09",
-        "value": 93.05320022583008
-      },
-      {
-        "time": "2026-04-10",
-        "value": 93.09080017089843
-      },
-      {
-        "time": "2026-04-13",
-        "value": 93.07920028686523
-      },
       {
         "time": "2026-04-14",
         "value": 92.95180038452149
@@ -1706,29 +1686,29 @@
       {
         "time": "2026-11-06",
         "value": 147.4761996459961
+      },
+      {
+        "time": "2026-11-09",
+        "value": 147.56399963378905
+      },
+      {
+        "time": "2026-11-10",
+        "value": 147.78239959716797
+      },
+      {
+        "time": "2026-11-11",
+        "value": 148.00719970703125
+      },
+      {
+        "time": "2026-11-12",
+        "value": 148.28499969482422
+      },
+      {
+        "time": "2026-11-13",
+        "value": 148.3917999267578
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-07",
-        "value": 80.959041830723
-      },
-      {
-        "time": "2026-04-08",
-        "value": 79.96740076536985
-      },
-      {
-        "time": "2026-04-09",
-        "value": 79.1444754809482
-      },
-      {
-        "time": "2026-04-10",
-        "value": 79.76192939202878
-      },
-      {
-        "time": "2026-04-13",
-        "value": 81.14429022101938
-      },
       {
         "time": "2026-04-14",
         "value": 81.91480851630907
@@ -2308,6 +2288,26 @@
       {
         "time": "2026-11-06",
         "value": 145.60384091777178
+      },
+      {
+        "time": "2026-11-09",
+        "value": 146.992727686947
+      },
+      {
+        "time": "2026-11-10",
+        "value": 147.4997685892218
+      },
+      {
+        "time": "2026-11-11",
+        "value": 147.92700216576281
+      },
+      {
+        "time": "2026-11-12",
+        "value": 147.64226501360622
+      },
+      {
+        "time": "2026-11-13",
+        "value": 146.82983090796
       }
     ],
     "supportLine": 131.0

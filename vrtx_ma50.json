@@ -3,55 +3,53 @@
     "ticker": "VRTX",
     "name": "Vertex Pharmaceuticals Incorpor",
     "market": "NMS",
-    "price": 547.03,
-    "change": -0.86,
-    "changePercent": -0.16
+    "price": 542.62,
+    "change": -4.41,
+    "changePercent": -0.81
   },
   "score": {
-    "total": 32,
+    "total": 33,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 73%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 523.04,
-    "maDistance_pct": 4.59,
-    "bb2Confluence_pct": 4.84,
-    "bb3Confluence_pct": 8.14,
+    "targetMA_price": 522.75,
+    "maDistance_pct": 3.8,
+    "bb2Confluence_pct": 4.18,
+    "bb3Confluence_pct": 7.34,
     "maKnock_count": 2,
-    "expectedRsi": 48.01
+    "expectedRsi": 47.43
   },
   "metrics": {
-    "maDistance": "+4.59%",
-    "bbConfluence": "4.84%",
+    "maDistance": "+3.80%",
+    "bbConfluence": "4.18%",
     "maKnock": "2 times recently",
-    "expectedRsi": "48.01"
+    "expectedRsi": "47.43"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 557.97,
         "touches": 2,
-        "strength_score": 1.104
+        "strength_score": 1.091
       },
       {
         "price": 568.67,
         "touches": 1,
-        "strength_score": 0.922
+        "strength_score": 0.912
+      },
+      {
+        "price": 546.17,
+        "touches": 1,
+        "strength_score": 0.461
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 50MA support zone near $523.04. Based on historical price action, bounces from this level have yielded a win rate of 73.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 50MA support zone near $522.75. Based on historical price action, bounces from this level have yielded a win rate of 73.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-10",
-        "open": 446.0799865722656,
-        "high": 446.75,
-        "low": 434.25,
-        "close": 436.2699890136719
-      },
       {
         "time": "2026-04-13",
         "open": 434.1700134277344,
@@ -1094,13 +1092,16 @@
         "high": 548.6699829101562,
         "low": 535.4600219726562,
         "close": 547.030029296875
+      },
+      {
+        "time": "2026-11-12",
+        "open": 547.8699951171875,
+        "high": 552.27001953125,
+        "low": 542.510009765625,
+        "close": 542.6199951171875
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-10",
-        "value": 464.46079833984373
-      },
       {
         "time": "2026-04-13",
         "value": 463.7481982421875
@@ -1696,13 +1697,13 @@
       {
         "time": "2026-11-11",
         "value": 523.0372039794922
+      },
+      {
+        "time": "2026-11-12",
+        "value": 522.7546038818359
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-10",
-        "value": 427.78086186904443
-      },
       {
         "time": "2026-04-13",
         "value": 428.33506460543146
@@ -2298,6 +2299,10 @@
       {
         "time": "2026-11-11",
         "value": 497.7102210594212
+      },
+      {
+        "time": "2026-11-12",
+        "value": 500.8823056284976
       }
     ],
     "supportLine": 502.17
