@@ -15,28 +15,28 @@
   {
     "ticker": "ZS",
     "name": "Zscaler, Inc.",
-    "price": 193.22,
-    "changePercent": -0.3,
-    "score": 68,
+    "price": 192.47,
+    "changePercent": -0.39,
+    "score": 70,
     "stars": 3.5,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 4.96,
-    "bb_confluence": 3.36,
-    "expected_rsi": 32.72
+    "ma_distance": 4.18,
+    "bb_confluence": 4.92,
+    "expected_rsi": 32.78
   },
   {
-    "ticker": "DHR",
-    "name": "Danaher Corporation",
-    "price": 232.16,
-    "changePercent": -1.34,
-    "score": 61,
-    "stars": 3.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.61,
-    "bb_confluence": 1.02,
-    "expected_rsi": 45.02
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "price": 167.99,
+    "changePercent": -2.09,
+    "score": 70,
+    "stars": 3.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 0.79,
+    "bb_confluence": 7.88,
+    "expected_rsi": 39.62
   },
   {
     "ticker": "HON",
@@ -50,19 +50,6 @@
     "ma_distance": 4.44,
     "bb_confluence": 1.36,
     "expected_rsi": 45.2
-  },
-  {
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "price": 173.01,
-    "changePercent": -2.23,
-    "score": 58,
-    "stars": 3.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.11,
-    "bb_confluence": 0.89,
-    "expected_rsi": 44.72
   },
   {
     "ticker": "ANF",
@@ -104,19 +91,6 @@
     "expected_rsi": 41.14
   },
   {
-    "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc",
-    "price": 699.44,
-    "changePercent": -2.55,
-    "score": 47,
-    "stars": 2.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.56,
-    "bb_confluence": 0.24,
-    "expected_rsi": 45.86
-  },
-  {
     "ticker": "TEL",
     "name": "TE Connectivity plc",
     "price": 216.34,
@@ -128,6 +102,19 @@
     "ma_distance": 3.47,
     "bb_confluence": 1.86,
     "expected_rsi": 45.62
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings ",
+    "price": 17.96,
+    "changePercent": -0.55,
+    "score": 43,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 3.85,
+    "bb_confluence": 16.51,
+    "expected_rsi": 53.3
   },
   {
     "ticker": "INCY",
@@ -182,6 +169,19 @@
     "expected_rsi": 46.08
   },
   {
+    "ticker": "ASPN",
+    "name": "Aspen Aerogels, Inc.",
+    "price": 5.58,
+    "changePercent": -6.84,
+    "score": 39,
+    "stars": 2.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.8,
+    "bb_confluence": 14.0,
+    "expected_rsi": 48.95
+  },
+  {
     "ticker": "BC",
     "name": "Brunswick Corporation",
     "price": 76.14,
@@ -195,17 +195,17 @@
     "expected_rsi": 54.41
   },
   {
-    "ticker": "PTON",
-    "name": "Peloton Interactive, Inc.",
-    "price": 5.53,
-    "changePercent": -3.32,
+    "ticker": "ASPN",
+    "name": "Aspen Aerogels, Inc.",
+    "price": 5.58,
+    "changePercent": -6.84,
     "score": 38,
     "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.39,
-    "bb_confluence": 9.37,
-    "expected_rsi": 54.31
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 4.62,
+    "bb_confluence": 14.14,
+    "expected_rsi": 49.05
   },
   {
     "ticker": "GM",
@@ -260,17 +260,30 @@
     "expected_rsi": 51.19
   },
   {
-    "ticker": "MPWR",
-    "name": "Monolithic Power Systems, Inc.",
-    "price": 1390.54,
-    "changePercent": -3.93,
-    "score": 34,
-    "stars": 1.5,
+    "ticker": "INFO",
+    "name": "Harbor PanAgora Dynamic Large C",
+    "price": 27.51,
+    "changePercent": -0.29,
+    "score": 35,
+    "stars": 2.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 4.93,
-    "bb_confluence": 19.38,
-    "expected_rsi": 52.2
+    "ma_distance": 3.28,
+    "bb_confluence": 0.91,
+    "expected_rsi": 37.39
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorpor",
+    "price": 538.6,
+    "changePercent": -0.74,
+    "score": 34,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.11,
+    "bb_confluence": 2.99,
+    "expected_rsi": 46.9
   },
   {
     "ticker": "MU",
@@ -286,17 +299,17 @@
     "expected_rsi": 41.87
   },
   {
-    "ticker": "VRTX",
-    "name": "Vertex Pharmaceuticals Incorpor",
-    "price": 542.62,
-    "changePercent": -0.81,
-    "score": 33,
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems, Inc.",
+    "price": 1390.54,
+    "changePercent": -3.93,
+    "score": 34,
     "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.8,
-    "bb_confluence": 4.18,
-    "expected_rsi": 47.43
+    "ma_label": "Daily 200MA",
+    "ma_col": "ma200",
+    "ma_distance": 4.93,
+    "bb_confluence": 19.38,
+    "expected_rsi": 52.2
   },
   {
     "ticker": "PENN",
@@ -310,32 +323,6 @@
     "ma_distance": 2.99,
     "bb_confluence": 20.26,
     "expected_rsi": 54.9
-  },
-  {
-    "ticker": "BX",
-    "name": "Blackstone Inc.",
-    "price": 118.54,
-    "changePercent": -2.84,
-    "score": 32,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.45,
-    "bb_confluence": 10.09,
-    "expected_rsi": 50.89
-  },
-  {
-    "ticker": "AMCR",
-    "name": "Amcor plc",
-    "price": 43.8,
-    "changePercent": -1.33,
-    "score": 32,
-    "stars": 1.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.51,
-    "bb_confluence": 1.57,
-    "expected_rsi": 39.09
   },
   {
     "ticker": "LUV",
@@ -390,19 +377,6 @@
     "expected_rsi": 46.33
   },
   {
-    "ticker": "CI",
-    "name": "The Cigna Group",
-    "price": 296.27,
-    "changePercent": -1.72,
-    "score": 26,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.14,
-    "bb_confluence": 0.98,
-    "expected_rsi": 45.42
-  },
-  {
     "ticker": "WAT",
     "name": "Waters Corporation",
     "price": 460.25,
@@ -429,19 +403,6 @@
     "expected_rsi": 47.13
   },
   {
-    "ticker": "EMR",
-    "name": "Emerson Electric Company",
-    "price": 166.32,
-    "changePercent": -0.08,
-    "score": 25,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.82,
-    "bb_confluence": 0.65,
-    "expected_rsi": 45.3
-  },
-  {
     "ticker": "SBUX",
     "name": "Starbucks Corporation",
     "price": 106.44,
@@ -453,19 +414,6 @@
     "ma_distance": 4.79,
     "bb_confluence": 4.68,
     "expected_rsi": 48.61
-  },
-  {
-    "ticker": "MLM",
-    "name": "Martin Marietta Materials, Inc.",
-    "price": 513.61,
-    "changePercent": -0.72,
-    "score": 23,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.02,
-    "bb_confluence": 2.62,
-    "expected_rsi": 45.7
   },
   {
     "ticker": "DG",
@@ -481,19 +429,6 @@
     "expected_rsi": 46.12
   },
   {
-    "ticker": "IQV",
-    "name": "IQVIA Holdings, Inc.",
-    "price": 271.11,
-    "changePercent": -1.25,
-    "score": 21,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.33,
-    "bb_confluence": 3.14,
-    "expected_rsi": 50.43
-  },
-  {
     "ticker": "GRMN",
     "name": "Garmin Ltd.",
     "price": 283.03,
@@ -507,17 +442,17 @@
     "expected_rsi": 45.73
   },
   {
-    "ticker": "AMH",
-    "name": "American Homes 4 Rent",
-    "price": 32.28,
-    "changePercent": -0.77,
-    "score": 21,
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials, Inc.",
+    "price": 513.61,
+    "changePercent": -0.72,
+    "score": 20,
     "stars": 1.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.48,
-    "bb_confluence": 1.86,
-    "expected_rsi": 45.22
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.02,
+    "bb_confluence": 2.62,
+    "expected_rsi": 45.7
   },
   {
     "ticker": "BNS",
@@ -546,30 +481,17 @@
     "expected_rsi": 46.45
   },
   {
-    "ticker": "MRK",
-    "name": "Merck & Company, Inc.",
-    "price": 146.95,
-    "changePercent": -0.16,
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "price": 673.54,
+    "changePercent": -0.77,
     "score": 17,
     "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.58,
-    "bb_confluence": 3.59,
-    "expected_rsi": 51.59
-  },
-  {
-    "ticker": "GD",
-    "name": "General Dynamics Corporation",
-    "price": 363.07,
-    "changePercent": -1.13,
-    "score": 17,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 4.21,
-    "bb_confluence": 3.08,
-    "expected_rsi": 45.93
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.93,
+    "bb_confluence": 3.35,
+    "expected_rsi": 43.18
   },
   {
     "ticker": "VMC",
@@ -585,19 +507,6 @@
     "expected_rsi": 50.06
   },
   {
-    "ticker": "DE",
-    "name": "Deere & Company",
-    "price": 673.54,
-    "changePercent": -0.77,
-    "score": 17,
-    "stars": 1.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.93,
-    "bb_confluence": 3.35,
-    "expected_rsi": 43.18
-  },
-  {
     "ticker": "INCY",
     "name": "Incyte Corporation",
     "price": 120.97,
@@ -609,6 +518,19 @@
     "ma_distance": 0.98,
     "bb_confluence": 6.22,
     "expected_rsi": 53.59
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorpor",
+    "price": 538.6,
+    "changePercent": -0.74,
+    "score": 16,
+    "stars": 1.0,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.6,
+    "bb_confluence": 1.58,
+    "expected_rsi": 43.85
   },
   {
     "ticker": "TEL",
@@ -637,30 +559,43 @@
     "expected_rsi": 54.88
   },
   {
-    "ticker": "AXP",
-    "name": "American Express Company",
-    "price": 318.06,
-    "changePercent": -1.56,
+    "ticker": "PH",
+    "name": "Parker-Hannifin Corporation",
+    "price": 955.68,
+    "changePercent": -0.03,
     "score": 14,
     "stars": 0.5,
     "ma_label": "Daily 50MA",
     "ma_col": "ma50",
-    "ma_distance": 0.91,
-    "bb_confluence": 1.45,
-    "expected_rsi": 48.13
+    "ma_distance": 1.27,
+    "bb_confluence": 7.75,
+    "expected_rsi": 52.63
   },
   {
-    "ticker": "ISRG",
-    "name": "Intuitive Surgical, Inc.",
-    "price": 439.89,
-    "changePercent": -2.14,
+    "ticker": "SHW",
+    "name": "Sherwin-Williams Company (The)",
+    "price": 349.89,
+    "changePercent": -0.2,
+    "score": 13,
+    "stars": 0.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.07,
+    "bb_confluence": 5.06,
+    "expected_rsi": 48.98
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker-Hannifin Corporation",
+    "price": 955.68,
+    "changePercent": -0.03,
     "score": 13,
     "stars": 0.5,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 2.37,
-    "bb_confluence": 2.25,
-    "expected_rsi": 47.72
+    "ma_distance": 1.1,
+    "bb_confluence": 7.9,
+    "expected_rsi": 52.99
   },
   {
     "ticker": "WELL",
@@ -689,32 +624,6 @@
     "expected_rsi": 45.06
   },
   {
-    "ticker": "NEE",
-    "name": "NextEra Energy, Inc.",
-    "price": 85.29,
-    "changePercent": -0.81,
-    "score": 12,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.21,
-    "bb_confluence": 7.59,
-    "expected_rsi": 53.48
-  },
-  {
-    "ticker": "AMH",
-    "name": "American Homes 4 Rent",
-    "price": 32.28,
-    "changePercent": -0.77,
-    "score": 12,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.92,
-    "bb_confluence": 2.4,
-    "expected_rsi": 46.88
-  },
-  {
     "ticker": "IEX",
     "name": "IDEX Corporation",
     "price": 237.63,
@@ -726,19 +635,6 @@
     "ma_distance": 2.95,
     "bb_confluence": 2.55,
     "expected_rsi": 48.59
-  },
-  {
-    "ticker": "USB",
-    "name": "U.S. Bancorp",
-    "price": 60.47,
-    "changePercent": -0.38,
-    "score": 11,
-    "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 1.91,
-    "bb_confluence": 1.81,
-    "expected_rsi": 50.6
   },
   {
     "ticker": "MCD",
@@ -754,45 +650,6 @@
     "expected_rsi": 49.56
   },
   {
-    "ticker": "ABT",
-    "name": "Abbott Laboratories",
-    "price": 107.25,
-    "changePercent": -1.87,
-    "score": 10,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 3.9,
-    "bb_confluence": 4.32,
-    "expected_rsi": 45.03
-  },
-  {
-    "ticker": "GD",
-    "name": "General Dynamics Corporation",
-    "price": 363.07,
-    "changePercent": -1.13,
-    "score": 10,
-    "stars": 0.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 3.08,
-    "bb_confluence": 4.12,
-    "expected_rsi": 48.78
-  },
-  {
-    "ticker": "CI",
-    "name": "The Cigna Group",
-    "price": 296.27,
-    "changePercent": -1.72,
-    "score": 9,
-    "stars": 0.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.14,
-    "bb_confluence": 1.96,
-    "expected_rsi": 43.51
-  },
-  {
     "ticker": "DE",
     "name": "Deere & Company",
     "price": 673.54,
@@ -806,30 +663,17 @@
     "expected_rsi": 52.86
   },
   {
-    "ticker": "ABT",
-    "name": "Abbott Laboratories",
-    "price": 107.25,
-    "changePercent": -1.87,
+    "ticker": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "price": 85.12,
+    "changePercent": -0.2,
     "score": 7,
     "stars": 0.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.57,
-    "bb_confluence": 4.62,
-    "expected_rsi": 45.64
-  },
-  {
-    "ticker": "DUK",
-    "name": "Duke Energy Corporation (Holdin",
-    "price": 127.5,
-    "changePercent": -0.14,
-    "score": 7,
-    "stars": 0.5,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 4.06,
-    "bb_confluence": 3.25,
-    "expected_rsi": 49.61
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.02,
+    "bb_confluence": 7.03,
+    "expected_rsi": 53.09
   },
   {
     "ticker": "O",
@@ -884,19 +728,6 @@
     "expected_rsi": 56.41
   },
   {
-    "ticker": "OTIS",
-    "name": "Otis Worldwide Corporation",
-    "price": 77.14,
-    "changePercent": -0.46,
-    "score": 4,
-    "stars": 0.0,
-    "ma_label": "Daily 200MA",
-    "ma_col": "ma200",
-    "ma_distance": 2.52,
-    "bb_confluence": 6.54,
-    "expected_rsi": 54.33
-  },
-  {
     "ticker": "VTR",
     "name": "Ventas, Inc.",
     "price": 88.92,
@@ -949,55 +780,55 @@
     "expected_rsi": 50.08
   },
   {
-    "ticker": "HON",
-    "name": "Honeywell International Inc.",
-    "price": 222.75,
-    "changePercent": -1.84,
-    "score": 0,
-    "stars": 0.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 0.87,
-    "bb_confluence": 5.46,
-    "expected_rsi": 54.17
-  },
-  {
-    "ticker": "LOW",
-    "name": "Lowe's Companies, Inc.",
-    "price": 227.46,
-    "changePercent": -1.79,
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "price": 46.36,
+    "changePercent": -0.41,
     "score": 0,
     "stars": 0.0,
     "ma_label": "Daily 200MA",
     "ma_col": "ma200",
-    "ma_distance": 2.8,
-    "bb_confluence": 17.08,
-    "expected_rsi": 61.18
+    "ma_distance": 0.96,
+    "bb_confluence": 6.86,
+    "expected_rsi": 55.63
   },
   {
-    "ticker": "SYK",
-    "name": "Stryker Corporation",
-    "price": 312.39,
-    "changePercent": -2.01,
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "price": 46.36,
+    "changePercent": -0.41,
     "score": 0,
     "stars": 0.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 0.76,
-    "bb_confluence": 7.95,
-    "expected_rsi": 52.56
+    "ma_distance": 1.49,
+    "bb_confluence": 6.38,
+    "expected_rsi": 54.04
   },
   {
-    "ticker": "GD",
-    "name": "General Dynamics Corporation",
-    "price": 363.07,
-    "changePercent": -1.13,
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "price": 46.36,
+    "changePercent": -0.41,
+    "score": 0,
+    "stars": 0.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 1.04,
+    "bb_confluence": 6.79,
+    "expected_rsi": 55.39
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International Inc.",
+    "price": 222.46,
+    "changePercent": -0.13,
     "score": 0,
     "stars": 0.0,
     "ma_label": "Daily 100MA",
     "ma_col": "ma100",
-    "ma_distance": 0.35,
-    "bb_confluence": 6.67,
-    "expected_rsi": 57.08
+    "ma_distance": 0.81,
+    "bb_confluence": 4.79,
+    "expected_rsi": 53.95
   }
 ]

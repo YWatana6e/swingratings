@@ -3,114 +3,53 @@
     "ticker": "VRTX",
     "name": "Vertex Pharmaceuticals Incorpor",
     "market": "NMS",
-    "price": 530.76,
-    "change": -22.39,
-    "changePercent": -4.05
+    "price": 538.6,
+    "change": -4.02,
+    "changePercent": -0.74
   },
   "score": {
-    "total": 17,
+    "total": 16,
     "stars": 1.0,
     "note": "/ 100 (Win Rate: 33%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 507.95,
-    "maDistance_pct": 4.49,
-    "bb2Confluence_pct": 5.17,
-    "bb3Confluence_pct": 8.79,
+    "targetMA_price": 514.91,
+    "maDistance_pct": 4.6,
+    "bb2Confluence_pct": 1.58,
+    "bb3Confluence_pct": 4.41,
     "maKnock_count": 2,
-    "expectedRsi": 45.88
+    "expectedRsi": 43.85
   },
   "metrics": {
-    "maDistance": "+4.49%",
-    "bbConfluence": "5.17%",
+    "maDistance": "+4.60%",
+    "bbConfluence": "1.58%",
     "maKnock": "2 times recently",
-    "expectedRsi": "45.88"
+    "expectedRsi": "43.85"
   },
   "resistances": {
     "horizontal": [
       {
-        "price": 533.79,
-        "touches": 3,
-        "strength_score": 2.031
-      },
-      {
         "price": 557.97,
         "touches": 2,
-        "strength_score": 1.183
+        "strength_score": 1.079
       },
       {
         "price": 568.67,
         "touches": 1,
-        "strength_score": 0.989
+        "strength_score": 0.901
       },
       {
         "price": 546.17,
         "touches": 1,
-        "strength_score": 0.5
+        "strength_score": 0.456
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 100MA support zone near $507.95. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $533.79. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that VRTX is currently testing its Daily 100MA support zone near $514.91. Based on historical price action, bounces from this level have yielded a win rate of 33.3%. The asset has recently tested this support 2 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $557.97. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-01",
-        "open": 449.1700134277344,
-        "high": 453.9800109863281,
-        "low": 446.7099914550781,
-        "close": 447.260009765625
-      },
-      {
-        "time": "2026-04-02",
-        "open": 447.54998779296875,
-        "high": 449.6199951171875,
-        "low": 436.55999755859375,
-        "close": 438.7099914550781
-      },
-      {
-        "time": "2026-04-06",
-        "open": 437.7900085449219,
-        "high": 440.8999938964844,
-        "low": 433.45001220703125,
-        "close": 434.29998779296875
-      },
-      {
-        "time": "2026-04-07",
-        "open": 435.5,
-        "high": 435.5,
-        "low": 425.260009765625,
-        "close": 431.8599853515625
-      },
-      {
-        "time": "2026-04-08",
-        "open": 436.25,
-        "high": 443.989990234375,
-        "low": 432.3299865722656,
-        "close": 443.9200134277344
-      },
-      {
-        "time": "2026-04-09",
-        "open": 439.7699890136719,
-        "high": 447.0,
-        "low": 436.3500061035156,
-        "close": 446.7799987792969
-      },
-      {
-        "time": "2026-04-10",
-        "open": 446.0799865722656,
-        "high": 446.75,
-        "low": 434.25,
-        "close": 436.2699890136719
-      },
-      {
-        "time": "2026-04-13",
-        "open": 434.1700134277344,
-        "high": 445.1099853515625,
-        "low": 433.67999267578125,
-        "close": 440.04998779296875
-      },
       {
         "time": "2026-04-14",
         "open": 435.2799987792969,
@@ -1104,41 +1043,65 @@
         "high": 561.9600219726562,
         "low": 529.1500244140625,
         "close": 530.760009765625
+      },
+      {
+        "time": "2026-11-04",
+        "open": 535.6300048828125,
+        "high": 550.77001953125,
+        "low": 527.3800048828125,
+        "close": 549.0399780273438
+      },
+      {
+        "time": "2026-11-05",
+        "open": 556.8499755859375,
+        "high": 557.8499755859375,
+        "low": 540.02001953125,
+        "close": 542.5
+      },
+      {
+        "time": "2026-11-06",
+        "open": 531.530029296875,
+        "high": 548.760009765625,
+        "low": 531.530029296875,
+        "close": 547.0900268554688
+      },
+      {
+        "time": "2026-11-09",
+        "open": 555.989990234375,
+        "high": 555.989990234375,
+        "low": 538.47998046875,
+        "close": 550.8699951171875
+      },
+      {
+        "time": "2026-11-10",
+        "open": 546.969970703125,
+        "high": 551.8599853515625,
+        "low": 543.4400024414062,
+        "close": 547.8900146484375
+      },
+      {
+        "time": "2026-11-11",
+        "open": 543.9600219726562,
+        "high": 548.6699829101562,
+        "low": 535.4600219726562,
+        "close": 547.030029296875
+      },
+      {
+        "time": "2026-11-12",
+        "open": 547.8699951171875,
+        "high": 552.27001953125,
+        "low": 542.510009765625,
+        "close": 542.6199951171875
+      },
+      {
+        "time": "2026-11-13",
+        "open": 542.1199951171875,
+        "high": 543.72998046875,
+        "low": 536.1199951171875,
+        "close": 538.5999755859375
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-01",
-        "value": 456.6485992431641
-      },
-      {
-        "time": "2026-04-02",
-        "value": 456.87319915771485
-      },
-      {
-        "time": "2026-04-06",
-        "value": 457.1214990234375
-      },
-      {
-        "time": "2026-04-07",
-        "value": 457.2280987548828
-      },
-      {
-        "time": "2026-04-08",
-        "value": 457.37509887695313
-      },
-      {
-        "time": "2026-04-09",
-        "value": 457.50099884033204
-      },
-      {
-        "time": "2026-04-10",
-        "value": 457.51849884033203
-      },
-      {
-        "time": "2026-04-13",
-        "value": 457.54749877929686
-      },
       {
         "time": "2026-04-14",
         "value": 457.6500988769531
@@ -1706,41 +1669,41 @@
       {
         "time": "2026-11-03",
         "value": 507.94590148925784
+      },
+      {
+        "time": "2026-11-04",
+        "value": 508.98700134277345
+      },
+      {
+        "time": "2026-11-05",
+        "value": 509.90740142822267
+      },
+      {
+        "time": "2026-11-06",
+        "value": 510.8466015625
+      },
+      {
+        "time": "2026-11-09",
+        "value": 511.7654016113281
+      },
+      {
+        "time": "2026-11-10",
+        "value": 512.7280017089844
+      },
+      {
+        "time": "2026-11-11",
+        "value": 513.5304019165039
+      },
+      {
+        "time": "2026-11-12",
+        "value": 514.2724017333984
+      },
+      {
+        "time": "2026-11-13",
+        "value": 514.9064013671875
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-01",
-        "value": 428.48867253300375
-      },
-      {
-        "time": "2026-04-02",
-        "value": 426.10900483400513
-      },
-      {
-        "time": "2026-04-06",
-        "value": 423.328430752392
-      },
-      {
-        "time": "2026-04-07",
-        "value": 420.18989030034976
-      },
-      {
-        "time": "2026-04-08",
-        "value": 423.24773602997175
-      },
-      {
-        "time": "2026-04-09",
-        "value": 427.03077035917386
-      },
-      {
-        "time": "2026-04-10",
-        "value": 427.78086186904443
-      },
-      {
-        "time": "2026-04-13",
-        "value": 428.33506460543146
-      },
       {
         "time": "2026-04-14",
         "value": 429.3591179113254
@@ -2308,6 +2271,38 @@
       {
         "time": "2026-11-03",
         "value": 481.6886734598419
+      },
+      {
+        "time": "2026-11-04",
+        "value": 482.065222332393
+      },
+      {
+        "time": "2026-11-05",
+        "value": 483.77342188148793
+      },
+      {
+        "time": "2026-11-06",
+        "value": 484.67153696179173
+      },
+      {
+        "time": "2026-11-09",
+        "value": 486.1252826422228
+      },
+      {
+        "time": "2026-11-10",
+        "value": 493.0414636929463
+      },
+      {
+        "time": "2026-11-11",
+        "value": 497.7102210594212
+      },
+      {
+        "time": "2026-11-12",
+        "value": 500.8823056284976
+      },
+      {
+        "time": "2026-11-13",
+        "value": 506.7551356341417
       }
     ],
     "supportLine": 502.17

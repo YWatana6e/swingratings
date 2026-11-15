@@ -3,60 +3,53 @@
     "ticker": "ZS",
     "name": "Zscaler, Inc.",
     "market": "NMS",
-    "price": 193.22,
-    "change": -0.57,
-    "changePercent": -0.3
+    "price": 192.47,
+    "change": -0.75,
+    "changePercent": -0.39
   },
   "score": {
-    "total": 68,
+    "total": 70,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 184.09,
-    "maDistance_pct": 4.96,
-    "bb2Confluence_pct": 3.36,
-    "bb3Confluence_pct": 15.83,
+    "targetMA_price": 184.75,
+    "maDistance_pct": 4.18,
+    "bb2Confluence_pct": 4.92,
+    "bb3Confluence_pct": 17.76,
     "maKnock_count": 0,
-    "expectedRsi": 32.72
+    "expectedRsi": 32.78
   },
   "metrics": {
-    "maDistance": "+4.96%",
-    "bbConfluence": "3.36%",
+    "maDistance": "+4.18%",
+    "bbConfluence": "4.92%",
     "maKnock": "0 times recently",
-    "expectedRsi": "32.72"
+    "expectedRsi": "32.78"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 267.87,
         "touches": 1,
-        "strength_score": 0.871
+        "strength_score": 0.861
       },
       {
         "price": 237.22,
         "touches": 1,
-        "strength_score": 0.767
+        "strength_score": 0.758
       },
       {
         "price": 216.97,
         "touches": 1,
-        "strength_score": 0.667
+        "strength_score": 0.66
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that ZS is currently testing its Daily 100MA support zone near $184.09. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $267.87. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that ZS is currently testing its Daily 100MA support zone near $184.75. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $267.87. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-13",
-        "open": 119.05000305175781,
-        "high": 122.95999908447266,
-        "low": 117.95999908447266,
-        "close": 122.62000274658203
-      },
       {
         "time": "2026-04-14",
         "open": 123.54000091552734,
@@ -1099,13 +1092,16 @@
         "high": 194.39999389648438,
         "low": 184.6300048828125,
         "close": 193.22000122070312
+      },
+      {
+        "time": "2026-11-13",
+        "open": 197.24000549316406,
+        "high": 197.42999267578125,
+        "low": 187.55999755859375,
+        "close": 192.47000122070312
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-13",
-        "value": 195.6177505493164
-      },
       {
         "time": "2026-04-14",
         "value": 193.89535041809083
@@ -1701,13 +1697,13 @@
       {
         "time": "2026-11-12",
         "value": 184.09459968566895
+      },
+      {
+        "time": "2026-11-13",
+        "value": 184.74659973144531
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-13",
-        "value": 118.8421162777478
-      },
       {
         "time": "2026-04-14",
         "value": 116.81624510560073
@@ -2303,6 +2299,10 @@
       {
         "time": "2026-11-12",
         "value": 177.90470933092615
+      },
+      {
+        "time": "2026-11-13",
+        "value": 175.65591619267326
       }
     ],
     "supportLine": 159.67
