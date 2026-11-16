@@ -416,6 +416,19 @@
     "expected_rsi": 48.61
   },
   {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials, Inc.",
+    "price": 513.61,
+    "changePercent": -0.72,
+    "score": 23,
+    "stars": 1.0,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 2.02,
+    "bb_confluence": 2.62,
+    "expected_rsi": 45.7
+  },
+  {
     "ticker": "DG",
     "name": "Dollar General Corporation",
     "price": 134.14,
@@ -440,19 +453,6 @@
     "ma_distance": 2.35,
     "bb_confluence": 2.09,
     "expected_rsi": 45.73
-  },
-  {
-    "ticker": "MLM",
-    "name": "Martin Marietta Materials, Inc.",
-    "price": 513.61,
-    "changePercent": -0.72,
-    "score": 20,
-    "stars": 1.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 2.02,
-    "bb_confluence": 2.62,
-    "expected_rsi": 45.7
   },
   {
     "ticker": "BNS",
