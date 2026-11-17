@@ -3,58 +3,58 @@
     "ticker": "INFO",
     "name": "Harbor PanAgora Dynamic Large C",
     "market": "NYQ",
-    "price": 27.51,
-    "change": -0.08,
-    "changePercent": -0.29
+    "price": 26.96,
+    "change": -0.55,
+    "changePercent": -2.0
   },
   "score": {
-    "total": 35,
+    "total": 39,
     "stars": 2.0,
     "note": "/ 100 (Win Rate: 0%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 200MA",
-    "targetMA_price": 26.64,
-    "maDistance_pct": 3.28,
-    "bb2Confluence_pct": 0.91,
-    "bb3Confluence_pct": 0.84,
+    "targetMA_price": 26.65,
+    "maDistance_pct": 1.18,
+    "bb2Confluence_pct": 0.45,
+    "bb3Confluence_pct": 1.38,
     "maKnock_count": 1,
-    "expectedRsi": 37.39
+    "expectedRsi": 37.68
   },
   "metrics": {
-    "maDistance": "+3.28%",
-    "bbConfluence": "0.91%",
+    "maDistance": "+1.18%",
+    "bbConfluence": "0.45%",
     "maKnock": "1 time recently",
-    "expectedRsi": "37.39"
+    "expectedRsi": "37.68"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 28.51,
         "touches": 9,
-        "strength_score": 5.992
+        "strength_score": 5.923
       },
       {
         "price": 27.55,
         "touches": 4,
-        "strength_score": 1.321
+        "strength_score": 1.306
       }
     ],
     "trendline_clusters": [
       {
-        "price": 28.04,
+        "price": 28.45,
+        "count": 15
+      },
+      {
+        "price": 28.03,
         "count": 13
       },
       {
-        "price": 28.38,
-        "count": 13
+        "price": 28.35,
+        "count": 8
       },
       {
-        "price": 28.46,
-        "count": 10
-      },
-      {
-        "price": 28.17,
+        "price": 28.18,
         "count": 7
       },
       {
@@ -62,21 +62,14 @@
         "count": 3
       },
       {
-        "price": 27.88,
+        "price": 27.85,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 200MA support zone near $26.64. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.51 and a significant trendline confluence around $28.04 (formed by 13 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that INFO is currently testing its Daily 200MA support zone near $26.65. Based on historical price action, bounces from this level have yielded a win rate of 0.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $28.51 and a significant trendline confluence around $28.45 (formed by 15 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-14",
-        "open": 24.81999969482422,
-        "high": 25.110000610351562,
-        "low": 24.81999969482422,
-        "close": 25.020000457763672
-      },
       {
         "time": "2026-04-15",
         "open": 25.200000762939453,
@@ -1119,13 +1112,16 @@
         "high": 27.760000228881836,
         "low": 27.28499984741211,
         "close": 27.510000228881836
+      },
+      {
+        "time": "2026-11-16",
+        "open": 27.09000015258789,
+        "high": 27.200000762939453,
+        "low": 26.8799991607666,
+        "close": 26.959999084472656
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-14",
-        "value": 23.756158781051635
-      },
       {
         "time": "2026-04-15",
         "value": 23.773949480056764
@@ -1721,13 +1717,13 @@
       {
         "time": "2026-11-13",
         "value": 26.635904951095583
+      },
+      {
+        "time": "2026-11-16",
+        "value": 26.646254949569702
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-14",
-        "value": 22.673838048713332
-      },
       {
         "time": "2026-04-15",
         "value": 22.577032578423168
@@ -2323,6 +2319,10 @@
       {
         "time": "2026-11-13",
         "value": 26.87853861031095
+      },
+      {
+        "time": "2026-11-16",
+        "value": 26.767062413395408
       }
     ],
     "supportLine": 27.33
