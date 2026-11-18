@@ -3,69 +3,66 @@
     "ticker": "BIO",
     "name": "Bio-Rad Laboratories, Inc.",
     "market": "NYQ",
-    "price": 360.26,
-    "change": -6.1,
-    "changePercent": -1.67
+    "price": 358.19,
+    "change": -2.07,
+    "changePercent": -0.57
   },
   "score": {
-    "total": 84,
+    "total": 82,
     "stars": 4.0,
     "note": "/ 100 (Win Rate: 70%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 354.32,
-    "maDistance_pct": 1.68,
-    "bb2Confluence_pct": 0.07,
-    "bb3Confluence_pct": 2.83,
+    "targetMA_price": 354.89,
+    "maDistance_pct": 0.93,
+    "bb2Confluence_pct": 0.01,
+    "bb3Confluence_pct": 2.66,
     "maKnock_count": 0,
-    "expectedRsi": 40.61
+    "expectedRsi": 41.07
   },
   "metrics": {
-    "maDistance": "+1.68%",
-    "bbConfluence": "0.07%",
+    "maDistance": "+0.93%",
+    "bbConfluence": "0.01%",
     "maKnock": "0 times recently",
-    "expectedRsi": "40.61"
+    "expectedRsi": "41.07"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 391.5,
         "touches": 7,
-        "strength_score": 4.876
+        "strength_score": 4.82
       },
       {
         "price": 371.07,
         "touches": 1,
-        "strength_score": 0.767
+        "strength_score": 0.758
       },
       {
         "price": 365.0,
         "touches": 1,
-        "strength_score": 0.467
+        "strength_score": 0.461
       }
     ],
     "trendline_clusters": [
       {
-        "price": 388.58,
-        "count": 4
+        "price": 387.89,
+        "count": 3
       },
       {
-        "price": 383.44,
-        "count": 3
+        "price": 382.85,
+        "count": 2
+      },
+      {
+        "price": 388.68,
+        "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that BIO is currently testing its Daily 100MA support zone near $354.32. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $391.50 and a significant trendline confluence around $388.58 (formed by 4 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that BIO is currently testing its Daily 100MA support zone near $354.89. Based on historical price action, bounces from this level have yielded a win rate of 70.0%. This is a fresh test of the support, suggesting that optimal buy-side liquidity remains intact. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $391.50 and a significant trendline confluence around $387.89 (formed by 3 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-15",
-        "open": 293.7300109863281,
-        "high": 297.5,
-        "low": 292.1499938964844,
-        "close": 295.9599914550781
-      },
       {
         "time": "2026-04-16",
         "open": 294.67999267578125,
@@ -1108,13 +1105,16 @@
         "high": 365.6099853515625,
         "low": 358.489990234375,
         "close": 360.260009765625
+      },
+      {
+        "time": "2026-11-17",
+        "open": 359.3900146484375,
+        "high": 361.69000244140625,
+        "low": 356.5,
+        "close": 358.19000244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-15",
-        "value": 294.1593997192383
-      },
       {
         "time": "2026-04-16",
         "value": 294.022399597168
@@ -1710,13 +1710,13 @@
       {
         "time": "2026-11-16",
         "value": 354.3179998779297
+      },
+      {
+        "time": "2026-11-17",
+        "value": 354.89199981689455
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-15",
-        "value": 259.1691086857456
-      },
       {
         "time": "2026-04-16",
         "value": 259.6605532585194
@@ -2312,6 +2312,10 @@
       {
         "time": "2026-11-16",
         "value": 354.0699686926082
+      },
+      {
+        "time": "2026-11-17",
+        "value": 354.9215777745636
       }
     ],
     "supportLine": 351.69
