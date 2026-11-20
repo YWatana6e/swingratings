@@ -3,75 +3,68 @@
     "ticker": "SNPS",
     "name": "Synopsys, Inc.",
     "market": "NMS",
-    "price": 434.01,
-    "change": -1.5,
-    "changePercent": -0.34
+    "price": 430.91,
+    "change": -3.1,
+    "changePercent": -0.71
   },
   "score": {
-    "total": 67,
+    "total": 70,
     "stars": 3.5,
     "note": "/ 100 (Win Rate: 100%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 100MA",
-    "targetMA_price": 429.04,
-    "maDistance_pct": 1.16,
-    "bb2Confluence_pct": 1.72,
-    "bb3Confluence_pct": 5.73,
+    "targetMA_price": 428.89,
+    "maDistance_pct": 0.47,
+    "bb2Confluence_pct": 1.24,
+    "bb3Confluence_pct": 5.08,
     "maKnock_count": 1,
-    "expectedRsi": 40.89
+    "expectedRsi": 41.08
   },
   "metrics": {
-    "maDistance": "+1.16%",
-    "bbConfluence": "1.72%",
+    "maDistance": "+0.47%",
+    "bbConfluence": "1.24%",
     "maKnock": "1 time recently",
-    "expectedRsi": "40.89"
+    "expectedRsi": "41.08"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 466.6,
         "touches": 3,
-        "strength_score": 1.756
-      },
-      {
-        "price": 510.6,
-        "touches": 2,
-        "strength_score": 0.979
+        "strength_score": 1.736
       },
       {
         "price": 491.39,
         "touches": 1,
-        "strength_score": 0.851
+        "strength_score": 0.841
+      },
+      {
+        "price": 512.49,
+        "touches": 1,
+        "strength_score": 0.715
       },
       {
         "price": 445.92,
         "touches": 1,
-        "strength_score": 0.645
+        "strength_score": 0.637
       },
       {
         "price": 453.91,
         "touches": 1,
-        "strength_score": 0.349
+        "strength_score": 0.345
       },
       {
         "price": 479.8,
         "touches": 1,
-        "strength_score": 0.301
+        "strength_score": 0.297
       }
     ],
     "trendline_clusters": []
   },
-  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $429.04. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $466.60. This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that SNPS is currently testing its Daily 100MA support zone near $428.89. Based on historical price action, bounces from this level have yielded a win rate of 100.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $466.60. This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-17",
-        "open": 452.54998779296875,
-        "high": 459.0199890136719,
-        "low": 447.17999267578125,
-        "close": 449.5799865722656
-      },
       {
         "time": "2026-04-20",
         "open": 448.0799865722656,
@@ -1114,13 +1107,16 @@
         "high": 443.92999267578125,
         "low": 430.0799865722656,
         "close": 434.010009765625
+      },
+      {
+        "time": "2026-11-19",
+        "open": 449.75,
+        "high": 452.8800048828125,
+        "low": 430.5400085449219,
+        "close": 430.9100036621094
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-17",
-        "value": 448.06960235595704
-      },
       {
         "time": "2026-04-20",
         "value": 448.7955026245117
@@ -1716,13 +1712,13 @@
       {
         "time": "2026-11-18",
         "value": 429.0402008056641
+      },
+      {
+        "time": "2026-11-19",
+        "value": 428.88860076904297
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-17",
-        "value": 372.6584425875545
-      },
       {
         "time": "2026-04-20",
         "value": 368.7428588344993
@@ -2318,6 +2314,10 @@
       {
         "time": "2026-11-18",
         "value": 421.6671272479158
+      },
+      {
+        "time": "2026-11-19",
+        "value": 423.57050077181026
       }
     ],
     "supportLine": 366.94

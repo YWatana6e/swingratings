@@ -3,75 +3,68 @@
     "ticker": "TDG",
     "name": "Transdigm Group Incorporated",
     "market": "NYQ",
-    "price": 1177.44,
-    "change": -8.76,
-    "changePercent": -0.74
+    "price": 1158.65,
+    "change": -18.79,
+    "changePercent": -1.6
   },
   "score": {
-    "total": 31,
+    "total": 32,
     "stars": 1.5,
     "note": "/ 100 (Win Rate: 60%)"
   },
   "raw_metrics": {
     "targetMA_label": "Daily 50MA",
-    "targetMA_price": 1138.41,
-    "maDistance_pct": 3.43,
-    "bb2Confluence_pct": 2.73,
-    "bb3Confluence_pct": 6.06,
+    "targetMA_price": 1139.05,
+    "maDistance_pct": 1.72,
+    "bb2Confluence_pct": 2.57,
+    "bb3Confluence_pct": 5.84,
     "maKnock_count": 1,
-    "expectedRsi": 44.12
+    "expectedRsi": 44.1
   },
   "metrics": {
-    "maDistance": "+3.43%",
-    "bbConfluence": "2.73%",
+    "maDistance": "+1.72%",
+    "bbConfluence": "2.57%",
     "maKnock": "1 time recently",
-    "expectedRsi": "44.12"
+    "expectedRsi": "44.1"
   },
   "resistances": {
     "horizontal": [
       {
         "price": 1260.92,
         "touches": 3,
-        "strength_score": 1.76
+        "strength_score": 1.74
       },
       {
         "price": 1360.34,
         "touches": 3,
-        "strength_score": 1.058
+        "strength_score": 1.046
       },
       {
         "price": 1225.97,
         "touches": 1,
-        "strength_score": 0.506
+        "strength_score": 0.5
       },
       {
         "price": 1317.66,
         "touches": 1,
-        "strength_score": 0.397
+        "strength_score": 0.392
       },
       {
         "price": 1337.34,
         "touches": 1,
-        "strength_score": 0.294
+        "strength_score": 0.291
       }
     ],
     "trendline_clusters": [
       {
-        "price": 1257.22,
+        "price": 1256.34,
         "count": 2
       }
     ]
   },
-  "summary": "The SwingRatings algorithm indicates that TDG is currently testing its Daily 50MA support zone near $1138.41. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1260.92 and a significant trendline confluence around $1257.22 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
+  "summary": "The SwingRatings algorithm indicates that TDG is currently testing its Daily 50MA support zone near $1139.05. Based on historical price action, bounces from this level have yielded a win rate of 60.0%. The asset has recently tested this support 1 time(s), which may have partially consumed buy-side liquidity. In the event of a successful bounce, traders should monitor overhead supply, particularly a primary horizontal resistance at $1260.92 and a significant trendline confluence around $1256.34 (formed by 2 points). This setup presents a structured risk-reward profile for swing positioning.",
   "chartData": {
     "candles": [
-      {
-        "time": "2026-04-17",
-        "open": 1239.0,
-        "high": 1290.1099853515625,
-        "low": 1235.0,
-        "close": 1265.8800048828125
-      },
       {
         "time": "2026-04-20",
         "open": 1265.27001953125,
@@ -1114,13 +1107,16 @@
         "high": 1190.8499755859375,
         "low": 1170.6500244140625,
         "close": 1177.43994140625
+      },
+      {
+        "time": "2026-11-19",
+        "open": 1178.47998046875,
+        "high": 1181.52001953125,
+        "low": 1155.9100341796875,
+        "close": 1158.6500244140625
       }
     ],
     "ma_target": [
-      {
-        "time": "2026-04-17",
-        "value": 1248.1401928710939
-      },
       {
         "time": "2026-04-20",
         "value": 1248.367392578125
@@ -1716,13 +1712,13 @@
       {
         "time": "2026-11-18",
         "value": 1138.4145971679689
+      },
+      {
+        "time": "2026-11-19",
+        "value": 1139.0499975585938
       }
     ],
     "bbLower": [
-      {
-        "time": "2026-04-17",
-        "value": 1102.005554768358
-      },
       {
         "time": "2026-04-20",
         "value": 1100.866464403355
@@ -2318,6 +2314,10 @@
       {
         "time": "2026-11-18",
         "value": 1107.371321411338
+      },
+      {
+        "time": "2026-11-19",
+        "value": 1109.7264775562276
       }
     ],
     "supportLine": 1077.22
