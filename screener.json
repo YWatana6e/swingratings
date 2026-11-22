@@ -416,6 +416,19 @@
     "expected_rsi": 45.33
   },
   {
+    "ticker": "AOS",
+    "name": "A.O. Smith Corporation",
+    "price": 63.24,
+    "changePercent": -0.74,
+    "score": 50,
+    "stars": 2.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 4.92,
+    "bb_confluence": 0.98,
+    "expected_rsi": 42.63
+  },
+  {
     "ticker": "FAST",
     "name": "Fastenal Company",
     "price": 50.61,
@@ -518,19 +531,6 @@
     "ma_distance": 3.81,
     "bb_confluence": 0.48,
     "expected_rsi": 44.39
-  },
-  {
-    "ticker": "AOS",
-    "name": "A.O. Smith Corporation",
-    "price": 63.24,
-    "changePercent": -0.74,
-    "score": 44,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 4.92,
-    "bb_confluence": 0.98,
-    "expected_rsi": 42.63
   },
   {
     "ticker": "EBAY",
@@ -843,32 +843,6 @@
     "ma_distance": 2.6,
     "bb_confluence": 0.01,
     "expected_rsi": 38.46
-  },
-  {
-    "ticker": "SPGI",
-    "name": "S&P Global Inc.",
-    "price": 439.57,
-    "changePercent": -0.7,
-    "score": 37,
-    "stars": 2.0,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 2.35,
-    "bb_confluence": 1.97,
-    "expected_rsi": 38.74
-  },
-  {
-    "ticker": "BAH",
-    "name": "Booz Allen Hamilton Holding Cor",
-    "price": 81.02,
-    "changePercent": -1.97,
-    "score": 37,
-    "stars": 2.0,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 3.64,
-    "bb_confluence": 3.89,
-    "expected_rsi": 39.64
   },
   {
     "ticker": "EBAY",
@@ -1209,6 +1183,19 @@
     "expected_rsi": 40.86
   },
   {
+    "ticker": "SPGI",
+    "name": "S&P Global Inc.",
+    "price": 439.57,
+    "changePercent": -0.7,
+    "score": 32,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 2.35,
+    "bb_confluence": 1.97,
+    "expected_rsi": 38.74
+  },
+  {
     "ticker": "PEG",
     "name": "Public Service Enterprise Group",
     "price": 73.9,
@@ -1220,6 +1207,19 @@
     "ma_distance": 3.34,
     "bb_confluence": 0.43,
     "expected_rsi": 43.19
+  },
+  {
+    "ticker": "BAH",
+    "name": "Booz Allen Hamilton Holding Cor",
+    "price": 81.02,
+    "changePercent": -1.97,
+    "score": 32,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 3.64,
+    "bb_confluence": 3.89,
+    "expected_rsi": 39.64
   },
   {
     "ticker": "PM",
@@ -1287,6 +1287,19 @@
     "expected_rsi": 45.73
   },
   {
+    "ticker": "OGN",
+    "name": "Organon & Co.",
+    "price": 13.89,
+    "changePercent": -0.14,
+    "score": 31,
+    "stars": 1.5,
+    "ma_label": "Daily 100MA",
+    "ma_col": "ma100",
+    "ma_distance": 1.57,
+    "bb_confluence": 0.31,
+    "expected_rsi": 46.5
+  },
+  {
     "ticker": "ITW",
     "name": "Illinois Tool Works Inc.",
     "price": 273.57,
@@ -1324,19 +1337,6 @@
     "ma_distance": 0.1,
     "bb_confluence": 0.84,
     "expected_rsi": 42.38
-  },
-  {
-    "ticker": "OGN",
-    "name": "Organon & Co.",
-    "price": 13.89,
-    "changePercent": -0.14,
-    "score": 30,
-    "stars": 1.5,
-    "ma_label": "Daily 100MA",
-    "ma_col": "ma100",
-    "ma_distance": 1.57,
-    "bb_confluence": 0.31,
-    "expected_rsi": 46.5
   },
   {
     "ticker": "SPGI",
@@ -1469,6 +1469,19 @@
     "expected_rsi": 34.75
   },
   {
+    "ticker": "OGN",
+    "name": "Organon & Co.",
+    "price": 13.89,
+    "changePercent": -0.14,
+    "score": 27,
+    "stars": 1.5,
+    "ma_label": "Daily 50MA",
+    "ma_col": "ma50",
+    "ma_distance": 0.93,
+    "bb_confluence": 0.32,
+    "expected_rsi": 56.44
+  },
+  {
     "ticker": "ZTS",
     "name": "Zoetis Inc.",
     "price": 79.11,
@@ -1597,19 +1610,6 @@
     "ma_distance": 4.83,
     "bb_confluence": 3.81,
     "expected_rsi": 43.58
-  },
-  {
-    "ticker": "OGN",
-    "name": "Organon & Co.",
-    "price": 13.89,
-    "changePercent": -0.14,
-    "score": 25,
-    "stars": 1.5,
-    "ma_label": "Daily 50MA",
-    "ma_col": "ma50",
-    "ma_distance": 0.93,
-    "bb_confluence": 0.32,
-    "expected_rsi": 56.44
   },
   {
     "ticker": "MGM",
